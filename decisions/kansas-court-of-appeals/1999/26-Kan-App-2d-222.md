@@ -1,0 +1,34 @@
+---
+court: "Kansas Court of Appeals"
+docket: "81,626"
+decided: "1999-06-18"
+citations: ["26 Kan. App. 2d 222", "985 P.2d 1172"]
+reporter: "kan-app-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Brazil, C.J., Elliott, J., and John J. Bukaty, Jr., District Judge, assigned."]
+parties: ["William A. Foy, Appellant, v. Leo Lee Taylor, et al., Appellees."]
+source_url: "https://static.case.law/kan-app-2d/26/cases/0222-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 194870
+cites_cases: ["263 Kan. 843", "264 Kan. 348", "654 F. Supp. 870"]
+---
+
+# Foy v. Taylor
+
+## Majority (Bukaty, J.:)
+
+Bukaty, J.:
+William A. Foy appeals a district court’s order that denied his application for habeas corpus relief pursuant to K.S.A. 1998 Supp. 60-1501. Foy alleged that he was being unlawfully detained at the Norton Correctional Facility after the Kansas Parole Board (Board) revoked his parole.
+The relevant and uncontroverted facts begin on October 4,1995, when the Board placed Foy on conditional release. The Board then revoked that conditional release on March 29, 1996. Its order further indicated “Pass to March 1997 with rec. mental health counseling.” Foy again appeared before the Board 11 months later. The Board then continued Foy s parole hearing to May 1997 pending review of a clinical services report and evaluation from Lamed State Hospital. In May 1997, the Board again met with Foy and passed him until March 1998.
+Foy then filed his petition with the district court alleging in essence the foregoing facts. The district court dismissed the petition without ordering a response from the Department of Corrections or the Board. The court found that the Board’s decision was sufficient and specific and that Foy’s petition otherwise failed to state a claim upon which relief could be granted. Foy then timely appealed. We affirm.
+Upon review of a district court’s order dismissing a petition for failure to state a claim upon which relief can be granted, appellate courts are required to accept the facts alleged by the plaintiff as true. The court must determine whether the alleged facts and all their inferences state a claim, not only on the theories which the plaintiff espouses, but on any possible theory. Smith v. State, 264 Kan. 348, 353, 955 P.2d 1293 (1998).
+Foy contends that the district court erred in dismissing his petition because the factual allegations of that petition show that the Board exceeded its statutory authority by passing him for parole in May 1997. He argues that the revocation order of March 1996, in combination with K.S.A. 75-5217(b), required that he be paroled in 1997. He cites Urban v. Henley, 654 F. Supp. 870 (D. Kan. 1987), for the principle that the Board has no authority to act after it enters the initial order determining what action to take with a parole violator. Therefore, according to his argument, since the initial order determined that parole should be revoked and the matter passed to March 1997, the Board was required to parole him at that time.
+Foy further argues that the Board improperly relied upon 22-3717 in denying him reparóle. He specifically urges that this statute provides the Board with authority only over inmates who have never been paroled. According to Foy, once an inmate has been paroled, the Board may then act only as provided for in K.S.A. 75-5217, and that statute does not provide for the “passing” of an inmate to a future date as does K.S.A. 1996 Supp. 22-3717.
+These arguments raise a question of statutory interpretation, over which we have unlimited review. State v. Lewis, 263 Kan. 843, 847, 953 P.2d 1016 (1998).
+The district court found that the Board had authority to parole or pass Foy as it saw fit in May 1997. If the foregoing statutory provisions provide the Board with such authority, then clearly the facts as stated in the petition fail to state a claim upon which relief can be granted.
+Foy’s reliance on Urban is misplaced. There, a prisoner brought a civil rights claim against the Board’s predecessor, the Kansas Adult Authority (KAA). The KAA had revoked Urban’s parole, and the revocation order specifically required him to serve his sentence until his conditional release date. Thereafter, the KAA, sua sponte, ordered the forfeiture of his good time credits for subsequent institutional misconduct and extended the time he had to serve to his maximum term. The state court, in a habeas corpus action brought by Urban, ruled that the KAA was without statutory authority to order the forfeiture of Urban’s good time credits after it had established a specific release date. It then ordered Urban’s release. When Urban later brought his civil rights action, the United States District Court agreed. It specifically found that after the KAA revoked parole and ordered Urban to serve to his conditional release date, it had no authority under K.S.A. 75-5217(b) to amend that order sua sponte.
+Foy’s situation is far different. The Board here revoked Foy’s parole but made no determination when Foy would be released. The Board instead directed that Foy would be reconsidered for parole in March 1997. In this case, the effect of the Board’s order was that Foy’s parole was revoked and that he again became an inmate eligible for parole. As such, 22-3717 provides authority for the Board to issue orders concerning his parole. That would include the discretion of the Board to grant Foy parole in March 1997 or pass him. The holding in Urban only applies to facts where the Board has revoked a parole and set a date for release. In those situations, the Board may not sua sponte amend that release order.
+To adopt the strict construction of the statute urged by Foy would require that in all cases where parole is revoked and a new release date is not specifically set, an inmate would have to serve to his or her conditional release date, without the opportunity of reparole. This construction would also remove the incentive for such an inmate to participate in rehabilitative programs the Board deems beneficial.
+K.S.A. 75-52l7(b) provides that the Board “may continue or revoke the parole or conditional release, or enter such other order as the board may see fit.” (Emphasis added.) We believe that the grant of authority in the statutory language is broad enough to allow the Board to issue an order revoking parole and establishing either a definitive date for another parole or a date for reconsideration of parole eligibility. Therefore, Foy has no valid claim that the Board exceeded its authority in passing him for parole until March 1998. Accordingly, the district court correctly determined that Foy s petition failed to state a claim upon which relief could be granted.
+Affirmed.
