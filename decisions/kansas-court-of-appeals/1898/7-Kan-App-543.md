@@ -1,0 +1,41 @@
+---
+court: "Kansas Court of Appeals"
+docket: "230"
+decided: "1898-01-14"
+citations: ["7 Kan. App. 543"]
+reporter: "kan-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Louis Steinbuchel, Emma A. Dunbar and D. T. Dunbar v. The Kansas Midland Railway Company."]
+source_url: "https://static.case.law/kan-app/7/cases/0543-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 382548
+cites_cases: ["42 Kan. 490"]
+---
+
+# Steinbuchel v. Kansas Midland Railway Co.
+
+## Majority (Schoonover, J. :)
+
+The opinion of the court was delivered by
+Schoonover, J. :
+The plaintiffs in error commenced this action in the court below to recover damages for the alleged permanent appropriation of a strip of land ■by defendant in error for a right of way for its road. In the petition damages are claimed for the permanent appropriation of a part of the property, and, by reason of this appropriation, damages to the remainder. The only question presented in the court below was whether there had been a permanent appropriation of a part of plaintiff’s property. ■ The defendant in its answer alleges :
+“That heretofore it was duly authorized to construct its line of railroad into and through a portion of the city of Wichita and upon and along Dover street and Mosley avenue in said city. That at the time it constructed the said line of railroad it did, by mistake, supposing that the same was constructed wholly within Mosley avenue where the same lies opposite the lands described in plaintiff’s petition, so construct the same as to touch such lands and place a very small portion of its track upon said lands ; that it afterwards ascertained said mistake, and caused said track to be removed wholly from said premises described in the plaintiff’s petition, since which time its said railroad has in no manner been constructed upon or operated over or upon any portion of the premises described in the plaintiff’s petition. And this defendant says that it does not at this time occupy with the said railroad or tracks any portion of the premises described in plaintiff’s petition, and does not desire to acquire any right of way, easement or title thereto.”
+The issue was tried to a jury and resulted in a verdict and judgment for defendant. The plaintiffs below, now plaintiffs in error, bring the case here for review ; and, for their assignment of error, say that the trial court erred in admitting and in refusing to strike out improper testimony, in giving and refusing to give certain instructions, in refusing to grant a new trial upon the newly discovered testimony, and in overruling the motion of plaintiff for a new trial.
+The rulings of the court upon the admission of testimony have been examined. No error appearing, we pass to the consideration of other questions.
+Plaintiffs contend that the trial court erred in refusing to give the following instructions :
+“5. It was the duty of the defendant, in erecting and building its railroad, to know at its peril where the line of its railroad was being built, and if it went upon the land of these plaintiffs, then it would be liable in damages.
+“6. You are instructed that if defendant, prior to the commencement of this action, took possession of the real estate described in the plaintiff’s petition, or any part thereof, and built its railroad upon and over or across the same without any formal condemnation proceedings, and without having procured any title to the same, and that defendant thereupon commenced operating its line of railroad upon and along said land, and, while it was so in possession of said real estate and operating its said railroad upon, along. and over the same, the plaintiffs commenced their action for the purpose of recovering the damages sought in this case, then you should find for the plaintiffs and against the defendant, and assess their damages in-such sum as in your judgment the evidence will warrant, not exceeding the sum of $1500.
+“7. The court instructs you that the defendant can-. not avoid any liability in this action which existed at the time of its commencement by getting off of the plaintiffs’ land after the action was commenced.
+“8. If the jury believe from the evidence that the defendant was notified prior to the construction of its railroad across the east side of plaintiffs’ premises that in so doing it would encroach upon said premises, and if the jury further believe that said railroad was thereafter constructed over and across a harrow strip of land off of the east side of plaintiffs.’ premises, and was used after such construction for the space of three to three and a half years since the bringing of the first suit for damages by plaintiffs, and long after the bringing of this suit, then the jury must find for plaintiffs.”
+The instructions given are as follows :
+”5. It was the duty of the defendant in locating and building its railroad to know at its peril where the line of its railroad was being built, and if it went upon the land of these plaintiffs and built its railroad upon the land of plaintiffs, then it would be liable in damages, subject to the instructions given.
+“7. The court instructs you that the defend&nt cannot avoid any liability in this action which existed at the time of its commencement by getting off of the plaintiffs’ land after the action was commenced; provided, that you further find from all the evidence in the case that said defendant permanently appropriated said land to its use at the time of its entering upon the same.
+”8. If the jury believe from the evidence that the defendant was notified prior to the construction of its railroad across the east side of plaintiffs’ premises, and that in so doing it would encroach upon said premises, and if the jury further believe that said railroad was thereafter constructed over and across a narrow strip of land off of the east side of plaintiffs’ premises, and that said land was permanently appropriated for railroad purposes, and so used after such construction for the space of three to three and a half years since the bringing of the first suit for damages by plaintiffs, and long after the bringing of this suit, • then the jury must find for plaintiffs.
+“9. The jury are further instructed, that if you find from the evidence that the plaintiffs’ property is located on the corner of Third street and Mosley ávenue, and that the defendant does not obstruct the means of ingress to and egress from plaintiffs’ premises, then, in that event, you cannot allow plaintiffs any damages for obstructing their ingress or egress from their property by the way of or over Mosley avenue.
+“10. The court instructs the jury that this is an action on the part of the plaintiffs to recover damages for the permanent appropriation of said land. Now, in this connection, the court further instructs the jury, that if under the evidence they should find that the defendant went upon plaintiffs’ land through a mistake, then this is a fact to be considered in order to enable the jury to determine whether the defendant made a permanent appropriation of plantiffs’ lands at the time it entered upon same.”
+The question to be considered by the jury was whether there had been a permanent appropriation of the property.
+Under the petition there could be no recovery for trespass, for temporary appropriation, or for injury to the property by reason of the company’s railroad track having been located in the , street in front of the property.
+The instructions given, under the pleadings and evidence, fairly presented the law applicable to the issue and the principal fact to be determined by the júry.
+The ninth instruction is misleading and does not state the law. (Ft. S. W. & W. Rly. Co. v. Fox, 42 Kan. 490.) • But the jury by their general verdict having found that there had been no permanent appropriation of plaintiffs’ property,,we cannot say that-the plaintiff in error was prejudiced thereby. The principal question having been fairly submitted to the jury, and their verdict having been approved by the trial court, we feel that the errors complained of are not sufficient to require a reversal of the case.
+The judgment of the district court is affirmed.
