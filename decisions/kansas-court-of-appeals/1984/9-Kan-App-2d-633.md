@@ -1,0 +1,29 @@
+---
+court: "Kansas Court of Appeals"
+docket: "56,207"
+decided: "1984-07-26"
+citations: ["9 Kan. App. 2d 633", "683 P.2d 1295"]
+reporter: "kan-app-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Foth, C.J., Meyer and Briscoe, JJ."]
+parties: ["Kathy L. Hines, Appellee, v. Taco Tico and Royal Insurance Company, Appellees, and Kansas Workers’ Compensation Fund, Appellant."]
+source_url: "https://static.case.law/kan-app-2d/9/cases/0633-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 400503
+cites_cases: ["227 Kan. 927", "228 Kan. 807", "3 Kan. App. 2d 337", "4 Kan. App. 2d 325", "4 Kan. App. 2d 613", "5 Kan. App. 2d 39", "5 Kan. App. 2d 602"]
+---
+
+# Hines v. Taco Tico
+
+## Majority (Briscoe, J.:)
+
+Briscoe, J.:
+The Workers’ Compensation Fund appeals from a finding that Taco Tico hired claimant Kathy L. Hines knowing she was handicapped. As a result of this finding, the Fund was required to reimburse Taco Tico and its insurance carrier for 100 percent of the workers’ compensation payments made to Hines.
+Hines underwent surgery for a spinal fusion in 1974 after she fell from a horse. When she applied for a job at Taco Tico in 1981, she indicated she had not had any back injuries or problems. She did tell the local manager of her 1974 back injury, saying, however, that she had had no problems with her back since that injury. Nothing further was said about the injury by Hines or the manager, and Hines was hired as a cook and cashier.
+A few weeks later, Hines reinjured her back while lifting boxes, a job she usually did not perform. Medical examination following the injury revealed the 1974 spinal fusion had not been successful in that fusion was not achieved. A second spinal fusion was performed, and it was successful.
+Hines received 39 weeks of temporary total disability plus a lump sum settlement for her 20 percent permanent partial disability. The hearing examiner excused the Fund from any liability for this case; however, this decision was reversed by the director on appeal. Both the director and the district court found Taco Tico had knowingly hired Hines as a handicapped employee and held the Fund completely liable for the compensation award. The Fund appeals contending the district court erred in finding Taco Tico knowingly hired a handicapped employee.
+Before liability will be assessed against the Workers’ Compensation Fund, an employer must show that it knowingly hired or retained a handicapped employee. K.S.A. 1983 Supp. 44-567(b); Carter v. Kansas Gas & Electric Co., 5 Kan. App. 2d 602, 621 P.2d 448 (1980). An employee is considered handicapped under workers’ compensation standards if he or she is afflicted with an impairment which constitutes a handicap in obtaining or retaining employment. K.S.A. 1983 Supp. 44-566(b); Carter v. Kansas Gas & Electric Co., 5 Kan. App. 2d at 606. An impairment need not be demonstrably disabling as long as it gives rise to a reservation in the mind of an employer in deciding to hire or retain the employee. Carter v. Kansas Gas & Electric Co., 5 Kan. App. 2d at 606. The determination of whether a handicap exists and whether the employer has knowledge of it must be made on a case-by-case basis. Carter v. Kansas Gas & Electric Co., 5 Kan. App. 2d at 606; Oates v. Post & Danley Truck Lines, 3 Kan. App. 2d 337, 339, 594 P.2d 684 (1979). The employer has the burden of proving that it knowingly hired or retained a handicapped employee. K.S.A. 1983 Supp. 44-567(b).
+The district court held that Hines was handicapped as a result of the failure of the first spinal fusion. The record clearly shows, however, that neither Hines nor Taco Tico knew of the operation’s failure when Hines was hired. The record also clearly shows that neither Hines nor Taco Tico knew Hines had any impairment. While a company does not need to know the employee’s specific medical condition in order to knowingly retain a handicapped employee (Carter v. Kansas Gas & Electric Co., 5 Kan. App. 2d at 607), the employer must at least know enough about the problem to give rise to a reservation in deciding whether to hire the employee. See Carter v. Kansas Gas & Electric Co., 5 Kan. App. 2d at 606.
+While some Kansas cases have held that knowledge of a general back problem is the equivalent of knowledge of a handicap, a single back injury does not necessarily affect one’s work ability or employment possibilities and cannot be assumed to have recurring effects. Carter v. Kansas Gas & Electric Co., 5 Kan. App. 2d at 607. In those cases where knowledge of a back problem has been found to be knowledge of a handicap, the employer appears to have known that a particular back injury had affected or was likely to affect the employee’s work. Carter v. Kansas Gas & Electric Co., 5 Kan. App. 2d at 607. See also Hampton v. Professional Security Co., 5 Kan. App. 2d 39, 611 P.2d 173 (1980); Spencer v. Daniel Constr. Co., 4 Kan. App. 2d 613, 609 P.2d 687, rev. denied 228 Kan. 807 (1980); Grounds v. Triple J Constr. Co., 4 Kan. App. 2d 325, 606 P.2d 484, rev. denied 227 Kan. 927 (1980). Here, the record fails to show that Taco Tico knew that the 1974 back injury had affected or was likely to affect Hines’ work. The non-fusion had not affected Hines, who suffered no back problems after the 1974 surgery took place. There was no showing that Taco Tico believed her job as cook and cashier would be affected by a back injury which had been asymptomatic for seven years. Taco Tico showed no reservation in hiring Hines. Consequently, there is a lack of substantial competent evidence to support the finding that Taco Tico knew of Hines’ handicap when they hired her.
+The judgment of the trial court ordering reimbursement to Taco Tico and its insurance carrier by the Kansas Workers’ Compensation Fund is reversed.
