@@ -1,0 +1,35 @@
+---
+court: "Kansas Court of Appeals"
+docket: "84,730"
+decided: "2000-12-22"
+citations: ["28 Kan. App. 2d 392", "15 P.3d 857"]
+reporter: "kan-app-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Marquardt, P.J., Elliott, J., and John E. Sanders, District Judge, assigned."]
+parties: ["M. L. M., a Minor Child by and through her next friend, Matt Froggatte, Appellee, v. Moffitte Duarte Millen, Appellant."]
+source_url: "https://static.case.law/kan-app-2d/28/cases/0392-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 688412
+cites_cases: ["19 Kan. App. 2d 947", "196 Kan. 380", "245 Kan. 591", "25 Kan. App. 2d 172", "25 Kan. App. 2d 452", "26 Kan. App. 2d 388"]
+---
+
+# M. L. M. ex rel. Froggatte v. Millen
+
+## Majority (Sanders, J.:)
+
+Sanders, J.:
+Moffitte Duarte Millen, now Moffitte Rice, appeals the trial court’s order changing primary residence of her daughter, M.L.M., to M.L.M.’s father, Matt Froggatte, and changing M.L.M.’s last name to Froggatte. We affirm.
+M.L.M. was born on July 21, 1998, and shortly thereafter, Matt filed a paternity action and petitioned for visitation. The trial court issued a temporary order for visitation and ordered mediation. Moffitte failed to attend the mediation. In response, Matt filed a petition for enforcement of visitation and a contempt citation. At some point during this period, Moffitte moved from Chetopa, Kansas, to Welch, Oklahoma, and then to Memphis, Tennessee. The trial court concluded that she relocated out of state without giving written notice to Matt as required under K.S.A. 1999 Supp. 38-1132. Subsequently, Moffitte and Matt entered into a mediation agreement which included a detailed visitation schedule with M.L.M.
+In June 1999, Moffitte informed Matt by telephone that she was moving to South Carolina with her fiance. She told Matt that he would have to travel to South Carolina to visit M.L.M. Moffitte did not leave Matt a mailing address or a working telephone number. As a result, Matt lost contact with M.L.M. and did not see her for over 5 months.
+Matt searched extensively for Moffitte and M.L.M. He eventually suspended child support payments and was contacted by Moffitte. Another round of litigation followed. The trial court held a hearing on December 16,1999, and changed primary residency to Matt. The trial court also granted Matt’s request to change M.L.M.’s last name to Froggatte. The trial court reasoned that since Moffitte had married and took the last name of Rice, it was in M.L.M.’s best interest that her last name match that of her other natural parent. Moffitte appeals both rulings.
+When the custody issue lies only between the parents, the paramount consideration of the court is the welfare and best interest of the child. The trial court is in the best position to make the inquiry and determination, and in the absence of abuse of sound judicial discretion, its judgment will not be disturbed on appeal. Moran v. Moran, 196 Kan. 380, 386, 411 P.2d 677 (1966); see Struble v. Struble, 19 Kan. App. 2d 947, 879 P.2d 37 (1994).
+It is critical to a child’s development that he or she have a significant, healthy relationship with both parents, if possible. Where a residential parent willfully prevents a nonresidential parent access to the child and thereby undermines that relationship, that failure or refusal can constitute a material change in circumstances. See In re Marriage of Cobb, 26 Kan. App. 2d 388, 391-92, 988 P.2d 272 (1999); K.S.A. 1999 Supp. 60-1610(a)(3)(B)(vi).
+During M.L.M.’s life, Moffitte has changed residences eight times and resided in six different states. Moffitte now leads a transient lifestyle due to her husband’s occupation as a pipe fitter. Moffitte has had three attorneys in these proceedings. One attorney withdrew in part due to Moffitte’s failure to remain in contact with him. Finally, the trial court found her in contempt of its orders regarding this matter. We conclude that Moffitte has not respected the bond between Matt and M.L.M.
+Matt has a steady job and a stable residence. He appears equally able to care for M.L.M. The record on appeal contains ample evidence to support the trial court’s transfer of primary residency to Matt. We affirm this portion of the trial court’s ruling.
+Next, Moffitte argues that the trial court should have appointed a guardian ad litem. Her failure to raise the issue to the trial court below precludes our review. State ex rel. Secretary of SRS v. Mayfield, 25 Kan. App. 2d 452, 458, 966 P.2d 85 (1998).
+Last, Moffitte protests the trial court’s order changing M.L.M.’s last name to Froggatte. Moffitte argues that the trial court lacked statutory authority to do so. As noted, Moffitte has married and took the last name of her husband - Rice. The trial court found that it was in M.L.M.’s best interest that her last name match that of her other natural parent. It is difficult to fault the trial court’s ruling in this respect.
+We are not unmindful that K.S.A. 38-1130 gives the trial courts the authority to change a child’s name with the consent of both parties. Does this particular statute specifically preclude the change of name? Under the factually unique circumstances herein, we think not. The net effect of Moffitte’s remarriage and refusal to consent to a name change leaves M.L.M. bearing a last name not used by either parent, particularly the custodial parent. K.S.A. 38-1130 contained this language when two cases before this court reached opposing rulings on this issue. In Denk v. Taylor, 25 Kan. App. 2d 172, 958 P.2d 1172 (1998), this court held that the trial court does not have the authority to change a surname or amend a birth certificate without the express consent of both parties. Denk, however, does not overrule Struble v. Struble, 19 Kan. App. 2d at 949. Struble holds that where a child is bom to parents who are not married and the child’s surname is contested, it should be decided by the trial court on the basis of what is in the best interest of the child.
+We find the rationale in Struble better applies to this case. To construe K.S.A. 38-1130 so that one parent could unilaterally hold the other parent or a court forever hostage as to the name of a child with no recourse makes no sense, and would be a result certainly not intended by the legislature. Such a construction would also seem to violate the broad public policy interests stated in In re Marriage of Ross, 245 Kan. 591, 597, 783 P.2d 331 (1989), where the Supreme Court stated: “[T]he Kansas Parentage Act [is] to provide that eveiy child has an interest not only in obtaining support, but also in inheritance rights, family bonds, and accurate identification of his [or her] parentage.” (Emphasis added.)
+We find that under the singular facts of this case, it was not an abuse of discretion for the trial court to change M.L.M.’s last name and that K.S.A. 38-1130 does not prevent such a change.
+Affirmed.
