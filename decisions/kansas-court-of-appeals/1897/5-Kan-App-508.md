@@ -1,0 +1,25 @@
+---
+court: "Kansas Court of Appeals"
+docket: "109"
+decided: "1897-01-09"
+citations: ["5 Kan. App. 508"]
+reporter: "kan-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["John N. Burton et al. v. T. W. Cochran et al."]
+source_url: "https://static.case.law/kan-app/5/cases/0508-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 344720
+cites_cases: ["23 Kan. 621"]
+---
+
+# Burton v. Cochran
+
+## Majority (Clark, J.)
+
+Clark, J.
+This is an action of replevin, brought by the defendants in error to recover the possession of five hundred bushels of wheat — the value of which in the petition and affidavit of replevin was alleged to be two hundred dollars — and fifty dollars as damages for its detention. The plaintiffs below sue as trustees of the Citizens State Bank of Blakeman, and in their petition they allege, among other things, that they are such trustees, that said bank was a corporation organized under the laws of this State, and that, prior to its dissolution by order of the District Court at the November term, 1893, it was engaged in the banking business at Blakeman, Rawlins County; that, February 18, 1893, one, Brittain, executed and delivered to the bank his promissory note for $240.30, payment of which he secured by a chattel mortgage on ‘ ‘ five hundred bushels of red winter wheat in granary on southeast quarter section 35, township 1, range 36, Rawlins County, Kansas;” and that the chattel mortgage was, on February 22, 1893, duly filed for record. The answer was a general denial.
+The question as to whether the petition stated a cause of action was raised for the first time by an objection to the introduction of any evidence,- which was overruled. After the evidence for the plaintiff had been introduced and a demurrer thereto overruled, counsel for the defendants stated their defense, after which the court sustained an objection to the introduction of any evidence by them. This was evidently done upon the theory that the statement of counsel amounted to an admission that their only defense was, that, as they were in possession of the property at the commencement of the action, the plaintiffs could recover only by showing that they had a better right thereto than is evidenced by the bare possession of the defendants, and that the evidence already introduced failed to do this. We think that the statement referred to will bear such construction. After this ruling was made, the defendants did not offer to show by what right they held possession, or that the plaintiffs’ mortgage was not in fact a valid and first lien on the property. The court found that the plaintiffs were entitled to the possession of the wheat and that the value thereof was $250, and rendered judgment accordingly. A motion for a new trial was filed by the defendants. This motion being overruled, the defendants have brought the case to this court.
+It is insisted by counsel for the plaintiffs in error, that the petition fails to contain sufficient allegations to show that the directors of the State Bank of Blake-man are entitled to maintain this action in their names, as trustees ; and that the evidence fails to show that the bank had been legally dissolved. We think, however, that the right to challenge the legal capacity of the plaintiff to maintain the action, was waived by failure to specifically raise that question either by demurrer or answer. §§ 89, 91, Code of Civil Procedure.
+The fact that the granary mentioned in the chattel mortgage contained about eighteen hundred bushels of wheat, and that the five hundred bushels mortgaged to the bank had not been definitely ascertained and separated from the balance of the grain in the bin, would not, under the decisions of the Supreme Court, operate to render the mortgage void. Piazzek v. White, 23 Kan. 621; Kingman v. Holmquist, 36 id. 735. Nor can we say that the proper affidavit of the renewal of that mortgage was not filed; as the record in the office of the register of deeds, which was introduced in evidence and which would show that fact, is not preserved in the record before us.
+It is finally contended that, as the plaintiff in his petition and replevin affidavit placed the value of the property in controversy at only two hundred dollars, the judgment for an amount in excess thereof, conditioned upon a failure to return the property to the plaintiff, is erroneous. It appears from the record that the attention of both court and counsel was called to this discrepancy, in the motion for a new trial; yet no application was made to the court for leave to so amend the allegation of the petition as to conform to the proof and finding as to the value of the property in controversy. We think the amount of plaintiff’s recovery should be limited to the value of the property as claimed, by them in their petition. This will necessitate a modification of the judgment by reducing the amount to be paid, in lieu of a return of the property, to two hundred dollars. With this modification, the judgment will be affirmed.
