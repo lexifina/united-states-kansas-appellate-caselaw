@@ -1,0 +1,31 @@
+---
+court: "Kansas Court of Appeals"
+docket: "62"
+decided: "1896-05-12"
+citations: ["4 Kan. App. 512"]
+reporter: "kan-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["All the Judges concurring."]
+parties: ["The Atchison, Topeka & Santa Fe Railroad Company v. Harry S. Crittenden."]
+source_url: "https://static.case.law/kan-app/4/cases/0512-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 334875
+---
+
+# Atchison, Topeka & Santa Fe Railroad v. Crittenden
+
+## Majority (Dennison, J.:)
+
+The opinion of the court was delivered by
+Dennison, J.:
+This action was brought before a justice of the peace in Hamilton county, Kansas, by Harry S. Crittenden against the railroad company, to recover the damages alleged to have been caused by the negligence of said company to a car-load of cattle shipped by said Crittenden over the road of said defendant from Raton, N. M., to Coolidge, Kan. Judgment was rendered against the railroad company, and it appealed to the district court. The case was tried in the district court on the original- bill of particulars filed before the justice of the peace. That part of the bill of particulars relating to the damages reads as follows:
+“And the said plaintiff saith that said defendant, not regarding its duty in that behalf, did not use due and proper care in and about the handling and carrying and conveying of the cattle of said plaintiff, but so carelessly and negligently and improperly conducted itself in the carriage and conveyance of said cattle of the plaintiff that the car in which said cattle were loaded, and while standing on the side-track of defendant at the town of Raton, was shifted and placed in the train along with other cars by the switch-engine under the care and control of an engineer and servants of the said defendant; that said car in which .said cattle of plaintiff were loaded was thrown with great violence against the train of other cars then and there standing, whereby the cattle of said plain tiff were knocked down and a large number greatly injured and wounded, and while said cattle were in transit, and before reaching said town of Coolidge, Kan., three of said cows and five of said calves died.. And-afterward, and after said cattle were unloaded at defendant’s stock-yards in Coolidge, Kan., four cows died from their wounds and injuries aforesaid, making in all of said cattle that died from said wounds and injuries seven cows and five calves, and the remainder of said cattle were greatly injured, to plaintiff’s damage in’the sum of $255.”
+This is the only pleading filed in this case. Judgment was rendered in the district court against the railroad company for the sum of $255, and it brings the case here for review.
+Plaintiff in error contends that the court erred in the admission of any testimony as to how the train was handled while en route — that the only injuries for which the plaintiff below claimed damages were occasioned by the manner in which the car was handled at Raton. We are of the opinion that the liberal interpretation given to a bill of particulars would permit the plaintiff below to prove any negligence on the part of the railroad company while the cattle were in its possession which caused the damages complained of.
+During the trial of this action in the district court the railroad company introduced in evidence a written shipping contract signed by Crittenden, which contained the following clause :
+”6. And for the consideration before mentioned said party of the second part further agrees, that as a condition precedent to his right to recover ahy damages for loss or injury to said stock he will give notice in writing of his claim therefor to some officer of said party of the first part or its nearest station-agent before said stock is removed from its place of destination above mentioned, or from the place of the delivery of the same by said party of the second part, and before said stock is mingled with other stock.”
+Mr. Crittenden was permitted to testify that he served a written demand or notice upon the company for the damages to his stock in due time, but the demand or notice was not introduced in evidence. The defendant in error contends that the contract ig void because the company fraudulently collected $3.75 in excess of the regular freight-rate. This contention is not good. To establish fraud in the execution of a contract, some misrepresentation must be shown as to facts then existing. Any act or thing done afterward will not constitute such a fraud as will invalidate the contract, although it may sometimes be shown to establish the fraudulent intent at the time of the execution of the contract.- There is no evidence in this case tending to establish fraud in the execution of the contract. So far as it required the shipper to give notice in writing of his loss or injury, it is a valid, binding contract. By its terms Crittenden was compelled to give notice in writing to the company of his claim for loss or injury to said stock before the stock was removed from the place of destination or delivery, and before said stock was mingled with other stock. Failing to comply with the terms of the contract, he cannot recover. No notice was introduced in evidence; nor did Crittenden show that he was unable, for any reason,' to produce it, and offer to prove its contents by a copy or otherwise. These provisions of the contract are just and equitable. The company is entitled to a written notice that the shipper claims damages, so as to permit the company to have a thorough investigation made of the nature of the claim and the condition of the stock before the stock is removed from its premises, or before it is mingled wjth other stock so as to render its identification difficult.
+The plaintiff in error claims that the court erred in its instructions to the jury. No objections were made to the instructions; hence they must be considered waived by the plaintiff in error. The other errors complained of will not be likely to occur at another trial of this case ; hence we will not now review them.
+The judgment of the district court is reversed, and the case remanded for a new trial.
+All the Judges concurring.
