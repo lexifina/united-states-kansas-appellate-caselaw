@@ -1,0 +1,36 @@
+---
+court: "Kansas Court of Appeals"
+docket: "50,224"
+decided: "1979-08-17"
+citations: ["3 Kan. App. 2d 568", "598 P.2d 559"]
+reporter: "kan-app-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Spencer, P.J., Swinehart and Meyer, JJ."]
+parties: ["Samuel L. Gladney, Appellant, v. Sheriff of Leavenworth County, Kansas, and Agents of the State of Colorado, Appellees."]
+source_url: "https://static.case.law/kan-app-2d/3/cases/0568-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 388783
+cites_cases: ["2 Kan. App. 2d 713", "204 Kan. 245", "215 Kan. 353", "217 Kan. 669", "219 Kan. 477", "222 Kan. 295", "224 Kan. 66", "419 U.S. 1003", "439 U.S. 282"]
+---
+
+# Gladney v. Sheriff of Leavenworth County
+
+## Majority (Meyer, J.;)
+
+Meyer, J.;
+This is an appeal from an order of the Leavenworth District Court denying a writ of habeas corpus filed by appellant, Samuel L. Gladney (petitioner). The State of Colorado sought Gladney’s extradition to serve a sentence for second degree murder. He was released to duly authorized agents of Colorado. His petition for a writ of habeas corpus challenged the sufficiency of the Colorado requisition and the Kansas governor’s warrant.
+1. Gladney asserts the demand from the State of Colorado does not comply with K.S.A. 22-2703 in that it does not set forth clearly that the Colorado sentence had not expired. The Colorado governor’s warrant and accompanying papers do not appear in the record. It is incumbent upon the appellant to include in the record on appeal any matter upon which he intends to base a claim of error. Frevele v. McAloon, 222 Kan. 295, 299, 564 P.2d 508 (1977). On appeal, error below is never presumed and the burden is on the appellant to make it affirmatively appear. Kohn v. Babb, 204 Kan. 245, 248, 461 P.2d 775 (1969).
+The pertinent part of K.S.A. 22-2703 reads as follows:
+“No demand for the extradition of a person charged with crime in another state shall be recognized by the governor unless in writing alleging . . . that the accused was present in the demanding state at the time of the commission of the alleged crime, and that thereafter he fled from the state . . . that the person claimed has escaped from confinement or has broken the terms of his bail, probation or parole, or that the sentence or some portion of it remains unexecuted and that the person claimed has not been paroled or discharged or otherwise released therefrom.” (Emphasis added.)
+The district court found that K.S.A. 22-2703 was substantially complied with. We agree. The Kansas governor’s warrant is regular and valid on its face. It recites the “sentence remains unexecuted and the person claimed has not been paroled, or discharged or otherwise released therefrom.” The court will not go behind a governor’s warrant when it appears to be regular and valid on its face, and in the absence of any evidence to the contrary it is presumed the governor’s warrant was issued on a requisition containing sufficient documents showing the petitioner to be a fugitive from justice. Woody v. State, 215 Kan. 353, 363-364, 524 P.2d 1150, cert. denied 419 U.S. 1003 (1974).
+In Wilbanks v. State, 224 Kan. 66, 579 P.2d 132 (1978), the court held that the complaint filed in the courts of the demanding state in an appeal in a habeas corpus case challenging extradition proceedings upon which the arrest was issued did not disclose probable cause, and therefore the petitioner was ordered discharged unless the demanding state made a showing of probable cause within thirty days. The Supreme Court stated that the prima facie case made by a governor’s warrant is overcome where the documents supporting the governor’s warrant do not substantially charge the defendant with a crime, and a person is not “substantially charged” by the filing of documents which do not comport with Fourth Amendment standards. (224 Kan. at 81).
+In In re Simpson, 2 Kan. App. 2d 713, 586 P.2d 1389 (1978), this court held, following Wilbanks, that a complaint substantially in the language of the Missouri statute did not make a showing of probable cause as required. Since the petitioner was not substantially charged as required by the standards of the Fourth Amendment, discharge was ordered unless the demanding state within thirty days demonstrated that its warrant was issued on a showing of probable cause.
+Subsequent to both Wilbanks and Simpson, however, the United States Supreme Court addressed the extradition requirements in Michigan v. Doran, 439 U.S. 282, 58 L.Ed.2d 521, 99 S.Ct. 530 (1978). This is the most recent U.S. Supreme Court case on this issue. Doran was arrested in Michigan and charged with possession of a stolen truck which he had driven from Arizona. Arizona authorities were notified. A complaint was filed in Arizona charging Doran with theft of the vehicle. An arrest warrant issued. The Governor of Arizona issued a requisition for extradition. The Governor of Michigan issued a warrant for Doran’s arrest; extradition was ordered. Doran petitioned for a writ of habeas corpus. The writ was denied by the lower court. The Michigan Supreme Court reversed, ordering Doran’s release. The court held there must be a probable cause showing, which there was not in this case.
+The United States Supreme Court reversed the Michigan court, holding that once the governor has granted extradition, a court considering release on habeas corpus can do no more than decide (a) whether the extradition documents on their face are in order; (b) whether the petitioner has been charged with a crime in the demanding state; (c) whether the petitioner is the person named in the request for extradition; and (d) whether the petitioner is a fugitive. The court cited Article IV, Section 2, of the United States Constitution which states:
+“A Person charged in any State with Treason, Felony, or other Crime, who shall flee from Justice, and be found in another State, shall on Demand of the executive Authority of the State from which he fled, be delivered up to be removed to the State having Jurisdiction of the Crime.”
+and held that under Article IV, Section 2:
+“[T]he courts of the asylum state are bound to accept the demanding state’s judicial determination since the proceedings of the demanding state are clothed with the traditional presumption of regularity. In short, when a neutral judicial officer of the demanding state has determined that probable cause exists, the courts of the asylum state are without power to review the determination .... To allow plenary review in the asylum state of issues that can be fully litigated in the charging state would defeat the plain purposes of the summary and mandatory procedures authorized by Art. IV, § 2.” 439 U.S. at 290.
+In the instant case it is apparent to us that the extradition proceedings herein are in compliance with the guidelines of Michigan v. Doran.
+2. The designation of an agent of the State of California, rather than Colorado, in the Kansas governor’s warrant is obviously a typographical error. Technical defects in extradition papers do not prevent extradition. McCullough v. Darr, 219 Kan. 477, 481, 548 P.2d 1245 (1976); Dean v. Sheriff of Leavenworth County, 217 Kan. 669, 538 P.2d 725 (1975).
+Affirmed.
