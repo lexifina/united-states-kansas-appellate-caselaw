@@ -1,0 +1,37 @@
+---
+court: "Kansas Court of Appeals"
+docket: "217"
+decided: "1897-11-16"
+citations: ["6 Kan. App. 725"]
+reporter: "kan-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["The Wellington Waterworks v. J. Q. Brown."]
+source_url: "https://static.case.law/kan-app/6/cases/0725-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 348456
+cites_cases: ["2 Doug. (Mich.) 120", "27 Iowa, 503", "29 Minn. 41", "34 W. Va. 466", "41 Kan. 69", "42 Kan. 387", "43 N. E. Rep. 324", "45 Kan. 110", "47 Mich. 456", "49 Cal. 608", "51 Kan. 408", "52 Ind. 117", "54 Ohio St. 344", "59 Wis. 364", "84 Iowa, 663"]
+---
+
+# Wellington Waterworks v. Brown
+
+## Majority (Dennison, P. J.)
+
+Dennison, P. J.
+The Wellington Waterworks instituted proceedings before the Board of County Commissioners of Sumner County, Kansas, to condemn the right to erect and maintain a dam fourteen feet in height across State Creek, and to appraise and assess the damages which might accrue to the landowners along said creek. The commissioners thereupon proceeded to condemn the right to erect such dam and to ascertain the damages to the northwest quarter of section 22, township 32 south, of range 1 west of the sixth principal meridian, and awarded J. Q. Brown, the owner thereof, the sum of two hundred dollars as the damage accruing to said land by reason of said condemnation. Being dissatisfied with this award, Brown appealed to the District Court. The case was tried to a jury and they returned a verdict in favor of Brown-for the sum of $1225. The Waterworks alleges error and brings the case here for review.
+Two separate briefs are filed by the plaintiffin error. The one filed by E. F. Ware and others discusses but one question, which is based upon the following facts and instructions. At the close of the evidence, the jury were sent by the court to view the premises of Brown, and before they were sent the court addressed them as follows :
+“ Gentlemen of-the jury, I will say to you that the object of this visit is to ascertain the exact location of the creek and the farm, and get some information — knowledge — .yourselves upon this question that you are to determine ; and you can rely upon that as well as upon other testimony. You will be instructed at the proper time.”
+Among the instructions given to the jury by the court is the following :
+“ 5. Now, you have been sent out there to examine these premises ; and I presume you have observed the course and the lines, and observed just how and where this water went on the premises before the dam was built, and how it is now ; and from that examination and the evidence you have you' will be able to tell exactly, or very nearly so at'least, how the farm will be affected when the dam is completed; and you can rely upon the information that you got in making this visit. Take it in connection with all the other evidence' in the case, and exercise your own common sense and your judgment and your knowledge that you have about farms and about this farm in particular, and render just such a verdict as you think is proper in the case.”
+The plaintiff in error contends that the court erred in giving this instruction, and insists that what the jury saw is not evidence, but could only be explanatory of the evidence, and that the jury must rely upon the testimony and not upon what they saw nor upon what-they knew about this farm in particular.
+This contention is supported by a carefully prepared brief, and several authorities are cited supporting it. Some courts have held that it is error to instruct the jury to take into consideration any of the knowledge obtained while viewing the premises, for the reason that it is not evidence. In support of this proposition the plaintiff in error cites : Close v. Samm, 27 Iowa, 503; Heady v. Vevay, etc., Turnpike Co., 52 Ind. 117; Wright v. Carpenter, 49 Cal. 608; Brakken v. Minn. & St. Louis Rly. Co., 29 Minn. 41; Washburn and others v. Milwaukee, etc., Rld. Co., 59 Wis. 364; Fox v. Baltimore & Ohio Rld. Co., 34 W. Va. 466; Morrison v. Burlington, C. R. & N. Rly. Co., 84 Iowa, 663; Columbus, City of, v. Bidlingmeier, 7 Ohio Cir. Ct. R. 136; Machader v. Williams, 54 Ohio St. 344, 43 N. E. Rep. 324.
+Other courts have held the other extreme, that is, that the jury are not bound by the testimony of the witnesses, but may rest their verdict solely upon the knowledge obtained by a view of the premises. Remy v. Municipality No. 2, 12 La. An. 500; Toledo, A. A. & G. T. Rly. Co. v. Dunlap, 47 Mich. 456; Chamberlin v. Brown, 2 Doug. (Mich.) 120.
+The Supreme Court of Kansas has adopted a better rule than either of these extremes, and that is, that the jury may, in considering their verdict, take into consideration the view of the premises and the result of their observation, in connection with the evidence produced before them.
+In City of Topeka v. Martineau (42 Kan. 387), the following instruction is upheld :
+“ The court has sent you, under charge of a bailiff, to examine the premises in question. You may, in considering your verdict, take into consideration the result of your observation in connection with the evidence produced before you.”
+And in C. K. & W. Rld. Co. v. Willits ( 45 Kan. 110 ), the following instruction is upheld
+“ You have the right also to take into consideration in this case such knowledge and information as you may have acquired of the plaintiff's land as to the alleged injuries committed there, by the personal examination of the premises that you have been permitted to make under the directions of the court.”
+This doctrine is approved in C. K. & W. Rld. Co. v. Parsons, 51 Kan. 408. In K. C. & S. W. Rld. Co. v. Baird (41 Kan. 69), the court permitted the jury to use the knowledge obtained upon a view of the premises, as to the probable expense of constructing and maintaining farm crossings, though there was no evidence of their necessity. We think, however, the medium rule above stated may be said to have been adopted by our Supreme Court. No error was committed by the trial court in giving the instruction complained of. Even though this instruction had been erroneous, the plaintiff in error is in no position to complain of it. It asked the court to give the substance of it. The second instruction asked for by it reads as follows :
+“The opinions of witnesses are not controlling and the jury is not bound by such opinions ; but you may determine the amount of the damages by the facts proven in the case and bv your examination of the premises, in connection with your own general knowledge and experience.”
+Another brief of eighteen pages has been filed by the plaintiff in error. It fails in every particular to comply with the rules of this court for preparing briefs, and we are unable to understand from it just what errors we are asked to pass upon. Nearly all of it is devoted to an argument of the facts which have already been passed upon by the jury — and their finding has been approved by the trial court. We have made a careful study of this brief and have en deavored to ascertain the points attempted to be made therein, and so far as we are able to comprehend them, we are of the opinion that no reversible error was committed by the trial court and that its judgment should stand. We can see no good purpose to be served by following the rambling arguments therein contained and setting out conclusions therefrom in this opinion.
+The judgment of the District Court is affirmed.
