@@ -1,0 +1,43 @@
+---
+court: "Kansas Court of Appeals"
+docket: "91,629"
+decided: "2004-10-08"
+citations: ["33 Kan. App. 2d 148", "98 P.3d 668"]
+reporter: "kan-app-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Marquardt, P.J., Hill and McAnany, JJ."]
+parties: ["Sharon Rensenhouse, Appellant, v. Grayson E. Bauer, Appellant/Cross-appellee, and Joel A. Lopez and Blume Tree Services, Inc., Appellees/Cross-appellants."]
+source_url: "https://static.case.law/kan-app-2d/33/cases/0148-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2568581
+cites_cases: ["208 Kan. 596", "21 Kan. App. 2d 885", "256 Kan. 859", "263 Kan. 875", "5 Kan. App. 2d 240", "9 Kan. App. 2d 199"]
+---
+
+# Rensenhouse v. Bauer
+
+## Majority (Marquardt, J.:)
+
+Marquardt, J.:
+Sharon Rensenhouse and Grayson Bauer appeal the trial court’s award of attorney fees to Joel A. Lopez and Blume Tree Services, Inc. (Blume). Lopez and Blume cross-appeal the manner in which the trial court apportioned the award of attorney fees. We affirm in part and reverse in part.
+On February 6, 2002, Rensenhouse was stopped at a traffic signal in the left turn lane behind the car driven by Bauer. Bauer entered the intersection and collided with a vehicle driven by Lopez, an employee of Blume who was on Blume’s business at the time of the accident. The collision pushed Bauer’s vehicle into Rensenhouse’s vehicle. All three vehicles were damaged.
+On May 22, 2002, Rensenhouse sent Bauer a demand letter for payment of damages. After receiving no payment, Rensenhouse filed a petition on July 2, 2002, alleging negligence against Bauer, Lopez, and Blume. On October 4, 2002, Lopez and Blume sent a demand letter to Bauer requesting a payment for damages in the amount of $290. On November 7, 2002, Blume and Lopez filed a cross-claim against Bauer, asserting that the accident was caused by Bauer’s negligence. At trial, the jury found Bauer 100 percent at fault, assessing Rensenhouse’s damages at $4,785 and Blume’s damages at $290. Judgment was entered in favor of Rensenhouse against Bauer, and in favor of Lopez and Blume against Rensenhouse for her claim against them.
+On April 17, 2003, Lopez and Blume filed a motion requesting attorney fees from Bauer and Rensenhouse. On May 9,2003, Rensenhouse filed a motion requesting attorney fees from Bauer.
+The trial court held that Rensenhouse had complied with the requirements in K.S.A. 2003 Supp. 60-2006 by mailing Bauer a demand letter on May 22, 2002, more than 30 days before the commencement of the suit. The trial court ordered Bauer to pay Rensenhouse attorney fees in the amount of $6,282.
+The trial court found that Rensenhouse should pay Lopez’ and Blume’s attorney fees because they prevailed on Rensenhouse’s claim against them. The trial court also found that Lopez and Blume were entitled to attorney fees from Bauer, because they prevailed on their cross-claim against Bauer. The trial court determined that Lopez and Blume had complied with the statutory requirements when they sent a letter to Bauer demanding $290, and that they did not have to make an offer to settle with Rensenhouse for $0, because it would be frivolous and redundant. The trial court ordered Rensenhouse to pay attorney fees to Lopez and Blume in the amount of $7,583; $300 was for half of the expenses of the expert witness. The trial court ordered Bauer to pay attorney fees to Lopez and Blume in the amount of $3,393. Rensenhouse and Bauer timely appeal. Lopez and Blume timely cross-appeal.
+Rensenhouse argues that she should not have to pay attorney fees to Lopez and Blume because they failed to make a written offer of settlement to her pursuant to K.S.A. 2003 Supp. 60-2006. Lopez and Blume argue that they did not offer a settlement to Rensenhouse because they believed they were not hable for her damages.
+Whether the trial court had the authority to impose attorney fees under a particular statute is a question of law over which this court has plenaiy review. Hamilton v. State Farm Fire & Cas. Co., 263 Kan. 875, 879, 953 P.2d 1027 (1998). Attorney fees cannot be granted absent statutory authority or an agreement by the parties. A trial court does not have authority to impose attorney fees under its equitable powers absent statutory authority. United States Fidelity & Guaranty Co. v. Maish, 21 Kan. App. 2d 885, 905-06, 908 P.2d 1329 (1995).
+K.S.A. 2003 Supp. 60-2006 provides:
+“(a) In actions brought for the recovery of property damages only of less than $7,500 sustained and caused by the negligent operation of a motor vehicle, the prevailing party shall be allowed reasonable attorney fees which shall be taxed as part of the costs of the action unless:
+(1) The prevailing party recovers no damages; or
+(2) a tender equal to or in excess of the amount recovered was made by the adverse party before the commencement of the action in which judgment is rendered.
+“(b) For the plaintiff to be awarded attorney fees for the prosecution of such action, a written demand for tire settlement of such claim containing all of the claimed elements of property damage and the total monetaiy amount demanded in the action shall have been made on the adverse party at such party’s last known address not less than 30 days before the commencement of the action. For the defendant to be awarded attorney fees, a written offer of settlement of such claim shall have been made to the plaintiff at such plaintiff s last known address not more than 30 days after tire defendant filed the answer in the action.”
+The purpose of K.S.A. 2003 Supp. 60-2006 is to “promote prompt payment of small but well-founded claims and to discourage unnecessary litigation of certain automobile negligence cases.” Chavez v. Markham, 256 Kan. 859, 868, 889 P.2d 122 (1995) (citing Pinkerton v. Schwiethale, 208 Kan. 596, 599, 493 P.2d 200 [1972]). The intent of the statute is “to require defendants to inquire, to investigate, and, if warranted, to make an offer to settle the claim.” Chavez, 256 Kan. at 868 (citing Darnall v. Lowe, 5 Kan. App. 2d 240, Syl. ¶ 5, 615 P.2d 786 [1980]).
+K.S.A. 2003 Supp. 60-2006 is clear as applied to two-vehicle collisions. Squires v. City of Salina, 9 Kan. App. 2d 199, 202, 675 P.2d 926 (1984). The issue in Squires was whether the attorney fees chargeable to a driving party should be reduced based on the fault of nondriving parties. The Squires court analyzed:
+“In our view, the primary evil sought to be remedied by the statute was the propensity of some drivers, or their insurance carriers, to delay payment of just claims in the hope that the injured party would grow weary of, or short of money to finance, lawsuits for the recovery of small to modest damages. The onus of the statute is on nonsettling drivers. Accordingly, we conclude the statute applies to drivers only and that the trial court was correct in refusing to assess attorney fees against KP&L and Salina.” 9 Kan. App. 2d at 202.
+Lopez and Blume were nonsetfling drivers. The statutoiy notice requirement applies to nonsettling drivers. Even though a nonsettling driver is not required to make an offer to plaintiff for $0, the statute could be satisfied by merely offering to abandon a claim for fees in return for a promise to dismiss all claims for damages.
+Lopez and Blume did not make any offer to Rensenhouse and did not comply with the requirements in K.S.A. 2003 Supp. 60-2006. The trial court erred in awarding them attorney fees against Rensenhouse. This same analysis applies to the award of expert witness fees. The trial court’s award of attorney fees and expert witness fees to Lopez and Blume against Rensenhouse is reversed. Lopez’ and Blume’s cross-appeal regarding the manner in which the trial court apportioned the award of attorney fees is now moot and will not be addressed.
+Bauer did not appear at oral argument; however, he argues in his appeal brief that the trial court erred in awarding attorney fees to Lopez and Blume when they failed to make a settlement offer as defendants and faded to make a demand as plaintiffs, as required in K.S.A. 2003 Supp. 60-2006.
+After filing the cross-claim, Lopez and Blume were acting as plaintiffs. Their demand letter to Bauer for damages complied with the requirements in K.S.A. 2003 Supp. 60-2006, and drey are entitled to the attorney fees from Bauer. The trial court did not err in awarding attorney fees to Lopez and Blume against Bauer.
+The award of attorney fees to Lopez and Blume against Rensenhouse is reversed. The award of attorney fees to Lopez and Blume against Bauer is affirmed.
+Affirmed in part and reversed in part.
