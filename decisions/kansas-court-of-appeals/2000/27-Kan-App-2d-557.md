@@ -1,0 +1,39 @@
+---
+court: "Kansas Court of Appeals"
+docket: "83,009"
+decided: "2000-05-19"
+citations: ["27 Kan. App. 2d 557", "7 P.3d 326"]
+reporter: "kan-app-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Knudson, P.J., Pierron, J., and Robert G. Jones, District Judge Retired."]
+parties: ["John G. Badgley, Appellant, v. Driver Control Bureau, Department of Vehicles, Department of Revenue, State of Kansas, Appellee."]
+source_url: "https://static.case.law/kan-app-2d/27/cases/0557-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 96434
+cites_cases: ["12 Kan. App. 2d 756", "197 Kan. 289", "243 Kan. 777", "256 Kan. 825", "263 Kan. 875"]
+---
+
+# Badgley v. Driver Control Bureau
+
+## Majority (Knudson, J.:)
+
+Knudson, J.:
+John G. Badgley appeals the district court’s order upholding the suspension of and restrictions upon his driving privileges after he failed an alcohol breath test. On appeal, Badgley attempts to raise three points of error: (1) The implied consent law (K.S.A. 1999 Supp. 8-1001) is unconstitutional; (2) the Kansas Department of Revenue (KDR) failed to conduct a timely administrative hearing under K.S.A. 1999 Supp. 8-1002(k); and (3) the district court erred in concluding it lacked jurisdiction to modify the driving restrictions imposed by KDR.
+We affirm. The district court does not have jurisdiction to modify the driving restrictions imposed by KDR. Badgley’s failure to raise the other two issues before the district court constitutes waiver and precludes appellate review.
+The controlling facts are not in material dispute. Badgley failed an alcohol breath test after being given the oral and written notices required in K.S.A. 1999 Supp. 8-1001(f)(l). After an administrative hearing, Badgley’s driving privileges were suspended for 30 days, then restricted for an additional 330 days to driving only under the circumstances provided by subsections (a)(1), (2), (3), and (4) of K.S.A. 1999 Supp. 8-292. On appeal to the district court, Badgley asked the court to allow him to drive to and from his residence to his former wife’s residence to exercise visitation privileges with his minor children. The district court concluded it lacked jurisdiction to expand upon the restrictions authorized under K.S.A. 1999 Supp. 8-1015(a). It is this ruling Badgley requests that we review.
+An issue of statutoiy interpretation permits an appellate court unlimited review. Hamilton v. State Farm Fire & Cas. Co., 263 Kan. 875, 879, 953 P.2d 1027 (1998).
+K.S.A. 1999 Supp. 8-1015 states, in material part:
+“(a) When subsection (b)(1) of K.S.A. 8-1014, and amendments thereto, requires or authorizes the division to place restrictions on a person’s driving privileges, the division shall restrict the person’s driving privileges to driving only under the circumstances provided by subsections (a)(1), (2), (3) and (4) of K.S.A. 8-292 and amendments thereto.” (Emphasis added.)
+K.S.A. 1999 Supp. 8-292 states, in material part:
+“(a) Except as otherwise provided by law, whenever a statute authorizes the court to place restrictions onaperson’s driving privileges or whenever a municipal ordinance which prohibits the acts prohibited by such a statute so provides, a district or municipal court may enter an order restricting the person’s driving privileges to driving only under the following circumstances: (1) In going to or returning from the person’s place of employment or schooling; (2) in the course of the person’s employment; (3) during a medical emergency; (4) in going to and returning from probation or parole meetings, drug or alcohol counseling or any place the person is required to go to attend an alcohol and drug safety action program as provided in K.S.A. 8-1008, and amendments thereto; (5) at such times of the day as may be specified by the order; and (6) to such places as may be specified by the order.” (Emphasis added.)
+Badgley concedes K.S.A. 1999 Supp. 8-1015 limits the driving restrictions that may be imposed by KDR but contends the district court has discretion to impose the additional restrictions provided for in K.S.A. 1999 Supp. 8-292(a)(5) and (6).
+Clearly, Badgley starts from the right premise — K.S.A. 1999 Supp. 8-1015 does not limit the power of the district court. However, Badgley fails to note that the statute also does not confer jurisdiction upon the district court. Under K.S.A. 1999 Supp. 8-1015, only KDR is authorized to place restrictions on a person’s driving privileges, not the district court.
+Thus, Badgley’s attempt to invoke K.S.A. 1999 Supp. 8-292(a) is futile. There is no statute that authorizes the district court to place restrictions on a person’s driving privileges after failure of an alcohol breath test given under K.S.A. 1999 Supp. 8-1001.
+Here, the district court, in concluding it lacked jurisdiction to enlarge upon the restrictions imposed by KDR, explained:
+“While die restriction which the petitioner in diis case would have the Court impose is reasonable and equitable, the Court does not have die jurisdiction to go beyond the statutory authority afforded to die Department of Revenue by K.S.A. 8-1015(a). The case of Beckley v. Motor Vehicle Department, 197 Kan. 289, 416 P.2d 750 (1966), supports this conclusion. While die facts of that case are somewhat different from those in die present case, the rationale expressed by the Supreme Court appears to be applicable. In Beckley, the District Court found tiiat a test refusal had occurred, but entered an order reducing the period of suspension to thirty (30) days as opposed to the ninety (90) day suspension imposed by the Department. The Supreme Court reversed, holding that the legislature intended diat the Court be limited to & judicial determination of the factual basis upon which the action of the Department is predicated. The Supreme Court stated its rationale at page 294 as follows:
+‘If the courts were permitted to modify the suspension or revocation of a driver’s license ordered by the motor vehicle department by either enlarging or reducing the period, the effectiveness of the administrative body will be destroyed. The administrative body would make initial recommendations to the Court, which would rehear the matter and finally determine the length of suspension or revocation. This could result in confusion, reduplication of effort, and inconsistent penalties administered over the state. The Motor Vehicle Department was initially set up for the purpose of avoiding such problems.’ ” (Emphasis added.)
+Badgley contends that an agency proceeding of KDR to revoke or suspend driving privileges under K.S.A. 8-1001 etseq. is a quasi-judicial function and subject to de novo review. We agree. See Angle v. Kansas Dept. of Revenue, 12 Kan. App. 2d 756, 763, 758 P.2d 226, rev. denied 243 Kan. 777 (1988). However, this begs the question. The issue is whether the legislature intended to restrict judicial appeal to the underlying factual issues set forth in K.S.A. 1999 Supp. 8-1002(h)(2) or whether it intended that the district court also determine the extent to which the licensee’s driving privileges should be restricted.
+We agree with the district court’s reasoning upon this issue. The rationale in Beckley is equally applicable under the circumstances of this proceeding. The legislative intent is clear and unambiguous under K.S.A. 1999 Supp. 8-1015(a); KDR is to restrict drivingprivileges, and on appeal the district court does not have jurisdiction to impose additional restrictions.
+As we previously noted, Badgley also attempts to present two other issues for appellate review. Neither issue was raised before the district court and cannot be raised for the first time on appeal. See Furthmyer v. Kansas Dept. of Revenue, 256 Kan. 825, 828, 888 P.2d 832 (1995).
+Affirmed.
