@@ -1,7 +1,7 @@
 ---
 court: "Kansas Court of Appeals"
 decided: "1895-10-01"
-citations: ["1 Kan. App. 782", "1 Kan. App. 775"]
+citations: ["1 Kan. App. 782"]
 reporter: "kan-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,6 @@ parties: ["The Atchison, Topeka & Santa Fe Railroad Company v. James F. Huitt et
 source_url: "https://static.case.law/kan-app/1/cases/0782-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 340057
-cites_cases: ["31 Kas. 633", "32 Kas. 344", "46 Kas. 511", "49 Kas. 679"]
 ---
 
 # Atchison, Topeka & Santa Fe Railroad v. Huitt
