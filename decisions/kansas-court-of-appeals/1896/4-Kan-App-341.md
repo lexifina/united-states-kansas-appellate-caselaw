@@ -1,0 +1,33 @@
+---
+court: "Kansas Court of Appeals"
+docket: "86"
+decided: "1896-07-15"
+citations: ["4 Kan. App. 341"]
+reporter: "kan-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["All the Judges concurring."]
+parties: ["Fannie C. Murray, as Administratrix of the Estate of John A. Murray, deceased, v. Harriet Bohanna."]
+source_url: "https://static.case.law/kan-app/4/cases/0341-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 334653
+cites_cases: ["10 Kan. 204", "3 Kan. App. 346", "31 Kan. 317", "31 Kan. 322"]
+---
+
+# Murray v. Bohanna
+
+## Majority (Johnson, P.J.:)
+
+The opinion of the court was delivered by
+Johnson, P.J.:
+This suit was commenced originally in the district court of Sumner county by Harriet Bohanna against John A. Murray, Fannie C. Murray, C. Everest Elliott, Camilla Elliott, Mrs. W. J. Pace, Thomas A. Page, The Showaiter-Morigage Company, L. H. Everts & Co., J. D. Patterson. Frank D. Irland, administrator, Dustan Adams, Avthur L. Keyes, Thomas J. Ross, and The Loan and Guaranty Company, to recover upon a certain promissory note for $1,100, given by John A. Murray and C. Everest Elliott to Harriet Gatliff on the 20th day of August, 1887, and to foreclose a mortgage given by said Murray and wife and Elliott and wife to secure the payment of said note. The plaintiff below alleged in her petition that, at the time of the execution and delivery of the note and mortgage she was the wife of one J. B. Gatliff, and that afterward a divorce was granted to her, and that by the decree of said divorce proceedings she was restored to her former name, Harriet Bohanna; that the note sued on was given by said defendants John A. Murray and C. ^Everest Elliott to Harriet Gatliff, and that she has been and now is the lawful owner and holder thereof.
+John A.(Murray and Fannie C. Murray, on the 28th day of January, 1890, filed their separate answers in said cause, containing a general denial, and alleging that said Harriet Bohanna was not the owner and holder of said note, and denying that she was the real party interested in said cause. The defendants C. Everest Elliott and Camilla Elliott filed their separate answers in said cause, containing a general denial, and alleging that, since the execution of the note set out in plaintiff’s petition, said defendants Elliott and Elliott had conveyed to their codefendant John A. Murray their interest in the premises covered by the mortgage given to secure the payment of said note, and that, at the time of executing the conveyance, John A. Murray agreed and assumed to pay the note and mortgage given to Harriet Gatliff. Harriet Bohanna filed replies to the separate answers of Murray and Murray and of Elliott and Elliott. The other defendants made no appearance and filed no answers in said action. The case was tried on the issues joined under the petition and the separate answers and replies, and judgment was rendered in favor of the plaintiff below against the defendants John A. Murrary and O. Everest Elliott for the principal and interest due on said note up to the time of the trial. John A. Murray and Fannie G. Murray filed motions for a new trial, which were overruled, and exceptions taken, and a case made was, filed in the supreme court.' After the case was filed in the supreme court John A. Murray departed this life, and Fannie G. Murray was appointed ad minis tratrix of his estate, and the action has since been revived in the name of the said Fannie O. Murray, and has been duly certified by the supreme court down to this court for review.
+The case comes to this court on the petition in error of John A. Murray and Fannie C. Murray. None of the other parties defendant below is made a party in this court. We are met at the very threshold of this case with a motion to dismiss the petition in error for want of proper parties, and also by a motion on the part of the plaintiff in error to amend her petition by making G. Everest Elliott a party.
+The judgment in this case was a joint judgment against John A. Murray and O. Everest Elliott for $1,516.90, bearing interest at the rate of 10 per cent, from the date of the rendition of said judgment, with a decree foreclosing the mortgage given to secure the j>ayment of. the sum of money for which judgment was rendered, and an order for the sale of the mortgaged property, and providing that, in case the mortgaged property should fail to satisfy the judgment, the plaintiff have execution against Murray and Elliott for the deficiency, and that execution issue against Murrav first.
+" We do not think the plaintiff in error should be allowed to amend the petition in error and bring parties before the court more than one year after final judgment has been rendered. Section 556 of the code of civil procedure provides that “no proceeding for reversing, vacating or modifying judgments or final orders shall be commenced unless within one year after the rendition” thereof.
+In the case of Paper Co. v. Hentig, 31 Kan. 317, Valentine, J., speaking for the court, says :
+“We think that under no circumstances should a party be allowed to gain an advantage by' bringing the case to the supreme court and omitting, to make some of the interested parties parties in the supreme court; and in no case should a judgment be interfered with by the supreme court where one of the parties to the judgment is not a party in the supreme court.”
+The motion to amend the petition in error and make O. Everest Elliott a party defendant is overruled.
+The judgment brought before this court is a joint judgment against John A. Murray and G. Everest Elliott, and Elliott has at no time taken any exceptions to the judgment or the proceedings on the trial which resulted in the judgment, and at all times since has acquiesced therein, and takes no exceptions thereto, and has not been made a party or brought into this bourt. The judgment being joint against Murray and Elliott for the recovery of the amount of the note and interest sued upon, and so connected with the decree of foreclosure that a reversal of the same would affect all the parties thereto, the reversal of the judgment as to Murray would leave the judgment in full force as against Elliott. This court cannot reverse or modify a judgment unless all the parties to be injuriously affected thereby are brought befox-e the court. (Ex parte Polster, 10 Kan. 204; Armstrong v. Durland, 11 id. 15 ; Hodgson v. Billson, 11 id. 357 ; Bain v. Conn. M. Life Ins. Co., 3 Kan. App. 346; Paper Co. v. Hentig, 31 Kan. 322 ; McPherson v. Storch, 49 id. 313.)
+The petition in error will therefore be dismissed.
+All the Judges concurring.
