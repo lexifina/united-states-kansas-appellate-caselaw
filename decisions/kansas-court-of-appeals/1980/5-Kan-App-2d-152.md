@@ -1,0 +1,34 @@
+---
+court: "Kansas Court of Appeals"
+docket: "51,743"
+decided: "1980-07-03"
+citations: ["5 Kan. App. 2d 152", "613 P.2d 389"]
+reporter: "kan-app-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Meyer, P.J., Rees and Parks, JJ."]
+parties: ["Gary L. Brooks, Appellee and Cross-Appellant, v. Sam Lochner Builders, Inc., Appellant and Cross-Appellee, and The Kansas Workmen’s Compensation Fund."]
+source_url: "https://static.case.law/kan-app-2d/5/cases/0152-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 394505
+cites_cases: ["172 Kan. 384", "185 Kan. 589", "204 Kan. 366"]
+---
+
+# Brooks v. Sam Lochner Builders, Inc.
+
+## Majority (Rees, J.:)
+
+Rees, J.:
+Respondent Sam Lochner Builders, Inc., appeals and claimant Gary L. Brooks cross-appeals from an award of worker’s compensation to claimant.
+Lochner, a home builder, was building a house in the city of Olathe. The trim carpentry portion of the construction was undertaken by an individual who had bid the work on a job basis at an agreed price of $750. Because of illness, that workman left the job with the work fifty to seventy-five percent completed. Lochner and Brooks, a trim carpenter, made an agreement for completion of the trim carpentry in the house. Because the work was partially completed, their agreement was not on a job, or lump sum payment, basis. They agreed Brooks would be paid $12 per hour for his completion of the work. On his third day at the job site, Brooks sustained accidental injury to two fingers.
+Brooks duly filed a claim for an award of worker’s compensation. At the initial hearing before the examiner when asked by the examiner if Lochner admitted the parties were governed by the Workmen’s Compensation Act, Lochner’s counsel responded, “That is denied.” This denial was preceded by Lochner’s denial of a requested stipulation that the relationship of employer and workman existed on the date of the accident. In due course, the parties presented their evidence. The record reveals the evidence and arguments were principally directed at the issues of whether Brooks was an independent contractor or an employee of Lochner and the nature and extent of Brooks’ disability resulting from the accident.
+The findings and award entered by the examiner were affirmed on review by the director of worker’s compensation and adopted as the decision of the district court. On appeal to us, Lochner contends the evidentiary record does not support the findings that the relationship of Lochner and Brooks was that of employer and workman and that the parties were governed by the Workmen’s Compensation Act. We agree as to the latter.
+The presently relevant provisions of the Act are that part of K.S.A. 1979 Supp. 44-505(a) which reads:
+“[T]he workmen’s compensation act shall apply to all employments wherein employers employ workmen within this state except that such act shall not apply to . . . (2) any employment . . . wherein the employer had a total gross annual payroll for the preceding calendar year of not more than ten thousand dollars ($10,000) for all workmen and wherein the employer reasonably estimates that he or she will not have a total gross annual payroll for the current calendar year of more than ten thousand dollars ($10,000) for all workmen ... or (3) any employment . . . wherein the employer has not had a payroll for a calendar year and wherein the employer reasonably estimates that he or she will not have a total gross annual payroll for the current calendar year of more than ten thousand dollars ($10,000) for all workmen . . . .”
+Lochner had not filed an election to come under the Act as allowed by K.S.A. 1979 Supp. 44-505(fc).
+It is Lochner’s contention that neither did it have a payroll of more than $10,000 for the calendar year 1976, nor was it to be reasonably estimated that it would have a payroll of more than $10,000 for the calendar year 1977, and by reason thereof, the Act is not applicable to Brooks’ claim. Whether the relationship of Lochner and Brooks was that of employer and workman is immaterial to this contention of Lochner’s.
+We have reviewed the record. The sole relevant evidence is that within our foregoing summarization of the facts, with the addition that Brooks testified he worked eight hours a day for Lochner and he would have worked five or more days a week had he not been injured.
+Brooks responds with two arguments. The first is that the evidence of an agreed rate of payment of $12 per hour and of anticipated work by Brooks for five or more days a week supports the inference that an estimate of a payroll of not more than $10,000 for the calendar year 1977 could not be reasonably made by Lochner. We cannot agree. At $12 per hour, $10,000 would represent over 800 hours’ work for Brooks’ completion of a job that had been originally undertaken for a lump sum price of $750 (or some 62.5 hours’ work at $12 per hour, or 250 hours at $3 per hour) and which was at least half completed when Brooks went to work. The “employment” of Brooks by Lochner was not for an indefinite period; it was not an employment terminable at will; it was to complete the trim carpentry in the one house. It is our conclusion that the inference is not one to be realistically and rationally drawn from the evidence.
+Brooks’ second argument is that Lochner had the burden to prove (burden of persuasion) that the Act is not applicable to Brooks’ claim and it was not Brooks’ burden to prove applicability of the Act. Case law regarding the burden of proof as to applicability of the Act prior to its 1974 revision refutes Brooks’ argument. Otta v. Johnson, 204 Kan. 366, 370-371, 461 P.2d 758 (1969); Bratcher v. Royse, 185 Kan. 589, 592, 345 P.2d 648 (1959); Thorp v. Victory Cab Co., 172 Kan. 384, 389, 240 P.2d 128 (1952). Does the 1974 revision of the Act and the “except” terminology of K.S.A. 1979 Supp. 44-505(a) negate this case law? We believe not. Brooks provides us with no precedential authority to the contrary. We find sub-sections (2) and (3) of K.S.A. 1979 Supp. 44-505(a) do not express exclusions to operation of the Act but rather they are expressions of limitation to the definition of employments to which the Act applies. We hold the relevant principle of Otta, Bratcher and Thorp continues, and Brooks failed to sustain his burden of proof. It was not incumbent upon Lochner to prove the negative of an issue upon which Brooks had the burden of proof.
+In view of our expressed conclusion it is not necessary that we address the issue of whether the relationship of Lochner and Brooks was that of employer and workman nor the issue of the propriety of the amount of the award raised by Brooks’ cross-appeal.
+The order of award is reversed. The cross-appeal is dismissed as moot.
