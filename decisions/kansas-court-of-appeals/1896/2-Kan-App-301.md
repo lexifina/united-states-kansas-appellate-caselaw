@@ -1,0 +1,30 @@
+---
+court: "Kansas Court of Appeals"
+docket: "52"
+decided: "1896-01-09"
+citations: ["2 Kan. App. 301"]
+reporter: "kan-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["All’the Judges concurring."]
+parties: ["John Burgwald v. S. A. Donelson."]
+source_url: "https://static.case.law/kan-app/2/cases/0301-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 342212
+cites_cases: ["19 Kan. 212"]
+---
+
+# Burgwald v. Donelson
+
+## Majority (Gar ver, J. :)
+
+The opinion of the court was delivered by .
+Gar ver, J. :
+.In an action of replevin brought in the district court of Cheyenne county by S. A. Donelson against John Burgwald, the plaintiff obtained a judgment for the possession of certain cattle alleged • to have been wrongfully detained from him by the defendant. The defendant, as plaintiff in error, brings the case to this court, and assigns as error various rulings of the trial court.
+The first complaint arises upon the overruling of a demurrer to the petition. The particular defect claimed to exist in the petition is that it fails to allege that the plaintiff was the owner of the cattle on the day they were taken by the defendant, and, also, that it failed to set out the fact that in taking the cattle the defendant acted undér and by virtue of a certain order of attachment duly issued by a proper court. These objections are not well taken. The petition properly alleges ownership and right of possession in the plaintiff and wrongful detention by the defendant at the time the action was commenced. It is not necessary that a petition in replevin set out the excuse or justification which the defendant may have; it is sufficient that the detention is alleged to be wrongful. Any legal reason which the defendant may have for withholding possession from the plaintiff is a matter of defense.
+The overruling of an application for a continuance of the trial is also assigned as error. It appears from the record that the defendant, Burgwald, at the time he took the property, was acting in the capacity of constable, and levied upon the cattle as the property of one C. A. Hodge, by virtue of a writ of attachment issued by a justice of the peace, before whom was pending an action brought by the Moline Plow Company against said Hodge. In the replevin action Burgwald and the Moline Plow Company were joined as defendants. Afterward the Moline Plow Company made a special appearance, and, on its application, the case was dismissed as to it, and issues were'joined for trial between Donelson and Burgwald. The action was commenced January 5, 1891, and was tried December 3, 1891. December 1, 1891, an application for a continuance of the case for trial was made on behalf of the Moline Plow Company, the affidavit therefor setting up that said company "is the owner and the real defendant in interest in above said action,” and that it has not been able to ascertain in time for trial at that term the whereabouts of certain persons, who are material witnesses in the case. The continuance was not applied for by Burgwald, nor by any one on his behalf. We think the plow company had no right to make an application of this kind, after having been dismissed from the case on its own motion. Whatever interest it had in the trial was represented by Burgwald, who had a right to control the case so far as thé defense was concerned. The plow company had a right, under the statute, upon showing its interest, to be made a party defendant, with all the rights and privileges pertaining to a defendant in an action. Having voluntarily chosen to stand outside of the controversy, it could claim no right to be heard therein ; and, upon this ground alone, the court committed no error in overruling the application. If we look at the showing made as the ground for a continuance, we do not find it to be such as would require the court, in the exercise of its discretion, to grant the application.
+Various rulings of the court in the admission and the rejection of testimony were assigned for error. After a careful examination of these objections, we find no substantial error committed. Some of the testimony rejected related to conversations and transactions with third parties which were clearly inadmissible as against the plaintiff. Certain questions whic were asked on behalf of defendant, to which objections were made and sustained, were answered in other portions of the testimony of the same witness ; other questions, to which objections were overruled, elicited answers, otherwise irrelevant to the issues in the case, which were made relevant, on the redirect examination of the witness, by reason of the character of the cross-examination. Upon the whole, the rulings of the court upon the trial were fair, impartial, and without substantial error.
+It is further contended by counsel for plaintiff in error, that the court erred in refusing to instruct the jury that it was necessary for the plaintiff to prove that a demand was made on the defendant for the possession of the cattle before the commencement of the action. The court instructed the jury that no demand was necessary. In so doing, it only followed the well-settled rule in such cases. The taking of the property of Donelson under a writ directing the officer to attach the property of Hodge was wrongful from the beginning, and a demand was not necessary. (Dickson v. Randal, 19 Kan. 212.)
+By a motion for a new trial the v.erdict was challenged by the defendant, on the ground that it was not sustained by the evidence, and this contention is still urged in' this court. The record shows that there was testimony introduced in support of all the material allegations of the petition, and that with respect to no material fact was there an entire absence of evidence. Upon the evidence introduced the jury found for the plaintiff, and their verdict was' approved by the trial judge. In accordance with well-settled rules, such a verdict will not be disturbed by an appellate court.
+The judgment will be affirmed.
+All’the Judges concurring.
