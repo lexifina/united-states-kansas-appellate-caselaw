@@ -1,0 +1,28 @@
+---
+court: "Kansas Court of Appeals"
+docket: "236"
+decided: "1897-07-16"
+citations: ["6 Kan. App. 57"]
+reporter: "kan-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["S. E. Mackey and J. T. Nichols v. J. L. Pettijohn and George W. Pettijohn, Partners."]
+source_url: "https://static.case.law/kan-app/6/cases/0057-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 348468
+cites_cases: ["1 How. 169", "22 Kan. 89", "24 Iowa, 412", "6 Pet. 172", "7 Wall. 139", "91 U. S. 406"]
+---
+
+# Mackey v. Pettijohn
+
+## Majority (Mahan, P. J.)
+
+Mahan, P. J.
+This is an'action in the nature of a bill in equity, in which defendants in error seek to have the plaintiffs in error declared trustees for their use of a fund arising from the sale of personal property. Clark owned and ran a dairy in Johnson County, Kansas, shipping milk therefrom to Kansas City. He became indebted to both the plaintiffs and defendants. Subsequently, he moved to Kansas City and established his domicile in the State of Missouri. While so domiciled, he made and delivered to the plaintiffs in error, at Kansas City, Mo., a mortgage upon his dairy stock — comprising cows, fixtures, grain and other personal property — to secure a valid bona fide indebtedness to them. There is no question made of the good faith of the transaction between the parties. The property was on the farm of Clark in Johnson County, Kansas, where it had been prior to the removal of Clark to Missouri. The contention of the defendants in error was, that the chattel mortgage was a Missouri contract, to be construed by the ’laws of Missouri; that the rule of construction — to the effect that such a mortgage was, under those laws, a general assignment for the benefit of creditors —had been established by the United States Circuit Court for the District of Missouri. The court sustained this contention. The allegation in the petition is that the laws of Missouri make such a mortgage as this one is claimed to be a general assignment.
+The District Court overruled a demurrer on behalf of the plaintiffs in error, defendants below, to both the petition of the defendants in error and to their evidence in support thereof. The plaintiffs in error stood upon their demurrer, and judgment was rendered against them. At the request of the parties the court made findings of fact and conclusions of law.
+There are a number of questions raised, but it is necessary to consider only two of them. First, Is this contract governed by the laws of Missouri, or was the contract made with respect to the laws of Kansas and to be govered thereby? And, second, even though the contract be a Missouri contract, is there such a conflict between our laws and those of Missouri as to contravene the policy of the State of Kansas, so that the rule of comity must give way thereto?
+We are clearly of the opinion, in the first place, that, under the law as it exists — as it is declared by the law writers and the courts,- this is a Kansas contract ; that the parties had in view the laws of Kansas in respect to it at the time it was executed and delivered ; and the law is well settled that, where a chattel mortgage or other contract concerning property is made by a person domiciled in one state, to another, domiciled in another state where the property is situated, the chattel mortgage or contract is to be performed or enforced in accordance with the laws of the latter state.
+In support of this proposition, see Jones, Chattel Mortgages (4th ed.), § 305; 3 Am. & Eng. Encyc. of Law, 561, and authorities in note 5; Green v. Van Buskirk, 7 Wall. 139; Scudder v. Union National Bank, 91 U. S. 406; Pritchard v. Norton, 106 id. 124; McDaniels v. The Chicago and N. W. Rld. Co., 24 Iowa, 412; Boyd v. Ellis, 11 id. 97; 2 Kent’s Commentaries, * 459; Denny v. Faulkner, 22 Kan. 89; 2 Parsons on Contracts, § 5, * 582; Cox and Dick v. The United States, 6 Pet. 172; Andrews v. Pond et al., 13 id. 65; Bell et al. v. Bruen, 1 How. 169.
+The rule of decision in the State of Missouri cannot be permitted to have application to this contract in the State of Kansas, because it contravenes the policy of the State of Kansas with respect to the property mortgaged, and is in conflict with the statute of the State. Our statute is, in effect, that a chattel mortgage, made by a resident of another state, on property in this State, when filed in the office of the register of deeds in the county in which the property is situated, is a valid mortgage and gives notice to all the world. Our Supreme Court has held that, even though a chattel mortgage covered all, or practically all, of the property of the mortgagor, and even though he was insolvent, the mortgage having been made in good faith to secure a valid debt — as the court found this to be in this case — that such mortgage was nevertheless valid. To allow the rule of decision in Missouri to prevail here, would be to overturn our own policy with respect to mortgages on personal property, and to render nugatory the provisions of our own statute. The rule of comity is never extended to such cases.
+It follows that the court erred in overruling the defendant’s demurrer to the plaintiff’s petition, in overruling the defendant’s demurrer to the plaintiff’s evidence, in rendering judgment upon the special findings of fact for the plaintiffs and against the defendants, and in refusing a new trial upon the defendants’ motion.
+The judgment is reversed, and the case remanded • with direction to the District Court to enter judgment for the defendants upon the findings of fact.
