@@ -1,0 +1,36 @@
+---
+court: "Kansas Court of Appeals"
+docket: "78,376"
+decided: "1998-12-11"
+citations: ["25 Kan. App. 2d 731", "971 P.2d 1201"]
+reporter: "kan-app-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Knudson, P.J., Green, J., and Daniel A. Duncan, District Judge, assigned."]
+parties: ["State of Kansas, Appellee, v. Tracy W. Sewell, Appellant."]
+source_url: "https://static.case.law/kan-app-2d/25/cases/0731-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1109908
+cites_cases: ["20 Kan. App. 2d 790", "21 Kan. App. 2d 32", "21 Kan. App. 2d 818", "22 Kan. App. 2d 103", "22 Kan. App. 2d 837", "24 Kan. App. 2d 882", "24 Kan., App. 2d 447", "259 Kan. 929", "266 Kan. 18"]
+---
+
+# State v. Sewell
+
+## Majority (Knudson, J.:)
+
+Knudson, J.:
+This is a sentencing appeal brought by the defendant. On appeal, the defendant contends the district court erred because: (1) there did not exist substantial and compelling reasons to support both a dispositional and an upward durational departure from tire presumptive sentences; (2) the defendant’s full criminal history should not have been applied in both felony cases when consecutive sentences were imposed; and (3) the district court failed to consider placement at the Labette Correctional Conservation Camp (Labette).
+We find the district court did err in imposing a dispositional departure without considering placement at Labette and in its imposition of a durational departure. The defendant’s offenses of one felony theft and eight felony forgeries are classified in presumptive nonprison grid blocks. K.S.A. 21-4603d(a) provides that before a dispositional departure is imposed, the district court shall consider placement of the defendant at Labette. The district court failed to comply with this statute. We are required to reverse and remand for resentencing. See State v. Williams, 24 Kan., App. 2d 447, 449, 946 P.2d 98 (1997).
+Under these circumstances we will address the other sentencing issues that have been raised to aid the district court upon remand.
+We find the district court’s finding of the defendant’s unamenability to probation to be a substantial and compelling reason to impose a dispositional departure, and this finding was extensively supported by the sentencing record. The evidentiary record and findings in this case are clearly distinguishable from the paucity of evidence and conclusory finding in State v. Rhoads, 20 Kan. App. 2d 790, 799, 892 P.2d 918 (1995). The case at bar is much closer to our holding in State v. Trimble, 21 Kan. App. 2d 32, Syl. ¶ 5, 894 P.2d 920 (1995).
+We do not agree that the other reasons stated by the district court support the upward durational departure. The district court’s finding that a departure was necessary to ensure the safety of the community and the best interests of the defendant was not supported by the record. Additionally, the legislature took these issues into account when adopting the sentencing guidelines and presumptive sentences. The guidelines dictate that an individual with a criminal history comparable to this defendant, committing the crimes for which he has been convicted, should be placed on probation. We conclude under the facts of this case that the district court’s finding was not a substantial and compelling reason to support a durational departure.
+Likewise, we are not persuaded the district court’s finding that the harm caused by the defendant was greater than the harm caused in a typical forgery case is a substantial and compelling reason to support a departure. The district court reasoned:
+“Typically, when one forges a check and passes it, he has committed two crimes. The making and the passing of . . . the forged check or a bad check, are each separate crimes, but in each of the eight counts in [the present case], these represent eight separate checks which could have, I’m sure, been charged as sixteen separate counts.”
+A claim that a departure factor relied upon by the district court is not substantial and compelling presents a question of law. State v. Hawes, 22 Kan. App. 2d 837, 839, 923 P.2d 1064 (1996).
+In Hawes, the court observed that using prior uncharged activity as a reason to depart violates the presumption of innocence. 22 Kan. App. 2d at 841. However, it has also been held that factual acts connected with the crime of conviction, which could perhaps also be an element of a different offense, may appropriately form the basis for a departure. See State v. Keniston, 21 Kan. App. 2d 818, 822, 908 P.2d 656 (1995).
+The holding in Keniston was factually driven and based upon specific statutory aggravating factors listed in K.S.A. 21-4716(b)(2). 21 Kan. App. 2d at 821. This distinguishes Keniston from the case at bar where the district court relies upon a nonstatutory factor. See Hawes, 22 Kan. App. 2d at 839 (“A sentence departure based on nonstatutory aggravating factors is subject to greater scrutiny than a departure based on aggravating factors listed in the statute.”).
+In addition, we believe it significant that an atypical lesser degree of harm or loss attributed to the crime of conviction is specifically recognized by the legislature as a mitigating factor under K.S.A. 21-4716(b)(l)(E), but an atypical greater degree of harm or loss is not mentioned as an aggravating factor under K.S.A. 21-4716(b)(2). This striking omission strongly suggests that the legislature did not intend for harm or loss significantly more than typical for the crime of conviction to be a substantial and compelling reason that would justify an upward departure.
+We conclude under the totality of circumstances that the district court’s findings regarding harm caused by the defendant do not provide substantial and compelling reasons supporting an upward departure sentence. The district court’s statements in support of its finding indicate a preoccupation with uncharged conduct rather than a quantifiable measure of added harm that could be considered atypical. In addition, we have grave reservations about a finding that a nonstatutory “harm" factor for a property crime can under any circumstances be considered a substantial and compelling reason to support an upward departure.
+We also note concern that the district court clearly state the separate and distinct reasons to support each departure. When a sentencing judge imposes a durational departure together with a dispositional departure, substantial and compelling reasons independent of the reasons given for the dispositional departure must be set forth on the record. See K.S.A. 21-4719(c); State v. Hunter, 22 Kan. App. 2d 103, 107, 911 P.2d 1121, rev. denied 259 Kan. 929 (1996). We recommend that the district court clearly state in its findings which aggravating factors support a dispositional departure and which support a durational departure.
+The defendant’s final argument is that the district court erred in applying his full criminal history in both felony cases when imposing consecutive sentences. After briefing in this case, this issue was resolved adversely to the defendant’s contention in State v. Bolin, 24 Kan. App. 2d 882, 886, 955 P.2d 130, aff'd 266 Kan. 18, 968 P.2d 1104 (1998).
+Sentence vacated and case remanded with instructions for re-sentencing.
