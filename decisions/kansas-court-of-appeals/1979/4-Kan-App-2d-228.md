@@ -1,0 +1,30 @@
+---
+court: "Kansas Court of Appeals"
+docket: "50,261"
+decided: "1979-12-28"
+citations: ["4 Kan. App. 2d 228", "604 P.2d 76"]
+reporter: "kan-app-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Foth, C.J., Rees and Swinehart, JJ."]
+parties: ["Tanya Hoyer, Appellee, v. Clyde and Laura Cannedy, Appellants."]
+source_url: "https://static.case.law/kan-app-2d/4/cases/0228-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 417038
+cites_cases: ["14 Pac. 477", "147 Kan. 507", "150 Kan. 202", "167 Kan. 14", "184 Kan. 24", "196 Kan. 353", "2 Kan. App. 2d 512", "211 Kan. 563", "225 Kan. 846", "226 Kan. 70", "37 Kan. 55"]
+---
+
+# Hoyer v. Cannedy
+
+## Majority (Rees, J.:)
+
+Rees, J.:
+Plaintiff, an adult daughter of defendants, brought this action seeking recovery of money alleged to be due and owing for services rendered to and for her parents during a 52 week period when defendant Laura Cannedy was wholly or partially incapacitated while recuperating from an accident-caused back injury. Upon trial to the court, plaintiff was granted judgment. Defendants appeal.
+The trial court’s oral decision may be interpreted as finding for plaintiff on a theory of a contract implied in fact, a contract implied in law, or quantum meruit. The journal entry recites “doctrine of implied contract” and “doctrine of quantum meruit” as the bases for plaintiff’s entitlement to recover. Defendants attack the trial court decision, contending: (1) Services rendered by a child for his or her parents are presumed gratuitous and plaintiff failed to overcome the presumption; and (2) the trial court erred in applying the preponderance of the evidence standard of proof when it should have required proof by clear and convincing evidence. The amount of the judgment is not contested.
+With variations, the presumption upon which defendants rely has been recognized in Kansas since the early case of Ayres v. Hull, 5 Kan. *419, *421-422 (1870). There it is said:
+“It may be stated, as a general principle of almost universal application, that when one person does work for another, with the knowledge and approbation of that other, the law will imply a promise on the part of the person benefited thereby to make a reasonable compensation therefor. But, if the relation of the parties is such as to show some other inducement than a pecuniary one for the labor, then the law will not imply a promise to pay for such services. As, where a daughter remains in the family of her father after her majority, performing her share of the ordinary labors of the household, and receives in return her maintenance, and the comfort and protection of the family relations, she will, in the absence of proof of some other understanding, be presumed to have done the work gratuitously, and without the expectation of pecuniary reward.”
+In accord, see Nelson v. Peterson, 147 Kan. 507, 509, 78 P.2d 20 (1938). Another early case is Shane v. Smith, 37 Kan. 55, 58, 14 Pac. 477 (1887), and perhaps the most recent case is Baldwin v. Hambleton, 196 Kan. 353, 360, 411 P.2d 626 (1966).
+In order to overcome the presumption of gratuitous service, the child must affirmatively show the existence of an express contract or show circumstances indicating a reasonable and proper expectation of compensation. Baldwin v. Hambleton, 196 Kan. at 360; In re Estate of Rogers, 184 Kan. 24, 28, 334 P.2d 830 (1959); In re Estate of Nicholson, 167 Kan. 14, 16, 204 P.2d 602 (1949); Nelson v. Peterson, 147 Kan. at 510. It has been stated that the proof required to overcome the presumption must be clear and satisfactory (Shane v. Smith, 37 Kan. at 58), a much higher quality and standard of evidence (Hodge v. Bishop, 150 Kan. 202, 208, 92 P.2d 37 [1939]), or clear, succinct and satisfactory proof (In re Estate of Rogers, 184 Kan. at 29). We do not find that the standard of proof described in the latter three cases differs from the clear and convincing evidence standard of proof referred to in recent cases. See Modern Air Conditioning, Inc. v. Cinderella Homes, Inc., 226 Kan. 70, Syl. ¶ 8, 596 P.2d 816 (1979).
+We find no error in the trial court’s application of the preponderance of the evidence standard of proof. That standard refers to the quantum of evidence required while the clear and convincing evidence standard refers to the quality of the evidence. Fox v. Wilson, 211 Kan. 563, 579, 507 P.2d 252 (1973); and see Modern Air Conditioning, Inc. v. Cinderella Homes, Inc., 226 Kan. 70, Syl. ¶ 7.
+There was substantial competent evidence of clear and convincing quality to support the finding of a contract implied in fact, that is, factual circumstances giving rise to reasonable and proper expectation of compensation. Plaintiff did not reside with her parents; she had her own home and family. She testified her father suggested, if not stated, a fixed weekly sum was appropriate compensation for her services. She drove across town to defendants’ home almost every day except Sunday to furnish household services for her parents and personal care for her mother after her mother was released from the hospital. Defendants accepted plaintiff’s services and had the benefit of them. In the mother’s lawsuit against the party responsible for her back injury, one of the claimed elements of damage was $75 per week for the care furnished by plaintiff. Plaintiff attended a conference with her parents’ attorney when this claim was discussed. Under her testimony, she believed she would receive that amount for her services. Plaintiff testified she was informed at a later point in time that she would be paid when her mother received her settlement money. The mother received settlement payment in a sum exceeding her attorney fee, her medical bills and the compensation claimed by plaintiff. It is not for us to reweigh the evidence which concededly included contradictory testimony of the defendants. Stauth v. Stauth, 2 Kan. App. 2d 512, 515, 582 P.2d 1160, rev. denied 225 Kan. 846 (1978).
+The judgment of the district court is affirmed.
