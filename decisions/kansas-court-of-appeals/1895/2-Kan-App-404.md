@@ -1,0 +1,28 @@
+---
+court: "Kansas Court of Appeals"
+docket: "61"
+decided: "1895-11-11"
+citations: ["2 Kan. App. 404"]
+reporter: "kan-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["All the Judges concurring."]
+parties: ["Zorah Lawn v. James Donavan."]
+source_url: "https://static.case.law/kan-app/2/cases/0404-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 342246
+cites_cases: ["150 Ill. 40", "37 Kan. 145", "37 W. Va. 725", "7 Kan. 17"]
+---
+
+# Lawn v. Donavan
+
+## Majority (Garver, J. :)
+
+The opinion of the court was delivered by
+Garver, J. :
+The plaintiff in error, who was plaintiff below, claims to be the owner of a tract of land in Lincoln county, and brings this action/to recover possession of a deed as the evidence of her title thereto, which she alleges is wrongfully detained from her by the defendant. The land formerly belonged to one George S. Donavan, now deceased, who died intestate, by his own hand, some time in July, 1889. After he had formed the purpose to take his own life, he signed and acknowledged a warranty deed in the usual form, purporting to convey the farm upon which he was then living to the plaintiff. This deed was found in a stand or table drawer in his house, and with it a letter to his father, the defendant, requesting him to have it recorded, and then to give it to the plaintiff as a voluntary gift to her. It does not appear that any one had any knowledge, prior to Donavan’s death, of the making of this deed, except the register of deeds of the county, who had written it, and before whom it was acknowledged.
+Upon the above facts, the question arises whether the plaintiff acquired any interest in the land described in the deed, so as to entitle her to its possession, as the evidence of her title. It is elementary law that the delivery of a deed is as essential to its validity as the signature of the grantor. Whether a delivery was in fact made in any particular case depends largely upon the intention of the grantor, which must be judged of by his acts and conduct. A delivery may be effected by words or by acts, or by both combined, provided such words or acts are consistent with an intention on the part of the grantor to surrender all further control and power of disposition of the instrument. It is not necessary that the grantee be given actual, control before a delivery can be said to have been made ; it is only essential that there be the voluntary parting with control by the grantor; and this may be effected by a delivery to a depositary under such conditions as to make it irrevocable ; or it may be even by a retention of actual possession of the instrument by the grantor, when such possession is accompanied by words clearly indicating that it is retained by him as a mere custodian for the grantee. Hence, what particular act will be held to constitute a valid delivery depends largely upon the facts of the case in which such act is relied upon. In this case there was no manual delivery of the deed to anyone during the life of the grantor ; consequently many of the authorities cited by the plaintiff in error are inapplicable, because they are decisions which, were made in cases where there was an actual parting by the grantor with the possession of the instrument of conveyance either to a depositary or to some other third person. The delivery must also be complete during the life of the grantor. There can be no delivery by a dead hand. When a deed is found in the possession of the grantor at the time of his death, the presumption of the law is that it was not delivered; and this presumption becomes conclusive in the absence of evidence showing that a delivery had actually been made. (Burton v. Boyd, 7 Kan. 17.)
+There is no evidence in this case tending, even remotely, to show that George S. Donavan intended to convey the title to his farm, or to part with full control of the deed, so long as he lived. Had he, after making the deed and returning to his home, changed his purpose as to the taking of his life, or had he, for any reason, not succeeded in that purpose, it is perfectly clear that he could have canceled the deed without any right of complaint from any source whatever. Up to the moment when he drew his last breath, the same hand that signed the instrument could have destroyed it. The letter to his father, as well as one to the plaintiff, plainly indicated that, so far as the matter of delivery was concerned, he had no thought or intention of a delivery, for any purpose whatever; until after his death. The only words which can be claimed to show an intention to deliver the deed are contained in these letters, which were undivulged during life, and were without legal force or effect when they were communicated as the last words of a dead man ; and the only act that can be claimed as intended in any way to operate as a delivery was the act requested to be done by, the defendant — to have the deed recorded, and to hand it to the plaintiff, after his death.
+On proofs of the facts as narrated in this opinion, the trial court sustained a demurrer to the plaintiff’s evidence. We think the court correctly so ruled. (Stone v. French, 37 Kan. 145; Provart v. Harris, 150 Ill. 40; Lang v. Smith, 37 W. Va. 725.) The plaintiff’s own evidence shows clearly and conclusively that there was no delivery of the deed; that the farm, together with the claimed instrument of conveyance, passed to the heirs at law or the legal representatives of Geo. S. Donavan at the time of his death; and that the plaintiff has neither title to nor right of possession of either land or deed.
+The judgment will be affirmed.
+All the Judges concurring.
