@@ -1,0 +1,28 @@
+---
+court: "Kansas Court of Appeals"
+docket: "558"
+decided: "1899-12-15"
+citations: ["9 Kan. App. 672", "59 P. 175"]
+reporter: "kan-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Atchison, Topeka & Santa Fe Railroad Company, and Aldace F. Walker et al., Receivers, v. John J. Higgins."]
+source_url: "https://static.case.law/kan-app/9/cases/0672-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 350803
+---
+
+# Atchison, Topeka & Santa Fe Railroad v. Higgins
+
+## Majority (Schoonover, J. :)
+
+The opinion of the court was delivered by
+Schoonover, J. :
+John J. Higgins, defendant in error, brought this action against the Atchison, Topeka & Santa Fe Railroad Company to recover damages for injuries alleged to have been sustained by him while in its service as brakeman. Afterward, A. F. Walker, J. J. McCook, and J. C. Wilson, receivers of the railroad, were, by order of the court, made parties defendant with the railroad company.
+The railroad company and receivers filed separate answers, in each of which it was alleged
+“that after the date said injuries are alleged to have been sustained, to wit, on the 14th day of October, 1892, the said plaintiff received and accepted from said defendant, the Atchison, Topeka & Santa Fe Railroad Company, the sum of $125 in full release, discharge and satisfaction of all claims, damages or causes of action arising from said alleged injuries, and in consideration of said sum of money entered into a written contract with said defendant, the Atchison, Topeka and Santa Fe Railroad Company, by the terms and conditions of which he remised, released and forever discharged the said defendant, the Atchison, Topeka & Santa Fe Railroad Company, of and from all manner of actions, causes of action, suits, debts and sums of money, dues, claims and demands whatever in law or equity, which he had, ever had or then had against thé said company by reason of any matter, cause or thing whatever, whether same arose upon contract or tort.”
+Plaintiff replied to this answer, alleging
+“that on the 14th day of October, 1892, he was confined to his bed at the Ottawa hospital for railroad employees of the Atchison, Topeka & Santa Fe Railroad Company, and was at that time under the influence of medicines, opiates, and drugs, and was at that time suffering much physical pain, and was mentally and physically incapacitated from understanding or comprehending or transacting business of any kind; that if plaintiff’s signature was obtained to the pretended contract as set forth in defendant’s answer, purporting to be made on the 14th day of October, 1892, the same was not assented to by this plaintiff; that this plaintiff did not make any contract or settlement for his injuries with said company at any time ; that if plaintiff’s signature was obtained to the pretended instrument as set forth in the defendant’s answer last aforesaid, the same was procured by the defendant fraudulently and with the intent to cheat, wrong and defraud this plaintiff as aforesaid, and was obtained without the knowledge and consent or acquiescence of this plaintiff.”
+Other matters of defense were set out in the answers of defendants and replied to by plaintiff, but we think that the case turns upon the validity of the release executed by plaintiff on October 14, 1892, and it will therefore not be necessary to give such matters further notice.
+The jury, in answer to special questions, found that at the time Higgins signed the release at the Ottawa hospital he was not suffering from narcotics, opiates or any drugs that would affect his consciousness or mind, and that the claim agent of the railroad company read the release to Higgins before giving it to him to sign. Counsel for defendant in error contend that there was evidence tending to prove that at the time Higgins signed the release he was mentally incapacitated from making a valid contract. A careful examination of the record convinces us that this contention is not well grounded. On September 27, 1892, while Higgins was at the Ottawa hospital, he wrote a letter to C. M. Foulks, claim agent of the railroad company, in which he stated that because of injuries received while in the company’s service he was confined to his bed at the hospital, wholly unable to work, with but little prospect for improvement, and that his mother was a widow and wholly dependent upon him for support. The letter closed with a plea to the company for assistance. It was in response to this letter that a representative of the claim department called upon Higgins, who, upon payment by the company of $125, signed the release pleaded by defendants in their answer. It cannot be said that there is any evidence to show mental incapacity at the time Higgins signed the release. Higgins testified that at times he was without mental capacity to understand any business transaction, and that at other times he was all right mentally, with power to understand all that transpired. He did not testify that at the time he signed the release at the hospital he was mentally incapacitated from understanding the nature of the transaction. The substance of his testimony was that he did not remember having signed a release, though he remembered that he received $125 and also other matters connected with the visit of the claim agent at the time the release was signed.
+Under the evidence and special findings, we must hold that the release was valid and binding, and the judgment of the district court will, therefore, be reversed and the case remanded for a new trial.
