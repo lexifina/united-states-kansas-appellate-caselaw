@@ -1,0 +1,44 @@
+---
+court: "Kansas Court of Appeals"
+docket: "68,152"
+decided: "1993-01-08"
+citations: ["17 Kan. App. 2d 794", "844 P.2d 756"]
+reporter: "kan-app-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Briscoe, C.J., Ron Rogg, District Judge, assigned, and E. Newton Vickers, District Judge Retired, assigned."]
+parties: ["In the Matter of the Tax Appeal of Atchison, Topeka and Santa Fe Railway Company."]
+source_url: "https://static.case.law/kan-app-2d/17/cases/0794-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 370538
+cites_cases: ["11 Kan. App. 2d 62", "163 Kan. 458", "234 Kan. 1078", "236 Kan. 450", "236 Kan. 632", "239 Kan. 693", "785 S.W.2d 272", "9 Kan. App. 2d 108"]
+---
+
+# In re the Tax Appeal of Atchison, Topeka & Santa Fe Railway Co.
+
+## Majority (Rogg, J.:)
+
+Rogg, J.:
+This is an appeal from a final order of the Board of Tax Appeals (BOTA), which found that certain purchases made by the Atchison, Topeka and Santa Fe Railway Company (Santa Fe) were not exempt from Kansas compensating use tax pursuant to K.S.A. 1991 Supp. 79-3606(aa) or K.S.A. 79-3704(a), and which denied Santa Fe’s refund claim of $92,591.49.
+Santa Fe transports freight by rail in boxcars and on flatcars in 13 states. It owns railroad work equipment used to repair and maintain its roadbeds and rails. The tax refund at issue involves taxes on purchases of materials used to repair and maintain the work equipment. The taxes paid for taxable periods 1982 through 1987 were the subj'ect of timely filed claims for refund. The claims were consolidated for a hearing before the Director of Taxation. Santa Fe claimed the sales were exempt under 79-3606(aa) and 79-3704(a). The refund request was denied on January 3, 1990. A timely appeal to the BOTA resulted in the Director’s order being affirmed on March 23, 1992, and reaffirmed on April 23, 1992.
+The issue presented to us is whether the orders of the BOTA denying Santa Fe’s refund request are supported by competent and substantial evidence, are contrary to law, and are arbitrary and capricious.
+The issues under both statutes will be considered together. K.S.A. 1991 Supp. 79-3606 provides in pertinent part:
+“The following shall be exempt from the tax imposed by this act:
+(aa) all sales of materials and services used in the repairing, servicing, altering, maintaining, manufacturing, remanufaeturing, or modification of railroad rolling stock for use in interstate or foreign commerce under authority of the laws of the United States.”
+K.S.A. 79-3704 provides in pertinent part:
+“The provisions of this act shall not apply:
+(a) In respect to the use, storage or consumption of any article of tangible personal property brought into the state of Kansas by a nonresident who is within the state for not to exceed sixty (60) days for his or her use or enjoyment while within the state; or by a railroad or public utility for consumption or movement in interstate commerce.”
+The standard of review to be applied by this court in reviewing a decision of the BOTA was restated in In re Appeal of Angle, 11 Kan. App. 2d 62, 64, 713 P.2d 962, rev. denied 239 Kan. 693 (1986) (quoting Sterling Drilling Co. v. Kansas Dept. of Revenue, 9 Kan. App. 2d 108, 109, 673 P.2d 456 [1983], rev. denied 234 Kan. 1078 [1984]):
+“ ‘Two rules are applicable:
+‘1. “A district court may not, on appeal, substitute its judgment for that of an administrative tribunal, but is restricted to considering whether as a matter of law, (1) the tribunal acted fraudulently, arbitrarily or capriciously, (2) the administrative order is substantially supported by evidence, and (3) the tribunal’s action was within the scope of its authority.” [Citation omitted.] ‘2. “The interpretation of a statute is a question of law and it is the function of a court to interpret a statute to give it the effect intended by the legislature.
+“While the administrative interpretation of a statute should be given consideration and weight it does not follow that a court will adhere to the administrative ruling where the statute is clear and the administrative ruling is erroneous. The final construction of a statute rests within the courts.” [Citation omitted.]’ ”
+Santa Fe argues the decision of the BOTA was not supported by substantial competent evidence and was arbitrary and capricious. This contention is based upon the materials being used to repair rolling stock. Santa Fe argues this rolling stock, although repair equipment, is an integral part of the interstate system and therefore is used in interstate commerce.
+K.S.A. 1991 Supp. 79-3606(aa) leads to a two-part inquiry: (1) Whether the equipment is “railroad rolling stock,” and (2) whether it is “for use in interstate . . . commerce.” Both parties agree the materials are used to repair rolling stock and are therefore properly considered “railroad rolling stock.”
+Central to resolution of this appeal is defining “for use in interstate . . . commerce.” Santa Fe urges a broad definition, and the Department of Revenue urges a narrow one.
+“Interstate commerce” describes commercial activity. No doubt, Santa Fe is generally involved in interstate commerce. How far should “for use in” interstate commerce go? The railroad work cars themselves are not used to transport people or goods in interstate commerce. The cars are used to do work so other ears can be used for such purposes. The materials in question are used to repair the work cars. This is too far removed to include the materials under the definition of “for use in interstate . . . commerce.” To hold otherwise would be to give the phrase an overly broad definition.
+It must be kept in mind that the purpose of this act is to tax sales. In interpreting a statutory provision which is “susceptible of more than one construction it must be given that construction which, when considered in its entirety, gives expression to its intent and purpose [citation omitted].” Natural Gas Pipeline Co. v. Commission of Revenue & Taxation, 163 Kan. 458, 466, 183 P.2d 234 (1947). While the specific section, 79-3606(aa), addresses exemptions, the act was' created to impose a tax “in addition to all other occupation or privilege taxes imposed by the state of Kansas or by any municipal corporation or by any political subdivision thereof.” K.S.A. 79-3601. The purpose of the compensating tax, K.S.A. 79-3701 et seq., is to impose a sales tax on materials bought outside Kansas and brought into the state for use, storage, or consumption. See Natural Gas Pipeline, 163 Kan. at 463.
+“The fundamental rule in Kansas is that a tax exemption statute is to be construed strictly in favor of imposing a tax and against an allowance of an exemption for one who does not clearly qualify. [Citation omitted.] The burden of establishing an exemption from taxation is upon the one claiming the exemption. [Citation omitted.]” Director of Taxation v. Kansas Krude Oil Reclaiming Co., 236 Kan. 450, 454, 691 P.2d 1303 (1984).
+“Tax statutes will not be extended by implication beyond the clear import of language employed therein, and their operation will not be enlarged so as to include matters not specifically embraced. The rule of strict construction means that ordinary words are to be given their ordinary meaning. Such a statute should not be so read as to add that which is not readily found therein or to read out what as a matter of ordinary English language is in it. [Citations omitted.]” 236 Kan. at 455.
+An exemption for materials used to repair equipment which is then used to support interstate commerce is not readily found in the language of 79-3606(aa) or 79-3704(a). Express language on the support of interstate commerce is not in the statute. The phrases “for use in interstate . . . commerce” and “for consumption or movement in interstate commerce” should not be considered surplusage. These are limiting phrases on the exemption. “For support of interstate commerce” would be an addition and an expansion of the ordinary meaning of the existing language. The rules of statutory construction lead to the conclusion that these materials should be taxed and are not exempt from taxation. In Kansas, taxation is the rule, exemption is the exception. Exemptions are to be strictly and narrowly construed. Farmers Co-op v. Kansas Bd. of Tax Appeals, 236 Kan. 632, 694 P.2d 462 (1985).
+Santa Fe relies heavily on Burlington Northern v. Director of Rev., 785 S.W.2d 272 (Mo. 1990). Although the case is somewhat factually dissimilar, the majority of the Missouri court gives a broad interpretation to the phrase “for use in interstate commerce.” We do not. The well-reasoned dissent is consistent with our view of the proper interpretation of the clause in the context of this case.
+Affirmed.
