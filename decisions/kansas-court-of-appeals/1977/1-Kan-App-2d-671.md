@@ -1,0 +1,36 @@
+---
+court: "Kansas Court of Appeals"
+docket: "48,987"
+decided: "1977-11-18"
+citations: ["1 Kan. App. 2d 671", "573 P.2d 1096"]
+reporter: "kan-app-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Harman, C.J., Abbott and Spencer, JJ."]
+parties: ["State of Kansas, Appellee, v. Lawrence D. Becker, Appellant."]
+source_url: "https://static.case.law/kan-app-2d/1/cases/0671-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 411969
+cites_cases: ["197 A.2d 678", "205 Kan. 433", "212 Kan. 171", "41 N J. 531", "9 Washburn L.J. 179"]
+---
+
+# State v. Becker
+
+## Majority (Harman, C.J.:)
+
+Harman, C.J.:
+In trial to the court defendant Lawrence D. Becker was convicted of aggravated assault on a law enforcement officer. He appeals from the judgment and sentence imposed.
+As a result of a high speed chase which occurred in McPherson about 11 p.m., June 9, 1976, defendant Becker was first charged with seventeen misdemeanor counts in the county court of McPherson county. When he requested jury trial these charges were dismissed and on the same date, July 6, 1976, fifteen of the counts were refiled in district court, the case being No. 1342. Count XII of case No. 1342 charged that defendant “drove a motor vehicle on the left half of a roadway, to-wit: First Street between Baer Street and Centennial Drive in the City of McPherson. . .
+On July 12, 1976, defendant was arrested on a charge of aggravated assault on a law enforcement officer, which charge subsequently became case No. 1347 in district court. A bill of particulars reveals this charge was based on the incident which was the basis of count XII in case No. 1342 — driving left of center. The prosecution’s evidence in the record discloses that as defendant drove in excess of eighty miles per hour east along the roadway with a deputy sheriff pursuing him, he encountered a highway patrolman in a patrol car, with flashing lights, approaching from the east in defendant’s left lane; when defendant was about 200 feet to one-fourth mile from the approaching patrol car he drove left of center and forced the approaching patrol car almost completely off the roadway. Defendant testified that he did not drive on the left half of the highway immediately before approaching the patrol car and had no intent to harm the officer.
+On December 21, 1976, defendant pleaded guilty to a number of counts in case No. 1342, including the driving left of center charge in count XII. He refused to plead guilty to some of them, including one of drunken driving.
+On March 1, 1977, in trial to the court, defendant was found guilty of aggravated assault on a law enforcement officer in the case at bar (district court No. 1347) and was subsequently sentenced for that offense and for the driving left of center offense as well. This appeal is from the aggravated assault conviction.
+Of defendant’s several points raised on appeal, we consider first his contention of double or former jeopardy. He asserts that by reason of the prior conviction of the driving left of center charge, he could not again be placed on trial on a charge based on the same conduct. We agree.
+Broadly speaking, the fifth amendment to the federal constitution and section 10 of the Kansas Bill of Rights are designed to protect the individual from trial more than once for the same offense. This safeguard was intended to prevent harassment and oppression of the individual by government. The doctrine of double jeopardy generally is now codified in Kansas. For present purposes we need notice only K.S.A. 21-3108(2)(a) [since amended] which provided:
+“(2) A prosecution is barred if the defendant was formerly prosecuted for a different crime, or for the same crime based upon different facts, if such former prosecution:
+“(a) . . . was for a crime which involves the same conduct, unless each prosecution requires proof of a fact not required in the other prosecution. . . .” (emphasis supplied)
+The following has been said respecting this provision:
+. . A common test of the application of double jeopardy is the substantial identity of the former and subsequent offenses, and this is ordinarily measured by the character and effect of the evidence in each case. If the evidence which will support a conviction in the subsequent prosecution would have supported a conviction of the crime charged or an included offense in the former prosecution, then the second prosecution is substantially identical to the former and a conviction or acquittal in the former is a bar. Thus, one cannot be twice prosecuted for crimes involving the same conduct, unless in each prosecution facts must be proven which are not necessary to the other prosecution.” Spring, The Effect of Former Prosecutions: Something Old and Something New Under Kan. Stat. Ann. Sec. 21-3108, 9 Washburn L.J. 179, 185 (1970). (emphasis supplied)
+The foregoing fairly summarizes the quoted portion of our statute. See Jarrell v. State, 212 Kan. 171, 510 P.2d 127, and State v. Pierce, et al., 205 Kan. 433, 469 P.2d 308.
+In the case at bar exactly the same conduct was the basis of two separate prosecutions. In the assault charge, the driving left of center was the threat or attempt to do bodily harm — the overt act under the particular circumstances. According to the state’s evidence, we do not have a situation where early in the chase and prior to the commission of the alleged assault the defendant drove his vehicle on the left half of the highway. Proof of the assault charge would have supported and included the traffic charge. Nothing was needed to be proven in the traffic count which was not necessary in the felony charge. The evidence in the latter would have supported conviction of the former. Thus, defendant could not be convicted of both charges and the latter prosecution must be voided.
+Some jurisdictions have chosen to rule that prosecution of a motorist for one of several offenses arising out of one transaction in connection with the use of the motor vehicle is generally no bar to prosecution for another in the absence of statutes providing otherwise (see 22 C.J.S. Criminal Law, § 295[2]). Our statutes hold otherwise and in the instant case application of the identity test seems fair and just. As indicated, the former jeopardy provisions are designed to prevent governmental harassment and oppression. Also, traditionally, traffic offenses have been tried summarily and informally in police court where no lawyer is present, the magistrate may be an untrained lay person and punishments are minor (see State v. Currie, 41 N J. 531, 197 A.2d 678). Here the county attorney personally filed the misdemeanor charges in district court after defendant requested a jury trial in magistrate court. A fine of $250 was imposed upon his pleas of guilty. Then the felony charge was filed and prosecuted only after defendant refused to plead guilty to all the misdemeanor charges and serve a jail sentence. Defendant refused to plead guilty to a charge of driving while under the influence of intoxicating liquor because, among other things, his blood alcohol test was .09 percent and presumptively he was not guilty (K.S.A. 8-1005[a]).
+The judgment is reversed.
