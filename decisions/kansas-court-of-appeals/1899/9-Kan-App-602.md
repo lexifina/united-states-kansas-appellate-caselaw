@@ -1,0 +1,35 @@
+---
+court: "Kansas Court of Appeals"
+docket: "338"
+decided: "1899-10-12"
+citations: ["9 Kan. App. 602", "58 P. 493"]
+reporter: "kan-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Samuel Bishop v. J. A. Smith et al."]
+source_url: "https://static.case.law/kan-app/9/cases/0602-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 350576
+cites_cases: ["12 Kan. 128", "26 Pac. 456", "3 Pac. 355", "31 Kan. 560", "46 Kan. 103", "6 Kan. 100"]
+---
+
+# Bishop v. Smith
+
+## Majority (Schoonover, J.:)
+
+The opinion of the court was delivered by
+Schoonover, J.:
+The record in this case shows that prior to the commencement of this suit actions had been brought by the Bittman-Todd Grocer Company and the Beckham-Mercer Grocer Company against Samuel Bishop and J. W. Bishop, to recover for goods sold and delivered. Attachments were issued, and a stock of goods, upon which the First National Bank of Eureka and Samuel Bishop held chattel mortgages, and of which they were in possession, was levied upon as the property of J. W. Bishop and Samuel Bishop. The property was sold, and the proceeds, less an amount paid on the mortgage due the bank, retained by the sheriff.
+In their petitions plaintiffs alleged that the Bishops were partners. In their answers J. W. Bishop admitted the sale of .goods to him, and Samuel Bishop denied the partnership and the indebtedness to either of the firms. The questions of partnership and of the indebtedness of Samuel Bishop to either of the firms were adjudicated. The verdict and judgment were for the plaintiffs against J. W. Bishop, and for Samuel Bishop.
+The sheriff having retained the proceeds of the .sale of the goods attached, less the amount paid to the First National Bank, Samuel Bishop, after demand for the remainder of the proceeds in the hands of the sheriff, commenced this action against the sheriff upon his bond, alleging the execution of his mortgage and his special ownership in the goods sold by the sheriff, and setting out the fact that the two Bishops had been sued by the two grocer companies as partners, and that in each suit judgment was obtained against J. W. Bishop and in favor of Samuel Bishop.
+The sheriff answered by general denial:
+“And that J. W. Bishop and Samuel Bishop were partners at the time the attachments were levied ; that the property attached was at the time it was attached the property of said J. W. Bishop and Samuel Bishop as partners ; that the note and mortgage by whiclx Samuel Bishop seeks to recover were made and delivered without consideration ; that at the time of their execution and delivery the said J. W. Bishop was not indebted to Samuel Bishop in any sum, but that said note and mortgage were made and executed with the fraudulent purpose, intention and design of both J. W. Bishop and Samuel Bishop to defraud the creditors of J. W. Bishop.”
+The plaintiff replied by a general denial, and alleged that the judgment in said actions of the Bittman-Todd Grocer Company and Beckham-Mercer Grocer Company against the Bishops, in favor of Samuel Bishop, is res judicata as to the matters pleaded by the defendants in this action.
+After an examination of the record and the case of Atchison, T. & S. F. R. Co. v. County of Jefferson, 12 Kan. 128, relied upon by defendant in error, we are satisfied that several of the matters pleaded by the defendant have beqn fully adjudicated, and that the trial court ex’red in not so finding.
+The grocer companies coxnmenced their actions for goods sold and delivered against the Bishops, alleging a partnership ; they attached a stock of goods on which Samuel Bishop held a mortgage; the goods were sold and the shexiff retained the proceeds. In this action, the partnership of the Bishops and the indebtedness of Saxnuel Bishop to the grocer companies were fully litigated, judgment rendered in favor of Samuel Bishop, and never appealed from. Bishop now commences an action against the sheriff, admitted to be a nominal defendant, representing the grocer companies, for the recovery of the amount claimed to be due him from the sale of the goods, and now retained by the sheriff. The partnership of the Bishops and the amount due the grocer companies, made material issues in this case by the pleadings, were actually litigated and decided in the former suit.
+It is contended that there is not the requisite identity of parties. It is admitted by counsel for defendant in error that the sheriff is only a nominal defendant, representing the grocery companies, plaintiffs in the former action. Upon this question our supreme court, in the case of Ellis v. Crowl, 46 Kan. 103, 26 Pac. 456, said:
+“ The determination of any issue of fact by a court of competent jurisdiction is conclusive upon both the parties and their privies. If the sheriff can avail himself of the bar of the former adjudication, then there is no question but that his sureties are relieved from responsibility. They are only responsible for his default, and any adjudication which exonerates him is equally effectual in releasing his sureties from liability. (Wells, Res. Adj..§ 105.) The matter in controversy here, as presented by the pleadings, was fairly' embraced within the issues of the replevin action ; and as it was there determined by a court of competent jurisdiction, and the judgment then given has been satisfied and discharged, the controversy must be regarded as forever at rest. Public policy and the well-established rules of law forbid that the unsuccessful party should be allowed to renew the contest or con'tinue a litigation which has been once considered and decided.”
+In a further discussion of the principles of res judicata, in the case of Hoisington, Sheriff, v. Brakey, 31 Kan. 560, 3 Pac. 355, Chief Justice Horton quoted from Justice Brewer the following paragraph:
+“The whole philosophy of the doctrine of res adjudicata is summed up in the simple statement that a matter once decided is finally decided; and all the learning that has been bestowed and all the rules that have been laid down have been for the purpose of enforcing that one proposition. One rule fully established is, that you may examine the entire record of the prior action in order to determine what was in fact adjudicated. The inquiry is not limited to the mere formal judgment. It extends to, the pleadings, the verdict, or the findings, and the scope and meaning of the judgment is often interpreted by the pleadings, verdict, or findings. Indeed, to determine the matters which were adjudicated, not only may you look to the entire record, but also in many instances you may resort to parol testimony.”
+From our examination of the entire record, we are satisfied that the question of the partnership of the Bishops, a material issue in the action now reviewed, was litigated and decided in the former suit, and the trial court erred in not so finding.
+The judgment of the district court will be reversed and the cause remanded for a new trial.
