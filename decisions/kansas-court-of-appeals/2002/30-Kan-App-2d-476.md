@@ -1,0 +1,43 @@
+---
+court: "Kansas Court of Appeals"
+docket: "86,583"
+decided: "2002-02-01"
+citations: ["30 Kan. App. 2d 476", "43 P.3d 821"]
+reporter: "kan-app-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Marquardt, P.J., Elliott, J., and Paddock, S.J."]
+parties: ["Bobby G. Robison and Alma Robison, Appellants, v. State of Kansas, Rochelle Chronister, Secretary of Kansas Department of Social & Rehabilitation Services, and Labette County Community College, Appellees."]
+source_url: "https://static.case.law/kan-app-2d/30/cases/0476-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1491333
+cites_cases: ["215 Kan. 316", "246 Kan. 93", "247 Kan. 423", "268 Kan. 319", "270 Kan. 56"]
+---
+
+# Robison v. State
+
+## Majority (Paddock, J.;)
+
+Paddock, J.;
+This is a personal injury action resulting from injuries received by Bobby G. Robison when he slipped and fell in a wet hallway between a swimming pool and a locker room. Bobby and his wife, Alma, appeal the order of summary judgment denying their claims for damages for Bobby’s injury.
+We affirm.
+Bobby had been using the pool during a swimming program sponsored by the Labette County Community College (Labette). The pool was in a building owned by the State of Kansas and housed the Parsons State Hospital (State Hospital). The facility is under the custody and control of the Secretaiy of the Kansas Department of Social and Rehabilitation Services (SRS).
+The defendants’ motion for summary judgment stated that the Robisons’ claims were barred by the Kansas Tort Claims Act (KTCA), K.S.A. 75-6101 et seq., and the recreational land use statute, K.S.A. 2000 Supp. 58-3203, and there was a failure to state a claim under any theory of premises liability. The district court sustained the defendants’ motion but, unfortunately, failed to state on which ground summary judgment was granted.
+The standard of review of summary judgments has recently been stated in Mitchell v. City of Wichita, 270 Kan. 56, 59, 12 P.3d 402 (2000), and will not be repeated here.
+We will first determine if the Robisons’ claims were barred by the KTCA— specifically, the recreational use exception of the Act at K.S.A. 2000 Supp. 75-6104(o), which states:
+“A governmental entity or an employee acting within the scope of the employee’s employment shall not be hable for damages resulting from:
+“(o) any claim for injuries resulting from the use of any public property intended or permitted to be used as a park, playground or open area for recreational purposes, unless the governmental entity or an employee thereof is guilty of gross and wanton negligence proximately causing such injury.”
+“The plain language of the statute makes it clear that immunity exists for any claim for negligendy caused injuries resulting from the use of public property intended for recreational purposes.” Nichols v. U.S.D. No. 400, 246 Kan. 93, 95, 785 P.2d 986 (1990).
+The Robisons contend that the defendants are not excluded from liability under the recreational use exception of the KTCA because the State Hospital swimming pool is not “public property intended or permitted to be used as a park, playground, or open area for recreational purposes.” The Robisons argue that the swimming pool was not “built for members of the public so they would have a place to gather or meet” and it should not be considered public property under the exception. The Robisons opine that the swimming pool was built for the sole purpose of providing services to the residents of the hospital.
+We have no difficulty in determining that the swimming pool at the State Hospital was public property. K.S.A. 2000 Supp. 75-6104(o) does not require the facility to have been built specifically for the recreational use of the public; the statute only requires that it be public property. The fact that the public only had restricted use of the property does not keep it from being public property.
+“Limited access to governmental properly does not mean that the property is not ‘public.’ The government can restrict the times in which public property is used. The government can restrict the way in which public property is used. Governmental entities often charge a fee for entry onto public property. Sometimes admission is altogether denied if another group has already reserved the use of the public property. Even though the government restricts property in these ways, it remains ‘public property. [Citation omitted.]’ ’’ Jackson v. U.S.D. 259, 268 Kan. 319, 323, 995 P.2d 844 (2000).
+Here, the property was used by residents of the State Hospital, by Labette, and under other circumstances when prior use arrangements were made. Bobby was not enrolled as a member of the Labette swimming class. He was attending the class for rehabilitation purposes following knee replacement surgery and had arranged to use the pool as a guest of a swimming student.
+The swimming pool was public property within the meaning of the recreational use exception. The State Hospital allowed members of the public to have access to the pool under a controlled environment and with prior permission. Bobby was a member of the public.
+Next, the Robisons claim summary judgment was improperly granted because a question of fact existed as to whether the swimming pool facility was used for recreational purposes. We disagree. Swimming has been established as a recreational activity for the purposes of K.S.A. 2000 Supp. 75-6104(o). Gonzales v. Board of Shawnee County Comm’rs, 247 Kan. 423, Syl. ¶ 4, 799 P.2d 491 (1990).
+In support of their argument that Bobby’s use of the pool could be classified as nonrecreational, the Robisons compare Bobby’s situation to that of the middle school student in Jackson who was injured while participating in a required physical education class during the course of a regular school day. In Jackson, the Kansas Supreme Court remanded the case to the district court for a determination of whether the premises were intended or permitted to be used for recreational purposes. 268 Kan. at 333.
+Unlike the situation in Jackson, Bobby was not enrolled in a swimming class offered by Labette. In any event, the swimming class was not compulsory for the purposes of education. It was a class offered as a service to the public for recreational and rehabilitative purposes. The superintendent of the State Hospital testified the swimming pool is open for public use for education, rehabilitation, and recreation. At the district court level, the Robisons concentrated their arguments on the fact that the pool was not open to the “general” public rather than whether the pool was used for recreational purposes. In fact, the Robisons admitted the recreational use of the pool when, in response to Labette’s motion for summary judgment, the Robisons stated: “The pool was to be used for recreation of clients at the Parsons State Hospital and Training Center but not for the general public.”
+The Robisons also argue that the injury occurred in the hallway rather than in the swimming pool and that the hallway is not intended or permitted to be used for recreational purposes. The Kansas Supreme Court has already rejected this argument when it applied the KTCA recreational use statute to injuries occurring on the way from a practice field to the locker room. Nichols, 246 Kan. at 97.
+The Robisons next argue that evidence of gross and wanton negligence was presented to overcome the recreational use exception. Wanton conduct is established by the mental attitude of the wrongdoer rather than by the particular negligent acts. Friesen v. Chicago, Rock Island & Pacific Rld., 215 Kan. 316, 322, 524 P.2d 1141 (1974). Wantonness requires that there be a realization of imminent danger and reckless disregard, indifference, and unconcern for probable consequences. 215 Kan. at 323.
+The Robisons have failed to present any evidence of the mental attitude of a wrongdoer which would establish gross and wanton conduct. There was no evidence to establish that any of the defendants’ employees knew about an excess amount of water in the hallway which might cause a fall. The Robisons point out that the employees knew the floor mats had been removed from the hallway. Bobby Robison also knew the mats were no longer in the hallway. The Robisons also failed to allege gross and wanton negligence in the K.S.A. 2000 Supp. 12-105b(d) notice of claim. The Robisons’ argument lacks merit.
+The recreational use exception of the KTCA bars the Robisons’ claim. Thus, we need not consider the remaining issue raised by the parties.
+Affirmed.
