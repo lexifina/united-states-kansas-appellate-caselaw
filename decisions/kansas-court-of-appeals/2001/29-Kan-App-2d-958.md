@@ -1,0 +1,41 @@
+---
+court: "Kansas Court of Appeals"
+docket: "85,895"
+decided: "2001-11-21"
+citations: ["29 Kan. App. 2d 958", "34 P.3d 480"]
+reporter: "kan-app-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Pierron, P.J., Elliott, J., and Wahl, S.J."]
+parties: ["State of Kansas, Appellee, v. David P. Dreier, Appellant."]
+source_url: "https://static.case.law/kan-app-2d/29/cases/0958-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1259759
+cites_cases: ["24 Kan. App. 2d 447", "24 Kan. App. 2d 759", "248 Kan. 369", "248 Kan. 96", "249 Kan. 768", "25 Kan. App. 2d 245", "25 Kan. App. 2d 702", "265 Kan. 888", "266 Kan. 1114", "29 Kan. App. 2d 589"]
+---
+
+# State v. Dreier
+
+## Majority (Elliott, J.:)
+
+Elliott, J.:
+Defendant David P. Dreier appeals the revocation of his probation. We affirm in part, reverse in part, and remand with directions.
+Dreier s contentions require interpretation of statutes over which we have unlimited review. State v. Patterson, 25 Kan. App. 2d 245, 247, 963 P.2d 436, rev. denied 265 Kan. 888 (1998).
+Dreier first contends, based on K.S.A. 2000 Supp. 22-3716(b), the district court was mandated by statute to assign him to a community correctional services program instead of imposing tire sentence originally imposed upon revocation of his probation. He bases his argument on K.S.A. 2000 Supp. 22-3716(b) effective May 25, 2000, which provides in relevant part: ?
+“Except as otherwise provided, no offender for whom a violation of conditions of release or assignment or a nonprison sanction has been established as provided in this section shall be required to serve any time for the sentence imposed or which might originally have been imposed in a state facility in the custody of the secretary of corrections for such violation, unless such person has already at least one prior assignment to a community correctional services program related to the crime for which the original sentence was imposed, except these provisions shall not apply to offenders who violate a condition of release or assignment or a non-prison sanction by committing a new misdemeanor or felony offense.”
+Dreier s crime occurred on August 8, 1997. Thus, in order for K.S.A. 2000 Supp. 22-3716(b) to control this case, that statute must operate retroactively. See State v. Mayberry, 248 Kan. 369, Syl. ¶ 15, 807 P.2d 86 (1991) (criminal penalties in effect at time of offense controls).
+The fundamental rule is that a statutory change operates prospectively except when (1) its language clearly indicates the legislature intended retroactive application, or (2) the statutory change does not prejudicially .affect the substantive rights of the parties and is merely procedural or remedial in nature. State v. Sutherland, 248 Kan. 96, 106, 804 P.2d 970 (1991).
+There is nothing in the language of K.S.A. 2000 Supp. 22-3716(b) which clearly indicates the legislature intended it to operate retroactively. Thus, the question becomes whether the statute is substantive criminal law which either defines a crime or involves the length or type of punishment. Sutherland, 248 Kan. at 106.
+In State v. Freeman, 249 Kan. 768, 771, 822 P.2d 68 (1991), our Supreme Court considered a previous amendment to K.S.A. 22-3716(b) and held “[application of the amended version of22-3716 in the circumstances of the present case would alter the punishment itself’ and, thus, the statute was substantive, not procedural. This same reasoning applies to K.S.A. 2000 Supp. 22-3716(b) because the statute in effect at the time of Dreier’s crime, K.S.A. 22-3716(b) (Furse 1995), does not mandate the district court assign a defendant to a community corrections program before ordering that the defendant serve the original sentence imposed.
+Even if K.S.A. 2000 Supp. 22-3716(b) did apply, the district court did not err. K.S.A. 2000 Supp. 22-3716(b) allows the district court to order the defendant to serve the original sentence imposed without a prior assignment to a community correctional services program “if the court finds and sets forth with particularity the reasons for finding that the safety of the members of the public will be jeopardized or that the welfare of the inmate will not be served by such assignment to a community correctional services program.” In this case, the sentencing court made the finding that the “public safety requires defendant to be committed directly to the Department of Corrections.”
+Under the facts of this case, the district court did not err in ordering that Dreier serve the original sentence instead of assigning him to a community correctional services program.
+We next turn to Dreiers contention that the district court erred in failing to consider placement at Labette Correctional Conservation Camp (Labette).
+A district court cannot impose a prison term without first considering placing the defendant at Labette when the offender is classified in a presumptive nonprison, nondrug grid box. K.S.A. 2000 Supp. 21-4603d(a). Dreiers criminal histoiy and crime severity level placed him in a presumptive probation block on the nondrug sentencing grid.
+The transcript of the sentencing proceeding reveals the district court did not state on the record that it had considered but rejected Labette as placement for Dreier.
+This court has on several occasions held that the failure of a trial court to consider placing defendant at Labette as required by K.S.A. 2000 Supp. 21-4603d(a) requires the sentence imposed be vacated and the matter remanded for resentencing. See, e.g., State v. Schick, 25 Kan. App. 2d 702, 971 P.2d 346 (1998), rev. denied 266 Kan. 1114 (1999); State v. Billington, 24 Kan. App. 2d 759, Syl. ¶ 5, 953 P.2d 1059 (1998); State v. Williams, 24 Kan. App. 2d 447, Syl., 946 P.2d 98 (1997); cf. State v. Adams, 29 Kan. App. 2d 589, 30 P.3d 317 (2001) (holding court need not consider Labette when felony crime, though falling in presumptive probation non-drug grid box, was committed while on assignment to a community correctional services program in another case).
+The State sets forth two responsive arguments. First, it argues the trial court implicitly considered Labette when it stated: “[F]or the protection of the community I believe a placement at the Department of Corrections is a proper one for the sentence to be served as originally ordered.” The State argues this statement implies the trial court considered but rejected Dreier’s placement at any other facility under the jurisdiction of the Secretary of Corrections, other than imprisonment.
+We have previously held “K.S.A. 1996 Supp. 21-4603d(a) is very clear concerning the district court’s duty to consider Labette in appropriate situations and to note its consideration on the record.” Schick, 25 Kan. App. 2d at 704. Even if we accept the State’s argument that the district court implicitly considered and rejected Labette, such implicit consideration is not in compliance with the statute and we must, therefore, reject the State’s argument.
+Second, the State maintains that even if this court concludes the trial court did not consider placement at Labette, the error was harmless because Dreier’s crime was one of a violent nature (severity level 7 aggravated battery) and Dreier suffers from a diabetic condition and depression.
+In Schick, the State argued the defendant “failed to prove that space was available at Labette and that he met all the placement criteria,” and, thus, the district court’s error was harmless. Schick, 25 Kan. App. 2d at 703. We rejected the State’s argument, stating “[t]he statute does not require the defendant to provide the information suggested by the State before the district court considers Labette.” 25 Kan. App. 2d at 703. The court went on to state: “[Sjtrict compliance with K.S.A. 1996 Supp. 21-4603d(a) is mandated .... Any change in this procedure must come from the legislature.” Schick, 25 Kan. App. 2d at 704.
+We agree. The statute requires the trial court to consider Labette on the record. It did not, and in accordance with prior decisions of this court, we must set aside Dreier’s sentence and remand for resentencing for the district court to consider Labette.
+Affirmed in part, reversed in part, and remanded.
