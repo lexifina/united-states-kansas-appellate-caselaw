@@ -1,0 +1,45 @@
+---
+court: "Kansas Court of Appeals"
+docket: "69,165"
+decided: "1993-10-29"
+citations: ["18 Kan. App. 2d 895", "861 P.2d 138"]
+reporter: "kan-app-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Larson, P.J., Royse and Lewis, JJ."]
+parties: ["State of Kansas, Appellee, v. Harvey O’Connell, Appellant."]
+source_url: "https://static.case.law/kan-app-2d/18/cases/0895-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 361489
+cites_cases: ["18 Kan. App. 2d 890", "238 Kan. 326", "243 Kan. 48", "250 Kan. 174", "251 Kan. 43", "252 Kan. 985"]
+---
+
+# State v. O'Connell
+
+## Majority (Royse, J.:)
+
+Royse, J.:
+Harvey O’Connell appeals from the sentence imposed by the district court and the denial of his motion to modify sentence.
+O’Connell pled no contest to three counts of burglary, a class D felony. He waived his rights to a presentence investigation, and the court agreed to impose sentence immediately after accepting the plea. Pursuant to a plea agreement, O’Connell requested and the State recommended a sentence of 3 to 10 years on each count, the sentences to run concurrently. The plea agreement did not address the sentencing presumptions found in K.S.A. 1992 Supp. 21-4606a and K.S.A. 1992 Supp. 21-4606b. The court imposed the sentence requested, without discussing sentencing guidelines, individual characteristics, or the sentencing presumptions.
+O’Connell argues on appeal that the district court committed reversible error when it imposed sentence without considering the presumption of assignment to community corrections pursuant to 21-4606b. O’Connell relies on State v. Turner, 251 Kan. 43, 833 P.2d 921 (1992), which held that in denying the presumptive sentence of assignment to community corrections for a person convicted of a D or E felony, “the trial court must consider the K.S.A. 21-4606 sentencing factors, the need for individualized treatment under K.S.A. 21-4601, and the various aggravating circumstances included in K.S.A. 1991 Supp. 21-4606b.” 251 Kan. at 48.
+The State argues that when a sentence is imposed pursuant to a plea bargain, the controlling authority is not Turner, but State v. Crawford, 250 Kan. 174, 824 P.2d 951 (1992). In Crawford, the defendant had asked the district court to impose sentences as recommended by the parties in a plea agreement. The district court adopted the recommendation and imposed the sentences requested by Crawford. On appeal, Crawford complained that the district court had erred by failing to apply the sentencing policy of individualized treatment under K.S.A. 21-4601 and the sentencing factors under K.S.A. 21-4606. The Supreme Court rejected Crawford’s argument and affirmed the sentences imposed:
+“The defendant received the sentences he bargained for or, in his words, he took advantage of the deal — a deal which included the sentences he received. He is before us on appeal seeking to undo the onerous part of his deal. There is no claim he did not understand what his deal was or the effects thereof. Rather, he claims error in that the court did not apply the statutory factors in imposing the sentences.
+“In State v. Higgins, 243 Kan. 48, 51, 755 P.2d 12 (1988), we stated: ‘It is a general rule that a litigant may not invite error and then complain of that error on appeal.’ However, we believe that under the circumstances herein, there was no error. We conclude that where (1) a plea bargain is knowingly and voluntarily entered into which contains specific sentence recommendations; (2) the defendant urges the district court to impose the recommended sentences; and (3) the district court then imposes the recommended sentences, the defendant shall be deemed to have waived any consideration or application by the district court of the sentencing factors set forth in K.S.A. 21-4601 and 21-4606.
+“The defendant herein did not want the district court to use its discretion and apply the sentencing factors to determine the appropriate sentences. Rather, he sought only acceptance of the sentences for which he had bargained. Having been successful in this endeavor, he cannot now claim abuse of discretion in the district court’s failure to apply the statutory factors in imposing sentence.” 250 Kan. at 177.
+On the surface, this case appears to be identical to Crawford. In both cases, a defendant appeals after receiving the sentence requested as part of a plea bargain. Further examination, however, reveals significant differences between Crawford and the instant case. First, Crawford concerned a defendant convicted of B and C felonies; therefore, the statutory presumption of assignment to community corrections did not come into play in Crawford. Second, in Crawford, the defendant sought to avoid the very sentences he had requested. Here, O’Connell does not appeal from the sentence requested and imposed; O’Connell complains that the trial court failed to address the separate issue whether he should be assigned to community corrections, an issue which was not considered in the plea agreement.
+Put another way, it is clear that the Crawford decision disapproved of a defendant’s arguing on appeal a position at odds with the position asserted in the trial court. O’Connell has not adopted an inconsistent position on appeal; the trial court remained free to apply the presumption of assignment to community corrections even though it had determined that O’Connell’s controlling sentence would be concurrent terms of 3 to 10 years on each count. K.S.A. 21-4603(2)(i). See State v. Fowler, 238 Kan. 326, 710 P.2d 1268 (1985) (after imposing sentence, trial judge may place defendant on probation and make confinement in community corrections residential center a condition of probation).
+The Supreme Court has recently discussed Crawford in State v. Fish, 252 Kan. 985, 850 P.2d 250 (1993). Fish received the sentence recommended according to a plea bargain. He argued that the trial court abused its discretion in denying a motion to modify sentence. The Supreme Court described Fish’s contention as follows:
+“Fish asserts that although his counsel urged the court to follow the sentencing recommendations in the plea agreement, which the court did, Fish did not waive his right to challenge the trial court’s refusal to modify the sentence. He concedes that State v. Crawford, 250 Kan. 174, 177, 824 P.2d 951 (1992), controls any claim of abuse of discretion he might have in the original sentence imposed. In Crawford, we held that when a defendant enters into a plea agreement and urges the trial court to impose recommended sentences and the trial court does so, the defendant is deemed to have waived any consideration or application of the sentencing factors of K.S.A. 21-4601 and K.S.A. 21-4606. However, Fish argues that Crawford should not apply to his motion to modify because the trial court received new information in the SR DC evaluation. According to Fish, the trial court abused its discretion in failing to modify the sentence to the minimum.” 252 Kan. at 987.
+The State responded by arguing that Fish should be bound by the plea agreement on a motion to modify. The State characterized Fish’s argument as an attempt to avoid Crawford.
+The Supreme Court affirmed the trial court’s refusal to modify Fish’s sentence, but held that in appropriate circumstances, a defendant in a plea agreement sentencing case may invoke K.S.A. 1992 Supp. 21-4603(4):
+“K.S.A. 1992 Supp. 21-4603(4) requires the trial court to modify a sentence upon the recommendation of the SRDC unless the court finds and sets forth with particularity the reasons for finding that the safety of members of the public will be jeopardized or that the welfare of the inmate will not be served by such modification. Factual situations may arise in plea-bargained cases where a defendant has received the sentence bargained for and the SRDC report recommends modification of sentence or contains significant new information not previously before the trial court. In such situations, K.S.A. 1992 Supp. 21-4603(4) shall apply.” 252 Kan. at 988.
+In summary, we do not read Crawford to excuse consideration of the statutory presumption of assignment to community corrections when a defendant has requested imposition of a sentence in accord with a plea agreement.
+The majority of this panel is familiar with State v. Vargas, 18 Kan. App. 2d 890, 861 P.2d 135 (1993), and does not consider its analysis to be persuasive.
+For these reasons, the rule announced in Turner remains applicable. The trial court erred by failing to consider the presumption of assignment to community corrections in this case.
+In light of this conclusion, we need not address the other issues raised by O’Connell.
+The sentence is vacated, and the case is remanded for re-sentencing.
+
+## Dissent (Lewis, J.,)
+
+Lewis, J.,
+dissenting: I am compelled to dissent from the majority opinion. My dissent is based upon the reasoning set forth in our recent decision in State v. Vargas, 18 Kan. App. 2d 890, 861 P.2d 135 (1993).
