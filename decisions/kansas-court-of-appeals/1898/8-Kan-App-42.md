@@ -1,0 +1,28 @@
+---
+court: "Kansas Court of Appeals"
+docket: "359"
+decided: "1898-08-15"
+citations: ["8 Kan. App. 42"]
+reporter: "kan-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Clay Wood v. John K. Cross et al."]
+source_url: "https://static.case.law/kan-app/8/cases/0042-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 376484
+cites_cases: ["102 Mo. 394", "14 S. W. 381", "29 Kan. 765", "35 N. E. 1025", "35 S. C. 531", "46 Pac. 705", "57 Kan. 393", "8 Ind. App. 461"]
+---
+
+# Wood v. Cross
+
+## Majority (Milton, J.:)
+
+The opinion of the court was delivered by
+Milton, J.:
+Clay Wood brought this action against John ,K. Cross, Edson Wiggins, Harriet Bohanna, Freddie Bohanna, Arthur F. Bohanna and Sidney W. Bohanna to recover the sum of $710.55, as damages for breach of a covenant of warranty in a deed executed by Jeremiah Bohanna, deceased, and the defendant Harriet Bohanna, his wife, conveying certain real estate in Sumner county. The defendants Freddie Bohanna, Arthur F. Bohanna, and Sidney W. Bohanna, the children and heirs of the decedent, demurred to the petition, and the ruling of the court sustaining the demurrer is assigned as the only ground of error in these proceedings.
+While the petition is criticized as not containing a sufficient statement of plaintiff's cause of action, we think it either directly or by necessary inference sets forth a cause of action for breach of the covenant of warranty and contains sufficient facts to show the liability of the heirs of the deceased covenantor to respond in damages. The prayer of the petition is not in the proper form, but that does not furnish ground for a demurrer. (Hiatt v. Parker, 29 Kan. 765.) It was alleged that Jeremiah Bohanna died intestate and that his estate was administered, and property alleged to be worth $10,000 distributed and set apart by the probate court of Sumner county to the heirs, parties defendant herein, prior to the commencement of an action against the plaintiff, wherein a judgment of eviction was rendered, he then being in possession of the land ; and that after such judgment of eviction plaintiff purchased the paramount title. It was further alleged that before the commencement of that action the administrator of the estate of Jeremiah Bohanna made final settlement and distribution of such estate. We think it must be held that the plaintiff was entitled to recover as against the heirs of the deceased covenantor, provided the cause of action was not barred by the statute of limitations. In Rohrbaugh v. Hamblin (57 Kan. 393, 46 Pac. 705), the second paragraph of the syllabus reads :
+“Although by the common law of England heirs are not bound by a covenant of warranty of their ancestors unless expressly named therein, and then only to the extent of the assets received by descent, yet in this state, when, after all the assets have been converted into money and distributed to the heirs, an obligation of the ancestor matures, such heirs may be compelled to refund to the claimant so much of what they have received as shall be sufficient to satisfy the obligation.”
+To the same effect are the following cases: Harmon v. Dorman et al., 8 Ind. App. 461, 35 N. E. 1025; Colton v. Galbraith, 35 S. C. 531; Foote v. Clark, 102 Mo. 394, 14 S. W. 381.
+The allegation that assets of the estate of the value of $10,000 had been distributed to the widow and three children of the decedent is sufficient to'show that each of the heirs received more than the amount of the plaintiff's claim, since the distribution was made according to law. The judgment of eviction was rendered February 11, 1887, and on the same day the plaintiff purchased the paramount title. This action was begun on October 3, 1890. Was the plaintiff's cause of action then barred ? Defendants in- error contend that this action is on an implied contract and that the three-year limitation applies, while the plaintiff in error insists that the action is on a contract in writing' and that the five-year limitation governs. Among other provisions of section 12, chapter 95, of the General Statutes of 1897 (Gen. Stat. 1889, ¶"4095), relating to the time of commencing civil actions other than those relating to real property, is the following : “Sixth, An action for relief not hereinbefore provided for can only be brought within five years after the cause of action shall have accrued.” This action is based on the covenant of warranty, a written contract. It was said in Rohrbaugh v. Hamblin, supra, that the beneficiaries of an estate are not personally liable in an action at law on a covenant of their ancestor, but can only be held to the extent of the assets received from the estate, and that the action should be equitable in form to subject the assets received by the beneficiaries to the payment of the debt.
+As against the covenantor, this action might have been brought at any time within five years after the breach of the covenant, and his estate would have been diminished to the extent of the recovery in such action. Why should not his estate which has been distributed to his heirs under the law be chargeable for a like period with liability for damages arising from a breach of his covenant ? We think that, under the first paragraph of said section, the action could have been brought at any time within five years from the date of the judgment of eviction. It is possible that paragraph 6 also covers a case of this character.
+It-follows that the order of the district court sustaining the demurrer to the plaintiff’s petition was erroneous. It will be reversed, and the case remanded for further proceedings.
