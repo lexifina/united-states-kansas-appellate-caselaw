@@ -1,0 +1,46 @@
+---
+court: "Kansas Court of Appeals"
+docket: "85,897"
+decided: "2001-09-14"
+citations: ["29 Kan. App. 2d 784", "31 P.3d 313"]
+reporter: "kan-app-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Gernon, P.J., Brazil, S.J., and John J. Bukaty, Jr., District Judge, assigned."]
+parties: ["Valda L. Fletcher, Plaintiff/Garnishor/Appellee, v. Jed Anderson, Defendant, v. Farm Bureau Mutual Insurance Company, Inc., Garnishee/Appellant."]
+source_url: "https://static.case.law/kan-app-2d/29/cases/0784-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1259750
+cites_cases: ["227 Kan. 489", "262 Kan. 234", "262 Kan. 587", "268 Kan. 121", "27 Kan. App. 2d 276", "27 Kan. App. 2d 700", "270 Kan. 898"]
+---
+
+# Fletcher v. Anderson
+
+## Majority (Gernon, J.:)
+
+Gernon, J.:
+Farm Bureau Mutual Insurance Company, Inc., (Farm Bureau) appeals the denial of its motion for attorney fees and expenses it had requested to be paid by Valda Fletcher.
+The history of this case spans a period of over a decade and is detailed in a well-reasoned opinion by Judge Lewis in Fletcher v. Anderson, 27 Kan. App. 2d 276, 3 P.3d 558 (2000) (Fletcher I).
+Fletcher I concerned whether Farm Bureau was bound by a consent agreement it had not agreed to or participated in negotiating. This court ruled that Farm Bureau did not act unreasonably or in bad faith in refusing to pay the amount of the consent judgment. 27 Kan. App. 2d at 289. We ordered the case remanded with directions to enter summary judgment in favor of Farm Bureau. 27 Kan. App. 2d at 290-91.
+Armed with our opinion, Farm Bureau moved for attorney fees. The trial court entered summary judgment in favor of Farm Bureau but denied its request for attorney fees. The trial court found that good cause existed for Fletcher to controvert Farm Bureau’s answer to an order of garnishment.
+The statute involved, K.S.A. 2000 Supp. 60-721(a)(5), reads: “[I]f the answer of a garnishee is controverted without good cause, the court may award the garnishee judgment against the party controverting such answer damages for his or her expenses, including reasonable attorneys’ fees, necessarily incurred in substantiating the same.” (Emphasis added.)
+Although not defined within 60-721(a), the phrase “without good cause” is equivalent to the phrase “without just cause or excuse,” which has been defined by our Supreme Court.
+The phrase “without just cause or excuse” is used in K.S.A. 40-256, a statute dealing with attorney fees in actions relating to insurance policies. K.S.A. 40-256 provides, in part:
+“That in all actions hereafter commenced, in which judgment is rendered against any insurance company ... if it appear from the evidence that such company, society or exchange has refused without just cause or excuse to pay the full amount of such loss, the court in rendering such judgment shall allow the plaintiff a reasonable sum as an attorney’s fee for services in such action, including proceeding upon appeal, to be recovered and collected as part of the costs.” (Emphasis added.)
+The language “without just cause or excuse” has been interpreted to mean that the denial of the claim was frivolous, unfounded, and “ ‘patently without any reasonable foundation.’ ” Hartford Cas. Ins. Co. v. Credit Union 1 of Kansas, 268 Kan. 121, 131, 992 P.2d 800 (1999) (quoting Clark Equip. Co. v. Hartford Accident & Indemnity Co., 227 Kan. 489, 494, 608 P.2d 903 [1980]).
+Attorney fees must be denied “when there existed a good faith legal controversy as to liability.” Clark Equip. Co., 227 Kan. at 494. “If there is a bona fide and reasonable factual ground for refusing to pay a claim, attorney fees are not awardable.” 227 Kan. at 494. What rises to the level of an insurance company’s refusal to pay “without just cause or excuse” under K.S.A. 40-256 varies with each case. 227 Kan. at 493-94.
+. “The assessment of costs and attorney fees lies within the sound discretion of the trial court, and its determination will not be reversed on appeal absent a showing of an abuse of discretion. If any reasonable person would agree with the trial court’s decision, appellate courts will not disturb the trial court’s decision. [Citation omitted.]” In re Estate of Mater, 27 Kan. App. 2d 700, 711, 8 P.3d 1274, rev. denied 270 Kan. 898 (2000). This is an extraordinarily high standard.
+Fletcher I held that it would be a “miscarriage of justice” to find that Farm Bureau should be bound by the consent agreement. 27 Kan. App. 2d at 287. The opinion further found that the judgment in Fletcher I was not arrived at in good faith. 27 Kan. App. 2d at 290. However, nowhere in Fletcher I was it stated that Fletcher’s controverting of Farm Bureau’s answer was frivolous, unfounded, or unreasonable.
+The record discloses that Fletcher based her assertions on a prior trial, which attached a portion of fault to Jed Anderson. Under these circumstances, it was not unreasonable for Fletcher to look to Anderson’s insurer for some or all of the judgment, however it had been arrived at.
+We note also that Farm Bureau, in filings with this court in the previous appeal, wrote that this was a case of first impression and a good-faith controversy.
+Given the rulings and the filings before us, we cannot hold that the trial court abused its discretion in denying attorney fees and costs.
+Farm Bureau next argues that the district court erred in finding that the advice of counsel is a defense to a claim for attorney fees under K.S.A. 2000 Supp. 60-721(a)(5).
+The district court made the following findings of fact: Fletcher was represented by a very capable attorney who is acknowledged as an expert in this type of litigation, Fletcher relied on the advice of counsel when controverting Farm Bureau’s answer, and Farm Bureau filed a motion for attorney fees and expenses on the ground that the controversion of the answer was without good cause.
+The court concluded that good cause existed for Fletcher to controvert the answer. The court stated that several motions for summary judgment were ruled on in favor of Fletcher and against Farm Bureau. The court stated that the testimony of Craig Kennedy, a witness for Fletcher, affirmed the court’s opinion on the matter.
+Fletcher’s reliance on the advice of counsel would not absolve Fletcher if her reply had been filed “without good cause.” The district court’s finding regarding Fletcher’s reliance on the advice of counsel does, however, further support the notion that good cause existed to controvert the answer. Even though Fletcher ultimately failed, her attorney, a touted expert in insurance litigation, believed that Fletcher had a vahd claim against Farm Bureau. This does, contrary to Farm Bureau’s assertions, bolster the finding that Fletcher had good cause to controvert Farm Bureau’s answer.
+Farm Bureau also argues that the district court erred by allowing testimony at the hearing on its motion for attorney fees and expenses that it claims impeached this court’s previous ruhng in Fletcher I and invaded the province of the court.
+The testimony complained of was given by Kennedy. Fletcher’s counsel asked Kennedy, an attorney in the field of insurance litigation for 20 years, to give an expert opinion with regards to whether Fletcher had good cause to controvert Farm Bureau’s answer. Farm Bureau lodged an objection, which was overruled, and Kennedy testified that his opinion was that Fletcher’s reply was with good cause. Kennedy was allowed to explain his opinion and include case law to support his position.
+“ The admissibility of expert testimony is a matter to be determined by the trial court in the exercise of its discretion.’ . . . [Citations omitted.]” City of Dodge City v. Hadley, 262 Kan. 234, 239, 936 P.2d 1347 (1997). “Judicial discretion is abused when judicial action is arbitrary, fanciful, or unreasonable, which is another way of saying that discretion is abused only where no reasonable person would take the view adopted by the trial court.” Smith v. Printup, 262 Kan. 587, 592, 938 P.2d 1261 (1997).
+K.S.A. 60-456(b) states that if a witness testifies as an expert, such testimony in the form of opinions or inferences is limited to such opinions as the judge finds are: “(1) based on facts or data perceived by or personally known or made known to the witness at the hearing and (2) within the scope of the special knowledge, skill, experience or training possessed by the witness.” Unless the judge excludes the testimony, K.S.A. 60-456(c) states that “he or she shall be deemed to have made the finding requisite to its admission.”
+By allowing Kennedy’s testimony, the court is deemed to have made the findings required by K.S.A. 60-456(b) requisite to its admission. Such testimony is not objectionable because it embraced the ultimate issue of whether Fletcher had good cause to controvert Farm Bureau’s answer. See K.S.A. 60-456(d). The testimony was helpful to the court in understanding the facts of the case and in determining what constituted good cause. The testimony did not impeach this court’s prior ruling or invade the province of the court. The trial court did not abuse its discretion in allowing Kennedy’s testimony.
+Affirmed.
