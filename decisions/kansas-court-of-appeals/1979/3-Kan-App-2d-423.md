@@ -1,0 +1,36 @@
+---
+court: "Kansas Court of Appeals"
+docket: "49,997"
+decided: "1979-06-15"
+citations: ["3 Kan. App. 2d 423", "596 P.2d 171"]
+reporter: "kan-app-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Spencer, P.J., SwiNEHARTand Meyer, JJ."]
+parties: ["Biggs Feed and Grain, Inc., A Corporation, Appellant, v. The City of Waverly, Kansas, A Municipal Corporation, Appellee."]
+source_url: "https://static.case.law/kan-app-2d/3/cases/0423-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 388791
+cites_cases: ["1 Kan. App. 2d 64", "101 Kan. 463", "168 Pac. 316", "219 Kan. 499", "223 Kan. 477"]
+---
+
+# Biggs Feed & Grain, Inc. v. City of Waverly
+
+## Majority (Per Curiam:)
+
+Per Curiam:
+In an action seeking to quiet title, appellant, Biggs Feed and Grain, Inc. (plaintiff), appeals that part of the trial court’s order granting appellee, City of Waverly, a municipal corporation (defendant City), summary judgment as to certain easements obtained by prescription.
+The tracts claimed by defendant City are: a portion of Pierson Street; a portion of Dane Street; and a portion of Water Street transgressing the southeastern corner of plaintiff’s property. The trial court’s judgment recites plaintiff relinquished its claim to the portion of Pierson Street at trial and no issue is raised as to that property.
+Plaintiff raises several issues essentially contending that defendant City’s alleged prescriptive interest was not adverse, not exclusive and not under a belief of ownership. Since this was a summary judgment proceeding, the issue becomes whether the pleadings, depositions, answers to interrogatories and admissions on file demonstrate there are no genuine issues as to any material fact. Pedi Bares, Inc. v. First National Bank, 223 Kan. 477, Syl. ¶ 1, 575 P.2d 507 (1978).
+The basic elements of prescription were set out in Shanks v. Robertson, 101 Kan. 463, 465, 168 Pac. 316 (1917):
+“In 37 Cyc. 21, this language is found:
+‘To establish a highway by prescription the land in question must have been used by the public with the actual or implied knowledge of the landowner, adversely under claim or color of right, and not merely by the owner’s permission, and continuously and uninterruptedly, for the period required to bar an action for the recovery of possession of land or otherwise prescribed by statute. When these conditions are present a highway exists by prescription; otherwise not.’ ”
+The requirement traditionally plaguing the courts is determining when public use is adverse to the landowner’s property interests. In Kratina v. Board of Commissioners, 219 Kan. 499, 548 P.2d 1232 (1976), the Court held that in establishing a public road by prescription there must be some action, formal or informal, by public authorities indicating their intention to treat the road as a public one. Mere use by the traveling public was held not to be enough to establish either that the use is adverse or that the public has accepted an implied dedication. In examining prior cases, the Court found and adopted a common fact as controlling:
+“In each it was held that only when the public officials took steps to improve or maintain the road was there evidence clearly establishing that the public looked on the road as a public way and used it as a matter of claimed right.” (Emphasis added.) 219 Kan. at 504.
+In the present case the affidavits on file supporting defendant City’s motion for summary judgment establish that the roads in question had been in existence for at least 46 years; that defendant City expended public funds and labor on the streets during the previous 19 years; that city employees provided the following services on the streets during the. previous 19 years: grading, ditching, rocking, repairing, mowing and snow removal; and that no other instrumentality other than defendant City had provided maintenance or repairs to the streets. No counter affidavits or depositions were filed by plaintiff and under well-established rules of summary judgment the above affidavits established the essential elements of defendant City’s prescriptive claim:
+“When a road is worked by public authorities the owner is chargeable with the knowledge that they do so under a claim of right. If they do so for the prescriptive period we may then, if need be, either indulge in the fiction of a lost grant, or rely on the presumption of a prior legal proceeding . . . .” 219 Kan. at 505.
+Plaintiff challenges the court’s findings that the Dane Street property is 80 feet wide and that the Water Street property is 60 feet wide. Although admitting that the court relied on the plat of the city filed by defendant City in its motion for summary judgment, plaintiff contends certain photographs of the streets involved demonstrate the court’s findings are without basis. However, the photographs referred to contain no objective measurements and were offered along with plaintiff’s motion for new trial after summary judgment had been entered. Upon defendant City’s motion for summary judgment, plaintiff could not merely rely upon the allegations in its pleadings but was under an affirmative duty to come forward with something of evidentiary value to support its position. Winters v. Kansas Hospital Service Assn, Inc., 1 Kan. App. 2d 64, 67, 562 P.2d 98 (1977). Having failed to do so, the trial court was justified in basing its findings upon uncontroverted evidence.
+None of the court’s orders in this matter reflect that plaintiff’s exhibits 1-7 (the photographs mentioned above) were admitted into evidence, although it seems apparent they were considered by the trial court. As we have noted above, no measurements are shown in connection therewith and we conclude that if the trial court considered these pictures, it did so in determining that improvements were in fact made by the defendant City to these streets. Thus considered they do not detract from the trial court’s judgment herein.
+Plaintiff, in part, relies upon the Pipe Line License granted by the Atchison, Topeka and Santa Fe Railway Company to the City of Waverly dated May 2, 1964, as basis for an allegation that the defendant City on that date, in effect, acknowledged plaintiff’s predecessor’s title. Defendant City, on the other hand, uses Exhibit “A” of the same instrument (a diagram of the area showing the location of the pipeline) for its position herein in that said instrument contained the following language: “Crossing is entirely within the limits of an open public road.” In this regard defendant City’s emphasis on this sole sentence is exaggerated. However, we note that the easement claimed by the defendant City in the disputed area was for a water pipeline, and that the court’s journal entry of judgment concludes that the City has acquired by prescription a public easement over such land. We conclude this easement is for road purposes and could not be held to include the underground water pipeline. In other words, plaintiff still owns this land except that it is subject to right of way easements.
+In view of the foregoing, a discussion of plaintiff’s issue as to the court’s alternative holding regarding inverse condemnation is deemed unnecessary.
+Affirmed.
