@@ -1,0 +1,31 @@
+---
+court: "Kansas Court of Appeals"
+docket: "65"
+decided: "1896-02-14"
+citations: ["2 Kan. App. 550"]
+reporter: "kan-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["All the Judges concurring."]
+parties: ["A. J. Ream v. R. Sauvain et al."]
+source_url: "https://static.case.law/kan-app/2/cases/0550-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 342216
+cites_cases: ["52 Kan. 139"]
+---
+
+# Ream v. Sauvain
+
+## Majority (Garver, J. :)
+
+The opinion of the court was delivered by
+Garver, J. :
+This action was brought by A. J. Ream against R. Sauvain, as principal, and Benjamin Gus-tin and Ellen Gustin, as sureties, on a note executed by the defendants to the plaintiff under date of November 23,1889, for the sum of $258.92. The defendants, in defense, alleged that the only consideration for the note was the illegal promise of Ream to desist from the further prosecution of a criminal case which he had instituted against Sauvain before a justice of the peace of Smith county on a charge of embezzlement. Trial was had before the court without a jury, and a general finding made by the court in favor of the defendants, upon which judgment was rendered.
+The evidence shows that, for some months prior to the date when the note was given, Sauvain was in the employ of Ream and in charge of his harness shop in said county; that on November 20, 1889, Ream made complaint, under oath, before one H. H. Reed, a justice of the peace of said county, charging the said Sauvain with unlawfully and feloniously embezzling certain goods and money, of the value of $200, the property of the complaining witness ; that on such complaint Sauvain was arrested, and gave his recognizance for his appearance before said justice on November 25, for a preliminary examination ; that after his arrest and prior to November 25, negotiations ■were had between Ream and Sauvain for a settlement of their differences, which resulted in the execution of the note in question and the dismissal of the criminal prosecution. Upon the trial of this case, the principal controversy was as to the consideration of the note, the plaintiff contending that the sole consideration was the settlement of Sauvain's civil liability for the goods alleged to have been appropriated by him, while the defendants claimed that the only consideration and inducement for the giving of the note was the promise of Ream to dismiss the criminal case, and not further to prosecute Sauvain on account of the alleged embezzlement. On the part of the defendants, there was testimony to the effect that the settlement of the civil liability did not enter into the transaction ; that, in fact, Sauvain was not indebted to Ream in any such amount; and that Ream, as the inducement for giving the note, among other things, said :
+“ I won’t prosecute this case any further. I will see that the costs are paid and release you. . . . There is only two things you can do — you can sign that note, or I will send Rud (meaning Sauvain) over the road. . He said that he would dismiss the case and see that the costs were paid, and he would prosecute it no further. ... If you do n’t do that, I will send him to the penitentiary in spite of h — 1 and d — n.”
+Benjamin G-ustin further testified :
+“I says, ‘Jack [meaning Ream], I don’t like to sign this note at all,’ and I says, ‘I would not do it under no other consideration whatever, only to save Rud, as you say — to save him from going to the penitentiary.’ . . . My understanding all the time was, that that was to stop this criminal suit by the signature of myself and Andy, or my wife, on that note, and for no other reason.”
+The plaintiff’s testimony was equally positive that he only demanded the note as payment and settlement of the actual losses sustained by him by reason of the wrongful appropriation of his property by Sauvain. Upon this conflicting testimony, the court found in favor of the contention of the defendants, and that the note was, consequently, void. This finding and conclusion were sustained by the evidence.
+Plaintiff’s contention is that the decision is erroneous, even conceding the truth of the allegations of the defendants’ answer and the evidence introduced in its support. The argument of counsel for plaintiff in error, as presented in their brief, seems to be based upon the assumption that the defense was duress in the execution of the note, and they cite a large number of decisions upon the proposition that the lawful arrest and imprisonment of a person, or the threat to effect his lawful arrest, does not constitute such duress as will avoid a contract which was induced by such arrest or threat. We are not furnished with a brief for the defendants in error, and do not know what their theory of the issues to be tried may have been. We think, however, it is clear that the defense presented was not duress, but illegality of consideration. These defenses may coexist, but there is no necessary connection between them. Illegality of consideration may be successfully pleaded against one attempting to enforce an executory contract, without regard to duress or other elements of the contract, or other circumstances surrounding the parties to it. Hence, the merits of the criminal charge against Sauvain do not enter into this controversy. But, the prosecution having been instituted, the interests of the public demanded that it should be investigated, and not used in barter for the private gain of the prosecutor; and his promise or agreement to stifle the prosecution furnished no valid consideration for the note, nor will the law aid him in its collection. This is so though a part of the consideration of the note may have been the settlement of the civil liability of Sauvain ; for the entire consideration would even then be tainted by the illegal promise. Of course Ream had the right, notwithstanding the arrest and prosecution of Sauvain, to settle with him for the value of any goods taken; but the evidence tends to show, and the court has found, that he did more than that. The consideration of the note being illegal, the plaintiff’s action must fail. (Friend v. Miller, 52 Kan. 139.)
+The judgment is affirmed.
+All the Judges concurring.
