@@ -1,0 +1,24 @@
+---
+court: "Kansas Court of Appeals"
+docket: "322"
+decided: "1898-06-20"
+citations: ["7 Kan. App. 302"]
+reporter: "kan-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["John H. Butts v. The Board of County Commissioners of Geary County et al."]
+source_url: "https://static.case.law/kan-app/7/cases/0302-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 382352
+---
+
+# Butts v. Board of County Commissioners
+
+## Majority (Mahan, P. J. :)
+
+The opinion of the court was delivered by
+Mahan, P. J. :
+John Balsinger, one of. the defendants in error, presented a petition to the board of county conimissioners of Geary county for the establishment of a highway, under the provisions of paragraph 5502 of the General Statutes of 1889 (Gen. Stat. 1897, ch. 154, § 38). Prior to that time the plaintiff' had attempted to proceed under paragraph 5511, but had abandoned the proceedings. The petition was signed by Balsinger only. The board appointed viewers, and had proceeded as far as it had any jurisdiction under tlxe petition by the appointxnent of viewers. These facts are alleged in the petition ; aud it is further alleged that the viewex’s threaten to make a view of the premises of the plaintiff for the purpose of locating the proposed highway ; that Balsinger had appeared before the board and had undertaken to pay the expenses of the establishment of the highway; that upoix this understanding the board had acted in appointing the viewers ; and that the establishment of the'road woxxld result in great damage to the lands of the plaintiff, Butts. The petition further alleges that the board of commissioners acted without jurisdiction, because the petition was signed by Bolsingexalone, and that therefore the viewers were without jixrisdiccion.
+The court sustained ademux-rer to this petition upon the ground that it did xxot state facts sufficient to entitle the plaintiff to an injunction restraining the viewers from making a view and the commissioners from considering and acting upon the report of the viewers. Section 29 contexnplates a petition sigxxed. by the person alone whose premises come within the provisioxxs of that section, and a petition signed by such person alone gives the board of commissioners-jurisdiction to act in the premises. It cannot be assumed that the commissioners will act in violation of law. The only thing the viewer^, could do would be to examine the px’emises and report, under the provision of the road law, whether the line of road proposed by the petition was practicable and of public-utility. It would then be the' duty of the board to determine whether the conditions to be overcome would justify the expenditure of the amount of damages that the viewers found woxxld necessarily be incurred by the establishxnent of the highway. Assuming that the viewers were acting without authority of law, anything that they could do would constitute merely a naked trespass ; and if they should trespass upon the plaintiff’s premises, the law affords an adequate remedy, without the interposition asked of the court by way of injunction. Until these viewers report favorably on the establishment of a highway, that is, that it is practicable and of public utility, the •commissioners have no authority to proceed further, and it cannot be assumed that they would proceed without such a report. So that, upon the whole, the plaintiff’s premises were not threatened by any such trespass as was likely to result in the establishment of an easement contrary to law and against his consent. In other words, the petition did not present such facts as-would authorize the court to grant the relief asked.
+It is contended that the petition duly disclosed the fact that it was an attempt to appropriate private property to private use, and not to establish a public highway. The allegations of the petition are not sufficient to sustain a holding by the court that the commissioners were about to appropriate the property of the plaintiff for a private use. The mere fact that the petitioner, Balsinger, had agreed in any event to pay the costs of the proceeding, instead of agreeing to pay them in the event .that his petition was denied, does not justify the court in holding, or assuming, that the commissioners would eventually proceed further in the case without lawful authority to do so. Under the provisions of section 29, to authorize the commissioners-to proceed, the viewers must report the same state of facts that must be shown by their report in the establishment of a highway under the prior provisions of the chapter; .and the commissioners must be assumed to know this to be their duty, and to intend to conform their proceedings to it.
+The district court did not err, consequently, in sustaining the demurrer to the petition, and its judgment must be affirmed.
