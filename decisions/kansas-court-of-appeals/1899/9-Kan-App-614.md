@@ -1,0 +1,31 @@
+---
+court: "Kansas Court of Appeals"
+docket: "744"
+decided: "1899-10-12"
+citations: ["9 Kan. App. 614", "58 P. 492"]
+reporter: "kan-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["John Fernie v. The Chicago, Rock Island & Pacific Railway Company."]
+source_url: "https://static.case.law/kan-app/9/cases/0614-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 350687
+cites_cases: ["109 N. C. 52", "11 S. E. 734", "13 S. E. 734", "21 Pac. 809", "34 Kan. 158", "43 Pac. 1131", "56 Kan. 526", "8 Pac. 138"]
+---
+
+# Fernie v. Chicago, Rock Island & Pacific Railway Co.
+
+## Majority (Milton, J.:)
+
+The opinion of the court was delivered by
+Milton, J.:
+In 1893 the defendant in error proceeded under the statute to condemn and appropriate a right of way for its railroad over and across the premises of the plaintiff in error, described as the northeast quarter of section 7, township 26 south, range 10 west, in Reno county. From the award of damages in. the condemnation proceedings Fernie duly prosecuted an appeal to the district court of that county, claiming in his petition damages in the sum of $1500 ; $500 being for the land taken for the right of way and $1000 for injury to the land not taken. The railroad company answered by a general denial. The jury returned a verdict in favor of Fernie, awarding him damages in the sum of $203.10. Fernie filed a motion for a new trial, which was overruled, and judgment was entered upon the verdict.
+At the trial the following state of facts was shown : The Chicago, Kansas & Nebraska Railway Company, prior to constructing its line of railroad upon the right of way in question, had purchased such right of way from the mortgagor in possession of the above-described tract of land, and the railroad has been continuously operated over and across the same from some time in the year 1887 by that company and its successor, the Chicago, Rock Island & Pacific Railway Company, defendant below; the mortgage was foreclosed in 1892, both of the railroad companies being parties to the foreclosure action, and in December of that year the mortgaged land was sold, and at the request of the defendant in error the part of the tract outside of the right of way was first sold and thereafter the right of way, both being purchased by Fernie. The sale was duly confirmed by the court and a sheriff’s deed issued and delivered to the purchaser. Shortly thereafter the condemnation proceedings out of which this action grew were begun, the awarded damages being $100 for the land taken, and $100 for the land not taken. The only improvements .on the strip of land occupied as the right of way were those put there by the railroad company. On the trial the plaintiff sought to prove damages to the tract outside of the strip taken in the condemnation proceedings, but the court refused to receive the offered proof. He further offered to prove as a part of his case the value of the rails, ties and other paterials attached to the right of way and forming a part of the line of defendant’s railway, but the court held the offered evidence to be inadmissible.
+Plaintiff in error renews in this court the contention which was expressly overruled by the trial court, namely, that he is entitled to recover damages for the value of the strip of land occupied by the right of way, with all the improvements thereon, and damages for injury to the tract as a whole. The first contention must be upheld under the authority of the decision in Briggs v. C. K. & W. Rld. Co., 56 Kan. 526, 43 Pac. 1131, wherein the second paragraph of the syllabus reads:
+“After A. had mortgaged a tract of land, he executed a deed to a railroad company for a strip across the same, and the company constructed its railway, erected a depot, and made other improvements upon said strip. The assignee of the mortgage brought his action to foreclose it, making the railroad company a party, and it answered, setting up a right to occupy the strip by virtue of said deed from A., but by the decree it was barred, enjoined and cut off from claiming any estate or interest in the mortgaged premises, which were sold by the sheriff, and upon confirmation he. executed to the purchaser a deed for the same. Afterward, in a proceeding instituted by the railroad company, the strip occupied by it was condemned, but no award was made by the commissioners, nor by the court upon appeal, for the value of said improvements. Held, that the title to the improvements passed by the sheriff’s deed as part of the real estate, and the purchaser was entitled to an award for their value.”
+"While it may be true as claimed by counsel for the defendant in error that the foregoing decision is out of line with the decisions of the courts generally upon the question involved, and while it may also seem to be opposed in principle to the cases of Cohen v. St. L. Ft. S. & W. Rld. Co., 34 Kan. 158, 8 Pac. 138, and A. T. & S. F. Rld. Co. v. Morgan, 42 id. 30, 21 Pac. 809, yet it is the law which must govern in the present case.
+As to the other contention, the following from the syllabus in Livermon v. Railroad, 109 N. C. 52, 13 S. E. 734, states our conclusion :
+‘ ‘ Where the mortgagor of land grants a right of way to a railroad company without the consent of the mortgagee, and without any proceeding to condemn the land, the mortgagee’s interest is not affected, and the purchaser at a foreclosure sale under the mortgage, or his grantee, may sue the company for compensation, though he cannot recover damages incident to the entry before he acquired title.”
+The trial in this action occurred more than two years prior to the decision in Briggs v. Railway Co. In the light of that decision, it is clear that the trial court erred in excluding the evidence offered by the plaintiff concerning the improvements upon the right of way, and the judgment entered is consequently erroneous.
+We have considered the defendant’s motion to dismiss the petition in error. We find upon-the evidence before us that the motion must be overruled.
+The judgment of the district court is reversed and the cause remanded for a new trial.
