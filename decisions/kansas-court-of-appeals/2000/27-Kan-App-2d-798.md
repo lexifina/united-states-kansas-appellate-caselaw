@@ -1,0 +1,41 @@
+---
+court: "Kansas Court of Appeals"
+docket: "83,908"
+decided: "2000-06-16"
+citations: ["27 Kan. App. 2d 798", "11 P.3d 63"]
+reporter: "kan-app-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Marquardt, P.J., Pierron, J., and Rogg, S.J."]
+parties: ["James L. Kincade, Appellant, v. Cargill, Inc., Appellee."]
+source_url: "https://static.case.law/kan-app-2d/27/cases/0798-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 96482
+cites_cases: ["22 Kan. App. 2d 53", "24 Kan. App. 2d 510", "25 Kan. App. 2d 717", "253 Kan. 132", "260 Kan. 970", "266 Kan. 1107", "267 Kan. 185", "267 Kan. 234"]
+---
+
+# Kincade v. Cargill, Inc.
+
+## Majority (Marquardt, J.:)
+
+Marquardt, J.:
+James L. Kincade appeals the Kansas Division of Workers Compensation Board’s (Board) decision denying his claim for workers compensation because he did not timely file his application for a hearing. We affirm.
+Kincade began working for Cargill in 1976, where he had worked as a bailer, packer, and loader. In November 1991, Kincade helped some co-workers move a motor and turned his hip. Kincade said that he had to “lean over” for the rest of the day.
+Kincade saw Dr. Frye on November 20, 1991. Dr. Frye noted that Kincade was in “obvious severe pain” and told him to stay off work. On December 18, 1991, Kincade was released to modified duty with a 10-pound weight restriction. The restriction was increased to 30 pounds in January 1992. Kincade was released to full duty on March 16, 1992. Kincade complained of pain and leg cramping, and returned to see Dr. Fiye in February 1993. Dr. Frye noted no obvious abnormality in Kincade’s leg.
+Kincade was terminated from Cargill in August 1995 after being accused of sabotaging equipment. Kincade now lives with his wife at the Christian Neighborhood Center, where he works as the house manager and his wife works as the cook. The Kincades receive room and board in return for their services. Kincade also receives $125 per week if the money is available.
+Kincade eventually contacted an attorney and filed an application for a hearing in February 1996. The application showed that June 1, 1994, was the date of his injury. An amended application for hearing, which showed November 1991 as his date of injury, was filed on June 3, 1996. The regular hearing was conducted by an administrative law judge (ALJ) who questioned whether Kincade’s application for hearing was timely. However, Cargill had not raised the timeliness of the application at the prehearing settlement conference or the regular hearing, and the ALJ found that the defense was waived. The ALJ awarded Kincade a 21.5 percent permanent partial general bodily disability.
+Cargill appealed to the Board. The Board found that Kincade’s claim was barred because his application for hearing was not timely filed. The Board also found that Kincade was not incapacitated for purposes of prosecuting his workers compensation claim. Kincade timely appeals to this court.
+Kincade argues that an issue must be presented to the ALJ in order for the Board to have authority to review the issue. Kincade claims that no argument about the timeliness of his application was made until after the evidence was closed.
+Appellate review of agency actions is limited to questions of law. Gleason v. Samaritan Home, 260 Kan. 970, 976, 926 P.2d 1349 (1996). The court’s interpretation of a statute is a question of law over which appellate review is unlimited. See State v. Donlay, 253 Kan. 132, 133-34, 853 P.2d 680 (1993).
+K.S.A. 1999 Supp. 44-534(b) states:
+“No proceeding for compensation shall be maintained under the workers compensation act unless an application for a hearing is on file in the office of the director within three years of the date of the accident or within two years of the date of the last payment of compensation, whichever is later.”
+The Board has exclusive jurisdiction over ALJ’s workers compensation findings and orders. K.S.A. 1999 Supp. 44-555c(a). If the record shows a lack of jurisdiction for the appeal, the appellate court must dismiss the appeal. State v. Snodgrass, 267 Kan. 185, 196, 979 P.2d 664 (1999). An objection based on lack of subject matter jurisdiction may be raised at any time, whether it be for the first time on appeal or even upon the appellate court’s own motion. Copeland v. Robinson, 25 Kan. App. 2d 717, 720, 970 P.2d 69 (1998), rev. denied 266 Kan. 1107 (1999).
+The facts of this case are similar to those found in Woodward v. Beech Aircraft Corp., 24 Kan. App. 2d 510, 949 P.2d 1149 (1997). In Woodward, Beech argued on appeal that the Board did not have authority to overturn the ALJ’s determination of Fund liability because the issue was raised for the first time at oral argument before the Board without a written request for review. The court held that once a party files a written request for review of the ALJ’s decision, the Board has authority to address every issue decided by the ALJ. 24 Kan. App. 2d at 516. In the instant case, the ALJ addressed the issue of whether Kincade’s application for hearing was timely filed. Under Woodward, the Board has the authority to review that decision. Once it decided that Kincade’s application for hearing was untimely, the other issues were moot.
+Kincade was injured in November 1991. He received medical treatment through February 1993. His application for hearing was filed in June 1996. Kincade’s application was made well after the statutory time had elapsed. See K.S.A. 1999 Supp. 44-534(b). We find no error in the Board’s decision.
+Kincade claims that he is incapacitated within the meaning of K.S.A. 44-509. Kincade argues that the Board erred by disregarding uncontradicted testimony. Appellate review of agency actions is limited to questions of law. The determination of whether the Board’s findings of fact are supported by substantial competent evidence is a question of law. Gleason, 260 Kan. at 976. This court does not reweigh the evidence or determine the weight or credibility of witnesses’ testimony. Guerrero v. Dold Foods, Inc., 22 Kan. App. 2d 53, 56, 913 P.2d 612 (1995).
+The Board found that Kincade did not meet his burden to prove incapacity. This is a negative finding. When a trial court makes a negative factual finding, the party challenging that finding must prove arbitrary disregard of undisputed evidence or some extrinsic consideration such as bias, passion, or prejudice. Thomason v. Stout, 267 Kan. 234, 238, 978 P.2d 918 (1999).
+Dr. James Eyman’s report indicates that Kincade is an intellectually limited individual with a diagnosis of borderline mental retardation. Dr. Eyman believed that Kincade is not capable of handling his own affairs or funds without assistance. He testified that Kincade is not able to understand things related to time. Kincade does not know how many minutes are in lVz hours, how many months are in a year, or similar concepts. Dr. Eyman felt that, if Kincade were not married, he would need a conservator.
+“In case an injured workman is an incapacitated person ... at the time when any right, privilege, or election accrues to him or her under the workmen’s compensation act, his guardian or conservator may on his behalf, claim and exercise such right, privilege, or election, and no limitation of time, in the workmen’s compensation act provided for, shall run, so long as such incapacitated person or minor has no guardian or conservator.” K.S.A. 44-509.
+Kincade testified that he has at all times been competent to bring this workers compensation action and could accurately divulge relevant information in 1991. The Board found that Kincade was not incapacitated. The Board believed that Kincade showed his capacity by holding a job and performing the duties of that job from the date of his injury to his termination. The Board also believed that Kincade demonstrated his capacity by presenting sufficient evidence to prosecute the claim.
+Even if Kincade’s wife was acting as a sort-of conservator, the time limits in the workers compensation statutes are not tolled. See K.S.A. 44-509. In addition, Kincade himself testified that he felt that he was not incapacitated. This is not a case where the Board disregarded undisputed evidence.
+Affirmed.
