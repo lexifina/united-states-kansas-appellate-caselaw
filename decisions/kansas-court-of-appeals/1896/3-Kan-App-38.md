@@ -1,0 +1,27 @@
+---
+court: "Kansas Court of Appeals"
+docket: "120"
+decided: "1896-04-01"
+citations: ["3 Kan. App. 38"]
+reporter: "kan-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["All the Judges concurring."]
+parties: ["Ida M. Gibbons v. William Hayden."]
+source_url: "https://static.case.law/kan-app/3/cases/0038-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 337531
+cites_cases: ["105 Mass. 276", "13 Johns. 359", "34 Neb. 534", "38 Minn. 18", "42 Barb. 58", "5 Wall. 497", "57 Miss. 107", "9 Ohio St. 357"]
+---
+
+# Gibbons v. Hayden
+
+## Majority (Gakveb,, J. :)
+
+The opinion of the court was delivered by
+Gakveb,, J. :
+April 21, 1891, the plaintiff and defendant entered into a contract whereby the latter agreed to sell to the former 17 stacks of hay, for which the plaintiff agreed to pay a stated price delivered on board the cars at the place of shipment, and as shipments were made. The plaintiff paid $300 in advance on the contract, it being agreed that such payment should be applied on the last shipments. After a part of the hay had been delivered and paid for, the plaintiff refused to receive the rest, on the ground that it was not of the quality contracted for, and that, in other respects, the defendant had failed on his part to comply with the contract. This action was brought by the plaintiff to recover back the $300 advanced and other damages alleged to have been sustained by reason of the breach of the contract on the part of the defendant. The defendant answered, alleging the refusal of the plaintiff, without legal excuse, to receive and pay - for the undelivered hay, and asking judgment for the resulting damages. On a trial by jury, a verdict was returned in favor of the defendant, and judgment thereon was rendered for the defendant for costs. Of this judgment the plaintiff complains, alleging error in the instructions given to the jury.
+There is but one question that demands considera,tion in this case, and to that the briefs of counsel are directed. It is this : Where a person has advanced money in part performance of a contract for the purchase of property, which he afterward refuses to carry out — the other party being ready and willing to perforin on his part — will he be permitted to recover back what has been advanced? The verdict of the jury determined the questions of fact against the plaintiff. It must now be taken as true that, the plaintiff was guilty of a breach of .the contract, and that the defendant was without fault. ■ The plaintiff, therefore, comes before us seeking a recovery against the defendant the right to which is based upon her own wrong. This cannot be done. Counsel for plaintiff contend that this is the same upon principle as where an entire contract for services is partly performed, in which‘case the law permits a recovery for the value of the services received by the other party, with a deduction for damages sustained by reason of the failure to fully perform. The argument is, that here the defendant received from the plaintiff the benefit of the payment of $800, which he should not be allowed to retain without compensating the plaintiff therefor, with a deduction of any damages sustained by the defendant from the breach of the contract. We do not think the same rule can be applied to the two classes of cases. The fact that counsel have not cited a single authority in support of tlieir contention is quite conclusive evidence, of the fact that their position is not well taken. On the contrary, the rule seems to be well settled that the party who has ad-' vanced money in part performance of such an agreement, the other party being ready and willing to perform on his part, cannot, without just cause or excuse, refuse to proceed with the contract and recover back what he has advanced. (Ketchum v. Evertson, 13 Johns. 359 ; Pierce v. Jarnagin, 57 Miss. 107 ; Walter v. Reed, 34 Neb. 534; McKinney v. Harvie, 38 Minn. 18 ; Hansbrough v. Peck, 5 Wall. 497 ; Haynes v. Hart, 42 Barb. 58 ; Ashbrook v. Hite, 9 Ohio St. 357; Hapgood v. Shaw, 105 Mass. 276.)
+The instructions of the trial judge to the jury gave the rules of law applicable to the case with substantial correctness. -They may be open to some criticism for not more clearly instructing the jury that, in considering the claim of the defendant for damages, they should take into account the $300 advanced to him by the plaintiff. In estimating the damages sustained by the defendant by the failure of the plaintiff to take and pay for the hay, he should not be allowed the difference between the market value and the contract price of that refused without deducting therefrom’ what was received by the defendant as an advance payment for it. It is evident, however, that the jury understood the instructions to' require them to set off the money advanced against such damage.. The plaintiff, being in fault, was not entitled to recover anything. By the evidence, the defendant is shown to have sustained substantial damages, which, under the instructions, he was entitled to recover. The fact that the jury awarded him none conclusively shows that they considered the advance payment sufficient to compensate him for all the damages he had sustained. Clearly, the plaintiff has nothing to complain of under these circumstances.
+The judgment will be affirmed.
+All the Judges concurring.
