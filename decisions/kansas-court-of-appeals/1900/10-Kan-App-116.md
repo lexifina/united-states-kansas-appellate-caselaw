@@ -1,0 +1,33 @@
+---
+court: "Kansas Court of Appeals"
+docket: "794"
+decided: "1900-09-12"
+citations: ["10 Kan. App. 116", "62 P. 252"]
+reporter: "kan-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["The City of Kansas City v. G. Frohwerk."]
+source_url: "https://static.case.law/kan-app/10/cases/0116-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 379578
+cites_cases: ["13 Kan. 212", "29 Kan. 190", "48 Pac. 631", "49 Pac. 88", "58 Kan. 29", "58 Kan. 334", "7 Kan. 207"]
+---
+
+# City of Kansas City v. Frohwerk
+
+## Majority (Per Curiam:)
+
+Per Curiam:
+The plaintiff in error seeks by this proceeding to reverse an order of the common pleas court granting to defendant in error a new trial. There are nine assignments of error, none of which we deem it necessary specially to refer to save the last, which is, that the court erred in sustaining the motion and in granting a new trial.
+The action was for damages to the property of the defendant in error by reason of the negligence of the city in the grading, paving and guttering of a street, whereby, he alleges, the city gathered together a large volume of surface-water from other parts of the city and conveyed it to and discharged it upon the property of the plaintiff, making no provision for carrying the water away therefrom.
+It is contended that the court erred in sustaining the motion because it appeared by the evidence that the cause of action was barred by the two-year statute of limitations, and that the same appears by the findings of the jury; that by the findings of the jury it further appeared that the gutters were properly constructed; that the water did not flow directly from the street upon the plaintiff’s premises, but did flow across the tracks and right of way of a railway company before reaching the plaintiff’s premises; and for the further reasons that there was no evidence showing that the city was negligent in performing the work of curbing or paving the street, and that the court was not justified in sustaining the motion for a new trial upon the grounds that the special questions and verdict were contrary to the evidence.
+It is further contended that the court erred in sustaining the motion for a new trial because the petition did not state a cause of action, and because the evidence of the plaintiff was not sufficient to establish a cause of action.
+The action was begun October 14, 1891. The ordinance providing for the improvement passed the council in June, 1888. The work was in progress during the summer of 1889. Just when it was completed, especially at the point where the property of the plaintiff is situated, is not disclosed by the record.
+The contentions of the plaintiff in error are based largely upon testimony of the plaintiff given upon cross-examination at a former trial, wherein he stated that his property had been flooded by reason of this improvement some time in 1888. It was afterward shown by the plaintiff and his memorandum-book that this was an error as to the year.
+The findings of the jury with respect to when the first damage accrued to the plaintiff were based upon these statements of the plaintiff made at a former trial, without giving any credence to his explanation or to the memorandum which he introduced and offered in evidence of the dates of the various occurrences when the flood occasioned by the improvement had damaged his premises. The case is one peculiarly fitted for the application of the rule heretofore announced by the supreme court as to reversing an order granting a new trial. We refer especially to Atyeo v. Kelsey, 13 Kan. 212. In the opinion in that case the court says :
+“The evidence was conflicting and contradictory, and while we think the preponderance of the evidence sustains the verdict, still we cannot reverse the ruling of the court below for that reason. Before we would reverse in such a case, the preponderance of the evidence would have to be so overwhelmingly great that it would show an abuse of judicial discretion on the part of the court below in setting aside the verdict and granting a new trial.” It further says: “As a rule, no verdict should be allowed to stand unless both the jury and the court trying the cause can say that they believe that the verdict is correct.”
+In this case the preponderance of the evidence would seem to be against the verdict and against the special findings relied upon by the plaintiff in error. (City of Sedan v. Church, 29 Kan. 190.) The third clause of the syllabus in that case lays down the rule governing the supreme court in such cases.
+' We find in the record nothing that would justify us in saying that the court of common pleas, beyond all reasonable doubt, manifestly and materially erred with respect to some pure, simple and unmixed question of law, and that but for such error the order would not have been made, and that it ought not to have been made.
+The grounds laid in the motion were all the grounds provided for by statute. It does not appear from the record upon which ground the court based its order. However, it may well have been based upon the ground that the verdict and special findings were not sustained by a preponderance of the evidence. (Ryan v. Topeka Bridge Company, 7 Kan. 207; Anthony v. Eddy, 5 id. 127; Field v. Kinnear, 5 id. 233.)
+In the reply brief and upon argument the plaintiff in error changed its ground of contention, and argued that the cause of action accrued at the time the improvement was made. It is sufficient to say, in answer to this contention, that the improvement itself was lawful, was entirely upon the property of the city, and that it gave the plaintiff no cause of action until he had suffered some damage therefrom. There was no trespass, as in the case of King v. City of Kansas City, 58 Kan. 334, 49 Pac. 88, until there had been water carried and discharged upon the plaintiff’s premises. In Parker v. City of Atchison, 58 Kan. 29, 48 Pac. 631, there was an immediate trespass as soon as the improvement was completed, by which damages were suffered by the plaintiff in some degree, as said by the court in its opinion.
+We do not deem it necessary to decide whether the instruction given to the jury, to the effect that if the plaintiff had suffered any damage to his property by reason of this improvement more than two years before the commencement of the suit, his action would be barred, as it is not necessary to the determination that we reach in the case. The plaintiff in error contended for the rule upon the trial. It was to its advantage that the court so held. The order granting a new trial is affirmed.
