@@ -1,0 +1,31 @@
+---
+court: "Kansas Court of Appeals"
+docket: "632"
+decided: "1899-05-10"
+citations: ["9 Kan. App. 55", "57 P. 258"]
+reporter: "kan-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Ferdinand C. Blauw v. Anna M. Love."]
+source_url: "https://static.case.law/kan-app/9/cases/0055-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 350614
+cites_cases: ["3 Kan. 374", "44 Pac. 14", "56 Kan. 550"]
+---
+
+# Blauw v. Love
+
+## Majority (Wells, J.:)
+
+The opinion of the court was delivered by
+Wells, J.:
+This action was originally instituted by the defendant in error against the plaintiff in error in the district court of Johnson county to recover ten acres of land. The land was a part of a larger tract allotted to Capt. Joseph Parks, a Shawnee Indian, under the treaty of May 10, 1854; a patent was issued to him under the provisions of the act of Congress approved March 3, 1859. Said patent contained a stipulation prescribed by the secretary of the interior under the authority of an act of Congress; “that said lands should never be sold or conveyed by the grantee or his heirs without the consent of the secretary of the interior for the time being.” After the death of the patentee the lands descended one-half to his daughter,' Sally Rogers, and one-fourth each to his granddaughters, Catherine Donaldson and Rebecca Donaldson. In an action of partition, which was affirmed by the supreme court, the land in controversy was set off to Sally Rogers, who afterward conveyed it to Catherine and Rebecca .Donaldson by a deed which was approved by the secretary of the interior, and later it was fully conveyed to Catherine, who was then the wife of a white man named Swartzell, who died, and she afterward married the plaintiff in error, Ferdinand O. Blauw. Soon after her remarriage she and her husband deeded a large lot of land, including that in controversy, to her three sons, Charles T., John A. and Elmer O. Swartzell, reserving to herself a life-estate therein. Afterward she brought an action of partition against her three sons in the district court of Johnson county and caused her life-estate to be’ valued and set off to her in a specific portion of the lands. The land in controversy was among the lands so assigned to her as her sole property in said partition proceedings.
+Thereafter Catherine Blauw died, leaving as her sole heirs at law' under the statutes of Kansas her husband and three sons hereinbefore named. Her hus‘band remarried, and afterward, by proceedings in the probate court, one-half of his wife’s land was allotted to him, including the land in controversy. Catherine Blauw and her husband continuously resided upon the land allotted her, including that in controversy, until her death, and the husband continued and still continues to occupy the land allotted him by the probate court.
+The Swartzells, sons of Mrs. Blauw, made a deed for the lands allotted by the probate court to the plaintiff in error to Anna M. Love, the defendant in error,' who brought this action. A jury was waived, the cause tried to the court, who made findings of fact and conclusions of law, and rendered judgment for the plaintiff.
+The first contention is over the correctness of the conclusion of the trial court:
+‘ ‘ At the time of the execution and delivery of the deed from Catherine Blauw and F. C. Blauw to John A., Charles T. and Elmer O. Swartzell, to the lands in controversy, referred to in the ninth special finding of fact, and at the time of the proceedings in partition by. said Catherine Blauw against said Swartzells, minor children of said Catherine, referred to in the ninth special finding of fact, and at the time of the proceedings in the probate court of Johnson county, Kansas, by said F. C. Blauw, for allotment, referred to in the tenth special finding of fact, the Indian title to said lands had never been extinguished and said lands were still Shawnee Indian lands, and not legally subject to conveyance except by deed approved by the secretary of the interior.”
+It seems to us that the partition proceedings affirmed by the supreme coürt in Swartzell et al. v. Rogers, 3 Kan. 374, vested the whole of the title to the land in controversy in Sally Rogers, and when she, by the approval of the secretary of the interior, deeded it to Catherine and Rebecca the restriction in the patent was no longer operative. Captain Parks’s heirs had conveyed it with the consent of the secretary of the interior, and the title thereto was henceforth in the same condition as if no restriction had ever been placed upon its sale and conveyance. See Ingraham, v. Ward, 56 Kan. 550, 44 Pac. 14.
+The next question is as to whether the decree in the Johnson county district court making partition of the lands between Catherine Blauw and her sons was void — not merely erroneous, but absolutely void.
+If the court had (1) jurisdiction of the parties, (2) jurisdiction of the general subject-matter, (3) jurisdiction of the particular .matter which the judgment professes to decide, then its judgment, however erroneous, is valid. That the court had jurisdiction of the parties and of the general subject-matter, the partition of real estate in its territory, there is no doubt. Did it have jurisdiction of the particular matter which the judgment professes to decide? It had jurisdiction to make partition of real estate among the parties interested therein, the parties were before it, and the petition stated facts from which the court was required to determine if the plaintiff was entitled to the relief sought. This invoked the judgment of the court, and whether that judgment was right or wrong cannot be now inquired into. We conclude that the partition was not void.
+The allotment of one-half-of his wife’s homestead to the plaintiff in error by the probate court does not require further consideration, as we have already found that the Indian title, thereto had been previously extinguished. The conclusion that the Indian title still remained was evidently the ground upon which the proceedings were held void.
+The judgment of the district court will be reversed, and said court directed to render judgment for the defendant, the plaintiff in error here, upon the findings of fact therein made.
