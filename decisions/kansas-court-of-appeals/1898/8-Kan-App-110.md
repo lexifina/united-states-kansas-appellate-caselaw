@@ -1,0 +1,37 @@
+---
+court: "Kansas Court of Appeals"
+docket: "588"
+decided: "1898-09-17"
+citations: ["8 Kan. App. 110"]
+reporter: "kan-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["K. C. Green v. J. H. Keller."]
+source_url: "https://static.case.law/kan-app/8/cases/0110-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 376307
+cites_cases: ["22 Pac. 1015", "43 Kan. 60"]
+---
+
+# Green v. Keller
+
+## Majority (McElroy, J.:)
+
+The opinion of the court was delivered by
+McElroy, J.:
+This action was brought by plaintiff in error, Green, against J. H. Keller and Luther Keeney to recover on two promissory notes. For his first cause of action the plaintiff alleged that on the 19th day of February, 1889, Franklin Sloyer and J. M. Sloyer made, executed and delivered- their certain promissory note in writing to Luther Keeney, whereby they promised to pay to Luther Keeney or order, on December 1, 1889, the sum of $262.50, with interest; that before" maturity J. PI. Keller guaranteed the payment of the note by his indorsement on the back thereof ; that Luther Keeney, for value, indorsed, assigned and sold the note to plaintiff before maturity ; and that there is due plaintiff from J. H. Keller on the nóte the sum of fifty-five dollars, with interest. Wherefore plaintiff■ prayed judgment in the sum of fifty-five dollars, with interest.
+For his second cause of action the plaintiff alleged that on the 19th day of February, 1889, Franklin Sloyer and J. M. Sloyer made, executed and delivered their certain promissory note in writing to Luther Keeney, whereby they promised to pay to Luther Keeney or order, on January 1, 1890, the sum of $262.50, with interest; that afterward, and before maturity of the note, for a valuable consideration, J. H. Keller guaranteed the payment thereof by his indorsement on the back of the note ; that Luther Keeney, for value, indorsed, assigned and sold the note to plaintiff before maturity; that no part of the note had been paid, and that the same was due and payable ; and that at maturity the note was duly protested for non-payment, and there was written across the face of the note, “Protested for non-payment January 4, 1889." Wherefore plaintiff prayed judgment in the sum of $262.50, with interest.
+The defendant Keller's answer was in substance : (1) A general denial; (2) a specific denial that he guaranteed the payment of the notes, or either of them, and a denial that plaintiff was the owner of the note set out in the second cause of action; (3) a denial that payment of the note was demanded at maturity, that the note was protested, or that notice of protest was served on the defendant; (4) an allegation that defendant, at the request of plaintiff, without consideration, indorsed the notes for the purpose of enabling him to use them as collateral security.
+The plaintiff filed a reply in substance : (1) A general denial; (2) a reaffirmance of demand, protest, and notice, and an averment that protest and notice of non-payment were unnecessary to fix the defendant J. H. Keller’s liability. A trial was had before the court and jury, which resulted in a judgment for the defendant and against the plaintiff. Motion for a new trial was filed and overruled, and the case is presented to this court for review.
+The plaintiff in error contends that the court erred in sustaining the demurrer of the defendant J. H. Keller and in taking the case from the jury, and that the court erred also in overruling and denying plaintiff’s motion for a new trial. From the record, it appears that the notes in suit were each dated “ Holton, Kans., February 19th, 1889,” and were executed by Franklin Sloyer and J. M. Sloyer as makers, payable to the order of Luther Keeney, each for the sum of $262.50. One of the notes was payable December 1, 1889, and the other was payable January 1, 1890. Each note was indorsed on the back as follows: “Luther Keeney; J. H. Keller.” These notes were sold by Luther Keeney to K. C. Green before maturity. At the time of the sale of the notes, and before delivery, both of the foregoing indorsements were made on the notes. The plaintiff offered the following testimony, which was all the evidence offered on the trial of the case, and rested :
+“Q,. You are the plaintiff in this case? A. Yes, sir.
+“Q. State to the jury how you came into the ownership of these notes in controversy. A. Luther Keeney came to my brother’s store in the morning of the day that I bought these notes and asked me if I would buy two notes, amounting to $525, on Sloyers. He told me of the security on the notes, the rent and chattel-mortgage security. I told him I did not care to buy the notes under that security ; that I did not consider it ample. He went away, but during the afternoon he came again and asked me if I would buy those notes if J. H. Keller would guarantee the payment of them. I told him I would. He went away and returned with the notes signed by himself and Mr. Keller, and I bought the notes and paid for them.”
+Cross-examination: ‘‘Q,. Mr. Green, did you have any conversation with Keller at all about these notes before you purchased them? A. I did not.
+‘‘Q. Didn’t your brother have something to do with the purchase of these notes in some way? A. Not that I know of ; not at my solicitation.
+“ Q,. Were you not in Mr. Keller’s office on the day that you purchased these notes? A. No, sir.
+“Q,. Were you not there afterwards and brought with you. these notes? Did you not, after you purchased these notes, take them to Judge Keller’s office —right shortly afterwards? A. No, sir.
+“ Q,. What did you do with the notes when you got them? A. I kept them in my pocket; they were in my possession all the time. Never was out of my hands until they were placed for collection.
+“Q,. Where were they placed for collection? A. With Keller and Noble.
+“Q. Did you have any conversation with Mr. Keller about the security on these notes before Mr. Keller wrote his name on there?”
+The plaintiff in error contends that J. H. Keller was not an indorser but a guarantor of the notes. Within the authority of Cornett v. Hafer, 43 Kan. 60, 22 Pac. 1015, Keller was not a guarantor but an indorser, and as such he was entitled to all the rights and privileges of an indorser and subject to all of the obligations and burdens of an ordinary indorser. In order to fix the liability of an ordinary indorser of a promissory note, there must be a legal presentment, demand on the maker for payment, and, if payment is not made, there must be protest and notice of nonpayment. The plaintiff in error contends that for” the reason that Keller had the notes before and at maturity for collection, and advised the plaintiff in error, therefore no formal protest or notice was necessary to fix his liability thereon as an indorser. A sufficient answer to this argument is that there is no evidence in the record that the notes or either of them were in Keller’s hands for collection at the time of the maturity thereof. Such fact is, however, alleged in the petition, but it is denied in the answer. In the absence of evidence, the court and jury could not assume that Keller had the notes for collection before maturity. There was no evidence offered at the trial of a demand, protest, or notice, nor of a waiver thereof ; therefore the court properly sustained the demurrer to the evidence.
+The judgment is affirmed.
