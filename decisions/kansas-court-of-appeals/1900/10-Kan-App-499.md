@@ -1,0 +1,44 @@
+---
+court: "Kansas Court of Appeals"
+docket: "506"
+decided: "1900-12-17"
+citations: ["10 Kan. App. 499", "63 P. 92"]
+reporter: "kan-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["The Neosho Valley Investment Company v. C. H. Hannum."]
+source_url: "https://static.case.law/kan-app/10/cases/0499-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 379517
+cites_cases: ["15 Pac. 219", "23 Pac. 569", "37 Kan. 243", "43 Kan. 292"]
+---
+
+# Neosho Valley Investment Co. v. Hannum
+
+## Majority (Schoonover, J.:)
+
+The opinion of the court was delivered by
+Schoonover, J.:
+Defendant in error Hannum brought this action in the district court of Labette county to recover judgment upon a written agreement alleged to have been executed by the Neosho Valley Investment Company, plaintiff in error, of which agreement the following is a copy:
+“This agreement, made and entered into this 20th day of November, 1889, by and between the Neosho Valley Investment Company (a corporation), of Clietop a, Labette county, Kansas, of the first part, and C. H. Hannum, of the county of Chester and state of Pennsylvania, of the second part:
+“Witnesseth, that the said party of the first part has become the purchaser at sheriff’s sale of the following-described real estate, situated in the county of Labette and state of Kansas, to wit: Lots Nos. thirty-one (31) and thirty-two (32), of block No. twenty-three (23), in the city of Chetopa.
+“That said second party has a claim by reason of a judgment obtained in the district court of said county upon the foreclosure of a mortgage on said above-described real estate, amounting to the sum of five hundred sixty-six and -/¶¶- dollars. The said first party hereby acknowledges .the above claim to be a first lien upon the above-described real estate, and that the same shall bear interest at the rate of seven per cent, per annum from the date hereof until paid.
+“The said first party further agrees that it will take charge of said property, look after the .collection of the rents thereof, and apply the proceeds of such rents, first, to the payment of the taxes assessed against said property; second, to the payment of the interest on the claim of said second party ; the remainder, if any there be, to be applied on the claim of said first party for costs and other amounts paid by them, for which they claim a lien upon said described premises subject and inferior to the lien of said second party.
+“The said first party agrees to offer said property for sale, and to sell and convey the same when a purchaser can be found who will pay a sufficient sum to cover all claims of the parties to' this agreement and against said real estate.
+‘ ‘ The said second party, in accepting this agreement, agrees that, upon payment to him of the full amount due him at the time of making such payment, he will make a quitclaim deed to said first party, releasing all claims to the real estate described herein.
+“The said first party agrees that, if at the expiration of three years from the date hereof no purchaser shall have been secured, it will pay to the said second party or his heirs or assigns the amount then due ¡him according to this agreement, and upon making such payment it shall receive from said second party, his heirs or assigns, a quitclaim deed to the premises herein described.
+“In witness whereof, the Neosho Valley Investment Company has caused these presents to be signed by its vice-president and secretary, the day and year first above written.
+Neosho Valley Investment Company,
+[seal.] By E. W. Bedell, Vice-president.
+John W. Bbeidenthal, Secretary."
+Judgment was demanded by plaintiff for the sum of $566.60 with interest, and plaintiff also prayed that his lien might be foreclosed and an order made directing a sale of such real estate and an application of the proceeds to the satisfaction of the judgment prayed for. The case was tried to the court, and resulted in a judgment in favor of plaintff. The defendant brings the ca,se here.
+It is contended by counsel for plaintiff in error that the court erred in overruling the demurrer of defendant to plaintiff’s evidence. It is urged that the record shows that the agreement upon which this action is based was not introduced in evidence. The record shows that plaintiff offered the agreement in evidence and that defendant objected to its introduction. There is nothing to show that any ruling was made upon defendant’s objection. This whole matter is, however, disposed of by the fact that the plaintiff alleged in his petition that the investment company executed the agreement in question, a copy of the agreement being attached to the petition. Under the rules of pleading, the execution of the agreement stands admitted unless denied by plaintiff’s answer. There is nothing in defendant’s answer which can be held by us to be a denial of the execution of the agreement, and whether it was or was not admitted in evidence is wholly immaterial.
+Counsel for plaintiff in error denies that Bedell and Breidenthal had any authority to execute the agreement, and it is also urged that the investment company had. no power to make such a contract. In its answer, the company sets out the following provision of its charter:
+“That the purpose for which this corporation is formed is to receive, collect, take charge of and loan money on real estate or other security, as principal or as agent for any persons, corporations or firms who may entrust funds to its care; to transact a general real-estate and insurance business and any other business appertaining to the foregoing.”
+We think that the agreement was within the powers of the company as enumerated in its charter. Under the terms of the agreement, the company was to take charge of the property, offer it for sale, collect rents, and, at the expiration of three years from the date of the agreement, was to purchase Hannum’s interest, if, in the meantime, no purchaser had been found. The consideration to be paid for such interest was the amount due on Hannum’s judgment, and Hannum reserved a lien on the property for the amount of his claim. We certainly think that a company chartered to do a “general real-estate business” would have a right to do these things.
+As to the proposition that Bedell and Breidenthal had no authority to execute the contract, it may be admitted that the record does not show any direct authority. There is evidence, however, tending to show that these persons had, in a general way, transacted the business of the company at its Western office, and defendant expressly admitted in its answer that Bedell and Breidenthal were vice-president and secretary of the company. In the case of Town Company v. Swigart, 43 Kan. 292, 23 Pac. 569, our supreme court held:
+“ Where the president and secretary of a corporation execute a contract in behalf of the company, which is regular on its face and not shown to be outside of the regular business of the corporation, it is prima facie evidence that it was executed with authority, and those who deny the authority take upon themselves the burden of establishing their claim.”
+Under the authority of this case, we hold that the burden of proving want of authority on the part of Bedell and Breidenthal to execute the contract rested upon the defendant, and we cannot say that defendant proved that they did not have such authority.
+It is also urged by counsel for the investment company that there is no evidence in the record to show that Hannum ever tendered to the company a quitclaim deed to the property. We do not think that it makes any difference whether he did or did not. So far as the evidence shows, the company repudiated the contract and denied any liability under it. It set up a defense in its answer wholly inconsistent with the idea that it would have complied with the terms of the contract in the event that Hannum had tendered a deed. Under the law of this state, a failure to make a demand will not bar a right of recovery, if • the facts and circumstances clearly indicate that a demand would have been fruitless. (Raper v. Harrison, 37 Kan. 243, 15 Pac. 219; 5 A. & E. Encycl. of L. 528, note 2.)
+It is also contended that the record shows that the cause was barred by the statute of limitations. The agreement was entered into November 20, 1889. Under its terms, no cause of action accrued until November 20, 1892. (Gen. Stat. 1897, ch. 95, § 12; Gen. Stat. 1899, § 4262.) The cause would not, therefore, be barred until November 20, 1897. Plaintiff filed his petition April 6, 1897. The action was therefore brought in time.
+Other errors are assigned by plaintiff in error, but they are not such as to require a reversal of the case. The judgment of the district court is affirmed.
