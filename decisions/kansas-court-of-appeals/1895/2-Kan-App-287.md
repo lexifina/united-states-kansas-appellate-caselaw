@@ -1,0 +1,28 @@
+---
+court: "Kansas Court of Appeals"
+docket: "16"
+decided: "1895-11-15"
+citations: ["2 Kan. App. 287"]
+reporter: "kan-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["All the Judges concurring."]
+parties: ["The Salina, Lincoln & Western Railway Company v. Isaac Conger."]
+source_url: "https://static.case.law/kan-app/2/cases/0287-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 342242
+cites_cases: ["20 Kan. 531", "52 Kan. 247"]
+---
+
+# Salina, Lincoln & Western Railway Co. v. Conger
+
+## Majority (Clark, J. :)
+
+The opinion of the court was delivered by
+Clark, J. :
+This is an action brought in the district court, of Rooks county by the defendant in error, as plaintiff, to, recover from the Salina, Lincoln & Western Railway Company the value of a gelding alleged to have been injured on the track of the railroad of the defendant. The petition alleges that the defendant negligently failed to inclose its track with á good and lawful fence and keep the same in repair, and that by reason thereof the said gelding, through no fault or negligence of the plaintiff, strayed upon said track, and while crossing over a railroad bridge, which is a part of defendant’s track, fell off from said bridge, receiving such injury by said fall as to render it absolutely worthless and valueless, to the damage of the plaintiff in the sum of $95. Judgment was also asked for a reasonable attorney’s fee in the case. The action is brought evidently under chapter 94 of the Laws of 1874 (Gen. Stat. 1889, ¶ 1252, et seq.), which provides that every railway company or .corporation in this state shall be liable to pay to the owner the full value of ¿ach and every animal wounded by the engine or cars on such railway, or in any other manner whatever in 'operating such railway, irrespective of the fact as to whether such killing or wounding was caused by the negligence of such railway company or corporation. The act further provides, that in all actions prosecuted thereunder, if the judgment or verdict be for the plaintiff, a reasonable attorney’s fee for the prosecution of the suit shall be recovered. It is further provided therein, that the act shall not apply to any railway company or corporation whose road is inclosed with a good and lawful fence to prevent such animals from being on such road. The answer filed was a general denial and plea of contributory negligence. The defendant objected to the introduction of any evidence on behalf of plaintiff, on the ground that the petition does not state a cause of action against the defendant, which objection was overruled. The jury returned a verdict in favor-of the plaintiff for damages in the sum of $95 and awarded him an attorney’s fee of $25, and also returned special findings of fact which disclose no negligence save the failure of the railway company to keep the fence inclosing its track in proper repair.
+Three separate motions were filed by the defendant, one to set aside the special findings of the jury, one for judgment on the special findings, and one for a new trial, all of which were overruled by the court; and these rulings, with other alleged errors occurring upon the trial, are by the railway company assigned as error in this court.
+The defendant in error contends that this court has no jurisdiction to review the alleged errors, as it does not affirmatively appear from the record that the amount or -value in controversy, exclusive of costs, exceeds $100, or that this case comes within the excepted classes mentioned in section 542a of the code, which provides that "no appeal or proceeding in error shall be had or taken to the supreme court in any civil action unless the amount or value in controversy, exclusive of costs, shall exceed $100,” except in certain classes of cases therein mentioned. The record contains all the proceedings down to and including the order overruling the motion for a new trial, with proper exceptions to the rulings of the court, and the order granting time to prepare-and serve a case-made for the supreme court, and closes with the following statement: ‘‘The foregoing contains a true, full and correct statement of all pleadings, motions, orders, evidence, findings and proceedings upon which judgment was rendered.” • But the record does not contain the journal entry of judgment, nor is there before this court anything outside of the statement above mentioned to indicate that judgment has ever been rendered in the action, either for the plaintiff or for the defendant, nor as to whether or not the judgment,if any was rendered, included the attorney’s fee awarded to the plaintiff. In Richmond v. Brummie, 52 Kan. 247, it is held:
+“Where the damages claimed in a civil action by the plaintiff exceed $100, but the judgment is for the plaintiff for $100 only, exclusive of costs, and the defendant prosecutes a proceeding in error, the supreme court has not jurisdiction, for the amount or value in controversy, as to such defendant, is fixed by the judgment.”
+In this case, the damages claimed were only $95; and, as under the decision of the supreme court in A. T. & S. F. Rld. Co. v. Edwards, 20 Kan. 531, an attorney fee could not properly be recovered, if any presumption were to be indulged in, it would be that the court rendered such a judgment as the plaintiff was entitled to, which could not in any event exceed $95 exclusive of costs. The record brought to this court must affirmatively show that the court has jurisdiction. In the absence of such a showing, the petition in error must be dismissed.
+All the Judges concurring.
