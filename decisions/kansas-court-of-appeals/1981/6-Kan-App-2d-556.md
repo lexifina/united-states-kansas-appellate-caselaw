@@ -1,0 +1,57 @@
+---
+court: "Kansas Court of Appeals"
+docket: "52,536"
+decided: "1981-07-02"
+citations: ["6 Kan. App. 2d 556", "630 P.2d 731"]
+reporter: "kan-app-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Rees, P.J., Abbott and Spencer, JJ."]
+parties: ["State of Kansas, Appellee, v. Harvey Brown, Jr., Appellant."]
+source_url: "https://static.case.law/kan-app-2d/6/cases/0556-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 391259
+cites_cases: ["216 Kan. 54", "219 Kan. 643", "222 Kan. 612", "226 Kan. 308", "226 Kan. 90", "368 N.E.2d 685", "53 Ill. App. 3d 114"]
+---
+
+# State v. Brown
+
+## Majority (Spencer, J.:)
+
+Spencer, J.:
+Following trial to a jury, defendant was adjudged guilty of aggravated burglary (K.S.A. 21-3716).
+Inasmuch as the issues on appeal relate only to asserted trial errors and not to the sufficiency of the evidence, a statement of facts leading to the arrest and conviction of defendant is deemed unnecessary. Defendant was charged with unlawfully, willfully, knowingly, and without authority entering into and remaining within a building located at 2510 East Stadium, Wichita, Sedgwick County, Kansas, occupied at the time by Roosevelt Frazier, Jr., and Valirae M. Dupree, with intent to commit theft therein. The offense was alleged to have been committed on or about April 28, 1980.
+After the jury had been selected but prior to introduction of evidence, the State presented a motion in limine seeking to prevent cross-examination by defendant of Frazier and Dupree, who were to be witnesses in the case, regarding earlier convictions of arson and attempted arson. The trial judge, out of the presence of the jury, examined the files of the district attorney, which evidently contained police reports in the two arson cases, and arrived at the conclusion the charges in those cases did not involve dishonesty. The judge announced he was not going to allow cross-examination as to those charges. Defense counsel made no objection to the ruling of the court, but announced: “If they say they are of good character, we feel we should be able to cross-examine them, if they say they are of good moral character.” The court indicated if the prosecutor raised that issue, defendant would be entitled to cross-examine. The credibility of the two witnesses was not thereafter made an issue in the trial and defendant was not afforded the opportunity to examine as to credibility. He now argues it was error to grant the motion in limine.
+As stated in State v. Quick, 226 Kan. 308, 597 P.2d 1108 (1979):
+“The primary purpose of the motion in limine is to prevent prejudice during trial. Its use should be strictly limited to accomplish that purpose. It must not be used to choke off a valid defense in a criminal action.” Syl. ¶ 3.
+“The order resulting from a motion in limine may prohibit reference during trial proceedings to material which is irrelevant or prejudicial to a fair trial. The order is a temporary protective order. It is subject to change during the trial; and to predicate error thereon it will be necessary to again present the material or proffer the evidence during trial on motion to reconsider.” 226 Kan. at 313.
+Defendant did not at any time during trial make any proffer of evidence regarding the credibility of the two witnesses, nor did he move for reconsideration of the motion in limine. Under the circumstances, unless it can be said the crime of arson in and of itself is one involving dishonesty or false statement and/or the motion in limine was used to “choke off a valid defense,” there was no error.
+K.S.A. 60-421 provides in part:
+“Evidence of the conviction of a witness for a crime not involving dishonesty or false statement shall be inadmissible for the purpose of impairing his or her credibility.”
+In considering what constitutes the crime of dishonesty within the meaning of K.S.A. 60-421, the court in State v. Laughlin, 216 Kan. 54, 55, 530 P.2d 1220 (1975), stated:
+“Crimes which are impulsive or which are committed in the heat of passion, or crimes which are founded on negligence, or crimes which in no way reflect a dishonest nature, would not normally reflect on the credibility of the witness and should not be admissible.
+“On the other hand, there are crimes which are inherently dishonest, whether because of their willful character, disregard for decency, or general lack of fairness.”
+As defined by K.S.A. 21-3718, arson is knowingly, by means of fire or explosive: (a) damaging any building or property in which another person has any interest without the consent of such other person; or (b) damaging any building or property with intent to injure or defraud an insurer or lienholder. Certainly, the crime of arson as defined by (b) of the statute is inherently dishonest. However, the crime, defined by (a) of the statute might conceivably have been impulsive or committed in the heat of passion, and not reflect on the credibility of a witness.
+Apparent from the record before us is the fact that certain records and reports were made available to the trial judge, from which it was concluded the charges of arson and attempted arson which had been brought against the two witnesses did not involve dishonesty. Those records are not a part of the record on appeal.
+It is incumbent upon the appellant to designate a record sufficient to present issues on appeal, and to establish claimed error. Farmers Ins. Exchange v. Schropp, 222 Kan. 612, Syl. ¶ 8, 567 P.2d 1359 (1977). In the absence of an adequate record on appeal, it is not possible for this court to determine whether the prior crimes of the two witnesses did in fact involve dishonesty. Such being the case, we conclude the trial court did not err in granting the protective order.
+Defendant next complains the trial court erred in failing to instruct the jury that the intent to commit a theft must precede the illegal entry into the victim’s dwelling.
+At the close of all the evidence, defendant proposed the following instruction:
+“It is a defense in this case, if by reason of ignorance or mistake, the defendant did not have at the time the mental state which the statute prescribes as an element of the crime.”
+This was not accepted and the court instructed the jury:
+“The defendant is charged with the crime of Aggravated Burglary. The defendant pleads not guilty.
+“To establish the charge, each of the following claims must be proved:
+“1. That the defendant knowingly entered and remained in a building located at 2510 East Stadium;
+“2. That the defendant did so without authority;
+“3. That the defendant had the intent to commit a theft therein;
+“4. That at the time there were human beings in 2510 East Stadium; and
+“5. That this act occurred on or about the 28th day of April, 1980, in Sedgwick County, Kansas.” Emphasis added.
+Procedurally, the State contends defendant is now precluded from raising this issue on appeal because defendant failed to specifically object to the instruction. K.S.A. 22-3414(3) provides in relevant part:
+“No party may assign as error the giving or failure to give an instruction unless he objects thereto before the jury retires to consider its verdict stating distinctly the matter to which he objects and the grounds of his objection unless the instruction is clearly erroneous. Opportunity shall be given to make the objections out of the hearing of the jury.”
+The record reveals, however, that defendant attempted to voice an objection to the sufficiency of the instruction given but was not afforded adequate opportunity to do so.
+One purpose underlying K.S.A. 22-3414(3) is to provide the trial court with an opportunity to correct errors in instructions prior to their being submitted to the jury. Here, the trial court concluded its instructions were sufficient and it did not need to hear the basis for counsel’s objection. In any event, the attempt to object and submission of the proposed instruction satisfy the requirements of the statute and defendant should not be precluded from presenting this issue on appeal. Cf. State v. Gordon, 219 Kan. 643, 549 P.2d 886 (1976).
+It is obvious from this record that the trial court adapted its instruction to the charge against defendant, i.e., “did . . . enter into and remain within . . . K.S.A. 21-3716 provides in relevant part: “Aggravated burglary is knowingly and without authority entering into or remaining within any building . . . with intent to commit a felony or theft therein.” PIK Crim. 59.18 shows the alternative terms in parentheses [’’(entered) (remained in)”]. Properly prepared, this instruction would employ but one of the alternative terms, depending upon the evidence adduced at trial, for the phrases “entering into” and “remaining within” refer to distinct factual situations.
+“Entering into” refers to the situation where a defendant enters without authorization. The specific intent to commit a felony or theft must exist at the time of the unauthorized entry. People v. Collins, 53 Ill. App. 3d 114, 119, 368 N.E.2d 685 (1977). “Remaining within” refers to the situation where defendant’s initial entry is authorized, but at some later time that person’s presence becomes unauthorized. Thus, one who enters a department store during business hours and secrets himself or herself in a public washroom until the store is closed, remains without authority within the meaning of our burglary statute. Vernon’s Kansas Crim. C. § 21-3715 (1971).
+It was undisputed that defendant entered the home without authority and only his intent at the time of entry was in question. Defendant argues the jury could well have believed he “mistakenly entered the home and then it entered his mind to commit a theft which he attempted to do.” Clearly, the trial judge should have instructed only as to “entering.” However, it is obvious that under the instruction as given the prosecution was required to prove at a minimum that defendant “entered” without authority and with intent' to commit a theft. Although the court’s instruction may have been technically incorrect, defendant’s case was not prejudiced by including within that instruction the phrase “and remained.”
+Finally, defendant argues it was error to deny his request for an instruction on the definition of “theft” as defined by K.S.A. 1980 Supp. 21-3701. We find no merit to this contention.
+Instructions must contain a definition or explanation of the crime charged in precise and accurate language, setting forth the essential elements thereof. If the crime is defined by statute, it is generally sufficient to give the statutory definition although the exact language of the statute need not be used. 23A C.J.S., Criminal Law § 1194. It is not necessary to define every word or phrase in the instructions. It is only when the instructions as a whole would mislead the jury, or cause them to speculate, that additional terms should be defined. A term which is widely used and which is readily comprehensible need not have a defining instruction. A word or phrase which persons of common intelligence and understanding can comprehend is not one which requires definition. State v. Norris, 226 Kan. 90, 595 P.2d 1110 (1979). In this case, the jury’s concern was whether defendant entered the home with intent to take and keep any of the owner’s property. The word “theft” did not require further definition.
+Affirmed.
