@@ -1,0 +1,32 @@
+---
+court: "Kansas Court of Appeals"
+docket: "52"
+decided: "1895-12-04"
+citations: ["3 Kan. App. 131"]
+reporter: "kan-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["All the Judges concurring."]
+parties: ["Amelia L. Hamblin et al. v. S. B. Rohrbaugh."]
+source_url: "https://static.case.law/kan-app/3/cases/0131-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 337629
+cites_cases: ["11 Kan. 214", "47 Kan. 644"]
+---
+
+# Hamblin v. Rohrbaugh
+
+## Majority (Dennison, J. :)
+
+The opinion of the court was delivered by
+Dennison, J. :
+This is an action brought in the district court of Franklin county by S. B. Rohrbaugh against Amelia L. Hamblin, Peter Hamblin, Charles T. Hamblin, and Mrs. John J. Fuller, asking a personal judgment against them. The cause of action is based upon the damages sustained by said Rohrbaugh by reason of a breach of the covenant of warranty contained in a warranty deed, dated December 19/1879, executed by one George W. Hamblin, now deceased, in which he, attempted to convey to one Willis Johnson certain real estate. The defendant in error received a warranty deed from said Willis Johnson to said real estate. The title of said George W. Hamblin was defective, and the defendant- in error was evicted in 1890. The plaintiffs in error are the heirs of said George W. Hamblin, deceased, -who died testate on September 18, 1882, leaving an estate consisting of personal property which was distributed in accordance with the terms of Ms will as follows, to •wit: Amelia L. Hamblin, widow, $20,623.35; Peter Hamblin, father, $837.25; Charles T. Hamblin, brother, $504.25 ; Mrs. John J. Fuller, sister, $504.25. This constituted the estate of said George W. Hamblin and the same was fully settled and said distribution made on January 18, 1884. The defendant Mrs. John J. Fuller was not served and is not in this court. The case was tried upon an agreed statement of facts, without a jury, before Hon. Sperry Baker, judge pro tem., and judgment was rendered against the plaintiffs in error for $275, to the rendition of which judgment they except and bring the case here for review.
+The only question necessary to be considered in this case is, whether or not the defendant in error is entitled to a personal judgment against the plaintiffs in error upon such a state of facts as is above set forth. The case of Fox v. Van Norman, 11 Kan. 214, is somewhat similar to this case, and Mr. Justice Brewer, in the opinion in that case, says :
+“Plaintiff sued the widow of Peter Van Norman on some promissory notes executed by him in Ms lifetime, and claimed a personal judgment against her. Did the petition state facts sufficient to constitute a cause of action? We think not. The defendant did not sign the notes, and is not therefore responsible as mailer. It is alleged that she is the sole heir of Peter Yan Norman. But that creates no liability. The debts of a man die with him, except so far as his own property will satisfy them. There is no transfer of obligation to the heir.”
+In the case at bar, the plaintiffs in error are not responsible as the makers of the covenant nor because they are the heirs of George W. Hamblin. It would not be technically correct to say that this debt died with George W. Hamblin, because it was not in existtence at the time of his decease. If it has an existence as a debt, it came into existence eight years after his death, and is a debt against his estate which is now in the hands of his heirs. The plaintiffs in error contend that it cannot be maintained as a debt 'against his estate now in the hands of his heirs, because his heirs are not named in the Hamblin deed. The view we take of this case renders it immaterial whether this is the correct doctrine or not, for, even if the heirs are liable to the extent of the estate received by them, the proper steps have noi, been taken to determine their liability. In Kansas, no personal judgment can be obtained against an heir for a liability of his testator, except it be done as is provided in paragraph 2598 of the General Statutes of 1889.
+We apprehend that if a proper showing had been made in this case' it would have been the duty of the court to appoint an executor or administrator de bonis non, and he, under the direction of the court, would have proceeded, after the allowance of the claim, to procure assets sufficient to pay said claim, under the authority given by paragraphs 2957 and 2958 id., which read as follows :
+“If, after the payment of legacies or distributions; it becomes necessary that the same, or any part thereof, be refunded for payment of debts, the court, on application, shall apportion the same among the legatees or distributees, according to the amount received by them, except that specific legacies shall not be required to be refunded, unless the residue be insufficient to satisfy such debts.
+“If any legatee or distributee fail to refund, according to such order, the court shall, on motion of the executor or administrator, ten days’ notice in writing having .been given to the legatee or distributee, enter judgment for the amount apportioned to him.”
+Suppose that some of the heirs of George W. Hamblin had received specific legacies, which cannot be taken until the balance of the estate is exhausted, or that some of the heirs had since become insolvent, and the whole amount should be collected from one of them, say Charles T. Hamblin, and it took all of his legacy, or that the executor had not, been discharged, can it be claimed that a personal judgment can be rendered indiscriminately against the heirs without regard to the nature or amount of their legacy? Such a claim is not founded upon justice, equity,-or law, and such a judgment cannot be rendered. In the cases of McLean v. Webster, 47 Kan. 644, and Shoemaker v. Brown, 10 id. 383, the authority to bring suit directly against the heirs is apparently recognized, but in both of these cases the suits were brought to subject the real estate left by the decedent to the payment of the debt, and in neither case was a personal judgment against the heirs asked for.
+The judgment of the district court is reversed, and the case remanded to the court below with instructions to render judgment for costs in favor of the defendants below against said Nohrbaugh.
+All the Judges concurring.
