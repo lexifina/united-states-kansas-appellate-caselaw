@@ -1,0 +1,47 @@
+---
+court: "Kansas Court of Appeals"
+docket: "49,666"
+decided: "1979-06-29"
+citations: ["3 Kan. App. 2d 485", "596 P.2d 1247"]
+reporter: "kan-app-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Parks, P.J., Abbott and Swinehart, JJ."]
+parties: ["Keith Stanturf, Appellant, v. Quality Dodge, Inc., Appellee."]
+source_url: "https://static.case.law/kan-app-2d/3/cases/0485-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 388739
+cites_cases: ["11 A.L.R.2d 701", "126 Kan. 736", "16 N.Y.2d 344", "213 N.E.2d 873", "266 N.Y.S.2d 785", "285 N.E.2d 311", "3 Kan. App. 38", "30 N.Y.2d 393", "334 N.Y.S.2d 165", "363 N.E.2d 701", "395 N.Y.S.2d 151", "41 N.Y.2d 972", "44 Pac. 445"]
+---
+
+# Stanturf v. Quality Dodge, Inc.
+
+## Majority (Abbott, J.:)
+
+Abbott, J.:
+This is an appeal from a judgment in a Chapter 61 proceeding denying plaintiff’s claim for damages which he alleged arose out of an aborted sale of a motor vehicle.
+Plaintiff went to defendant corporation’s place of business to purchase a van. Defendant’s salesman, W. F. Masters, showed various vehicles to plaintiff, and plaintiff decided to purchase a particular one. A document entitled “BUYER’S GUIDE — CONTRACT FOR SALE” which contained a general description of the vehicle and payment terms was signed by plaintiff and defendant’s salesman. Plaintiff paid $500 cash down payment and left his car as a trade-in with an agreed value of $1,000. Delivery of the van was postponed until plaintiff could produce proper insurance certificates.
+Plaintiff returned with the insurance information and asked to examine the vehicle again. After doing so, he announced that the vehicle was not the one he had agreed to buy, as it was dented and did not contain air conditioning and a radio. Defendant’s salesman denied that any switch of vehicles had occurred. Upon further discussions with defendant’s president, defendant offered to install air conditioning and a radio in the van at no charge to plaintiff, and in fact did so. Plaintiff refused to accept the vehicle and demanded return of his down payment and trade-in. Following defendant’s refusal, plaintiff brought this action pursuant to K.S.A. Chapter 61 and requested both the return of his down payment and damages for the tortious conversion of his trade-in. The defendant filed a general denial and did not plead special damages, nor did it request either damages or specific performance of the contract. The plaintiff did not request that defendant be required to plead any counterclaim pursuant to K.S.A. 61-1709. The case was tried and the trial court found that no switch of vehicles had occurred and denied all requested relief.
+Plaintiff argues the court erred in finding a contract existed between the parties in that there was no “meeting of the minds” as to the essential terms. The issues in this case are governed by K.S.A. 84-2-101 et seq. Article 2 of the Uniform Commercial Code governs sales of goods (K.S.A. 84-2-102), and a motor vehicle clearly falls within the definition of “goods” contained in K.S.A. 84-2-105(1).
+The U.C.C. liberalizes certain traditional contract principles, including the requirement that there be a meeting of the minds as to every facet of the agreement. K.S.A. 84-2-204 provides:
+“(1) A contract for sale of goods may be made in any manner sufficient to show agreement, including conduct by both parties which recognizes the existence of such a contract.
+“(2) An agreement sufficient to constitute a contract for sale may be found even though the moment of its making is undetermined.
+“(3) Even though one or more terms are left open a contract for sale does not fail for indefiniteness if the parties have intended to make a contract and there is a reasonably certain basis for giving an appropriate remedy.”
+The case of Kleinschmidt Div. of SCM Corp. v. Futuronics Corp., 41 N.Y.2d 972, 395 N.Y.S.2d 151, 363 N.E.2d 701 (1977), is indicative of the relaxation of common law concepts by the U.C.C. In Kleinschmidt, the Court stated that even the failure to agree on an important term will not defeat a contract for sale unless the dispute manifests a lack of intention to contract. 41 N.Y.2d at 973. See also cases collected at 1 U.C.C. Case Digest § 1201.11.
+In the present case there is substantial evidence that both parties had the intention to form a contract. Plaintiff’s willingness to enter into an agreement is indicated by such actions as signing the purported contract for sale and leaving a down payment and trade-in with defendant. The record reveals that defendant stood ready and willing to perform its obligations even to the point of installing air conditioning and a radio on the vehicle at no charge to plaintiff. Although financing was not available where anticipated, it was obtained and nothing in the record indicates the financing available was detrimental to plaintiff. We would conclude that the record contains substantial competent evidence of an intention to contract and any contingencies left unresolved fall within K.S.A. 84-2-204(3), and the trial court did not err in so finding.
+At the conclusion of the hearing the trial court stated:
+“I find that the defendant is obligated to produce and deliver this vehicle upon tendering of the balance of the purchase price as shown on the papers.
+“Now, it is up to the plaintiff in this case, if he so desires, to get the balance of the purchase price financed at any place that he wishes to have it financed. ... I find that the plaintiff’s claim should be and it is now hereby denied. . . .”
+Plaintiff argues the effect of the court’s decision is to order specific performance of the contract and that such judgment is harsh and unfair. Although we do not agree that the decision technically orders specific performance, we believe the trial court’s decision is not totally in accord with applicable law on this subject. The court attempted to do equity and allow the plaintiff to complete the contract. The plaintiff obviously has chosen not to do so. We are faced with deciding a case in which the defendant, Quality Dodge, Inc., chose not to file a counterclaim and the plaintiff made no effort to force it to do so, thus leaving Quality Dodge in a position to assert a claim against plaintiff at any time prior to the expiration of the statute of limitations for any loss recoverable under the U.C.C., since a counterclaim is not compulsory under the facts of this case. K.S.A. 61-1709. We are therefore remanding this case to the trial court to determine damages, if any.
+For the trial court’s guidance, we note that the common law rule regarding restitution of property advanced by a breaching buyer was stated in Gibbons v. Hayden, 3 Kan. App. 38, 40-41, 44 Pac. 445 (1896):
+“[T]he rule seems to be well settled that the party who has advanced money in part performance of such an agreement, the other party being ready and willing to perform on his part, cannot, without just cause or excuse, refuse to proceed with the contract and recover back what he has advanced. [Cites omitted.]”
+See also Burns v. Hunter, 126 Kan. 736, 739, 271 Pac. 398 (1928); Annot., 11 A.L.R.2d 701. The early common law rule in this instance, however, has been replaced by statute. K.S.A. 84-2-718(2) provides:
+“(2) Where the seller justifiably withholds delivery of goods because of the buyer’s breach, the buyer is entitled to restitution of any amount by which the sum of his payments exceeds
+“(a) the amount to which the seller is entitled by virtue of terms liquidating the seller’s damages in accordance with subsection (1), or
+“(b) in the absence of such terms, twenty percent of the value of the total performance for which the buyer is obligated under the contract or $500, whichever is smaller.”
+The above provision is discussed in Anderson, Uniform Commercial Code, § 2-718:7 (2nd ed. 1971).
+“The general objective of Code § 2-718 is to prevent the oppression of the buyer who has breached the contract, by requiring that the seller return to the buyer so much of any deposit or down payment as exceeds the damages which the seller in fact sustains.
+“This principle is applicable to anything paid or delivered by the buyer to the seller, whether as a part or down payment on the purchase price or as security for performance, and without regard to whether the buyer’s payment was in money or goods.
+“The applicability of the refund clause of the Code is not affected by the fact that the breach by the buyer was willful or without justification. . . .”
+As there is no liquidated damages provision involved, application of K.S.A. 84-2-718(2) to the present case may limit defendant’s retention of plaintiff’s property to $500. If Quality Dodge, Inc., can prove special damages, authority exists which recognizes a seller’s right to prove and recover additional damages (see Procter & Gamble v. Lawrence Ware. Corp., 16 N.Y.2d 344, 266 N.Y.S.2d 785, 213 N.E.2d 873 [1965]; Neri v. Retail Mar. Corp., 30 N.Y.2d 393, 334 N.Y.S.2d 165, 285 N.E.2d 311 [1972]), and in Kansas statutory authority exists which allows such proof and recovery. See, e.g., K.S.A. 84-2-703, 84-2-708. If special damages are not applicable, the trial court should order restitution of all but $500 to plaintiff.
+We affirm the trial court’s decision that a contract existed and that defendant did not breach the contract. We remand to the trial court to fix damages.
