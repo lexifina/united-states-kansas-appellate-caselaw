@@ -1,0 +1,32 @@
+---
+court: "Kansas Court of Appeals"
+docket: "51,651"
+decided: "1981-08-07"
+citations: ["6 Kan. App. 2d 630", "631 P.2d 1243"]
+reporter: "kan-app-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Foth, C.J., Parks and Swinehart, JJ."]
+parties: ["Darnell Joe, Appellee, v. Ron and Denise Spangler, Appellants."]
+source_url: "https://static.case.law/kan-app-2d/6/cases/0630-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 391266
+---
+
+# Joe v. Spangler
+
+## Majority (Parks, J.:)
+
+Parks, J.:
+Plaintiff landlord Darnell Joe brought this action against defendants Ron and Denise Spangler for peaceable entry and forcible detainer to recover possession of a house and damages for unpaid rent. Defendants counterclaimed for damages arising out of the landlord’s alleged breach of certain duties imposed by the Residential Landlord and Tenant Act.
+Plaintiff rented a two-story house to defendants on June 8, 1979. When defendant Denise Spangler viewed the house, only the downstairs was ready for habitation although the landlord intended to complete the upstairs and rent it out as a separate apartment. Defendants wanted to rent the entire house and the landlord agreed, stating that the rent for both floors would be $200. Defendants and their two small children moved into the house, paying rent of $200 plus a $100 deposit and living in the downstairs area until the rest of the house could be occupied. Since the upstairs was not livable on the July rental date, plaintiff reduced the rent from $200 to $125 per month and credited defendants with the $75 overpayment in June plus $25 for labor performed on the premises. Defendants then paid plaintiff the additional $25 due for the month of July. Thereafter, defendants complained that the upstairs renovation was taking too long and requested repair of several other conditions in the house.
+In early August 1979, defendants complained to the Kansas City Office of Community Development and a housing inspector, Harold White, was sent on August 9, 1979, to inspect the premises. As a result of this inspection, Mr. White filed a report and notified plaintiff by letter of various violations of the Kansas City Housing Code. At trial, White testified that the violations on the lower floor of the house included an exposed electrical wire hanging down in the bathroom, improper ventilation of the bathroom and electrical outlets which were neither covered nor firmly affixed in the wall. He characterized the exposed wire in the bathroom as “dangerous.”
+Because defendants refused to pay the rent until the house was repaired, the landlord sued for possession and the unpaid rent. The trial court found that (1) a rental agreement was entered into between the plaintiff and defendants, (2) defendants had paid a security deposit of $100 and $225 as rent for a total of $325, (3) defendants failed to pay the monthly rental of $125 for the month of August 1979, (4) there were defects in and on the premises that constituted violations of the building and housing code of Kansas City, (5) the defendants were aware of these defects prior to moving in and accepted them upon the landlord’s promise to repair, and (6) that the presence of these defects did not constitute a violation of K.S.A. 58-2553(a). Based on these findings, the trial court held that possession of the premises should be granted to the landlord, and awarded the landlord judgment in the amount of $125. It also denied defendants’ counterclaim of $325 and assessed the costs against the defendants. The only issue raised on appeal is whether the trial court erred in failing to find a breach of the landlord’s duty to provide habitable premises.
+K.S.A. 58-2553(a) provides in pertinent part:
+“(a) Except where prevented by an act of God, the failure of public utility services or other conditions beyond the landlord’s control, the landlord shall:
+“(1) Comply with the requirements of applicable building and housing codes materially affecting health and safety, and if the duty imposed by this paragraph is greater than any duty imposed by any other paragraph of this subsection, the landlord’s duty shall be determined in accordance with the provisions of this paragraph;
+“(2) exercise reasonable care in the maintenance of the common areas;
+“(3) maintain in good and safe working order and condition all electrical, plumbing, sanitary, heating, ventilating, air-conditioning and appliances including elevators, supplied or required to be supplied by such landlord . . . .”
+The plain language of K.S.A. 58-2553(a)(1) and (3) mandates that the landlord shall comply with the requirements of applicable building and housing codes and maintain in good and safe working order all electrical and ventilating systems supplied or required to be supplied by the landlord. The evidence showed and the trial court found that there were “defects in and on the premises that constituted violations of the building and housing code of the City of Kansas City, Kansas.” This finding would compel a conclusion that the landlord breached his duty under the statute unless the violated provisions did not materially affect health and safety.
+The Housing Standards of the Kansas City Code (§ 21-1 et seq.) are directed at prohibiting conditions which render structures unfit, unsanitary, dangerous or detrimental to the health, safety or morals of the community. Kansas City Code § 21-1(2). Code provisions which prohibit exposed electrical wiring and loose, uncovered outlets must certainly be directed at preventing accidental electrocution and fires; we can think of few requirements more material to health and safety. Therefore, under these circumstances, we must conclude as a matter of law that the conditions found to exist on plaintiff’s property materially affected the health and safety of the tenants and violated the landlord’s duty under K.S.A. 58-2553(a)(1). K.S.A. 58-2549 provides that a rental agreement may not permit the receipt of rent free of the obligation to comply with subsection (a) of K.S.A. 58-2553. Thus, the provisions of 58-2553(a) cannot be waived by the tenant merely because he had prior knowledge of the defects. We conclude that the trial court erred in holding that there was no violation of K.S.A. 58-2553(a).
+Judgment is reversed and the case is remanded to the district court to determine the damages sustained by the tenants as a result of the landlord’s breach of K.S.A. 58-2553(a).
