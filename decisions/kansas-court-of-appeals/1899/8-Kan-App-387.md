@@ -1,0 +1,26 @@
+---
+court: "Kansas Court of Appeals"
+docket: "341"
+decided: "1899-01-07"
+citations: ["8 Kan. App. 387"]
+reporter: "kan-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["George B. Abbott v. A. B. Mayfield."]
+source_url: "https://static.case.law/kan-app/8/cases/0387-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 376419
+---
+
+# Abbott v. Mayfield
+
+## Majority (McElroy, J.:)
+
+The opinion of the court was delivered by
+McElroy, J.:
+This action was instituted by A. B. Mayfield, a physician and surgeon, against George B. Abbott, in justice’s court, to recover $221, claimed to be due for professional services. The plaintiff alleged in his bill of particulars that at the special instance and request of the defendant he rendered professional services as a physician and surgeon in the care and treatment of "the wife of the defendant; that he furnished her medical and surgical treatment, nursing, lodging and board to the value of $309, on which amount there was a balance due of $221. The defendant filed for his bill of particulars his affidavit, in which he “denies the correctness of plaintiff’s account and each and every item thereof, and denies that he]|is indebted to plaintiff on said account in any sum whatever.’’ On the issues thus formed a. trialjwas had and the case appealed. A trial was had in the district court, which resulted in a verdict for-plaintiff for $130. The defendant filed Ms motion for a new trial, which was overruled, and presents the case to this court for review.
+The plaintiff in error alleges that the trial court erred, first, in admitting incompetent testimony. The contention is that the court erred in admitting the testimony of Doctor Miller as to the value of the medical service after the performance of the surgical operation. We are referred to the record, but an examination of it fails to support the contention. The question asked was : “Now, add to that the care of the patient for twenty days, or twenty-two days; then what would you say as to the value of that operation?” The question was not answered. Complaint is also made that the court improperly admitted a letter written by Abbott to Miss Riggs. We are unable to say that the letter offered was either irrelevant or immaterial. It was introduced in evidence without objection, and there was no motion to strike it out. An objection to evidence, to be available, must be made in the trial court.
+The second assignment is that the court erred in ruling out competent testimony offered by the plaintiff in error. The complaint here made is that the court sustained an objection to the following question put to Doctor Mayfield : “ Now, as a matter of fact the operation did not do her any good, did it? ” The witness had been recalled and questioned with reference to certain subjects only, and on cross-examination the question of which complaint is made was put to him. The objection was that the question was not proper cross-examination. There was no direct examination of the witness as to the surgical operation, or its effect on the patient. The court very properly sustained the objection for the reason assigned.
+It is next alleged that the court erred in refusing to submit to the jury two instructions as requested. The first instruction contained a definition of malpractice, as follows : ‘‘ Malpractice, in law, means bad or unskilful practice in' a physician ; it may occur from neglect or ignorance.” Anderson defines it as “unskilful treatment by a physician or surgeon, in consequence of which the patient is injured more or less seriously, perhaps permanently.” The definition as set out in the instruction was not sufficiently comprehensive. It confines malpractice to the physician, and fails to conclude with the resultant injury to the patient. The second instruction requested and refused, of which complaint is made, reads : “If you find from the evidence that the plaintiff was guilty of malpractice, either in his diagnosis of Mrs. Abbott’s case, or in the-administering of medicine, or in the surgical operation performed,'then in either case he would not be entitled to recover in this case for such services.” This was a correct statement of the law applicable to the case and was not covered by the instructions given by the court. The refusal to give this instruction was prejudicial error for which a new trial should have been granted.
+It is further complained that the trial court erred ia instructing the jury as to what the plaintiff claimed in his bill of particulars. It is contended that there was no statement or allegation in the bill of particulars to justify a recovery for medical treatment after the performance of the surgical operation. There is no merit in this contention. The court, we think,, very fairly set out the contentions of the respective-parties, and properly instructed the jury, so far-as the instructions went. This appears to have been the opinion of the plaintiff in error in the trial court; he neither objected nor excepted to the instructions as given, and of course cannot predicate error thereon.
+For refusing to give the second instruction as requested by the plaintiff in error, the judgment of the court below will be reversed and a new trial directed.
