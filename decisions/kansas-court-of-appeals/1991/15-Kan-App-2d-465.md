@@ -1,0 +1,42 @@
+---
+court: "Kansas Court of Appeals"
+docket: "65,222"
+decided: "1991-04-12"
+citations: ["15 Kan. App. 2d 465", "809 P.2d 559"]
+reporter: "kan-app-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Elliott, P.J., Gernon and Pierron, JJ."]
+parties: ["State of Kansas, Appellee, v. Charlene F. Brown, Appellant."]
+source_url: "https://static.case.law/kan-app-2d/15/cases/0465-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 359417
+cites_cases: ["11 Kan. App. 2d 55", "205 Kan. 253", "220 Kan. 646", "234 Kan. 594", "239 Kan. 629", "242 Kan. 867", "245 Kan. 221", "401 U.S. 919", "575 F.2d 346", "624 F.2d 659"]
+---
+
+# State v. Brown
+
+## Majority (PlERRON, J.:)
+
+PlERRON, J.:
+Defendant Charlene F. Brown appeals her conviction of forgery. K.S.A. 21-3710.
+On March 13, 1988, a woman presented to Russ Meens, a drive-through teller at a branch office of Capitol Federal Savings and Loan in Topeka, a passbook bearing the name Marjorie Thomas and a withdrawal slip for $1,000 on that account. She was given $1,000 in cash. Forty-five minutes later, the same woman returned and attempted to again withdraw $1,000 from Thomas’ account. This time Meens compared the signature on the withdrawal slip with that of the signature card and found they were not “close enough.” Meens asked the woman for identification, which she did not give. He then advised the woman to complete the transaction at the Capitol Federal home office. The woman was identified at trial as Charlene Brown, an employee of another branch office of Capitol Federal.
+Marjorie Thomas’ passbook had not been stolen nor had she authorized anyone to use it to withdraw the $1,000. A subsequent investigation of the savings and loan’s computer records revealed that several inquiries into Thomas’ account had been made on March 11 and 13 from Charlene Brown’s terminal and cashbox numbers. On the date of the forgery, Brown deposited $600 into her personal account at Capitol Federal. The next day she purchased a $400 money order.
+Brown was charged with one count of forgery. She was convicted by a jury and sentenced to four years’ probation. She filed a timely notice of appeal.
+The only issue Brown raises on appeal is the admission of certain computer records.
+“There is little doubt that evidence in the form of a computer printout may constitute hearsay and is inadmissible unless it qualifies under one of the exceptions to the hearsay rule. United States v. Ruffin, 575 F.2d 346, 355-56 (2d Cir. 1978). The most frequently applied exception to overcome the hearsay rule and gain admissibility is the ‘business records’ exception, K.S.A. 60-460(m).” West v. Martin, 11 Kan. App. 2d 55, 59, 713 P.2d 957, rev. denied 239 Kan. 629 (1986).
+K.S.A. 1990 Supp. 60-460(m) defines the business records exempted from the hearsay rule as
+“writings offered as memoranda or records of acts, conditions or events to prove the facts stated therein, if the judge finds that (1) they were made in the regular course of a business at or about the time of the act, condition or event recorded and (2) the sources of information from which made and the method and circumstances of their preparation were such as to indicate their trustworthiness.”
+Here, Brown contends that neither requirement of 60-460(m) was met. She argues the computer printouts which revealed the inquiries into Thomas’ account were not ordinarily made in the normal course of business.
+The information at issue was entered during the testimony of Perry Adkins, the director of internal audit at Capitol Federal.
+He testified that each teller has his or her own cashbox and cashbox number. Two tellers share a computer terminal, but have separate sign-on numbers. Pursuant to his investigation, he requested from data processing the printouts showing inquiries made on Thomas’ account. He discovered that on March 11, 1989, two days before the forgery, 17 inquiries were made on Thomas’ account from the terminal and cashbox assigned to Brown on that date. The inquiries requested general information about the account and were consistent with those necessary to create a new passbook. Numerous inquiries were also made on March 13, 1989, from different terminals and cashboxes. Most of them were made from cashbox 6, which was assigned to Brown.
+Adkins testified that there is a distinction between transactions and inquiries, both of which are done by computer. Transactions are such things as withdrawals and deposits and, pursuant to federal regulations, records of transactions may be retained as long as 40 years. Inquiries are questions to verify information about an account. Capitol Federal records inquiries so that if the computer malfunctions the savings and loan would be able to update customer information. Generally, records of inquiries are only retained for a week to ten days. Capitol Federal records everything for back up in case of a problem, and then sorts through the records to determine what will be saved for a long period of time.
+Clearly, the computer information regarding inquiries about Thomas’ account was made in the regular course of business. Although not kept as long as records of transactions, inquiries were recorded for a legitimate business purpose and those records were kept for several days to satisfy that purpose if the need occurred.
+Brown also argues that the computer information did not meet the second requirement of K.S.A. 1990 Supp. 60-460(m) which is trustworthiness. The determination of whether business records are trustworthy under 60-460(m) is within the discretion of the trial court. Hudson v. City of Shawnee, 245 Kan. 221, 230, 777 P.2d 800 (1989). “The test on appellate review of whether the trial court abused its discretion is whether no reasonable person would agree with the trial court.” Hoffman v. Haug, 242 Kan. 867, 873, 752 P.2d 124 (1988).
+Here, Brown makes several specific allegations against the trustworthiness of the computer data at issue. First, she contends it should not have been admitted because Adkins admitted he did not know the intricacies of the computer’s operation and a computer programmer was better qualified to explain how the computer records each inquiry. Further, she contends he was only able to obtain and interpret the data with the assistance of the data processing department.
+“In Olathe Ready-Mix Co., Inc. v. Frazier, 220 Kan. 646, 556 P.2d 198 (1976), it was held that K.S.A. 60-460(m) does not require that the custodian of business records be called to lay the foundation facts for their admission into evidence. The foundation facts may be proved by any relevant evidence and the person making the entries in the records need not be called to authenticate them if they can be identified by someone else who is qualified by knowledge of the facts. The policy of this section is to leave it up to the trial court to determine whether the sources of information, method, and time of preparation reflect trustworthiness. (State v. Beasley, 205 Kan. 253, 469 P.2d 453 [1970], cert. denied 401 U.S. 919 [1971]).” State v. Cremer, 234 Kan. 594, 601, 676 P.2d 59 (1984).
+Adkins did request the information from the data processing department, but he has access to all information at Capitol Federal. He is able, through his training, to interpret the numbers on the inquiry information to determine from what terminal and cashbox the requests came.
+Brown also argues that the information is untrustworthy because it was generated solely for the purpose of this litigation. Federal courts have stated that the fact a business record was made solely for litigation is a factor in determining trustworthiness. Rosenberg v. Collins, 624 F.2d 659, 665 (5th Cir. 1980). Even if that is a factor in this jurisdiction, the information at issue here was not made for the sole reason of prosecuting Brown. Adkins explained that inquiries are recorded as back-up in the event of a computer shutdown.
+Brown also argues that the information is suspect because the employee’s identification number was not shown in the data; therefore, it cannot be shown which employee made the inquiry but only from which terminal and cashbox the inquiry came. This goes to the weight of the evidence, not its admissibility.
+The court did not abuse its discretion by admitting the computer evidence.
+Affirmed.
