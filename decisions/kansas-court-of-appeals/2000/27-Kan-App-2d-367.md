@@ -1,0 +1,47 @@
+---
+court: "Kansas Court of Appeals"
+docket: "81,990"
+decided: "2000-04-14"
+citations: ["27 Kan. App. 2d 367", "4 P.3d 626"]
+reporter: "kan-app-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Brazil, C.J., Marquardt, J., and Edward E. Bouker, District Judge, assigned."]
+parties: ["Allen Belot, d/b/a Allen Belot Architects, Appellant/ Cross-appellee, v. Unified School District No. 497, Douglas County, State of Kansas, Appellee/Cross-appellant."]
+source_url: "https://static.case.law/kan-app-2d/27/cases/0367-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 96466
+cites_cases: ["251 Kan. 347", "260 Kan. 491", "262 Kan. 941", "265 Kan. 148", "267 Kan. 234"]
+---
+
+# Belot v. Unified School District No. 497
+
+## Majority (Marquardt, J.:)
+
+Marquardt, J.:
+Allen Belot, d/b/a Allen Belot Architects (Be-lot), appeals the trial court’s finding that he failed to meet his burden of proof regarding damages for an alleged breach of contract by Unified School District No. 497 (District). The District cross-appeals the trial court’s finding that Belot performed contingent additional services. We affirm.
+Belot was selected as the architect for a project at Central Junior High School in Lawrence. Belot’s contract with the District, executed on April 26, 1993, was divided into five phases: schematic design; design development; construction documents; bidding or negotiations; and construction administration. Belot was to be paid a lump sum after completion of the final phase.
+Midwest Titan, Inc. (Titan) was selected as the contractor. The project was to be substantially completed by August 12, 1994. The entire project was to be completed on October 17,1994. Titan was unable to meet either deadline. Belot claimed that the delay required him to perform duties which were beyond those listed in ihe contract, such as: responding to a lengthy checklist; preparing lists which the contractor was supposed to provide; providing nighttime inspections; responding to questions from subcontractors; and reeducating job superintendents. Belot also claimed that he was required to perform certain basic duties for a period longer than had been agreed.
+In November 1994, Belot contacted the District to discuss a fee increase because he had incurred extra expenses due to the delay in completion of the construction. Belot characterized this extra work as “contingent additional services.” Belot again contacted the District in June 1995, reiterating that he spent 8 additional months working on the project and that he was entitled to compensation for his contingent additional services. Most of the work on the school was completed by the end of 1995.
+In August 1995, Belot filed a petition alleging that the District breached its contractual duties. Belot asked to be compensated at a rate of $317.65 per day for each day after October 17,1994, which amounted to $91,165.55.
+After a bench trial, the trial court found that Belot performed contingent additional services under paragraph 3.3.6 of the contract. However, from Belot’s records, it was impossible to differentiate between his performance of basic services and contingent additional services. The trial court found that Belot failed to meet his burden of proof on damages and denied his claim. Belot appeals the denial of his claim. The District appeals the finding that Belot performed contingent additional services.
+Additional Services
+According to the District, the issue before this court is whether Belot performed services which were not basic services. The District argues that a careful reading of the contract shows that Belot performed only basic services for the contract term of 60 months. The District also argues that Belot was required to perform basic services until the issuance of final payment.
+Regardless of the construction given a written contract by the trial court, an appellate court may construe a written contract and determine its legal effect. City of Topeka v. Watertower Place Dev. Group, 265 Kan. 148, 152-53, 959 P.2d 894 (1998). As a general rule, if the language of a written instrument is clear and can be carried out as written, there is no room for application of the rules of construction. In re Cherokee County Revenue Bonds, 262 Kan. 941, 953, 946 P.2d 83 (1997).
+The District argues that Belot was contractually obligated to provide basic services for a 60-month period. However, the contract does not support the District’s assertion.
+The real issue is the interpretation of two seemingly contrary contract provisions. Paragraph 2.6.1 obligates Belot to provide basic services until final payment or 60 days after substantial completion of the work. However, paragraph 3.3.6 entitles Belot to recover for additional services made necessary by Titan’s failure to perform.
+After arbitration, Titan was found to be in default. Aside from Titan’s inability to comply with the completion deadline, it appears that there were substantive problems with construction performance. The arbitrator awarded the District over $40,000 in liquidated damages. This satisfies the requirements of paragraph 3.3.6, which says that Belot was due additional compensation if Titan was found to be in default or if there were major defects in Titan’s performance which necessitated additional duties.
+Belot specified certain additional services which he said were necessitated by Titan’s faulty performance. Belot said that Titan’s failed performance required him to respond to questions from subcontractors and to calls from teachers who were displeased with Titan’s construction methods. These were not part of Belot’s basic services.
+The only question remaining is how to reconcile this finding with the language of paragraph 2.6.1. Paragraph 2.6.1 required Belot to perform basic services until final payment from the District. Paragraph 3.3.6 authorizes an award of additional fees for contingent additional services if certain conditions are met. There is no provision which suggests that contingent additional services may be performed only after final payment is made.
+The evidence shows that Belot was required to perform contingent additional services. These additional services arose because of Titan’s failure to perform. These services were required above and beyond Belot’s basic services, which were performed until final payment was made by the District. The finding of the trial court was correct on this issue. The District’s cross-appeal is denied.
+Proof of Damages
+The trial court found that there was no evidence to show which of Belot’s services were necessitated by Titan’s default and which services were merely basic services performed at a later date. The trial court found that Belot failed to meet his burden of proof on this issue.
+On appeal, Belot claims that the contract does not support the trial court’s decision. Belot argues that the language of paragraph 3.3.6 is unambiguous and the trial court incorrecbly interpreted it. Belot contends that he is entitled to compensation for all services provided after Titan defaulted on its contract with the District.
+The burden of proving the damages rests on the plaintiff. It is the function of the trier of fact to determine the amount of damages that should be awarded to a party, based upon evidence of the loss suffered. A reasonable basis for computation and the best evidence obtainable under the circumstances should enable the trier of fact to make an estimate which provides an adequate recovery of damages. Cerretti v. Flint Hills Rural Electric Co-op Ass'n, 251 Kan. 347, 362, 837 P.2d 330 (1992).
+When a trial court makes a negative finding, the party challenging that finding must prove arbitrary disregard of undisputed evidence or some extrinsic consideration such as bias, passion, or prejudice. A negative finding signifies the failure of the party upon whom the burden of proof was cast to sustain it. Thomason v. Stout, 267 Kan. 234, 237-38, 978 P.2d 918 (1999).
+Belot did not keep daily time records of the tasks he performed, nor did he have detailed records of his time spent on contingent additional services. Belot’s contract did not specify a per diem amount. The District never agreed to an hourly rate schedule for Belot.
+At trial, Belot submitted an exhibit containing pages from a computer-generated calendar showing the individual days and hours he spent on the school project. However, there were no specific tasks listed. The entries merely say “Construction Contract Administration.”
+Belot could not show what time was spent on contingent additional services. Belot’s inadequate record-keeping precluded the trial court from evaluating how many hours Belot dedicated to contingent additional services. The trial court did not err in finding that Belot failed to sustain his burden of proof as to his damages.
+Belot claims that the doctrines of unjust enrichment and quantum meruit dictate that he is entitled to the reasonable value of the services he provided to the District after October 17,1994. He argues that it would be inequitable to allow the District to retain the benefit of his work without being forced to provide additional compensation.
+This argument was not made to the trial court. Issues not raised before the trial court will not be heard for the first time on appeal. Ripley v. Tolbert, 260 Kan. 491, 513, 921 P.2d 1210 (1996). We cannot address the merits of this aspect of Belot’s claim.
+Affirmed.
