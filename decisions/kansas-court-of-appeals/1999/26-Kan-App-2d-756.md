@@ -1,0 +1,40 @@
+---
+court: "Kansas Court of Appeals"
+docket: "82,976"
+decided: "1999-12-23"
+citations: ["26 Kan. App. 2d 756", "994 P.2d 663"]
+reporter: "kan-app-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Lewis, P.J., Green and Knudson, JJ."]
+parties: ["In the Matter of the Marriage of PATRICIA J. COHEE, Appellee, v. Terry V. Cohee, Appellant."]
+source_url: "https://static.case.law/kan-app-2d/26/cases/0756-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 194884
+cites_cases: ["168 Kan. 450", "22 Washburn L.J. 177", "246 Kan. 652", "255 Kan. 566", "262 Kan. 495"]
+---
+
+# Marriage of Cohee v. Cohee
+
+## Majority (Knudson, J.:)
+
+Knudson, J.:
+Teriy V. Cohee appeals the trial court’s denial of his counterpetition for divorce from Patricia J. Cohee on the grounds of failure to perform a material marital duty. He also appeals the trial court’s award of spousal maintenance and division of the marital estate.
+Patricia’s petition alleged incompatibility and requested separate maintenance. Terry’s answer and counterpetition requested an absolute divorce on the fault grounds of failure to perform a material marital duty.
+We see no reason to set out in detail evidence of the sorry relationship that developed between Patricia and Terry. The trial court’s findings are supported by substantial competent evidence and lead to the inescapable conclusion that there is no conceivable possibility the parties could continue or ever resume a healthy marriage. In fact, Patricia recognized this fact and tried to amend her petition to request an absolute divorce on the grounds of breach of a material marital duty. She also testified at trial that she wanted an absolute divorce. For reasons not clear to this court, after trial the trial court concluded Patricia had failed to formally amend her petition. This ruling appears to constitute error. See Thompson v. Thompson, 168 Kan. 450, 451-52, 213 P.2d 641 (1950). However, neither party has raised this ruling as an issue on appeal. Nevertheless, Patricia’s efforts to amend pleadings and obtain an absolute divorce are factually significant. Both Patricia and Terry realized their marriage had collapsed and a healthy marital relationship would never be resumed.
+In its memorandum decision, the trial court stated:
+“The court after considering the evidence related to respondent’s counter-petition for divorce based on the grounds of failure to perform a material marital duty or obligation finds that the parties were mutually involved in disputes that deteriorated into violent acts against the other party. Due to the mutuality of the violence the court denies the respondent’s counter-petition for divorce based on the grounds of failure to perform a material marital duty or obligation.
+“The court does find that the parties are incompatible and that the petitioner’s petition for separate maintenance should be granted.” (Emphasis added.)
+The issue we must first decide is whether the trial court erred in concluding an absolute divorce does not have to be granted notwithstanding the evidence at trial establishes one of the grounds under K.S.A. 60-1601.
+K.S.A. 60-1601(a) states, in material part:
+“The district court shall grant a decree of divorce or separate maintenance for any of the following grounds: (1) Incompatibility; (2) failure to perform a material marital duty or obligation; or (3) incompatibility by reason of mental illness or mental incapacity of one or both spouses.” (Emphasis added.)
+K.S.A. 60-1606 states, in material part: “The court shall grant a requested decree of divorce, separate maintenance or annulment unless the granting of the decree is discretionary under this act or unless the court finds that there are no grounds for the requested alteration of marital status.”
+As noted by Professor Nancy G. Maxwell, in discussing the 1982 amendments to the divorce code:
+“The final major change in K.S.A. § 60-1601 is language that requires the court to grant the divorce if the evidence establishes one of the grounds for divorce or separate maintenance. The previous statute stated the court may grant the divorce or separate maintenance if the grounds exist, but the new amendment states the court shall grant the petition if grounds are present. Thus the court does not have discretionary power to refuse to grant the divorce, except when a petition is filed by a guardian of an incompetent spouse if both spouses are institutionalized. This change was made because the FLÁC members believed once grounds for divorce were shown, the marriage had ended and the requested divorce or separate maintenance should be granted. Consistent with this intent, K.S.A. § 60-1606 was amended by repealing the discretionary power of the court to refuse to grant a divorce if the parties are found to be in equal fault.” Maxwell, In The Best Interests of the Divided Family: An Analysis ofthe 1982 Amendments to the Kansas Divorce Code, 22 Washburn L.J. 177, 187 (1983).
+Maxwell also observed: “The previous code under K.S.A. § 60-1606 permitted the court to refuse to grant a divorce if the parties were equally at fault in the marriage breakdown, except in incompatibility cases. In other words, the statute specifically recognized the defense of recrimination. The new section eliminates the recrimination defense.” 22 Washburn L.J. at 193.
+We are persuaded by Maxwell’s comments and a plain reading of K.S.A. 60-1601 and K.S.A. 60-1606 that recrimination is not recognized as a defense to a petition for divorce on the grounds of failure to perform a material marital duty or obligation. Thus, under the findings entered by the trial court, as a matter of law, Patricia and Terry are to be granted an absolute divorce.
+Terry also contends the trial court erred in its division of property and award of spousal maintenance. First, Terry contends the trial court did not properly consider fault. In interpreting K.S.A. 60-1610(b)(l), our Supreme Court has said:
+“Fault, as a term of art, is not to be considered in the determination of the financial aspects of the dissolution of the marriage, nor should a penalty be imposed as a result of such consideration. The only exception would be some rare and unusual situation where a party’s conduct is so gross and extreme that failure to penalize therefor would, itself, be inequitable.” In re Marriage of Sommers, 246 Kan. 652, 658-59, 792 P.2d 1005 (1990).
+The trial court made a finding of mutuality of fault that was supported by substantial competent evidence. This finding belies the notion that Patricia’s fault was any more egregious than the fault of Terry. Moreover, even if it was, Terry does not represent that Patricia’s fault relates “to the present or future financial circumstances of the parties or the award of any particular property.” Sommers, 246 Kan. at 658. Under the facts of this case, consideration of fault in determining a just division of property and an award for spousal maintenance would serve no end but an impermissible one of imposing a penalty for Patricia’s marital misconduct. We conclude the trial court did not abuse its discretion by not considering fault under K.S.A. 60-1610(b).
+Finally, Terry in his written brief incidentally questions the trial court’s methodology in providing him with a monetary equalization payment to effectuate an equitable division of property and then tying the payment to Patricia’s award for spousal maintenance. Terry’s argument is not keyed to the record on appeal and no effort is made to provide this court with any citations of authority in support of this unadorned argument. An appellate court will not consider an issue abandoned on appeal. A point incidentally raised but not properly keyed to the record on appeal nor briefed with citations of authority to support the issue is deemed abandoned. See Ekan Properties v. Wilhm, 262 Kan. 495, 503, 939 P.2d 918 (1997); McKissick v. Frye, 255 Kan. 566, 578, 876 P.2d 1371 (1994).
+Affirmed in part, reversed in part, and remanded with directions to grant a decree of divorce.
