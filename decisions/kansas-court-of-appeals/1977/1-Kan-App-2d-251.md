@@ -1,0 +1,35 @@
+---
+court: "Kansas Court of Appeals"
+docket: "48,261"
+decided: "1977-04-29"
+citations: ["1 Kan. App. 2d 251", "563 P.2d 1103"]
+reporter: "kan-app-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Harman, C.J., Abbott and Parks, JJ."]
+parties: ["R. A. Kent, Appellant, v. Harold H. Chase, Special Administrator of the Estate of Andrew T. Hicks, Deceased, Appellee."]
+source_url: "https://static.case.law/kan-app-2d/1/cases/0251-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 411985
+cites_cases: ["164 Kan. 492", "193 Kan. 145", "198 Kan. 313", "203 Kan. 612", "207 Kan. 360"]
+---
+
+# Kent v. Chase
+
+## Majority (Parks, J.:)
+
+Parks, J.:
+The single question in this case is whether a Kansas probate court has jurisdiction to appoint a special administrator for a nonresident decedent for the sole purpose of enforcing a tort claim against him when the decedent owned no property located in Kansas, but had an automobile liability insurance policy which was physically located in the state of his residence.
+The parties stipulated to the following facts: On December 20, 1972, Andrew T. Hicks, a resident of Suffolk County, New York, was killed in a one-car accident when the car he was driving overturned on Interstate Highway 70 in Geary County, Kansas. Shortly thereafter R. A. Kent’s automobile collided with the Hicks automobile while it was lying on the highway. At the time of the accident, Mr. Hicks was insured under a policy of liability insurance covering the car he was operating. The policy was physically located in Wyandanch, Suffolk County, New York. Mr. Hicks did not own any tangible or intangible property with a situs in the state of Kansas within the meaning of K.S.A. 59-805.
+On December 19, 1974, Mr. Kent filed a petition in the probate court of Saline County, Kansas, for the appointment of defendant, Harold H. Chase, as special administrator of the estate of Andrew T. Hicks, deceased, pursuant to the provisions of K.S.A. 1973 Supp. 59-710 and59-2239(2) [now K.S.A. 59-710 and 59-2239(2)]. Mr. Chase was so appointed on the same date. Also on this date, and in the same court, Mr. Kent filed a petition for allowance of demand in the amount of $20,000 for bodily injuries and medical expenses sustained in the collision with the decedent’s automobile on December 20, 1972.
+On December 19,1974, the plaintiff filed a petition praying for a judgment against the defendant administrator in the district court of Saline County, Kansas.
+The trial court entered its order granting the defendant’s motion for summary judgment on December 17,1975. The reason for the decision was that K.S.A. 59-805 provides that the situs of “insurance policies” is in the state in which the policy is located and Mr. Hicks’ policy was located in Wyandanch, Suffolk County, New York, at the time of his death. The trial court ordered that the Saline County probate court and its court did not have jurisdiction of the subject matter or the parties to this action. Plaintiff, R. A. Kent, has appealed from that decision.
+Plaintiff contends that the amendment of K.S.A. 59-710 and 59-2239 by the Kansas legislature in 1972 gave our probate courts jurisdiction to appoint a personal representative for a decedent for the purpose of enforcing tort claims against him, even though there were no assets of the decedent within the state of Kansas. In support of his position, the plaintiff asserts that K.S.A. 1973 Supp. 59-710 and 59-2239(2) [now K.S.A. 59-710 and 59-2239(2)] are the controlling statutes in this case and cites In re Estate of Preston, 193 Kan. 145, 392 P. 2d 922 (1964), and In re Estate of Rogers, 164 Kan. 492, 190 P. 2d 857 (1948), for our consideration.
+K.S.A. 59-2239 has been held to be a statute of limitation. (In re Estate of Wood, 198 Kan. 313, 424 P. 2d 528, Syl. 2; Gifford v. Saunders, 207 Kan. 360, 362, 485 P. 2d 195.) The amendment enacted by the 1972 legislature merely increased the statute of limitations for tort claims from nine months to two years. Correspondingly, the only effect of the amendment to K.S.A. 59-710 was to permit the appointment of a special administrator pursuant to subsection (2) of K.S.A. 59-2239, as amended by the same act. These amendments did nothing to change the jurisdiction of our courts over estates of nonresidents. Such authority, although limited, is derived from Article 8 of the Probate Code and in particular from the provisions of K.S.A. 59-805.
+K.S.A. 59-805 provides:
+“The courts of this state have jurisdiction over all tangible and intangible property of a nonresident decedent having a situs in this state. For the purpose of such jurisdiction it is recognized as to other states and countries, and declared with respect to this state, that the situs of debts, rights and choses in action which are embodied in legal instruments such as stock certificates, bonds, negotiable instruments, insurance policies payable to an estate and other similar items is in that state or country in which such legal instruments are located, so that whatever state or country has jurisdiction of such instruments has, and of right ought to have, jurisdiction to administer upon or otherwise direct the disposition of the debts, rights and choses in action which they embody, or voluntarily relinquish such jurisdiction to other states and countries. For such purpose the situs of other debts, rights and choses in action is where the debtor is found.”
+Speaking on the subject of jurisdiction of our probate courts over nonresident estates, the court in Barr, Administratrix v. MacHarg, Administrator, 203 Kan. 612, 616, 455 P. 2d 516 said:
+“Under the provisions of this statute [59-805] on and after July 1, 1967 the probate jurisdiction of a nonresident decedent’s estate is limited to tangible and intangible property having a situs in Kansas. The liability insurance policy affording William G. MacHarg, Sr., protection, and the rights embodied therein, had a situs in the state of Michigan. The nonresident decedent had no tangible or intangible property upon which the jurisdiction of our probate courts could operate.” (Emphasis added.)
+It is interesting to note that the Barr case was decided three years before the 1972 amendments of K.S.A. 59-710 and 59-2239(2). It is obvious that the intent of the legislature was only to extend the statute of limitations for tort claims. No action was taken in 1972 to amend K.S.A. 59-805 which had been in existence since 1967. Therefore, we must conclude that the rule enunciated in Barr, supra, that the. situs of a liability insurance policy is in the state where the policy of insurance is located, is still the law in Kansas.
+We hold that K.S.A. 59-805 is a jurisdictional statute and is controlling in this case, and that the situs of the insurance policy was Wyandanch, Suffolk County, New York. Therefore, the trial court properly found that neither the probate court nor the district court of Saline County, Kansas, had jurisdiction of the subject matter or the parties to this action.
+Affirmed.
