@@ -1,0 +1,45 @@
+---
+court: "Kansas Court of Appeals"
+docket: "51,227"
+decided: "1981-01-23"
+citations: ["5 Kan. App. 2d 640", "623 P.2d 510"]
+reporter: "kan-app-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Foth, C.J., Meyer, J., and Harry G. Miller, District Judge Retired, sitting by designation."]
+parties: ["Harold Kumberg, Bob Kumberg, and Frank Kumberg, Appellees, v. Carl Kumberg, Appellant."]
+source_url: "https://static.case.law/kan-app-2d/5/cases/0640-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 394397
+cites_cases: ["123 Kan. 310", "141 Kan. 147", "176 Kan. 179", "189 Kan. 125", "206 Kan. 718", "255 Pac. 52"]
+---
+
+# Kumberg v. Kumberg
+
+## Majority (Miller, J.:)
+
+Miller, J.:
+The defendant has appealed from a judgment in favor of plaintiffs requiring defendant to share with plaintiffs oil and gas royalties realized on land the defendant inherited from his brother Herman.
+The facts are not disputed. Herman died testate on August 16, 1970, leaving four brothers and a sister. By the terms of his will he left the lands involved herein to his brother Carl, the defendant, subject to the following provision:
+“I direct my brother, CARL, to divide the net profits from my share of such land among the survivors of my brothers and sisters, including my brother CARL.”
+The order of final settlement of Herman’s estate, dated August 11, 1972, decreed Carl to be the owner in fee simple of the land and directed that Carl, his heirs and assigns, divide the net profits derived from the real estate among the survivors of the four brothers and sister until the death of all of them.
+In 1974 a dispute arose among the brothers. Carl had possession of the land and was paying the other brothers such amount as he deemed proper. An action was filed by plaintiffs against Carl and the sister, Beatrice, seeking an accounting and the appointment of a trustee. A journal entry of judgment was entered on July 1, 1974, in which the district court made the following finding:
+“That One-third crop rent is the customary rental arrangement in the area in question; that the term ‘net profits’ as used in the Will of Herman Kumberg, deceased, must have referred to ‘net rentals’ .... that a one-third crop rental arrangement is interpreted by the Court to include receipts for wheat, wheat pasture, Government payments, feed ground, and any other income from the premises, including oil and gas lease bonuses and rentals. . . .”
+The court retained jurisdiction for such further orders as might be necessary or desirable. This judgment was not appealed.
+The action giving rise to this appeal was filed by the plaintiffs on March 15,1979. Although originally broader in scope, the case was finally submitted to the trial court on the single issue of whether or not oil and gas royalties and landowners’ overriding royalties are “net profits” within the meaning of the term as used in Herman’s will. The trial court ruled on June 19, 1979, that oil and gas royalties were included within the “net profits” provision of Herman’s will and were to be distributed under the applicable provisions of the Uniform Principal and Income Act, K.S.A. 58-901 et seq. There is now a gas-producing well on the land.
+Defendant, in reliance upon State, ex rel., v. Board of Regents, 176 Kan. 179, 269 P.2d 425 (1954), contends that royalties paid pursuant to an oil and gas lease constitute money derived from the sale of lands and is not income.
+In Board of Regents the court was faced with the problem of ascertaining what the intent of Congress was in 1862 when it made a grant of “agricultural” lands to support an agricultural college in this state, and provided that the entire proceeds of the sale of such lands should be held in a “perpetual fund” to be forever “undiminished,” and the interest applied to the support and maintenance of the college. Congress specifically provided that no part of the money in the perpetual fund could be used to erect or repair buildings. The court reasoned that cash bonuses and delay rentals, since they took nothing from the land, could be used to erect dormitories, but that since oil and gas severed from the land represents something of value taken from the land, which diminishes its value, Congress must have intended that royalty money was money received from the sale of land and could not be used to erect a student dormitory.
+The decision did not purport by its terms to overrule existing case law (Burden v. Gypsy Oil Co., 141 Kan. 147, 40 P.2d 463 [1935]; Bellport v. Harrison, 123 Kan. 310, 255 Pac. 52 [1927]), defining the nature of a royalty interest. Nor did it mention the Uniform Principal and Income Act then in effect in this state. Significantly, also, the case has never been cited again in this state on any proposition relating to oil and gas law. We do not think it is controlling here.
+The nature of an oil and gas royalty interest is defined in Shepard, Executrix v. John Hancock Mutual Life Ins. Co., 189 Kan. 125, 130, 368 P.2d 19 (1962), as follows:
+“[T]he term ‘royalty’ has reference to a right to share in production of oil and gas at severance; it is personal property, and does not include a perpetual interest in the oil, gas ... in and under the land.”
+The effect of the trial court’s ruling was not to create a life estate in the land, as asserted by defendant, and thus it is not contrary to the 1972 order of final settlement in the probate court which decreed defendant to be the owner in fee simple. Simply stated, the court held only that Herman, by the terms of his will, had given a lifetime interest to his brothers and sisters in the net profits from the land, which included oil and gas royalties.
+The Uniform Principal and Income Act was adopted in this state in 1951. It was last amended in 1965 (K.S.A. 58-901 et seq.), and the rights of the parties in this case were all acquired since this amendment. Its general scope and purpose was explained in Pederson v. Russell State Bank, Executor, 206 Kan. 718, 721, 481 P.2d 986 (1971), as follows:
+“Its broad purpose is to provide rules for the guidance of fiduciaries to determine what is principal and what is income, to determine who is entitled to the principal and who is entitled to the income, and to determine the allocation of expenses to each.”
+The act defines an “income beneficiary” as the person to whom income is presently payable or for whom it is accumulated for distribution as income, and it defines “remainderman” as the person entitled to principal. K.S.A. 58-901. It defines “income” as the return in money or property derived from the use of principal, including receipts from the disposition of natural resources as provided in K.S.A. 58-909 of the act, and it defines “principal” as including royalties and other receipts from the disposition of natural resources as provided also in K.S.A. 58-909. K.S.A. 58-903.
+It then provides for the distribution of royalties as follows:
+“58-909. Disposition of natural resources, (o) If any part of the principal consists of a right to receive royalties, overriding or limited royalties, working interests, production payments, net profit interest, or other interests in minerals or other natural resources in, on or under land, the receipts from taking the natural resources from the land shall be allocated as follows:
+“(3) If received as a royalty . . . receipts . . . shall be apportioned on a yearly basis in accordance with this paragraph whether or not any natural resource was being taken from the land at the time the trust was established. Twenty-two percent (22%) of the gross receipts (but not to exceed fifty percent (50%) of the net receipts remaining after payment of all expenses, direct and indirect, computed without allowance for depletion) shall be added to principal as an allowance for depletion. The balance of the gross receipts, after payment therefrom of all expenses, direct and indirect, is income.
+“(b) . . . as to all depletable property acquired after the effective date of this act by an existing or new trust, the method of allocation provided herein shall be used.”
+We believe that in the absence of any instructions in Herman’s will as to what should be included as “net profits” from the land and whether or not oil and gas royalties should be included, the trial court was correct in ruling that the Uniform Principal and Income Act, K.S.A. 58-901 et seq., should govern the distribution of such royalties.
+Defendant urges that the judgment of the trial court in the 1974 case is res judicata of the issue here, since it could have been litigated in that action. In that case the dispute was over farm income, there were no producing oil or gas wells in existence at the time, and the matter of royalties was not involved. Furthermore, the trial court reserved jurisdiction to make further orders as necessary. Under these circumstances,- the judgment is not res judicata of the issue here.
+Affirmed.
