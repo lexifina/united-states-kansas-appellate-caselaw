@@ -1,0 +1,27 @@
+---
+court: "Kansas Court of Appeals"
+docket: "340"
+decided: "1898-09-21"
+citations: ["8 Kan. App. 537"]
+reporter: "kan-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["H. T. Trice v. Caroline Yoeman and R. J. Yoeman."]
+source_url: "https://static.case.law/kan-app/8/cases/0537-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 376462
+cites_cases: ["12 Sup. Ct. 327", "131 Mass. 93", "142 U. S. 182", "19 Pac. 809", "2 Pac. 496", "23 Pac. 558", "30 Kan. 298", "31 Neb. 661", "34 Iowa, 71", "37 Ill. 512", "40 Kan. 361", "42 Wis. 470", "43 Kan. 256", "47 Conn. 56", "48 N. W. 738", "5 N. Y. Supp. 282", "6 Neb. 356", "6 Wall. 94", "63 N. Y. 383", "9 Ohio St. 467"]
+---
+
+# Trice v. Yoeman
+
+## Majority (Dennison, P. J.:)
+
+The opinion of the court was delivered by
+Dennison, P. J.:
+This action was commenced in the district court of Cowley county by the defendants in error against the plaintiff in error and one William S. Townsend, to recover for an alleged breach of a contract between the Yoemans and Trice. The Yoemans were the owners of 395 acres of land in Cowley county on which there were several mortgages and judgment liens. They were also the owners- of some personal property which was encumbered by chattel-mortgage liens, and were owing other amounts which were unsecured. The plaintiff in error was a real-estate broker, and, after some negotiations with the Yoemans, he entered into a contract with them by which he was to purchase the land. A deed was executed by the Yoemans to one William S. Townsend, a brother-in-law of Trice, and placed in the hands of Stafford & Albright. Afterward a letter or memorandum and an order for the delivery of the deed to Trice were signed by the Yoemans and delivered to Trice. The deed was thereupon delivered to Trice, who sold the land and paid all claims which were liens against it and a chattel mortgage and note to one Schuler, but paid no other claims or debts.
+The petition alleged that the land was sold by the Yoemans to Trice on a verbal contract by the terms of which he was to pay all the encumbrances against the land and certain other indebtedness, including $1800 to one Schuler, which was secured by a chattel mortgage, and some personal debts owing by the Yoemans. The answer of Trice alleged that the only claims he was to pay were the liens against the land and the debt to Schuler which was secured by chattel mortgage. The verdict of the jury and the judgment were in favor of the plaintiffs below in the sum of $725, and the defendant below brings the case here for review.
+One of the issues tried was whether the'sale to Trice was under the verbal contract or the written memorandum. It is contended by the plaintiff in error that the court erred in admitting evidence tending to prove an oral contract which contradicted or varied the terms of the written contract. While ordinarily it is not competent to permit the introduction of evidence to contradict or vary the terms of a written agreement, it is proper to show an original parol contract between the parties by which their contractual rights were to be determined. It is for the jury to determine whether the sale was made under the verbal contract or under the writing which was made four days after the execution of the deed. (Mo. Pac. Rly. Co. v. Beeson, 30 Kan. 298, 2 Pac. 496; Mills v. Ruehlin, 29 id. 89.) The court did not err in this case in receiving evidence tending to show that there was a parol contract under which the sale was made'and the terms thereof.
+It is.also contended that if Trice agreed with the Yoemans to pay certain debts owing by them to third parties, the third parties, and not the Yoemans, could maintain the action, unless the Yoemans show that they have paid said debts. It was held in Mumper v. Kelly, 43 Kan. 256, 23 Pac. 558, that “whenever two persons make a contract for the benefit of a third, the third may maintain an action thereon for any breach thereof to his injury.” See also Mfg. Co. v. Burrows, 40 Kan. 361, 19 Pac. 809. It will be observed that the third party “may,” not “ must,” maintain an action. If he fails or refuses to do so, we apprehend that the promisee may recover for a breach of the contract by the promisor. “A promise to pay to a third person a debt due him by the promisee may be enforced by the promisee against the promisor without waiting for the third person to sue thereon.” (Ward Cowdry, 5 N. Y. Supp. 282. See also Kaufman v. U. S. Nat. Bank, 31 Neb. 661, 48 N. W. 738; Locke v. Homer, 131 Mass. 93, and cases cited; Stout v. Folger, 34 Iowa, 71; Town v. Wood, 37 Ill. 512; Elmer v. Welch, 47 Conn. 56; Belloni v. Freeborn, 63 N. Y. 383; Wilson v. Stilwell, 9 Ohio St. 467; Gregory v. Hartley, 6 Neb. 356; Learned v. Bishop, 42 Wis. 470; Wicker v. Hoppock, 6 Wall. 94; Clark v. Sidway, 142 U. S. 182, 12 Sup. Ct. 327.)
+The plaintiff in error contends that the court erred in refusing to submit special questions Nos. 16 and 17, which relate to what personal property of theYoemans was sold to pay the debts which Trice was to pay, and its value. There was no evidence that-there was any personal property sold for that purpose ^ hence the court properly refused to submit the question.
+The conclusions thus reached settle the questions raised by plaintiff in error, and they need not be further considered by us. The judgment of the district, court is affirmed.
