@@ -1,0 +1,44 @@
+---
+court: "Kansas Court of Appeals"
+docket: "71,211"
+decided: "1995-03-10"
+citations: ["20 Kan. App. 2d 643", "891 P.2d 468"]
+reporter: "kan-app-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Larson, P.J., Elliott, J., and Jean F. Shepherd, District Judge, assigned."]
+parties: ["In the Interest of L.D.B., C.C.B., and V.J.B., Minor Children Under Eighteen Years of Age."]
+source_url: "https://static.case.law/kan-app-2d/20/cases/0643-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 373870
+cites_cases: ["219 U.S. 35", "223 Kan. 610", "225 Kan. 13", "228 Kan. 186", "238 Kan. 820", "243 Kan. 124", "455 U.S. 745"]
+---
+
+# In the Interest of L.D.B.
+
+## Majority (Shepherd, J:)
+
+Shepherd, J:
+The natural parents of L.B., C.B., and V.B. appeal the trial court’s termination of their parental rights. Both parents challenge the constitutionality of K.S.A. 38-1585(a)(l), which creates a rebuttable presumption of parental unfitness. Both parents also challenge die sufficiency of the evidence supporting the trial court’s decision to sever their parental rights.
+The parents contend that K.S.A. 38-1585(a)(l) violates the Due Process Clause of the United States Constitution by shifting the burden of proof to the parent. Enacted in 1992, K.S.A. 38-1585 provides, in relevant part:
+“(a) It is presumed in the manner provided in K.S.A. 60-414 and amendments thereto that a parent is unfit by reason of conduct or condition which renders the parent unable to fully care for a child, if the state establishes by clear and convincing evidence that:
+(1) A parent has previously been found to be an unfit parent in proceedings under K.S.A. 38-1581 et seq. and amendments thereto, or comparable proceedings under the laws of another state, or the federal government;
+“(b) The burden of proof is on the parent to rebut the presumption. In the absence of proof that the parent is presently fit and able to care for the child or that the parent will be fit and able to care for the child in the foreseeable future, the court shall now terminate the parent’s parental rights in proceedings pursuant to K.S.A. 38-1581 et seq. and amendments thereto.”
+At the termination hearing, the trial court took judicial notice of two prior cases in which the parents were found to be unfit. The trial court applied K.S.A. 38-1585(a)(l) and held that the parents failed to produce clear and convincing evidence required to rebut the presumption of unfitness created by the prior findings of unfitness. The trial court terminated their parental rights.
+It is a fundamental principle of Kansas law that statutes are presumed constitutionally valid. See Barnes v. Kansas Dept. of Revenue, 238 Kan. 820, Syl. ¶ 1, 714 P.2d 975 (1986).
+‘This court adheres to the proposition that the constitutionality of a statute is presumed, that all doubts must be resolved in favor of its validity, and before a statute may be stricken down, it must clearly appear the statute violates the constitution. Moreover, it is the court’s duty to uphold the statute under attack, if possible, rather than defeat it, and if there is any reasonable way to construe the statute as constitutionally valid, that should be done.” State v. Huffman, 228 Kan. 186, 189, 612 P.2d 630 (1980).
+See State ex rel. Schneider v. Kennedy, 225 Kan. 13, 19-21, 587 P.2d 844 (1978).
+The United States Supreme Court established the general standard for determining constitutionality of statutory presumptions in Mobile, J. & K.C.R.R. v. Turnipseed, 219 U.S. 35, 55 L. Ed. 78, 31 S. Ct. 136 (1910). The Court held that a legislative presumption of one fact from evidence of another does not constitute a denial of due process of law if there is “some rational connection between the fact proved and the ultimate fact presumed” and if “the inference of one fact from proof of another” is not “so unreasonable as to be a purely arbitrary mandate.” 219 U.S. at 43. See also Clements v. United States Fidelity & Guaranty Co., 243 Kan. 124, 127, 753 P.2d 1274 (1988) (stating that the test for due process is “whether the legislative means selected has a real and substantial relation to the objective sought”) (citing State ex rel. Schneider v. Liggett, 223 Kan. 610, 614, 576 P.2d 221 [1978]); 16A Am. Jur. 2d, Constitutional Law § 852 (summarizing case law on validity of statutory presumptions).
+The relevant question is whether there is a rational connection between the fact proved, which is a past judicial determination of unfitness, and the ultimate fact presumed, which is that the parent is unfit as to the present child.
+The parents argue that a prior finding of unfitness has no probative value concerning their current fitness. A finding of unfitness under K.S.A. 38-1583(a) requires the State to prove by clear and convincing evidence that the parent “is unfit by reason of conduct or condition which renders the parent unable to care properly for a child and the conduct or condition is unlikely to change in the foreseeable future.”
+Because a prior determination of unfitness essentially requires a finding that the parent will continue to be unfit into the foreseeable future, such a prior determination is rationally connected to a parent’s current fitness. A parent’s past conduct necessarily has some probative value as to that parent’s likely future conduct. For the same reason, inferring a parent’s current unfitness from a past finding of unfitness does not appear to be so unreasonable as to be purely arbitrary.
+The United States Supreme Court has also held that a statutory presumption would not violate due process provided the party affected has a “reasonable opportunity” to rebut the presumption through presentation of evidence. Mobile, J. and K.C.R.R. v. Turnipseed, 219 U.S. at 43.
+K.S.A. 38-1585(b) allows the parent an opportunity to rebut the presumption of unfitness. However, the statute does not specify the degree of evidence needed to overcome the presumption of unfitness. The statute merely states that “[i]n the absence of proof that the parent is presently fit,” the court shall terminate the parent’s rights. K.S.A. 38-1585(b).
+In the present case, the trial court applied a clear and convincing evidence standard of proof in holding that the parents failed to rebut the presumption of unfitness. We believe the use of such a high standard of proof denied the parents a “reasonable opportunity” to rebut the presumption.
+In considering the standard of proof needed for the rebuttal of a presumption, 29 Am. Jur. 2d, Evidence § 199, states:
+“Courts have expressed the burden of proof that the adversely affected party must satisfy in order to avoid . . . the presumed fact, in a variety of ways: the evidence rebutting a presumption must be substantial, credible, positive, or must be sufficient to raise an issue of fact. . . . Other courts have held that any evidence having a tendency to support the nonexistence of the presumed fact will suffice. With regard to a typical presumption, therefore, to avoid a directed verdict as to the presumed fact, the party adversely affected by the presumption must offer sufficient evidence to permit a rational factfinder to find the nonexistence of the presumed fact by a preponderance of the evidence.” (Emphasis added.)
+A uniform standard of proof must exist, however, and a case-by-case determination of how much evidence is required would be improper. See Santosky v. Kramer, 455 U.S. 745, 757, 71 L. Ed. 2d 599, 102 S. Ct. 1388 (1982). Given the fundamental rights at stake in a termination of parental rights proceeding, we believe a lower standard of proof is required. When faced with a presumption of unfitness created by K.S.A. 38-1585(a)(l), the parent should be able to successfully rebut that presumption by showing parental fitness by a preponderance of the evidence.
+The parent, through presentation of evidence, has a reasonable opportunity to rebut the presumption of unfitness created by K.S.A. 38-1585(a)(l). Therefore, the statutory presumption does not violate the due process clause. Given the strong presumption of constitutionality that applies to the statute, we cannot conclude that K.S.A. 38-1585(a)(l) is unconstitutional when construed and applied as we have stated and required herein.
+We hold that to rebut the K.S.A. 38-1585(a)(1) presumption of unfitness, a parent must prove fitness by a preponderance of the evidence. Accordingly, it was error for the trial court to apply a clear and convincing standard of proof. We reverse the trial court’s termination of the parents’ parental rights and remand to the trial court for a new termination hearing.
+Both parents also challenge the sufficiency of the evidence supporting the trial court’s decision to sever their parental rights. Because we reverse the termination, we need not reach this issue.
+Reversed and remanded.
