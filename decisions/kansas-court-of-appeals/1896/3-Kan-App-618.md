@@ -1,0 +1,35 @@
+---
+court: "Kansas Court of Appeals"
+docket: "59"
+decided: "1896-03-09"
+citations: ["3 Kan. App. 618"]
+reporter: "kan-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["All the Judges concurring."]
+parties: ["Edgerton & Augir v. Edward Connelly."]
+source_url: "https://static.case.law/kan-app/3/cases/0618-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 337615
+cites_cases: ["50 Kan. 755", "9 Kan. 417", "9 Kan. 466"]
+---
+
+# Edgerton & Augir v. Connelly
+
+## Majority (Cole, J.:)
+
+The opinion of the court was delivered by
+Cole, J.:
+On the 10th day of September, 1890, Edgerton & Augir obtained a judgment against Edward Connelly in the district court of Rush county, Kansas. On the 3d day of September, 1891, proceedings were commenced in said court to subject the equitable interest of said Connelly in and to a certain piece of real estate situated in said county to sale for the satisfaction of said judgment. To these proceeding Connelly interposed the defense that the land in question was his homestead, and therefore exempt under the constitution and laws of this state. The district court under the evidence sustained the defense of Connelly and refused to order the sale of his interest in the premises, and from this ruling and judgment Edgerton & Augir bring the case here for review.
+There is but one question in this case, and that is, Did the trial court err in holding under the evidence in this case that the real estate in question was the homestead of the judgment debtor? The facts in this case as shown by the evidence are as follows : In April, 1885, the defendant purchased the land in question from the state of Kansas, it being school-land. At .that time he was a married man, but his family was residing in the state of Illinois. He erected a small house upon the land, and, after occupying the same for a few weeks, returned to the state of Illinois, and in August, 1887, came back to Rush county with his family. He found the house which he had erected practically in ruins, and neither he nor- his family resided on the tract of land in question until the day proceedings were commenced to subject the land to sale. During all the time from the date of his return he cultivated a portion of the land, and after the date of the rendition of the judgment in this case, and some time in April of the year 1891, he excavated a cellar and hauled some rock upon the premises for the purpose of completing the same. The record discloses that the defendant in error did not own any other land, but had a timber-culture filing upon another tract in the same county.
+We are of the opinion that the court erred in holding that the defendant in error had established a homestead upon the land in question under the constitution and laws of this state. The case comes almost squarely within the rule laid down in Ingels v. Ingels, 50 Kan. 755. In that case Allen, J., in delivering the opinion of the court, said :
+“Whatever our views might be- as to the propriety of allowing a debtor to hold a tract of land for a homestead, whether occupied or not, we are bound to declare the law as we find it; and while this court in the cases cited has given the constitutional provision a liberal construction, for the purpose of fully securing to needy debtors the beneficent exemption secured to them by the constitution, yet we may not wholly dispense with the requirement of occupancy.”
+Our constitution and statutes provide that a homestead to the extent of 160 acres of farming lands, or of one acre within the limits of an incorporated town or city, occupied as a residence by the family of the owner, together with the improvements upon the same, shall be exempted from forced sale, and this court as well as the supreme court, mindful of the spirit of this law, has, as far as possible, protected the homestead right. In the language of Mr. Justice Brewer, speaking for the court in the case of Edwards v. Fry, 9 Kan. 417 :
+“We have no disposition to weaken or whittle away any of the beneficent constitutional or statutory provisions on the subject. We know that the purchase of a homestead, and the removal onto it, cannot be momentarily contemporaneous. It takes time for a party in possession to move out, and then more time for a purchaser to move in. Repairs may have to be made, or buildings partially or wholly erected.”
+We are also fully in accord with the proposition laid down in Monroe v. May, 9 Kan. 466 :
+“A purchase of a homestead with a view to occupancy, followed by occupancy within a reasonable time, receives from the time of purchase a homestead exemption from seizure upon execution or attachment.”
+Yet, applying the doctrine of all these cases to the facts of the case at bar, we cannot hold that the defendant in error has brought himself either within the spirit or the letter of the law. He first purchased the land in April, 1885, and then erected a small house upon it and returned to Illinois for his family. Had he brought his family back within a reasonable time, and settled upon the premises in question, there would have been no doubt that the character of a homestead would have been imparted to the land dating from the time of purchase. But whatever may have been the intention of the defendant in error, the occupancy of the premises by himself alone, while his family still resided in the state of Ilinois, could not be made the basis for fixing the character of thep remises, unless within a reasonable time his intention was carried out by actual occupancy, not alone by himself, but by his family. (Dobson v. Shoup, ante, p. 468.)
+It is also true that if the defendant in error, upon his return with his family to Rush county, found his house which he had erected in ruins, he would be granted a reasonable time within which to erect and occupy another house. But the record discloses that he returned in August, 1887, and, aside from cultivating a portion of the land, no steps were taken for the family to occupy the premises until some time in April, 1891, nearly four years after his return, and several months after the rendition of the judgment in this case.
+Whatever interest the defendant in error possessed in the premises was subject to the lien of the judgment in this case from the time of its rendition, unless it was a homestead, and at that date there was no attempt upon his part to occupy the premises with his family. The fact that the defendant in error and his family moved upon the premises on the day the proceedings in aid of execution were commenced cannot in any way change the rights of the parties. If it was a homestead prior to that time, then the plaintiffs in error obtained no right to a sale of his interest by /these proceedings. If it was not a homestead, then the rights of plaintiffs in error had attached nearly a year prior to his moving upon the land.
+The judgment of the district court is reversed, and the cause remanded for further proceedings in accordance with this opinion.
+All the Judges concurring.
