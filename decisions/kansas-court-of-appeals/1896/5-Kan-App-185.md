@@ -1,0 +1,53 @@
+---
+court: "Kansas Court of Appeals"
+docket: "103"
+decided: "1896-12-12"
+citations: ["5 Kan. App. 185"]
+reporter: "kan-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["John Webber, Sr., et al., v. Jacob Harshbarger, Sheriff, etc."]
+source_url: "https://static.case.law/kan-app/5/cases/0185-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 344572
+cites_cases: ["36 Iowa, 20", "8 Ohio St. 420", "9 Ohio, 150"]
+---
+
+# Webber v. Harshbarger
+
+## Majority (Gilkeson, P. J.)
+
+Gilkeson, P. J.
+There is but one question in this case : Was the judgment dormant when the execution was issued? This question turns upon the effect of the order to sell the attached property, dated April 5, 1887. What is an execution?
+“Putting the sentence of the law in force.” 3 Blackstone’s Commentaries, 412.
+“ The act of carrying into effect the final judgment or decree of a court. . . . The writ which directs and authorizes the officer to carry into effect such judgment.” Bouvier’s Law Dictionary.”
+This definition has been adopted by nearly every state in the union.
+“An execution at law is a writ issuing out of a court, directed to an officer thereof, and running against the body or goods of a party.” Brown v. United States, 6 U. S. Ct. Claims, 178.
+“A writ of execution is a written command or precept to the sheriff or ministerial officer, directing him to execute the judgment of the court. ■ It is the command of the court, addressed to the ministerial officer, in writing and under the seal of the court, containing with more certainty the command of the court, and expressed with more solemnity, than if uttered verbally by the court.” Kelley v. Vincent, 8 Ohio St. 420.
+“Execution is process authorizing the seizure and appropriation of the property of a defendant for the satisfaction of a judgment against him.” Lambert v. Powers, 36 Iowa, 20.
+“An execution is properly defined to be 'the obtaining of actual possession of anything acquired by judgment of law, and necessarily goes on all final judgments.' ” Lessee of Darby v. Carson, 9 Ohio, 150.
+“An execution is the end of the law. It gives the successful patry the fruits of his judgment.” United States v. Nourse, 9 Peters, 28.
+Let us apply the definitions above quoted to the order of sale issued in this case. Omitting the formal parts, it is as follows :
+“The State of Kansas, to the sheriff or any constable of City of Beloit, in said county, greeting :
+“Whereas, J. B. Watkins, on the fourteenth day of March, 1887, in an action then pending before the undersigned justice of the peace of said township, recovered judgment against Jacob Webber and Jacob Webber, Jr., for the sum of $102.90,' and costs of suit, $20.20 ;
+“And whereas, an order of attachment in said action was, on the fourth day of March, 1887, levied upon the following goods and chattels of said debtor, remaining unsold and in your hands, to wit: Seventy-five bushels of corn in pile (snapped) ;
+“Now, therefore, you are hereby commanded, that of the said goods and chattels of the said debtor you cause said judgment, costs and accruing costs to.be satisfied, as provided by law, and make return of this order, with your certificate thereof showing the manner in which you have executed the same, within thirty days from the time of your receipt hereof.”
+Is not this a writ, issued out of a court and running against the goods of a party, directing and authorizing the officer of a court to carry into effect its judgment? Is it not a written command or precept to the sheriff or ministerial officer, authorizing the appropriation of the property of the defendant for the satisfaction of the judgment against him? Does not the officer by this writ obtain possession of the goods acquired upon judgment, and does it not give to the successful party the fruits of his judgment? But it is contended by the defendant in error that this is “ an order of sale,” and consequently cannot come within the meaning of paragraph 4542, General Statutes of 1889, as the term “execution” alone is used in that paragraph, which reads :
+“ If execution shall not be sued out within five years from the date of any judgment that now is or may hereafter be rendered, in any court of record in this state, or if five years shall have intervened between the date of the last execution issued on such judgment and the time of suing out another writ of execution thereon, such judgment shall become dormant, and shall cease to operate as a lien on the estate of the judgment debtor.”
+And paragraph 4989, General Statutes of 1889, (Civil Procedure before Justices,) reads as follows :
+“ Execution for the enforcement of a judgment before a justice of the peace may issue by the justice before whom the judgment was rendered, or by his successor in office, on the application of the party entitled thereto, at any time within five years from the entry of the judgment or the date of the last execution issued thereon.”
+Paragraph. 4539, General Statutes of 1889, ( § 442 Code,) reads:
+“ Executions are of four kinds : First, against the property of the judgment debtor. Second, against his person. Third, for the delivery of the possession of real or personal property, with damages for withholding the same, and costs. Fourth, executions in special cases.”
+Paragraph 4543 describes the first kind of execution ; paragraph 4604 describes the second; paragraph 4614 describes the third, and paragraph 4616 ■ describes the fourth.
+We fail to find anything in paragraphs 4542 or 4989 which limits or restricts the execution to any one of the four classes of executions known to our law. Defendant in error, however, contends that the execution contemplated in paragraph 4542, supra, is of the first class, viz.: “Against the property of the judgment debtor;” or, as he termed it, a general execution which directs the officer that, “ of the goods and chattels of the debtor he cause to be made the money specified in the writ, and for want of goods and chattels he cause the same to be made of the lands and tenements of the debtor.” We fail to see any force in this argument. Even if the case at bar were controlled exclusively by the procedure applicable to district courts, it would have no effect; but it is not so controlled. The writ complained of was issued by the justice of the peace during the time he had jurisdiction of the case, and is undoubtedly an execution within the meaning of paragraph 4991, which reads as follows :
+“The execution must be directed to a constable of the county, and subscribed by the justice by whom the judgment was rendered, or by his successor in office, and must bear date the day of its delivery to the officer, to be executed ; it must intelligibly refer to the judgment by stating the names of the parties, and the name of- the justice before whom, and of the county and township where, and the time when, it was rendered ; the amount of the judgment, and, if less than the whole is due, the true amount due thereon. It must require the constable substantially as follows :
+“1. If it be a case where the defendant cannot be arrested, it must direct the officer to collect the amount of the judgment out of the personal property of the debtor, and pay the same to the party entitled thereto.
+“2. If it be a case where any of the judgment debtors are certified on the docket as surety, it shall command that the money be made of the personal, property of the principal debtor, and, for want thereof, of the personal property of the surety. In such a case, the personal property of the principal, subject to execution within the jurisdiction, shall be exhausted before any of the propérty of the surety shall be taken in execution.
+"3. If it be a case where the defendant may be arrested, in addition to the foregoing, it must direct the officer, if sufficient property of the defendant, subject to execution, cannot be found to satisfy the judgment, that he arrest the debtor and commit him to the jail of the county until he pays the judgment or be discharged according to law, unless the execution be accompanied by an order of arrest.
+“4. It must, in all cases, direct the officer to make return of the execution, and a certificate thereon, showing the manner in which he has executed the same, in thirty days from the time of his receipt thereof."
+Now, it nowhere appears in the above section that the officer is directed to make any of this debt out of reál estate ; on the contrary he is confined and limited to personal property. Hence the argument, that a general execution under which an officer can have recourse to the whole estate of the debtor is intended by paragraph 4542 or paragraph 4989 fails.
+Our view of this case is strengthened by very many other rules of law and statutory enactments. For instance, it is well established that “property not subject to execution cannot be attached.” If we look to the procedure governing attachments before justices of the peace, we find that, in reference to the satisfaction of a judgment, paragraph 4893 provides :
+“ If judgment be rendered for the plaintiff, it shall be satisfied as follows : So much of the property remaining in the hands of the officers, after applying the moneys arising from the sale of perishable property, and so much of the personal property, if any, as may be necessary to satisfy the judgment, shall be sold, by order of the justice, under the same restrictions and regulations as if the same had been levied on by execution.”
+We are satisfied that the “ order of sale ” issued by the justice of the peace in this action, is within the meaning of the term execution used in paragraphs 4542 and 4989, supra, and is sufficient to prevent the judgment becoming dormant, if regularly issued ; and the regularity of the issuance in this case is not questioned.
+The spirit and intent of the statutes is, that, where a party has slept upon his rights under a judgment for five years, it shall no longer be considered as a live judgment; but he cannot be said to have done this when he has had issued a writ, within the time required by law, for the purpose of subjecting the defendant’s property to the payment of the judgment. We cannot believe that a writ which has every element of an execution, and the express object of which is “to secure to the successful party the fruit of his judgment,” — a writ which is in fact an execution,— can be ignored merely upon account of its name, or what the printer in making the blank has seen fit to call it.
+The judgment in this case will, therefore, be affirmed.
