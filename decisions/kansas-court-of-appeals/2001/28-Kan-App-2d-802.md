@@ -1,0 +1,50 @@
+---
+court: "Kansas Court of Appeals"
+docket: "85,132"
+decided: "2001-04-06"
+citations: ["28 Kan. App. 2d 802", "20 P.3d 1286"]
+reporter: "kan-app-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Marquardt, P.J., Elliott, J., and Paddock, S.J."]
+parties: ["Raymond Redditt, Deceased, Appellant, v. McDonald’s Restaurant, and Kansas Restaurant and Hospitality Association/Self-Insurance Fund, Appellees."]
+source_url: "https://static.case.law/kan-app-2d/28/cases/0802-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 688444
+cites_cases: ["156 Ariz. 39", "26 Kan. App. 2d 547", "263 Kan. 542", "264 Kan. 33", "266 Kan. 1", "736 P.2d 506"]
+---
+
+# Redditt v. McDonald's Restaurant
+
+## Majority (Marquardt, J.:)
+
+Marquardt, J.:
+Madie Redditt, widow of Raymond Redditt, appeals a decision of the Workers Compensation Board (Board) denying her Raymond’s death benefits.
+Raymond was murdered on November 16, 1995, when he was making a bank deposit for McDonald’s, his employer. It is undisputed that Raymond met with an accidental death arising out of and in the course of his employment.
+Madie applied for Raymond’s death benefits. She listed herself as his surviving spouse. Madie and Raymond were married in April 1969. The couple began living apart in March 1973. Madie had no contact with Raymond since 1986.
+Madie claimed that she is entitled to Raymond’s death benefits. McDonald’s claimed that K.S.A. 1999 Supp. 44-508(c)(2) precluded such a payment to Madie. The administrative law judge (ALJ) disagreed, finding that Madie did not willfully or voluntarily abandon Raymond and their marriage had never been legally dissolved. The ALJ awarded Madie $200,000.
+McDonald’s appealed to the Board. The Board affirmed the ALJ’s award. The Board held that proof of dependency is not required of a surviving spouse of a deceased employee for eligibility of death benefits. The Board found that Raymond left Madie to live with another woman.
+McDonald’s appealed the Board’s order to this court. This court noted that the Board did not reach the question of whether there had been a mutual abandonment of the marriage since it found that Raymond was the first abandoning party. Redditt v. McDonald’s Restaurant, 26 Kan. App. 2d 547, 549, 990 P.2d 759 (1999). The case was remanded to the Board to determine whether there had been a mutual abandonment of the marriage. 26 Kan. App. 2d at 556.
+On remand, the Board found that there had been a mutual abandonment of the marital relationship. The Board concluded that not only did Madie accept her separation from Raymond, she actually seemed to prefer being single. The Board believed that Raymond and Madie expressed a desire to end their marital relationship in fact, if not in law, and denied Madie the right to Raymond’s death benefits. Madie appeals.
+Madie contends that the Board could not enter a new finding of fact since no new evidence was presented upon remand. Madie believes the Board’s finding that there was a mutual abandonment is “exactly opposite” of the Board’s first ruling. Madie also argues that K.S.A. 1999 Supp. 44-508(c)(2) does not encompass the doctrine of mutual abandonment. Madie claims that she did not abandon Raymond within the meaning of the statute.
+This case involves interpretation of K.S.A. 1999 Supp. 44-508(c)(2). An appellate court’s standard of review for decisions from the Board is statutory and set forth in K.S.A. 77-601 et seq. However, interpretations of statutory provisions are questions of law over which appellate courts have unlimited review. While an appellate court gives deference to the Board’s interpretation of the law, if such interpretation is interpreted or applied erroneously, the court may grant relief. Burton v. Rockwell International, 266 Kan. 1, 5, 967 P.2d 290 (1998).
+The Board’s finding that Madie is not entitled to benefits is a negative finding. A negative finding of fact will not be disturbed absent an arbitrary disregard of undisputed evidence or some extrinsic consideration such as bias, passion, or prejudice. Nance v. Harvey County, 263 Kan. 542, 551, 952 P.2d 411 (1997).
+In its first award, the Board found that it was not necessary to reach the issue of whether there was a mutual abandonment. The Board based its order in reliance on Tatum v. Tatum, 736 P.2d 506 (Okla. 1982), and its belief that Raymond was the abandoning spouse. With a specific order on remand, the Board had no choice but to address tire issue of mutual abandonment since it did not decide the issue initially.
+This court remanded the case to the Board with instructions to make a finding on the issue of mutual abandonment. Redditt, 26 Kan. App. 2d at 556. The Board has the duty and the authority to decide an issue when a case is remanded to it for a finding on an issue that it had not decided in its first order.
+Next, Madie argues that K.S.A. 1999 Supp. 44-508(c)(2) does not cover the issue of mutual abandonment.
+“Where death results from injury, compensation shall be paid as provided in K.S.A. 44-510 and amendments thereto, and as follows:
+“(a) . . .
+(1) If the employee leaves a surviving legal spouse or a wholly dependent child or children, or both, who are eligible for benefits under this section, then all death benefits shall be paid to such surviving spouse or children, or both, and no benefits shall be paid to any other wholly or partially dependent persons.” K.S.A. 1999 Supp. 44-510b(a)(l).
+“In the meaning of this section [definition of “members of a family”], a surviving spouse shall not be regarded as a dependent of a deceased employee or as a member of the family, if the surviving spouse shall have for more than six months willfully or voluntarily deserted or abandoned the employee prior to the date of tlie employee’s death.” K.S.A. 1999 Supp. 44-508(c)(2).
+We must first address the question of whether Kansas law recognizes the doctrine of mutual abandonment.
+The case law on mutual abandonment was well summarized in the first Redditt case. Other jurisdictions have found that mutual abandonment deprives a surviving spouse of his or her right to death benefits. 26 Kan. App. 2d at 553. The Redditt court cites Estate of Garcia v. Industrial Com’n, 156 Ariz. 39, 749 P.2d 948 (1988), for the proposition that the decedent’s wife was not entitled to death benefits because (1) the couple had been separated for approximately 7 years before decedent’s death; (2) the decedent had a relationship with another woman and fathered a child; (3) the wife had lived with two separate men on two separate occasions; and (4) the decedent provided no monetary or other sustenance to the wife after the separation. The Garcia court noted that “ ‘[t]o find her eligible for death benefits in this type of situation would be to provide support for her where none had been sought or received before.’ ” 26 Kan. App. 2d at 554.
+The plain language of K.S.A. 1999 Supp. 44-508(c)(2) suggests that the Kansas Legislature did not mean to preclude application of the doctrine of mutual abandonment. The statute merely states that a surviving spouse is not eligible for death benefits if he or she abandoned the employee spouse for more than 6 months prior to the employee’s death. Under the plain language of the statute, a surviving spouse could later abandon the marriage even after he or she had previously been abandoned by the employee. It is a fundamental rule of statutory construction that the intent of the legislature governs if that intent can be ascertained. In re Marriage of Killman, 264 Kan. 33, 42, 955 P.2d 1228 (1998).
+The concept of mutual abandonment fits squarely within K.S.A. 1999 Supp. 44-508(c)(2). We see nothing in the plain language of the statute which would convince us that the legislature did not envision a situation where both spouses abandoned their marriage. However, the facts of the instant case will determine whether mutual abandonment took place.
+Madie and Raymond were married in April 1969, when their son was 1 month old. Raymond left the marital home in March 1973 and moved in with another woman. Madie filed for divorce in March 1973; however, no divorce was ever granted. Madie and Raymond never lived together after March 1973.
+Madie lived in Kansas City from 1973 to 1979. While Madie was in Kansas City, Raymond remained in Memphis. Raymond did not pay child support for the 6 years Madie was in Kansas City. Madie continued to have sexual relations with Raymond when she returned to Memphis for summers and holidays. However, the couple did not reconcile.
+While Madie was in Kansas City, she engaged in sexual relations with two different men. Madie had another child; however, she was unable to say who fathered the child.
+Madie returned to Memphis in 1979. She had sporadic contact and sexual relations with Raymond until 1983. Raymond moved to Missouri in 1985. The last time Madie had any contact with Raymond was in 1986.
+Raymond paid no child support after 1984. Madie fisted herself as “head of household” on her tax returns. Madie and Raymond did not file joint tax returns. Madie fisted herself as a single parent on her son’s school forms and as a single person on credit card applications. Madie was not involved in planning Raymond’s funeral.
+We agree with the Board that the Redditts’ marriage was mutually abandoned. Clearly, Raymond was the first spouse to leave the marriage. However, Madie did not conduct herself like a married woman. She had relationships with other men, one of whom possibly fathered her second child. More telling, however, is Ma-die’s reference to herself as a single person. Madie conducted and referred to herself as a single person for the better part of 30 years. She had no contact with Raymond after 1986.
+We believe that Madie meets the definition of an abandoning spouse under K.S.A. 1999 Supp. 44-508(c)(2). Accordingly, the Board did not err by refusing to award her Raymond’s death benefits.
+Affirmed.
