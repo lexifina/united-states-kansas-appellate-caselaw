@@ -1,0 +1,51 @@
+---
+court: "Kansas Court of Appeals"
+docket: "50,642"
+decided: "1979-06-15"
+citations: ["3 Kan. App. 2d 456", "601 P.2d 6"]
+reporter: "kan-app-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Spencer, P.J., Swinehart and Meyer, JJ."]
+parties: ["Helen Baum, Claimant-Appellee, v. The Greyhound Corporation, d/b/a Prophet Foods, Respondent-Appellant, American Home Assurance, Insurance Carrier-Appellant, Workmen’s Compensation Fund, Appellee."]
+source_url: "https://static.case.law/kan-app-2d/3/cases/0456-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 388738
+cites_cases: ["203 Kan. 906"]
+---
+
+# Baum v. Greyhound Corp.
+
+## Majority (Meyer, J.:)
+
+Meyer, J.:
+This is an action by the claimant, Helen Baum, to recover compensation. The workmen’s compensation fund (fund) was made a party to the proceedings upon motion by the respondent and its insurance carrier. The workmen’s compensation examiner entered an order dismissing the fund from the case on the basis that respondent had failed to give notice of claimant’s preexisting handicap to the workmen’s compensation director as provided by statute. The district court sustained the examiner’s order dismissing the fund and the respondent and its insurance carrier appeal.
+The issue herein is whether an employer who has paid the employee three prior settlement awards is required to file notice of handicap with the workmen’s compensation director as per K.S.A. 1977 Supp. 44-567(o).
+Claimant was an employee of respondent at their plant in Topeka, Kansas. She had been employed continuously by respondent for approximately 23 years.
+On January 22, 1958, claimant was injured and received a five percent disability settlement from respondent. This settlement was reduced to an award and filed in the office of the workmen’s compensation director on June 27, 1958.
+On July 13, 1962, claimant was injured and received a seven percent settlement from respondent. That settlement award was also filed with the workmen’s compensation director’s office on May 7, 1963.
+On December 13, 1968, claimant was again injured and received a ten percent disability settlement from respondent. This settlement award was entered and filed in the director’s office on August 20, 1969.
+On or about September 15, 1977, while claimant was still working for respondent, she received the injury upon which the present action is based.
+The fund was impleaded, but on February 1, 1978, it filed a motion to be dismissed for the reason that the respondent had failed to file a notice of handicapped employee with the office of the director of workmen’s compensation as required by K.S.A. 1977 Supp. 44-567(o) and the director’s rule 51-1-22.
+On November 8, 1978, the district court found that since there was no statutory notice by the respondent in reference to claimant’s preexisting bad back, the respondent had failed to comply with the notice statute and that the fund should therefore be dismissed from these proceedings. The court denied the fund’s claim for attorney fees.
+Respondent and its insurance carrier appealed from the district court’s order dismissing the fund, and the fund filed a cross-appeal on that part of the court’s order denying its request for allowance of attorney fees.
+It is appellants’ theory herein that since the former awards (being in 1958, 1962, and 1968) were filed with the workmen’s compensation commissioner that this constituted notice, and that therefore the failure to give specific notice is irrelevant because the workmen’s compensation commissioner already had the proof of the preexisting condition in his files.
+The gist of appellees’ argument on the other hand is (1) the preexisting settlements, while filed with the compensation commissioner, were not filed by the employer; and (2) that it would be ridiculous for the compensation commissioner to keep a running log of all previous injuries.
+The pertinent statute, K.S.A. 1977 Supp. 44-567(c), in part, states as follows:
+“An employer operating within the provisions of the workmen’s compensation act who employs a handicapped employee . . . and who prior to the occurrence of a compensable injury to a handicapped employee establishes knowledge of the preexisting handicap by filing a notice thereof, together with a description of the handicap claimed with the workmen’s compensation director . . . shall be relieved of liability for compensation awarded . . . (Emphasis added.)
+The wording of the above statute is not ambiguous in any way. To us the meaning of this statute is clear and requires that the employer notify the workmen’s compensation director of a preexisting disability. Were we to adopt appellants’ view herein it would be tantamount to our changing that statute to include language to the effect that if prior claims had been allowed by the director that this would constitute knowledge. However, where there is a direct absence of following a clear requirement of an unambiguous statute, as in this case, we have no license to change the law by judicial interpretation. We conclude that the district court was correct.
+Coming now to the fund’s cross-appeal complaining that the district court erred in denying attorney fees to the fund, we conclude as follows: K.S.A. 1977 Supp. 44-566a(f) states in part that “attorneys’ fees incurred by the workmen’s compensation fund may be assessed against the party who has impleaded the workmen’s compensation fund.” It is noted that the legislature has used the word “may” in this statute. To us this means that the matter of awarding attorney fees is at the discretion of the district court. We find no abuse of discretion on the part of the district court in denying these attorney fees.
+Affirmed.
+
+## Dissent (Spencer, J.,)
+
+Spencer, J.,
+dissenting: I dissent. Our Supreme Court considered the purpose of and the construction to be given the workmen’s compensation fund in Leiker v. Manor House, Inc., 203 Kan. 906, 457 P.2d 107 (1969), wherein it was held:
+“The declared purpose of the Second Injury Fund (K.S.A. 44-566, et seq.) is to encourage employers to hire the handicapped and the Legislature intended this to be achieved by shifting the increased burden of compensation from the employer to a Second Injury Fund which is funded by payments from insurance carriers and from legislative appropriations.” Syl. f 1.
+“The Second Injury Fund statute is remedial in character and is not to be interpreted in a narrow, technical or illiberal manner. A liberal construction of its provisions should be indulged, if necessary, to give effect to the purpose intended by the Legislature.” Syl. f 2.
+At the time of Leiker, the employer was required to file a written notice with the director naming the handicapped person and describing the handicap claimed. In 1974, the statute was amended to eliminate the filing requirement and to permit involvement of the fund when it was proven by any competent means that the employer knowingly hired or retained a handicapped person. In 1977, the statute was amended to require that the employer establish his knowledge of the handicap prior to the occurrence of a compensable injury, by filing a notice thereof with the director. The statute was again amended in the 1979 session of the legislature by House Bill No. 2401 § 15 which restores the statute to substantially the form it was during the period between 1974 and 1977. Effective with the publication of the 1979 Session Laws, K.S.A. 44-567(o) will require only that the employer “knowingly employs or retains a handicapped employee” in order to participate in the fund.
+In effect, the statute at the time of Leiker required that the handicapped employee be “registered” with the director. The 1974 version eliminated “registration” and substituted knowledge on the part of the employer. The 1977 amendment did not restore the requirement of registration but retained the requirement that the employer have knowledge of the preexisting handicap and that he establish that knowledge by “filing a notice thereof” with the director. It is the employer’s knowledge of the preexisting handicap which is of the essence.
+While it must be conceded in this case that the employer did not file a form 88 as prescribed by the director, it is noted that K.A.R. 51-1-22 (1978) provides that upon application to and approval by the director, a form other than form 88 may be used by employers to report the names of handicapped employees. The claimant in this case had been employed by respondent for approximately twenty-three years and had suffered compensable injuries on three different occasions prior to her injury on September 15, 1977. In each instance, the award was filed in the office of the director, providing absolute proof of the employer’s knowledge of the preexisting handicap. The fact that the employer did not file a notice on form 88 or another form approved by the director, if in fact the earlier awards to claimant do not meet that requirement, is of little importance when it is recalled that the purpose of the statute is not to register the handicapped employee but to establish the employer’s knowledge of the handicap by a record made prior to the occurrence of the injury.
+The position of the majority in this case results in a strange interpretation of the statute, a section of which (K.S.A. 44-567[h]) provides for a conclusive presumption of knowledge on the part of the employer in cases of misrepresentation made by the employee when in fact the employer did not have such knowledge, and another section of which (K.S.A. 44-567[o]) would deny access to the fund by an employer whose knowledge of the preexisting handicap can be established by irrefutable evidence on file with the director.
+In my view, the position of the majority results in a narrow, technical and illiberal interpretation, found in Leiker to be impermissible.
+Under the facts and circumstances of this case, I would hold that the purpose of the statute has been satisfied in that the employer’s knowledge of the preexisting handicap has been established by documents on file with the director prior to the occurrence of the compensable injury.
