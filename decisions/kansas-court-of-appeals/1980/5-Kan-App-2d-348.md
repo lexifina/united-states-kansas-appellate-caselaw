@@ -1,0 +1,33 @@
+---
+court: "Kansas Court of Appeals"
+docket: "50,688"
+decided: "1980-09-12"
+citations: ["5 Kan. App. 2d 348", "616 P.2d 297"]
+reporter: "kan-app-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Foth, C.J., Parks and Swinehart, JJ."]
+parties: ["Anspacher & Associates, Inc., Plaintiff, Orlando P. Strausz, Appellant, v. James H. Leslie, Defendant, Arlene Johnson Jennings, Appellee."]
+source_url: "https://static.case.law/kan-app-2d/5/cases/0348-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 394386
+cites_cases: ["109 Pac. 188", "123 Pac. 740", "149 Pac. 734", "79 Nev. 365", "82 Kan. 554", "87 Kan. 112", "96 Kan. 42"]
+---
+
+# Anspacher & Associates, Inc. v. Leslie
+
+## Majority (Swinehart, J.:)
+
+Swinehart, J.:
+This is an appeal from an order of the district court of Reno County approving a redemption of real property by the assignee of a judgment debtor whose property had been sold at an execution sale.
+The defendant James H. Leslie was the judgment debtor of Anspacher & Associates, Inc. Orlando P. Strausz purchased Leslie’s interest in certain real estate on August 18, 1977, at an execution sale conducted by the sheriff to satisfy the judgment against Leslie.
+On October 5, 1977, a decree of confirmation and order pertaining to redemption which had been entered on September 9, 1977, was filed. The court confirmed the sale and ordered the sheriff to execute to Strausz a good and sufficient certificate of purchase for Leslie’s interest in the real estate. The decree further provided “that in accordance with K.S.A. 60-2414(a) that the Defendant’s [Leslie’s] interest in the real estate purchased by Orlando P. Strausz is being occupied in good faith by the Defendant, James H. Leslie, and therefore the redemption period on said real estate shall be a period of twelve (12) months.” The decree was approved not only by the attorneys for the plaintiff and for the defendant, but also by Leslie himself. Leslie claims he signed the document in his attorney’s office with the understanding that the twelve-month redemption period would commence on September 9, 1977, the date the sale was confirmed. He stated that his attorney had spoken by telephone with Charles Hyter, Anspacher’s attorney, and they agreed to this arrangement while Leslie was present in his attorney’s office.
+Leslie assigned his right of redemption to appellee Arlene Johnson Jennings, his sister, on September 8, 1978. Jennings redeemed the property the same day. Upon oral application of the clerk of the district court, an order from another district judge in Reno County confirming the redemption by Jennings was obtained and filed on September 8, 1978. The order directed the sheriff to execute and convey a sheriff s deed to her and approved the cancellation of the sheriff’s certificate of purchase dated September 9, 1977, which had been issued to Strausz.
+Strausz was not a party to the proceeding confirming the sale of the property by the sheriff which established the period of redemption, nor was he represented by counsel at the hearing. Moreover, he received no notice of the hearing on the confirmation of redemption by Jennings. Upon learning of the confirmation of redemption order, he filed a motion to declare the confirmation order void and of no force and effect, which was treated by the trial court as a motion to alter or amend the judgment.
+The main issue on appeal and the only one necessary for us to decide is whether the trial court erroneously extended the statutory redemption period beyond twelve months after the date of the sheriff s sale. Jennings contends the trial court properly extended the period of redemption because of an agreement between the parties. K.S.A. 1979 Supp. 60-2414(a) provides in part:
+“[T]he defendant owner may redeem any real property sold under execution, special execution or order of sale, at the amount sold for, together with interest, costs and taxes, at any time within twelve (12) months from the day of sale, for the amount paid by the then holder of the certificate of purchase together with interest, costs and taxes to the date of redemption, and shall in the meantime be entitled to the possession of the property . . . .”
+Without question the statute provides that the period of redemption begins to run from the date of the sale. However, the period of redemption may be extended by a court decree in an equitable action [see e.g., Piatt v. Flaherty, 96 Kan. 42, 149 Pac. 734 (1915); Quinton v. Adams, 87 Kan. 112, 123 Pac. 740 (1912); Neef v. Harrell, 82 Kan. 554, 109 Pac. 188 (1910); Pace v. Malonee, 79 Nev. 365, 385 P.2d 353 (1963); 30 Am. Jur. 2d, Executions § 550], and by agreement of the parties [30 Am. Jur. 2d, Executions § 537],
+It is undisputed that Strausz was not a party to either the confirmation of the sale or the confirmation of the redemption of the property by Jennings. Even taking the position asserted by Jennings that there was an agreement between the parties to extend the redemption period as evidenced by the confirmation of sale order, the fact remains that Strausz was not a party to such an agreement. The purchaser of property at an execution sale is an indispensable party to any agreement to extend the statutorily prescribed redemption period. Therefore, we find no agreement sufficient to extend the redemption period in this action.
+Additionally, we are not persuaded that the record reflects the necessary equities to justify the extension of the redemption period by court decree beyond that provided by K.S.A. 1979 Supp. 60-2414(a). While it is possible that Jennings and Leslie may have been misled into believing they had additional time to redeem the property, the record is devoid of any evidence to indicate that Strausz was responsible for this misconception. Where the record is clear that the judgment debtor and/or the assignee of his redemption rights were not in any way prejudiced by acts on the part of the purchaser at a sheriff’s sale, the period of redemption may not be extended on equitable grounds. That is the actual holding of Pace v. Malonee, 79 Nev. at 368, relied on by the redemptioner and the trial court here for the general proposition that the period may be extended if warranted in equity.
+The order of the court affirming the redemption by Jennings is reversed and the case is remanded with directions to conform to the order confirming the sale of the property dated September 9, 1977, and filed October 5, 1977, by issuing a sheriff’s deed to the appellant Strausz in accordance with the applicable statutes.
+Reversed and remanded with directions.
