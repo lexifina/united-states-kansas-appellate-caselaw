@@ -1,0 +1,33 @@
+---
+court: "Kansas Court of Appeals"
+docket: "380"
+decided: "1900-12-12"
+citations: ["10 Kan. App. 550", "63 P. 23"]
+reporter: "kan-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["J. E. Conklin v. J. Campbell Lorimer, Trustee, et al."]
+source_url: "https://static.case.law/kan-app/10/cases/0550-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 379481
+cites_cases: ["29 Pac. 163", "48 Kan. 282", "56 Pac. 747", "60 Kan. 441", "90 Ind. 332"]
+---
+
+# Conklin v. Lorimer
+
+## Majority (Schoonover, J.:)
+
+The opinion of tbe court was delivered by
+Schoonover, J.:
+This action was brought in the district court of Reno county to foreclose a mortgage given by William Stout on certain real estate to secure his note for $600. Prior to the maturity of the note, Stout sold the mortgaged property to Frank McKee and C. Bloom, who assumed and agreed to pay the mortgage indebtedness as part of the purchase-price.
+After the note became due, McKee and Bloom entered into an agreement, by which the then owner and holder of the note agreed to extend the time of payment five years; McKee and Bloom agreeing to pay interest according to the terms of certain extension coupon notes. A short time after the execution of the extension agreement, McKee and Bloom sold the property in question to the National Bank of Commerce. The bank held the property for over five years, and then sold and conveyed it to J. E. Conklin, plaintiff in error. This sale and conveyance occurred more than eleven years after the execution of the note and mortgage, and more than six years after it became due by its terms. Nothing appears in the record showing that any interest payment was made on the mortgage after the sale by McKee and Bloom.
+A short time after plaintiff in error purchased the property this action was brought'. Plaintiff in error appeared and answered, pleading the statute of limitations. The case was tried to the court, which found, among other things, that the mortgage was a valid and subsisting lien upon the property as to the owner, J. E. Conklin, that McKee and Bloom were liable upon their contract of assumption, and that the action was barred as to Stout, the mortgagor. Judgment was entered upon the findings and Conklin brings the case here. McKee and Bloom have also filed a cross-petition in error, complaining of the judgment and asking that the cause be reversed as to them.
+As we view the case, the only question to be determined is, Was the extension agreement executed at the request of McKee and Bloom sufficient to prevent the running of the statute of limitations ? “If the time of payment of a mortgage be extended, the right to foreclose is, of course, suspended until the expira tion of the extended term.” (2 Jones, Mort. § 1190.) The statute would, therefore, not begin to run until the expiration of the extended term. But in order to prevent the statute, from running, the agreement must be founded on a good consideration and be otherwise valid.
+By the terms of the extension agreement, McKee and Bloom were to “keep the loan for a term of five years, and to pay interest upon the principal of said debt according to the tenor and effect of certain extension coupon notes.”
+In the case of Holmes et al. v. Boyd, Cashier, 90 Ind. 332, the court held that “Neither the payment of interest already accrued, nor a promise to pay such interest as may thereafter lawfully accrue upon a note, will afford a sufficient consideration for an agreement to extend the time of payment of the note.”
+There is nothing in the record to show what rate of interest was to be paid upon the note during the extended term. Reference is made in the extension agreement to certain extension coupon notes, but these notes do not appear in the record. We concede that if McKee and Bloom had agreed to pay a higher rate of interest during the extended term than that named in the note, the amount of interest in excess of the amount named in the note would constitute a sufficient consideration, but there is nothing to show that an increased rate was agreed upon.
+Plaintiff alleges in his petition that by its terms the note sued upon was to bear six per cent, interest, payable semiannually until maturity, after which it should bear interest at the rate of twelve per cent, per annum. The note itself does not state the rate of interest, but reference is made in the note to certain interest coupons thereto attached. These coupons do not appear in the record, but we suppose that they were made for the amount of interest that would be due semiannually at six per cent., accepting as true the allegation of the petition that six per cent, was the rate agreed upon.
+Plaintiff alleged that coupon No. 10, the last of the coupons claimed to have been executed under the extension agreement, had not been paid. Judgment was asked for the amount of the principal, with interest at the rate of twelve per cent, from date of maturity to date of judgment, and for the further sum of eighteen dollars interest from January 1, 1896, to July 1, 1896, being the last six months of the extended term. The interest on $600 for six months at six per cent, amounts to eighteen dollars. It therefore appears that the rate of interest for the extended term was six per cent., the same rate provided for in the original agreement. Thus, from plaintiff’s own allegations, it appears that McKee and Bloom did not agree to pay a greater rate of interest than was provided for in the original agreement.
+There is no evidence to show that they assumed any new obligation, made advance payments of interest or did any other acts that would constitute a sufficient consideration for the agreement to extend the time of payment. McKee and Bloom were bound already to pay the note with a rate of interest at least as high as six per cent., and this promise to do what they were already bound for was invalid as a new promise. (Schuler v. Myton, 48 Kan. 282, 29 Pac. 163.)
+One of the leading cases cited by counsel for defendants in error is McLane v. Allison, 60 Kan. 441, 56 Pac. 747; but as this case turned upon the payment of interest by a grantee of the mortgagor as an acknowledgment of the existence of a mortgage lien, and as there was no evidence in this case that any interest payments were made after the extension agreement was executed, the case cited is not applicable.
+We think that the extension agreement was without consideration, and, this being true, it was ineffectual to prevent the running of the statute of limitations. The judgment of the district court is reversed.
