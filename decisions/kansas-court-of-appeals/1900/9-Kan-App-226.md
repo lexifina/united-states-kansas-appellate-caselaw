@@ -1,0 +1,33 @@
+---
+court: "Kansas Court of Appeals"
+docket: "626"
+decided: "1900-01-04"
+citations: ["9 Kan. App. 226", "59 P. 674"]
+reporter: "kan-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["A. N. Moyer, Executor of the Estate of S. F. Mather, deceased, v. Anna A. Knapp."]
+source_url: "https://static.case.law/kan-app/9/cases/0226-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 350597
+---
+
+# Moyer v. Knapp
+
+## Majority (Wells, J.:)
+
+The opinion of the court was delivered by
+Wells, J.:
+A condensed statement of such of the facts of this case as are necessary to an understanding of the issues raised herein is as follows : On September 28, 1896, the defendant in error filed her petition in the district court of Wyandotte county, alleging, among other things, that on September 15, 1889, at the request and solicitation of Samuel F. Mather, said plaintiff went to live with said Mather at his home in Kansas City, Kan. that prior to said date the wife of said Mather had died, leaving him without any family; that he occupied a large residence which had been his home for many years, and at his home the plaintiff continued to live with him and performed for him services as housekeeper, nurse, attendant and constant companion until his death on June 1,1895 ; that said Mather during all of said time was old and feeble and required constant care and attention ; that the said Mather during said time frequently and repeatedly promised, without fixing the nature or amount, to compensate said plaintiff at his death for the services so performed; and that the same were worth $100 per month and had not been paid; and asking judgment therefor in the sum of $6850.
+The answer of the defendant denied generally the allegations of the petition, pleaded a defect of parties and the pendency of another action, and also alleged that from time to time during the period the services mentioned in the petition are alleged to have been performed, and on account thereof, said Mather generously compensated her for such services by paying her large sums of money on her account; that in October, 1892, he conveyed to a sister, in trust for plaintiff, property valued at $3000 ; and in January, 1894, he also conveyed in the same manner to said sister another property, valued at $1500 ; and in June, 1894, he released mortgages on plaintiff’s property of $2000, gave her a check for $500, and willed her $500 ; and that since the death of said Mather the defendant herein, as executor of the Mather estate, had given her rent to the amount of $600, said payments altogether largely exceeding the value of the services rendered. The plaintiff, in reply, denied every allegation of new matter in said answer.
+Upon the issues thus joined the case was tried to a jury, a verdict returned in favor of the plaintiff for $733, and judgment rendered accordingly.
+There are five specifications of error discussed in the brief of the plaintiff in error, but we shall consider such of them only as seem to be necessary to a decision of this proceeding in error.
+First. The court erred in permitting the plaintiff to testify as to transactions between the deceased, Mather, and herself with respect to the $500 check, 'and in refusing to strike out such evidence.
+The plaintiff, in her own behalf, on direct examination, testified, over the objection and exception of the defendant, that a certain $500 check was given her by Mather for rent collected belonging to a sister of plaintiff. On cross-examination, she stated, in substance, that the only way she knew what it was given for was what the doctor (Mather) told her. The defendant then asked to have this evidence stricken out, which was refused, the court saying : “I don’t think you can call out incompetent evidence on cross-exanination and then take advantage of it.”
+Section 333 of chapter 95, General Statutes of 1897 (Gen. Stat. 1899, §4585), provides:
+“No party shall be allowed to testify in [his] own behalf in respect to any transaction or communication had personally by such party with a deceased person when the adverse party is the executor ... of such deceased person.”
+That there was a violation of the above provision in this case seems to us clear. With the witness’s intimate relations with Doctor Mather in his lifetime and her knowledge of his business affairs, it seems reasonable to suppose that she may have known what the check was given for from a source that would make it competent evidence, and the court was right in allowing her to answer the question, but when on cross-examination she stated that the only way she knew it was that the doctor told her so, its incompetency became apparent and it should have been stricken out.
+We are also of the opinion that plaintiff’s second allegation of error must be sustained. The defendant introduced evidence showing that the plaintiff was the owner of a house and lot in Kansas City, Mo., the title of which stood in the name of her mother, and upon which jvas a mortgage to secure a note given by the mother for money borrowed by plaintiff, which note matured June 6, 1894, at which time the sum of $1600 principal and $56 interest would be due thereon. A few days before the maturity of this note Doctor Mather went to the office of the company which held the note and mortgage as agents for the owner, and in presence of plaintiff gave the company a check drawn by Meyers Brothers, of St. Louis, payable to hi-s order, for $1400.10 (which check had been given to Mather in payment of a note executed in 1888 by Meyers Brothers to him), also the individual check of said Mather for $182.90 drawn on the Midland National Bank, of Kansas City, Mo., and the company thereupon delivered the note and mortgage, to Mather and he released it of record.
+After the defendant had rested, the plaintiff was recalled, and testified in rebuttal, among other matters, in relation to this transaction in regard to the $1600 mortgage, and was asked, “ Now, whose money actually paid off that loan?” and was allowed, over objection of the defendant to answer, “ Mine.” The question called for a conclusion pure and simple ; the answer could throw no light upon the transaction in controversy; it explained nothing, and could only tend to complicate instead of settle the question at issue.
+Our conclusion upon the foregoing propositions makes a new trial of the case necessary, and we shall not discuss the other errors alleged.
+The judgment of the district court is reversed, and a new trial directed.
