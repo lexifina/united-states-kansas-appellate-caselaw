@@ -1,0 +1,36 @@
+---
+court: "Kansas Court of Appeals"
+docket: "54,781"
+decided: "1983-06-09"
+citations: ["8 Kan. App. 2d 636", "664 P.2d 874"]
+reporter: "kan-app-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Foth, C.J., Abbott and Meyer, JJ."]
+parties: ["First National Bank of Girard, Girard, Kansas, A National Banking Association, Appellant, v. Richard Coykendall, Appellee. Conrad B. Livingston and Mary D. Livingston, Appellants, v. Director of Kansas Real Estate Commission, Appellee."]
+source_url: "https://static.case.law/kan-app-2d/8/cases/0636-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 386387
+cites_cases: ["118 Kan. 367", "171 Kan. 595", "210 Kan. 298", "221 Kan. 165", "234 Pac. 949"]
+---
+
+# First National Bank v. Coykendall
+
+## Majority (Foth, C.J.:)
+
+Foth, C.J.:
+Conrad and Mary Livingston appeal from the denial of a postjudgment motion seeking recovery from the real estate recovery revolving fund maintained under K.S.A. 1982 Supp. 58-3066 and its predecessor K.S.A. 58-3023. The trial court denied recovery because it found the underlying transaction was not one which involved real estate as required by the relevant statutes and because the Livingstons’ application was barred by the two-year “statute of limitations” contained in K.S.A. 1982 Supp. 58-3068(h)(2). We affirm on both grounds.
+In 1977 the Livingstons were engaged in selling prefabricated modular homes for Continental Homes. These are described as sturdy structures designed to be permanently placed on a regular foundation, and not to be confused with mobile homes. At that time Richard Coykendall, said to be a licensed real estate broker, had a contract with a couple named Clounch to erect a house on a lot owned by the Clounches. He proposed to fulfill his contract with a Continental house, but needed financing. An agreement was reached whereby Coykendall borrowed $17,500 from the Livingstons’ bank, the First National Bank of Girard, with the Livingstons cosigning as guarantors. This was interim financing, to be repaid from the proceeds of the Clounches’ permanent loan.
+The money was lent, the house was bought and the note with guaranty was renewed three times. Coykendall defaulted when the last renewal came due on October 31, 1978, and in January, 1979, the bank sued Coykendall and the Livingstons on the note. Additional parties were joined, including the Farmers Home Administration, and cross-claims were filed, including a claim of indemnity against Coykendall by the Livingstons.
+The parties eventually settled all their claims and on July 31, 1980, a stipulation of settlement and journal entry of judgment was filed in the case. Essentially the F.H.A. and the Livingstons were to pay the note held by the plaintiff bank. The Livingstons were granted judgment over against Coykendall for a total of $10,000. When garnishment and other collection efforts proved fruitless the Livingstons filed this motion to recover from the fund on April 2, 1982.
+The provisions relating to the fund are part of the real estate brokers’ and salespersons’ license act, L. 1980, ch. 164, § 33, now K.S.A. 1982 Supp. 58-3034 et seq. The fund itself is derived from the real estate fee fund in which brokers’ and salespersons’ license fees are deposited. Its use is prescribed by K.S.A. 1982 Supp. 58-3068(a):
+“(a) Moneys in the real estate recovery revolving fund shall be used in the manner provided by this act to reimburse persons who suffer monetary damages by reason of any of the following acts committed in connection with any transaction involving the sale of real estate in this state by any broker or salesperson who was licensed under the laws of this state at the time the act was committed or by any unlicensed employee of such broker or salesperson:
+(1) Violation of this act; or
+(2) Obtaining money or property by anyact which would constitute any crime defined by K.S.A. 21-3701, 21-3704, 21-3705, 21-3706, 21-3707, 21-3710, 21-3711 or 21-3712 or any amendments thereto.”
+The obvious purpose is to make at least partial reparation to those who have been injured by unprofessional or dishonest acts by licensed real estate brokers, salespersons, or their employees, when recovery cannot be had from the person committing the act. The act causing the loss must be committed, by the terms of the statute, “in connection with any transaction involving the sale of real estate.”
+In this case the immediate cause of the Livingstons’ loss was Coykendall’s default on a simple, unsecured promissory note. It had nothing to do with the sale of real estate to or from the Livingstons or anyone else. Even if one were to consider Coykendall’s purchase of the modular home a part of the transaction, there was no real estate involved; what he bought from Continental Home was a chattel. It may have become part of the Clounches’ real estate after it was affixed to their foundation, but even in affixing it Coykendall was not a broker selling real estate but a contractor erecting a building. Hence we agree with the trial court that the Livingstons had no right to recovery from the fund.
+The statute of limitations question arises because of the conditions imposed on recovery by K.S.A. 1982 Supp. 58-3068. Those include (1) that the injured party have received a final judgment based on any of the acts described in subsection (a), quoted above; and (2) that the act for which recovery is sought occurred not more than two years before the claim is asserted.
+Here Coykendall’s default occurred on October 31, 1978; the Livingstons’ claim was not asserted until April 2, 1982. In the trial court they asserted that the two years should start from the time they got their judgment against Coykendall, since the judgment was a prerequisite to their claim against the fund. In this court they concede the claim is barred by the statute, but say the two years is an unreasonable and arbitrarily short period, since getting the prerequisite judgment will often take more than two years from the commission of the act.
+The trial court, while noting that many such suits aren’t even filed until the two years is almost up, concluded that despite hardships in individual cases the fixing of statutes of limitations is a matter of legislative discretion. We agree. See Armstrong v. Cities Service Gas Co., 210 Kan. 298, 312-13, 502 P.2d 672 (1972); Shell Oil Co. v. Board of County Comm’rs, 171 Kan. 595, 237 P.2d 257 (1951). This is particularly so where the remedy sought is itself a legislative creation with no foundation in the common law, and the limitation is a condition contained in the act creating the remedy. Kinyon v. Soldiers’ Compensation Board, 118 Kan. 367, 234 Pac. 949 (1925).
+In addition, in this case the Livingstons had their judgment by July 31, 1980, and still had three months in which to assert a claim against the fund. Insofar as their complaint about the shortness of the statute has a constitutional basis the Livingstons lack standing to raise the issue because, although others might be, they were not deprived of any rights by the challenged statute. See State v. Thompson, 221 Kan. 165, Syl. ¶ 4, 558 P.2d 1079 (1976).
+Affirmed.
