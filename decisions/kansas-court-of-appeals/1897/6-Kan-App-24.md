@@ -1,0 +1,33 @@
+---
+court: "Kansas Court of Appeals"
+docket: "210"
+decided: "1897-07-16"
+citations: ["6 Kan. App. 24"]
+reporter: "kan-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["McElroy, J., concurring.", "Wells, J., having been of counsel, not sitting."]
+parties: ["The Dempster Mill Manufacturing Company v. S. H. Fitzwater et al."]
+source_url: "https://static.case.law/kan-app/6/cases/0024-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 348493
+cites_cases: ["27 Kan. 762", "31 Kan. 411"]
+---
+
+# Dempster Mill Manufacturing Co. v. Fitzwater
+
+## Majority (Mahan, P. J.)
+
+Mahan, P. J.
+It is difficult in this case to determine of what action or actions of the court the plaintiff in error complains. It is an action brought in the court below by the plaintiff in error to recover the price of certain machinery which it claims to have sold to the defendants upon a written contract set out in its petition, and for the time and expense of an expert furnished under another written contract set out in the petition. The first writing is, in substance and effect, an order by one of the defendants in behalf of all for a well-boring machine. There is appended to this a guaranty. The other writing is an order addressed to the plaintiff Company to send along with the machine an expert to run it.
+The answer denies that the writing constituted the contract of purchase of the machinery and denies that there was any written or'printed guaranty whatever, but avers a verbal contract and verbal representations amounting to a warranty that the machinery would perform a certain character of service; that it had failed and was totally worthless ; and that the defendants had been put to loss and damage by reason of the breach of warranty. A counterclaim therefor is set up and judgment asked for $376.
+By an examination of the record, it seems that the first contention of counsel for plaintiff in error is that this answer stated no defense, upon the ground that it was an attempt to vary and extend the terms of a written agreement by parol evidence. To be sure, if there was an express warranty in writing or printing agreed upon by the parties, there could be no other or additional warranty proven except that expressed in the writing. But the answer squarely presents the issue, Was that any part of the contract? The other part of the writing is simply an order for the machinery, expressing the price for which it was sold and the terms of payment, and the court had a right to assume that the parties did not intend this document to be a complete and final statement of the whole transaction between them. This is the effect of the answer, and there is no question but that it stated a good defense.
+The second contention is that the court erroneously admitted parol evidence, under this answer, of a verbal agreement differing from the warranty set out in the plaintiff’s petition and covering matters not expressed, in the other documents, but not in any way modifying or changing the tenor or effect or terms of these writings. In this there was no error. 1 Greenleaf on Evidence, § 284a; 7 Am. & Eng. Encyc. of Law, 92, subdivision 2; Dodge v. Oatis, 27 Kan. 762; Weeks v. Medler, 20 id. 57; Babcock v. Deford, 14 id. 408.
+The next contention seems to be that the court erred in refusing to instruct the jury as required by the plaintiff. The first and third instructions proposed, about which complaint is made, are based upon the proposition that the defendants were concluded by the writings. This contention is untenable, as we have heretofore shown.
+The second paragraph of the instructions requested by the plaintiff should have been given. The evidence showed that the defendants were each to be liable and bear the burden of the expense while the machine was being operated upon their respective farms, in which matter neither of the other defendants had any interest or right. So that, in an action- against them jointly, where they set up a joint counterclaim, damages accruing to them individually could not be recovered, and the court should so have instructed the jury. As suggested by counsel, this might be cured by a modification of the judgment by direction to enter a remittitur, if this were all.
+The next contention is that the court erred in refusing to submit to the jury, and require them to answer, two special interrogatories concerning this same matter— as to the amount of the separate claim of one of the defendants. These interrogatories, for the same reasons, should have been submitted to the jury by the court.
+' The next contention is that the court erroneously permitted the defendants to read in evidence an affidavit of one of the defendants which appears to have been made in support of an application for continuance. The record purports to contain a complete record of all of the proceedings of the court; it so says in express terms ; and there is nothing in the record that would justify the court in admitting in evidence this affidavit for ° continuance as the deposition of the witness upon whose absence the application seems to have been based. The record nowhere shows that an application was made for a continuance. It nowhere shows that the continuance was denied upon the acquiescence of the plaintiff in the use of this affidavit as the deposition of the witness. It is offered as a deposition. The. defendants had the deposition of the witness mentioned in this affidavit and read it upon the trial. If the record disclosed that a continuance had been denied upon the condition that the affidavit should be treated as the deposition of the witness, it would be competent; but the record nowhere discloses anything of the kind. And as it is incompetent evidence, its admission, being objected to and excepted to by the plaintiff, constitutes such prejudicial error as will necessitate a reversal of the judgment and the awarding of a new trial.
+There is another contention, and that is that the court erroneously admitted proof that other machines of same kind, made by the plaintiff and foy competent parties in the same vicinity, failed to do the work for which they were designed and for which the defendants purchased this machine. This evidence was admissible under the rule laid down in Lyon v. Martin (31 Kan. 411).
+The final contention is that the court erred in denying the plaintiff's motion for a new trial. This we are of the opinion is correct, and the judgment should be reversed and a new trial awarded for the reasons hereinbefore stated.
+McElroy, J., concurring.
+Wells, J., having been of counsel, not sitting.
