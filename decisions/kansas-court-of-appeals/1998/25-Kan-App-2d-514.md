@@ -1,0 +1,52 @@
+---
+court: "Kansas Court of Appeals"
+docket: "77,635"
+decided: "1998-09-11"
+citations: ["25 Kan. App. 2d 514", "968 P.2d 682"]
+reporter: "kan-app-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Pierron, P.J., Rulon, J., and William F. Lyle, Jr., District Judge, assigned."]
+parties: ["St. Joseph Development Corp., Appellee, v. Bernadette Sequenzia, Appellant."]
+source_url: "https://static.case.law/kan-app-2d/25/cases/0514-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1109787
+cites_cases: ["11 U.S.C. § 108", "11 U.S.C. § 362", "18 Kan. App. 2d 332", "21 Kan. App. 2d 139", "22 Kan. App. 2d 314", "248 Kan. 673", "260 Kan. 992", "261 Kan. 191", "262 Kan. 635", "866 F.2d 561", "916 P.2d 43"]
+cites_law: ["united-states/federal/usc/title-11/108.md", "united-states/federal/usc/title-11/362.md"]
+---
+
+# St. Joseph Development Corp. v. Sequenzia
+
+## Majority (Lyle, J.:)
+
+Lyle, J.:
+Bernadette Sequenzia appeals the trial court’s ruling that the lien against her property was not dormant under K.S.A. 1997 Supp. 60-2403.
+St. Joseph Development Corp. (St. Joseph) obtained a default judgment against Sequenzia on May 8, 1990. The last garnishment order was issued by St. Joseph on January 10,1991. Sequenzia filed for bankruptcy on May 12, 1992, and was discharged from bankruptcy on October 16, 1992. St. Joseph filed and had issued an order in aid of execution on May 21, 1996, more than 5 years after its last attempt to collect on January 10, 1991.
+St. Joseph then moved the trial court to determine the dormancy of the judgment hen. The court determined that the judgment was not dormant. Sequenzia moved for reconsideration, and the court denied the motion.
+This issue requires us to construe the Kansas statute governing the dormancy of judgments, K.S.A. 1997 Supp. 60-2403. Because construction of a statute is a question of law, our review is unlimited. Gardner v. Gardner, 22 Kan. App. 2d 314, 315, 916 P.2d 43, rev. denied 260 Kan. 992 (1996). Dormancy and revisor statutes are to be strictly construed. Dekalb Swine Breeders, Inc. v. Wool-wine Supply Co., 248 Kan. 673, 679, 809 P.2d 1223 (1991).
+It is the function of a court to interpret a statute to give it the effect intended by the legislature. In re Application of Zivanovic, 261 Kan. 191, Syl. ¶ 1, 929 P.2d 1377 (1996). In order to ascertain the legislative intent, courts are not permitted to consider only a certain isolated part or parts of an act, but are required to consider and construe together all parts thereof in pari materia. KPERS v. Reimer & Roger Assocs., Inc., 262 Kan. 635, 643, 941 P.2d 1321 (1997). When a statute is plain and unambiguous, the appellate courts will not speculate as to the legislative intent behind it and will not read such a statute so as to add something not readily found in the statute. State v. Alires, 21 Kan. App. 2d 139, Syl. ¶ 2, 895 P.2d 1267 (1995).
+K.S.A. 1997 Supp. 60-2403 provides, in pertinent part:
+“(a)(1) . . . [I]f a renewal affidavit is not filed or if execution, including any garnishment proceeding, support enforcement proceeding or proceeding in aid of execution, is not issued, within five years from the date of the entry of any judgment in any court of record in this state . . . the judgment, including court costs and fees therein shall become dormant, and shall cease to operate as a hen on the real estate of the judgment debtor.
+“(c) The time within which action must be taken to prevent a judgment from becoming dormant does not run during any period in which the enforcement of the judgment by legal process is stayed or prohibited.”
+In computing when a judgment becomes dormant, the time commences to run from the date garnishment or execution is issued. DeKalb, 248 Kan. at 680. The period of time between St. Joseph’s last garnishment order, January 14, 1991, and the order in aid or execution, May 21, 1996, was 5 years, 4 months, and 7 days. St. Joseph was prohibited from enforcing its judgment during Sequenzia’s bankruptcy stay from May 12, 1992, to October 16, 1992, a period of 5 months and 4 days. Thus, if the bankruptcy stay can be added to the dormancy period and St. Joseph was not required to perform any act to preserve its judgment from dormancy, the judgment against Sequenzia was preserved by the May 21, 1996, order of aid in execution.
+Sequenzia argues that St. Joseph’s failure to file a renewal affidavit to lift the automatic bankruptcy stay is fatal and the dormancy period cannot be extended beyond the 5-year period. Her argument would require this court to find that the filing of the renewal affidavit is an absolute prerequisite to extend the dormancy period beyond 5 years.
+Sequenzia cites In re Morton, 866 F.2d 561 (2d Cir. 1989), and In re Stuber, 142 Bankr. 435 (Bankr. D. Kan. 1992), to support her argument. Neither case supports her argument. Morton is a federal case where there was a possible conflict between New York law, which required the filing of an extension document to preserve a judgment lien that was near the end of its dormancy period, and bankruptcy law, which stayed acts to enforce liens during that same period. Morton holds that where state law requires the filing of an extension document to preserve a judgment lien, the filing of the extension document does not violate the automatic stay in bankruptcy. 866 F.2d at 565. Stuber approves the Morton holding and applies it in the context of a federal tax hen where the filing of a notice of tax hen is required to preserve the hen against dormancy. Stuber, 142 Bankr. at 438.
+Contrary to Sequenzia’s position, Morton not only holds that the bankruptcy stay did not preclude the filing of a State-required extension document, but that such an extension was not necessary because 11 U.S.C. § 108(c) (1994) tolled the New York dormancy statute until the bankruptcy stay was lifted. 866 F.2d at 565.
+The automatic bankruptcy stay is found in 11 U.S.C. § 362 (1994), which in pertinent part provides:
+“(a) Except as provided in subsection (b) of this section, a petition filed under section 301, 302, or 303 of this title . . . operates as a stay, applicable to all entities, of—
+(2) the enforcement, against the debtor or against property of the estate, of a judgment obtained before the commencement of the case under this title;
+(3) any act to obtain possession of property of the estate or of property from the estate or to exercise control over property of the estate;
+(4) any act to create, perfect, or enforce any hen against property of the estate; [or]
+(5) any act to create, perfect, or enforce against property of the debtor any hen to the extent that such hen secures a claim that arose before the commencement of the case under this title.”
+The language in K.S.A. 1997 Supp. 60-2403 is plain and unambiguous. It is clear that the running of the dormancy period is tolled during the automatic bankruptcy stay. Therefore, the dormancy period for St. Joseph’s judgment lien was extended by the amount of time included in Sequenzia’s bankruptcy stay, for a total dormancy period of 5 years, 4 months, and 7 days. Furthermore, no renewal affidavit was required because the extension was not due to a renewal of the dormancy period but was an automatic extension pursuant to statute.
+Sequenzia also argues that even if, pursuant to K.S.A. 1997 Supp. 60-2403, St. Joseph is entitled to extra time on the life of its lien due to the bankruptcy stay, 11 U.S.C. § 108(c) governs the amount of additional time:
+“Except as provided in section 524 of this title, if apphcable nonbankruptcy law, an order entered in a nonbankruptcy proceeding, or an agreement fixes a period for commencing or continuing a civil action in a court other than a bankruptcy court on a claim against the debtor, or against an individual with respect to which such individual is protected under section 1201 or 1301 of this title, and such period has not expired before the date of the filing of the petition, then such period does not expire until the later of—
+(1) the end of such period, including any suspension of such period occurring on or after the commencement of the case; or
+(2) 30 days after notice of the termination or expiration of the stay under section 362, 922, 1201, or 1301 of this title, as the case may be, with respect to such claim.”
+In Turner & Boisseau, Chtd. v. Lowrance, 18 Kan. App. 2d 332, 852 P.2d 517 (1993), this court analyzed the effect of 11 U.S.C. § 108(c) on K.S.A. 60-519. K.S.A. 60-519 governs the tolling of the statute of limitations during any time the commencement of an action is stayed by an injunction of any court. The opinion quotes 2 Collier on Bankruptcy § 108.04 (15th ed. 1993):
+“ ‘Section 108(c) permits the commencement or continuation of an action until the later of two periods. The first is the end of a time period fixed by applicable nonbankruptcy law, an order entered in a nonbankruptcy proceeding, or an agreement. Such time period expressly includes ’’any suspension of such period occurring on or after the commencement of the case." Such a suspension may result from either state or federal law.’ 2 Collier on Bankruptcy § 108.04, p. 108-14 (15th ed. 1993).
+“ ‘In some jurisdictions state law may dictate suspension of a statute of limitations when a bankruptcy or another court proceeding has stayed the initiation of such action. Such suspensions would presumably be included within the terms of 108(c), adding the entire duration of the automatic stay to the applicable time period.’ 2 Collier on Bankruptcy § 108.04, p. 108-14.” Turner & Boisseau, Chtd., 18 Kan. App. 2d at 335.
+The Turner court concluded that the bankruptcy stay was an injunction as contemplated by K.S.A. 60-519, and, as such, the stay tolled the running of the statute of limitations. 18 Kan. App. 2d at 337.
+Clearly, there is no conflict between 11 U.S.C. § 108(c) and K.S.A. 1997 Supp. 60-2403. 11 U.S.C. § 108(c) anticipates a provision in state law tolling the time period for actions required to continue the life of a preexisting judgment and includes that amount of time in the applicable time period for taking such actions.
+This court cannot address the question as to whether this judgment survived Sequenzia’s bankruptcy, as that question is not properly before us. We support the trial court’s holding that pursuant to K.S.A. 1997 Supp. 60-2403, St. Joseph’s judgment lien against Sequenzia is not dormant.
+Affirmed.
