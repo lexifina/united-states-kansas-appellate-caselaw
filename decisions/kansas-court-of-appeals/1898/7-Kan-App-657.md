@@ -1,0 +1,28 @@
+---
+court: "Kansas Court of Appeals"
+docket: "269"
+decided: "1898-07-13"
+citations: ["7 Kan. App. 657"]
+reporter: "kan-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["A. J. Holderman and W. T. Clancey v. J. W. Tedford."]
+source_url: "https://static.case.law/kan-app/7/cases/0657-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 382487
+cites_cases: ["36 Kan. 246"]
+---
+
+# Holderman v. Tedford
+
+## Majority (Milton, J. :)
+
+The opinion of the court was delivered by
+Milton, J. :
+In the district court of Kingman county, A. J. Holderman, one of the plaintiffs in error, obtained a judgment against the makers of a promissory note' and for the foreclosure of a written instrument equivalent to a mortgage upon real estate, and1 which instrument secured the payment of the note. The defendant in error and W. T. Olancey, one df the plaintiffs in error, were two of the judgment debtors in the action. The Lability of Clancey arose from his indorsement of the note, it having been-made payable tó'Clancey'& Co. The defendants therein, except one Pollard, who was served by publication, had each waived the issuance and service of summons and did not in any wise defend. The land was sold by the sheriff under the judgment for two-thirds of its appraised value, one of the judgment debtors bidding it in for' Holderman, at the request of Clancey, at the lowest possible price under the appraisement.
+Thereafter, Holderman and Clancey caused an order of garnishment to issue to the sheriff of Reno-county, and service of process was there duly made upon the Atchison, Topeka & Santa Fe Railroad Company, as garnishee, and upon Tedford, who resided in that county, for the purpose of enforcing the collection of a balance of $106.43 yet unpaid upon the judgment. Before the company had paid over the money due from it to Tedford, he commenced this action in the district court of Butler county, where Holderman and Clancey resided, joining with them the railroad company as defendants. The company’s demurrer to the petition was overruled, and it filed no other pleadings and did not further appear in the action. The court granted a perpetual injunction as prayed for by Ted-ford, restraining the defendants, Holderman and Clancey, from enforcing or attempting ■ to enforce the judgment against Tedford, and the railroad company from paying the judgment or any part thereof under the order of garnishment. The evidence was very conflicting.
+Tedford alleged that he and the other defendants, except Clancey, were kept from bidding upon the land, which was worth more than the amount of the original, judgment, by the promise and assurance of Clancey that the personal judgment would be released after the. sale of the land, and that Clancey was the agent ofHolderman. The evidence showed that Clancey and Holderman were partners in a banking business, of which the latter was the manager, and that their bank-owned the note and mortgage which formed the basis of the original action. We think this sufficiently establishes the agency of Clancey in respect to the note and mortgage and the suit thereon.
+Plaintiffs in error contend that this action is a collateral attack upon the judgment rendered in King-man county, and that one district court has no right to interfere with or' control the process of another. We see no reason why the present action could not be maintained provided Clancey’s promise to release the judgment was supported by a legal consideration. Assuming for the moment the sufficiency of the consideration for the promise, it will be seen that, since equity will regard that as having been done which ought to have been done, there remained no judgment, against Tedford to be enforced by garnishment proceeding, and this action was consequently a proper-one.
+Among other things, the petition alleged that prior to the sale R. H. Cooper, one of the defendants, informed Clancey that he expected to attend the sale of the land to protect the interests of the judgment debtors by bidding at the sale, and that Clancey offered and agreed with Cooper that if the latter and his codefendants would not bid upon the land at the sale and would let it sell for two-thirds of the appraised value thereof, the land would be purchased by Holderman and Clancey and would be accepted in full satisfaction of the judgment, which would thereupon be released and satisfied upon the record. It also alleged that Tedford, Cooper and other judgment debtors .accepted Clancey’s proposition and did not attend the sale nor bid upon the land in their own behalf; that in pursuance of their agreement with Clancey, the latter, for himself and for Holderman, employed Cooper to attend the sale and purchase the property in the name of Holderman ; and that Cooper attended the sale and purchased the land for and in the name of Holderman at two-thirds of the appraised value thereof.
+There is evidence supporting these allegations. Cooper, who resided in Butler county, certainly did attend the sale and bid in the land as above stated. Adopting the view evidently taken by the trial court, the action of Cooper supplied a consideration for the promise made by Clancey. The promise to release the deficiency judgment was for the benefit of all the judgment creditors. Tedford could therefore maintain an action upon it. “A person for whose benefit a promise to another, upon a sufficient consideration, is made, may maintain an action on the contract in his own name against the promisor.” (Burtin v. Larkin, 36 Kan. 246.)
+The judgment of the district court appears to be proper and is accordingly affirmed.
