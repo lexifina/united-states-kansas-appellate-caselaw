@@ -1,0 +1,33 @@
+---
+court: "Kansas Court of Appeals"
+docket: "85,271"
+decided: "2001-11-30"
+citations: ["29 Kan. App. 2d 996", "35 P.3d 281"]
+reporter: "kan-app-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Rulon, C.J., Gernon and Marquardt, JJ."]
+parties: ["State of Kansas, Appellee, v. Brian W. Bussart, Appellant."]
+source_url: "https://static.case.law/kan-app-2d/29/cases/0996-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1259880
+cites_cases: ["23 P.3d 801", "265 Kan. 257", "266 Kan. 108", "266 Kan. 41", "268 Kan. 37", "271 Kan. 394", "530 U.S. 466"]
+---
+
+# State v. Bussart
+
+## Majority (Rulon, C.J.:)
+
+Rulon, C.J.:
+Defendant Brian W. Bussart appeals the inclusion of prior convictions in his criminal history score. We affirm.
+Defendant entered a plea of guilty on March 1, 2000, to one count of possession of methamphetamine and one count of no tax stamp for acts alleged to have occurred on July 28,1999. The pleas were made pursuant to an agreement where the State would recommend the minimum guidelines sentence and probation. At the plea hearing, defendant’s attorney stated she believed defendant’s criminal history score was F.
+The presentence investigation report listed defendant’s criminal history score as C, and included a March 10, 2000, conviction in Butler County for contributing to a child’s misconduct. Defendant filed a motion to challenge his criminal histoiy, claiming he had not entered a plea of guilty in the Butler County case at the time of the plea in the Sedgwick County case because he wanted to have a criminal history score of F. Defendant claimed it was improper to include tire Butler County case in his criminal history score for the purpose of sentencing him in the Sedgwick County case.
+At sentencing, the State argued that under K.S.A. 21-4710(a) and State v. Patry, 266 Kan. 108, 967 P.2d 737 (1998), the Butler County conviction was correctly included in defendant’s criminal history score because it occurred prior to sentencing in .the Sedgwick County case. Defendant argued Patry was distinguishable from his case and the intent of the parties was that defendant would be sentenced with a criminal history score of F. Defendant claimed the Butler County case was not part of his criminal history score when he entered a plea of guilty in the Sedgwick County case and should therefore not be included.
+The district court, relying partially on Patry, overruled defendant’s objection to his criminal history. Defendant was sentenced to 28 months for possession of methamphetamine and 6 months for not having a tax stamp, with tire sentences ordered to run concurrent with each other.
+Defendant argues he is serving a constitutionally defective sentence because his prior convictions were included in his criminal histoiy score without being stated in the complaint or submitted to a jury. Defendant further asserts his conviction in Butler County could not be included in his criminal history score because he had not been sentenced and thus was not convicted. Defendant claims he is challenging the constitutionality of state statutes. It is not clear that he is actually challenging state statutes as much as he is claiming his sentence is illegal. As such, this court’s review is unlimited. See State v. Sisk, 266 Kan. 41, 43, 966 P.2d 671 (1998) (whether sentence is illegal is a question of law subject to an unlimited standard of review).
+The State claims defendant did not raise this issue below and should be precluded from raising it on appeal. Clearly, defendant did not argue to the district court that his prior convictions must be pled in the complaint and proved to a jury beyond a reasonable doubt. Defendant merely claimed the Butler County case should not have been included in his criminal history score. Normally, this court would not entertain constitutional claims for the first time on appeal. State v. Mason, 268 Kan. 37, 39, 986 P.2d 387 (1999). But, die appellate courts have created exceptions to this general rule, one of which is when consideration of the issue is necessary to prevent denial of fundamental rights. State v. Mincey, 265 Kan. 257, 267, 963 P.2d 403 (1998). As this case raises the question of whether defendant is serving a defective sentence, we will review the issue.
+The United States Supreme Court addressed the issue of whether factors used to increase a defendant’s sentence must be proved to a jury beyond a reasonable doubt. In Apprendi v. New Jersey, 530 U.S. 466, 490, 147 L. Ed. 2d 435, 120 S. Ct. 2348 (2000), the Court stated: “Other than that fact of a prior conviction, any fact that increases the penalty for a crime beyond the prescribed statutory maximum must be submitted to a jury, and proved beyond a reasonable doubt.” This point was reiterated by our state Supreme Court in State v. Gould, 271 Kan. 394, 405-06, 23 P.3d 801 (2001). However, we conclude it was not necessary for the State to plead defendant’s prior convictions in the complaint or for the convictions to be submitted to a juiy.
+Defendant’s claim that his guilty plea in Butler County did not constitute a prior conviction is without legal merit. K.S.A. 21-4710(a) defines a prior conviction as
+“any conviction, other than another count in the current case which was brought in the same information or complaint or which was joined for trial with other counts in the current case . . . which occurred prior to sentencing in the current case regardless of whether the offense that led to the prior conviction occurred before or after the current offense or the conviction in the current case.”
+There is no transcript in the record relating to the Butler County plea hearing, but defendant does not claim his guilty plea was not accepted by the district court. The conviction date for the Butler County case was listed as March 10, 2000, which was prior to the April 20, 2000, sentencing date for the Sedgwick County case. Defendant’s argument that the relevant date for the Sedgwick County case was the date of the plea is improper under K.S.A. 21-4710(a). The relevant date to determine defendant’s criminal history score was the date he was sentenced in Sedgwick County. At that time, defendant had already entered a plea of guilty in Butler County and the district court had accepted that plea. It is immaterial that defendant had not entered a plea of guilty in Butler County when he entered his plea of guilty in Sedgwick County or that he had not been sentenced in the Butler County case when he was sentenced in Sedgwick County.
+Affirmed.
