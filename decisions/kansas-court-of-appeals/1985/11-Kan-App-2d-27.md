@@ -1,0 +1,30 @@
+---
+court: "Kansas Court of Appeals"
+docket: "57,639"
+decided: "1985-12-31"
+citations: ["11 Kan. App. 2d 27", "711 P.2d 768"]
+reporter: "kan-app-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Meyer, P.J., Rees, J., and Fred S. Jackson, District Judge, assigned."]
+parties: ["Ron P. Fink, d/b/a Petro Kansas, Plaintiff-Appellee, v. Jerry Allen, d/b/a Allen Pipe & Supply Company, Defendant, and United States Fidelity & Guaranty Life Insurance Company, Defendant-Appellant."]
+source_url: "https://static.case.law/kan-app-2d/11/cases/0027-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 398902
+cites_cases: ["125 Kan. 665", "158 Kan. 232", "171 Kan. 465", "197 Kan. 74", "224 Kan. 56"]
+---
+
+# Fink v. Allen
+
+## Majority (Rees, J.:)
+
+Rees, J.:
+This is a wrongful attachment action brought against the principal and surety on a statutory bond. Plaintiff Ron P. Fink seeks to recover on an attachment bond the damages he sustained when his property was seized pursuant to an order of attachment issued at the direction of defendant Jerry Allen in an underlying action brought by Allen against one Robert Gray and to which Fink was not a party. The district court granted judgment in favor of Fink against Allen’s surety on the bond, United States Fidelity. & Guaranty Life Insurance Company (USF&G). USF&G appeals.
+The dispositive issue for our resolution is whether, under K.S.A. 60-705(a), the surety on an attachment bond is liable for payment of damages by reason of the wrongful attachment of property of one who is neither a named obligee nor a party to the underlying action in which the bond is filed and the order of attachment is issued. We hold it is not, and reverse.
+The bond executed by USF&G in Allen’s case against Gray for the recovery of an indebtedness provided that “Allen shall pay . . . Gray all damages which . . . Gray may sustain by reason of the attachment, if the Order be wrongfully obtained.” That language parrots the language of the statute, K.S.A. 60-705(a), which provides:
+“When a bond is required, the bond shall be executed by the plaintiff and one or more sufficient sureties in a sum double the amount of plaintiff s claim ... to the effect that the plaintiff shall pay to the defendant all damages which the defendant may sustain by reason of the attachment if wrongfully obtained . . . .” (Emphasis added.)
+In this case, USF&G argues to us and argued below that third parties may not recover on the attachment bond by virtue of the plain language of the bond and of K.S.A. 60-705(a). Fink counters that K.S.A. 60-705(a) does not say third parties cannot recover, and argues the policy of the statute is to secure payment to any party injured by wrongful attachment. The parties respectively malign and acclaim the case relied on by the district court, Bratton v. McReynolds, 125 Kan. 665, 266 Pac. 31 (1928). We agree with USF&G.
+A bond is a contract the meaning of which is to be ascertained in the same manner as the meaning of any other contract and within that meaning, the surety is bound to the extent it has agreed to be bound. Stevens v. Farmers Elevator Mutual Ins. Co., 197 Kan. 74, 76, 415 P.2d 236 (1966). When a statute requires a bond to be given, and a bondsman undertakes to furnish it, the obligation of the bond imposed by the statute is read into the terms of the bond, and the bond must be interpreted in the light of the statute. Bartley v. Bartley, 171 Kan. 465, 233 P.2d 735 (1951); Ellsworth v. Hurt, 158 Kan. 232, 233, 146 P.2d 365 (1944). Statutory bonds may impose additional liability on parties, but as such they cannot be extended beyond the fair import of the statutory terms. Wells v. Mehl, 25 Kan. *205, *206 (1881).
+Clearly, the risk USF&G undertook by the language of the bond it executed was to insure the obligation of Allen for wrongful attachment damages sustained by Gray, not by Fink. Fink does not claim that USF&G and Allen intended the bond to cover Fink’s damages, or that USF&G itself counseled, directed or ratified Allen’s conduct in wrongfully obtaining the attachment order. See Bratton v. McReynolds, 125 Kan. 665 (case remanded for new trial on issues of what parties to attachment bond intended and whether principal and surety counseled sheriffs conduct). Likewise, K.S.A. 60-705(a) by its plain language requires only that the attachment bond inure to the benefit of the defendant in the action in which the bond is filed and the attachment order is issued, or in this case, Gray. In light of the unambiguous terms of the statute, we are unpersuaded by Fink’s argument that as a policy matter, all third parties should be allowed to recover against the attaching plaintiffs surety. Indeed, the best evidence of the legislature’s intent appears in the “plaintiff” and “defendant” language used consistently throughout the statutory attachment scheme. K.S.A. 60-701 et seq. In addition, we observe the Bratton case, on which Fink relies, does not extend liability against the surety for the benefit of third parties; the party damaged by the wrongful attachment in Bratton was not a third party but a co-defendant to the action in which the attachment order was issued.
+Of course, a third party like Fink whose property has been wrongfully attached has a cause of action for damages against the attaching plaintiff, the principal on the bond. See, e.g., Braun v. Pepper, 224 Kan. 56, 60, 578 P.2d 695 (1978). However, for us to judicially extend the surety’s liability to include uncontractedfor liability for payment of damages sustained by third parties is unwarranted in light of the plain language of K.S.A. 60-705(a). We therefore hold that where, as here, a party has executed a statutory attachment bond as surety and has not otherwise contracted to undertake liability for payment of damages sustained by one not a party to the action in which the bond is filed and the attachment order is issued, that third party may not recover on the bond its damages sustained by reason of wrongful attachment.
+Reversed.
