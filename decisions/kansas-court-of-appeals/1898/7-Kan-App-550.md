@@ -1,0 +1,33 @@
+---
+court: "Kansas Court of Appeals"
+docket: "262"
+decided: "1898-01-14"
+citations: ["7 Kan. App. 550"]
+reporter: "kan-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["The Wichita & Western Railway Company v. Henry Hart."]
+source_url: "https://static.case.law/kan-app/7/cases/0550-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 382421
+cites_cases: ["49 Pac. Rep. 692", "58 Kan. 447"]
+---
+
+# Wichita & Western Railway Co. v. Hart
+
+## Majority (Milton, J. :)
+
+The opinion of the court was delivered by
+Milton, J. :
+Defendant in error, as plaintiff, recovered a judgment based on the verdict of a jury, in the sum of $139, as damages and attorney’s fees, in the district court of Kingman county, against the Wichita & Western Railway Company. The plaintiff’s bill of particulars alleged that a four-year-old filly belonging to him, and valued at ninety-nine dollars, had been killed by a train of cars of the railway company, and that the damage had occurred as a result of the company’s failure to maintain a sufficient gate at a private crossing over the railroad track where it passed through said plaintiff’s farm, the animal in question having escaped from an enclosed field and entered upon the right of way through the said gate.
+The jury made a number of special findings, one being that the gate was insufficient, and another that the damage resulted from the failure of the defendant company to maintain a sufficient gate. These findings are supported by the evidence of plaintiff, which is directly contradicted by the evidence on behalf of the defendant. The theory of the plaintiff below was that the sliding gate, which was made of pine boards and placed between two posts at each end, had been gradually worked back by a very high wind, in the night-time, sufficiently to allow four horses, including the one killed, to go through it from the pasture to the right of way of the railroad. His statement that he had closed the gate in the evening preceding the death of the animal was not disputed. The evidence of the railway company tended to prove that the gate would have been broken rather than moved by a strong wind, and that it was not broken by the wind that night. The jury on this point made the following findings:
+“27. Q,ues. When the gate was closed, with the west end resting on the ground, could the same be blown open by a strong wind ? Ans. Yes.
+“ 28. Q. Would not the gate be broken by the wind before it would be blown open ? A. No.”
+The jury also found that a demand had be'en duly made upon the company prior to the commencement of the action for the amount of damage claimed.-
+It seems that Hart had brought three suits before a justice of the .peace, each involving the killing of different animals by the railway company, and that the company had carried all of the cases into the district court by appeal. While these cases were pending the company moved to consolidate them. In support of the motion, the three bills of particulars were introduced, and Hart admitted the identity of plaintiff and defendant in the three cases. The motian was overruled, defendant excepting. One of the cases was then tried, resulting in a judgment for Hart. The defendant thereupon paid this judgment, and then moved the court to dismiss each of the other actions, for the reasons stated in the motion to consolidate. This motion was also overruled. Plaintiff in error earnestly contends that the court erred in overruling these motions.
+An examination of the bills- of particulars shows that each alleges damage done by the defendant company ; but the time when and the manner in which the damage was wrought are different, as are also the animals injured or killed. To prove the allegations of one bill of particulars would have required evidence different from that necessary to sustain those of either of the others. The record does not show that notice of the motion to consolidate was given to the plaintiff or waived by him. While the three actions might have been consolidated, and thus tried by the same jury, we think the statute intends to grant to the trial court some discretion in such cases. We are unable to say that abuse of discretion is shown by the record. The relief sought by plaintiff in error is a new trial; if that were awarded in this case and in the third of the three cases referred to — which is also decided by us at the present term — it would be impossible to consolidate the .three cases, and such impossibility would result from the act of .plaintiff in error in satisfying the judgment in :the casé first tried.
+Complaint is made of the action of the court in allowing witnesses for plaintiff to testify as experts as to the gate being sufficient or insufficient for the purpose for which it was built, and as to whether or not it was so constructed that it could be opened by the force of the wind or by stock rubbing against it. Some of this evidence was improper, especially that part relating to stock rubbing against the gate, as there was no direct testimony on that point; but the jury’s findings show that they believed the gate was blown open, and there was evidence .tending to sustain this finding. The error is immaterial.
+Counsel contend that the demand made upon the railroad company prior to the commencement of the suit should have stated, among other things., that plaintiff’s claim arose from the failure of the company to maintain a good and lawful fence. We discover no merit in this novel contention. The object of requiring the notice is, evidently, that a railroad company shall have a reasonable time prior to the bringing of an action in which to investigate and determine its course with respect to the matter. The bill of particulars or the petition must be looked to for a statement of the facts constituting a cause of action.
+We think a clear issue touching the sufficiency of the railroad fence, including the gate, was raised by the pleadings, and that the court did not err in his instructions when they are considered as a whole. The part set out in the brief of counsel for plaintiff in error, when read in its proper connection, is not subject to the objections urged against it.
+As to the constitutionality of the statute allowing attorney’s fees in cases of this class, we refer to the decision of our supreme court in A. T. & S. F. Rld. Co. v. Mathews, 58 Kan. 447 (49 Pac. Rep. 692), which has been followed by us in several recent cases.
+No substantial reason to the contrary appearing, the judgment of the district court is affirmed.
