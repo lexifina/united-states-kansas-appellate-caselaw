@@ -1,0 +1,39 @@
+---
+court: "Kansas Court of Appeals"
+docket: "86,399"
+decided: "2001-08-03"
+citations: ["29 Kan. App. 2d 585", "28 P.3d 1043"]
+reporter: "kan-app-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Rulon, C.J., Lewis, J., and Stephen D. Hill, District Judge, assigned."]
+parties: ["Kansas Department of Health and Environment, Appellant, v. Jay Wells, d/b/a Lemon Shake-up, Appellee."]
+source_url: "https://static.case.law/kan-app-2d/29/cases/0585-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1259738
+cites_cases: ["212 Kan. 412", "266 Kan. 1022"]
+---
+
+# Kansas Department of Health & Environment v. Wells
+
+## Majority (Lewis, J.:)
+
+Lewis, J.:
+Jay Wells makes his living selling cotton candy and lemonade. His business is named Lemon Shake-Up and operates out of two mobile units. The question on appeal is whether Wells’ operations were properly licensed as they were operated at the Kansas State Fair in 1999.
+In 1999, Wells had two mobile units at the Kansas State Fair. These units were located on the same 30-square-feet of property, which was referred to as Block 18, Space 7. The two mobile units are adjoining—on one side he sold cotton candy and lemonade on the other. Wells had a license as a food service establishment from the Kansas Department of Health and Environment (KDHE), which he posted in the trailer in which he made cotton candy. However, it was his understanding and belief that the license covered not only his cotton candy sales but also the trailer in which he was selling lemonade. Both of these trailers were open for inspection and were inspected on numerous occasions by the KDHE during the fair in 1999.
+For 15 years, under the constant and thorough supervision of KDHE, Wells had operated with one license covering both of his trailers. For those 15 years, the KDHE had agreed that only one license was required. However, in 1999, the inspector for KDHE decided that one license was not sufficient and cited Wells for a failure to have a proper license in each trailer and imposed a fine of $1,000.
+Wells first sought administrative review of his citation, and the presiding officer of the administrative appeals section of the KDHE held in favor of Wells, finding that only one license was required. The KDHE was much aggrieved by its appellate section decision and appealed that decision to the Secretary of the KDHE, who promptly reversed the decision of the presiding officer. Wells then appealed to the trial court, and the trial court reversed the Secretary’s order and held that the two concession trailers were only one single food establishment and required only one license. This appeal followed.
+The first issue we must determine is one of venue. The KDHE argues that Sedgwick County was not the proper venue for this action. Wells argues that this issue was not raised before the trial court and has not been preserved for appeal.
+In its answer to the petition for judicial review, the KDHE did object to venue, arguing that the location of the mobile unit was in Reno County, that the final order was effective in Shawnee County, and that Sedgwick County was an inappropriate county for venue. However, the issue was not raised in the hearing before the trial court by either party, nor was it addressed by the trial court. We conclude that die silence of the KDHE on the issue of venue during the hearing on merits before the trial court constituted a waiver of the issue of venue. In addition, we see no prejudice to the KDHE because of improper venue if, in fact, venue was improper.
+We hold the issue of venue was not properly preserved for appeal, and we do not reach that issue.
+We now turn to the merits. The KDHE argues the trial court erred in holding that Wells needed only one license for two mobile food establishments at the same location.
+We disagree and affirm the decision of the trial court.
+In reviewing the decision of the trial court on appeal from an agency action, we must first determine whether the trial court observed the requirements and restrictions placed upon it and then make the same review of the administrative agency’s action as did the trial court. Hickman Trust v. City of Clay Center, 266 Kan. 1022, 1036, 974 P.2d 584 (1999). The standard of review of a state administrative agency action is set forth in K.S.A. 77-601 et seq.
+In this case, the trial court determined that the KDHE had erroneously interpreted or applied the law regarding the definition of “food service establishment”. as used in K.S.A. 36-503 and granted relief under K.S.A. 77-621(c)(4).
+K.S.A.- 36-503(a) states: “It shall be unlawful for any person to engage in the business of conducting a food service establishment unless such person shall have in effect a valid license therefor issued by the secretary of health and environment.” “Food service establishment” is defined by K.S.A. 36-501(e):
+“ ‘Food service establishment’ means any place in which food is served or is prepared for sale or service on the premises or elsewhere, such term include, but not be limited to, fixed or mobile restaurant, coffee shop, cafeteria, short-order cafe, luncheonette, grill, tea room, sandwich shop, soda fountain, tavern, private club, roadside stand, industrial-feeding establishment, catering kitchen, commissary and any other private, public or nonprofit organization or institution routinely serving food and any other eating or drinking establishment or operation where food is served or provided for the public with or without charge.”
+This case turns upon the interpretation of what is a food service establishment. The presiding officer of the KDHE’s administrative appeals section and the trial court found that the definition was such that it covered the combined mobile units operated by Wells on the same lot at the fair. The Secretaiy of the KDHE did not agree and found that separate licenses were required, thereby concluding that the two trailers located side-by-side were separate food service establishments.
+The trial court, in reversing the Secretaiy and agreeing with the presiding officer of the appeals section, relied on State v. Helgerson, 212 Kan. 412, 511 P. 2d 221 (1973). The Helgerson decision involved multiple food counters operated at Henry Levitt Arena on the campus of Wichita State University by the same operator. The operator had one license from the KDHE to cover the entire area operation and all of the separate food counters he operated at that location. The KDHE argued that the operator was required to purchase a separate license for each of the concession counters at which food was sold. The Supreme Court disagreed and held that the concessions constituted a single food service establishment for state licensing purposes. The court reasoned that there was only one premise where food was sold and that the public policy behind the licensing would not be better served by requiring the operator to procure several licenses instead of one. 212 Kan. at 413-14.
+We are unable to distinguish Helgerson from the instant matter. The KDHE, in an attempt to do so, argues the statutory authority upon which Helgerson relied was repealed in 1975. That argument is rather hollow; the statute in effect in 1973 simply referred to “restaurants” and the amendment in 1975 changed the term used to “food service establishments.” See L. 1975, ch. 314. § 5. The statutes are virtually identical in every other way, and there was no change made in the statute which would affect Helgerson.
+Based upon Helgerson, we hold that the two mobile units operated by Wells at the Kansas State Fair constituted one food service establishment and that only one license was required. We affirm the decision of the trial court to that effect.
+Affirmed.
