@@ -1,0 +1,28 @@
+---
+court: "Kansas Court of Appeals"
+docket: "359"
+decided: "1898-12-23"
+citations: ["8 Kan. App. 500"]
+reporter: "kan-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["The Board of County Commissioners of the County of Cherokee v. J. C. Hubbard."]
+source_url: "https://static.case.law/kan-app/8/cases/0500-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 376282
+cites_cases: ["14 Iowa, 86", "38 Pac. 798", "47 N. W. 65", "47 N. Y. 57", "54 Kan. 504", "81 Iowa, 242"]
+---
+
+# Board of County Commissioners v. Hubbard
+
+## Majority (Milton, J.:)
+
+The opinion of the court was delivered by
+Milton, J.:
+Defendant in erro'r was register of deeds of Cherokee county during the years 1892 and 1893, and in November of the latter year was reelected for the ensuing term. Chapter 95, Laws of 1893, which took effect in March, 1893, by its express terms applied only to the fees and salaries of such officers as should thereafter be elected in the respective counties. Afterward said chapter was declared unconstitutional by the supreme court in the case of The State v. Deets, 54 Kan. 504, 38 Pac. 798, and the defendant in error commenced this action to recover the sum of $563.24 alleged to have been paid over by him under the provisions of said act, the same being the amount of the-official fees received by him from January to November, 1894, inclusive, all of which he claimed lawfully and justly belonged to him; and to recover the further sum of $251.15, alleged to have been received by him as fees of his office for the month of December, 1894, and paid to the commissioners under an express agreement for the repayment thereof if the said law should thereafter be held unconstitutional. The void act provided for forfeiture of office and for penalties in the event of failure to comply with its requirements. Plaintiff alleged that by a mistake of facts, that is, by reason of not knowing to whom the said fees lawfully belonged, and because of his fear of the forfeiture and penalties prescribed in the said law, he made the aforesaid payment. He also alleged that he faithfully complied with the provisions of the law as to fees of his office, keeping correct, itemized account of all fees received by him, and paying over to the board of county commissioners on the first day of the regular monthly session of said board all of such fees, to be by the said board conveyed into the county treasury as part of the general county fund. The petition did not refer to the plaintiff’s salary. Under the law in question, it was provided that the register of deeds should be paid by the county commissioners $100 per month, such payment to -be made monthly by an order drawn on the county treasurer by the board. The defendant filed two demurrers, one to the counts alleging the payments first named, and the other to the count alleging the agreement in regard to the December fees. Each demurrer was overruled.
+The defendant electing to make such action of the court ground for proceedings in error, judgment was rendered in favor of the plaintiff as prayed for.
+The payments were made without protest or objection ; they were entirely voluntary, unless the law itself created duress ; that it did not, seems clear under the circumstances of this case. While it is true that failure to comply with the provisions of the statute might have led to a forfeiture of office, yet there was no legal, necessity for the defendant in error to occupy that office after the law became operative. When he sought reelection he knew that if reelected he would receive a salary and be required to turn over all fees received in his official capacity. It thus appears that he invited the law’s compulsion in the premises.
+The theory of plaintiff below and of the trial court was, that the payment of fees to the commissioners was under a species of duress. The petition repeatedly alleges, that to avoid forfeiure of office and the penalties provided for in the act and to prevent being involved in litigation, “ all of which were threatened by said act for non-compliance therewith,” such payments were made. We think that this theory is incorrect, and that the action of the court in overruling the demurrer to the second, third and fourth counts of the petition was erroneous.
+Further than this, it appears to be a correct legal proposition that money paid without protest, in compliance with provisions of a law thereafter declared unconstitutional, cannot be recovered in an action therefor. See Kraft v. The City of Keokuk, 14 Iowa, 86, and the cases there cited.
+The allegation in the petition respecting payment by mistake of fact is so far modified by the accompanying allegations as to lose its force. The petition clearly indicates payments made under a mistake of law. It is familiar law that relief cannot be granted on the ground of such mistake. Stz'ong reasons for the rule are given in the case of Jacobs v. Morange, 47 N. Y. 57. See also Painter v. Polk Co., 81 Iowa, 242, 47 N. W. 65, wherein it was held that a county cannot maintain an action to recover fees paid to a sheriff under a mutual mistake of law in supposing that they were authorized by statute.
+As to the claim for a repayment of the December fees, we think the court properly overruled the demurrer thereto. The agreement made as to such fees ought to be enforced. The judgment of the district court will be modified by deducting therefrom the sum of $563.24, and affirmed as to the remainder thereof, the costs in this court being divided between the parties.
