@@ -1,0 +1,35 @@
+---
+court: "Kansas Court of Appeals"
+docket: "51,602"
+decided: "1980-06-27"
+citations: ["5 Kan. App. 2d 127", "612 P.2d 1265"]
+reporter: "kan-app-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Spencer, P.J., Abbott and Parks, JJ."]
+parties: ["Farm Bureau Mutual Insurance Company, Inc., Appellant, v. Commercial Standard Insurance Company, Appellee."]
+source_url: "https://static.case.law/kan-app-2d/5/cases/0127-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 394377
+cites_cases: ["155 Kan. 128", "162 Tex. 244", "168 Pa. Super. Ct. 561", "180 Kan. 286", "225 Kan. 534", "345 S.W.2d 718", "79 A.2d 787", "93 Idaho 719"]
+---
+
+# Farm Bureau Mutual Insurance v. Commercial Standard Insurance
+
+## Majority (Parks, J.:)
+
+Parks, J.:
+This is an appeal from a judgment denying plaintiff recovery for funeral and workmen’s compensation fund payments.
+Plaintiff Farm Bureau Mutual Insurance Company, Inc. insured Don Broomfield for workmen’s compensation loss. On November 25,1975, employee Galen R. Watkins was killed on the job while driving one of Broomfield’s, vehicles. The other vehicle involved was insured by the defendant Commercial Standard Insurance Company.
+Because the deceased left no dependents, as defined by K.S.A. 1979 Supp. 44-508(c), plaintiff paid $1,000 to the funeral home (K.S.A. 1979 Supp. 44-510b[/]), and $5,000 to the commissioner of insurance for credit to the workmen’s compensation fund (K.S.A. 1979 Supp. 44-570). Although plaintiff then sent a lien interest letter to defendant, Commercial nevertheless made a wrongful death settlement with the deceased workman’s parents. No evidentiary hearing was held nor did defendant’s insured ever admit fault. This case was heard by the trial court on questions of law arising from the foregoing undisputed facts.
+K.S.A. 1979 Supp. 44-532(a) gives an employer’s insurance company the same right of subrogation the employer has under the worker’s compensation laws; thu's, this case is brought in the name of the insurance carrier. K.S.A. 1979 Supp. 44-504(h) defines the subrogation right as follows:
+“In the event of recovery from such other person by the injured workman or the dependents or personal representatives of a deceased employee by judgment, settlement or otherwise, the employer shall be subrogated to the extent of the compensation and medical aid provided by him to the date of such recovery and shall have a lien therefor against such recovery and the employer may intervene in any action to protect and enforce such lien . . . .” (Emphasis supplied.)
+The central issue is whether the payments to the Fund and for the funeral expenses constitute compensation within the meaning of K.S.A. 1979 Supp. 44-504(h).
+Our review of the workmen’s compensation act reveals that the term “compensation” is not defined (K.S.A. 1979 Supp. 44-508); however, it is' a term of common understanding and usage. A basic principle of statutory construction is that words in common usage are to be given their natural and ordinary meaning in arriving at the proper construction of a statute. Weight Watchers of Greater Wichita, Inc. v. Secretary of Human Resources, 225 Kan. 534, 537, 592 P.2d 887 (1979), and cases cited therein. Webster’s Third New International Dictionary 463 (1976) defines compensation as something that constitutes an equivalent or recompense; remuneration; something that makes up for a loss; payment for value received or service rendered. We conclude that the word “compensation” should be construed to mean a payment for a loss or for service rendered.
+The $5,000 payment to the workmen’s compensation fund (K.S.A. 1979 Supp. 44-570) is for the benefit of persons who receive a second injury under the terms of the act and not to make up for a loss suffered by the worker or his dependents. This payment, which is required in every case where death results from an accident and where there are no dependents who are entitled to compensation under the Act, is not measured by the character or extent of the employee’s injury or by the amount of his earnings. Instead, the payments into the Fund are fixed in an arbitrary amount by the legislature, and such payments are not obtained by proceedings for compensation of an injury. Ind. Acc. Bd. v. Tex. Emp. Ins. Assn., 162 Tex. 244, 345 S.W.2d 718 (1961). Therefore, the $5,000 is related to neither the loss suffered as a result of the accident nor to a service rendered. Accordingly, we agree with the trial court that the payment to the Fund is not payment of “compensation” under the Act.
+We additionally agree that plaintiff has no equitable right of subrogation outside of the Act. While it is unsettled that any equitable subrogation right remains in light of the statutory scheme (cf. Pownall v. Connell, 155 Kan. 128, 122 P.2d 730 (1942); Industrial Indem. Co. v. Columbia Basin Steel & I., Inc., 93 Idaho 719, 471 P.2d 574 [1970]), the equities in this case lie on the side of defendant with regard to the payment to the Fund. The plaintiff, by insuring an employer, takes on the risk of making a payment under K.S.A. 1979 Supp. 44-570. The insurance company of the negligent party should bear the loss of damages caused by its insured, but the statutory fee imposed by K.S.A 1979 Supp. 44-570 is like a business expense which is most appropriately borne by the employer’s insurer.
+We now turn our attention to plaintiff’s complaint that the trial court erred in denying it recovery of the $1,000 funeral bill.
+K.S.A. 1979 Supp. 44-510b(/) provides:
+“In all cases of death compensable under this section, the employer shall pay the reasonable expense of burial not exceeding two thousand dollars ($2,000).” (Emphasis supplied.)
+Pursuant to this statute, plaintiff paid $1,000 to the funeral home. Unlike the $5,000 payment to the Fund, this sum confers a benefit on the decedent’s representatives and is compensation under the Act. By virtue of the plaintiff’s paying for the services rendered by the funeral home, decedent’s parents were compensated to the extent that they were relieved of assuming an unavoidable expense. Myers v. Philadelphia Daily News, 168 Pa. Super. Ct. 561, 564, 79 A.2d 787 (1951). The funeral bill is analogous to medical expenses which have been held to be compensation. Owen v. Ready Made Buildings, Inc., 180 Kan. 286, 303 P.2d 168 (1956). Finally, the fact that the payment is made directly to the provider of services does not affect its status as compensation. K.S.A. 1979 Supp. 44-504(b) permits subrogation for compensation paid by the employer regardless of who receives the actual payment. We hold, therefore, that the employer or his insurance carrier is entitled to be subrogated for the amount of the funeral bill and we reverse the trial court on this point.
+Judgment is affirmed as to the denial of subrogation for the $5,000 payment to the Fund and reversed as to the disallowance of the $1,000 funeral bill.
