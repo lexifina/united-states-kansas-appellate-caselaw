@@ -1,0 +1,31 @@
+---
+court: "Kansas Court of Appeals"
+docket: "104"
+decided: "1896-04-03"
+citations: ["2 Kan. App. 587"]
+reporter: "kan-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["All the Judges concurring."]
+parties: ["James Dezell v. Hiram Thayer."]
+source_url: "https://static.case.law/kan-app/2/cases/0587-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 342258
+cites_cases: ["1 Dill. 418", "19 Kan. 273", "5 Nev. 206", "59 Pa. St. 487"]
+---
+
+# Dezell v. Thayer
+
+## Majority (Clark, J. :)
+
+The opinion of the court was delivered by
+Clark, J. :
+This action was brought in August, 1891, by James Dezell, as plaintiff, to recover from Hiram Thayer the amount alleged to be due and unpaid upon a certain promissory note, a copy of which is set out in the petition, executed by the defendant to Shannon, Piatt & Oo., and by them indorsed and delivered to the plaintiff. By the ternas of the note, it matured on August 4, 1877. It bears an indorsement as follows : “$2.00 paid on within note Decemember 20, 1889.” The plaintiff alleged that
+“within five years before the filing of this petition, defendant acknowledged an existing liability, debt or claim on said note, and promised to pay the same. Said acknowledgment and promise were in writing, and signed by the defendant, and are contained in the following correspondence concerning the note sued on in this case.”
+Then follows the correspondence referred to between the defendant and plaintiff’s attorney. The defendant answered, first, by a general denial; second, by pleading the bar of the statute of limitations ; and, third, by verified denial of the payment indorsed on the note, or authority to make such indorsement. The cause was tried by the court, a jury being waived. After the plaintiff had introduced his testimony and rested, the court sustained a demurrer to the evidence, and afterward overruled a motion for a new trial, and judgment was rendered in favor of the defendant. Exceptions were duly saved to the rulings of the court, and the plaintiff has brought the case here for review.
+Section 18 of the code provides that an action upon any agreement, contract or promise in writing can only be brought within five years after the cause of action shall have accrued.
+Section 24 of the code reads :
+“In any case founded on contract, when any part of the principal or interest shall have been paid, or an acknowledgment of an existing liability, debt, or claim, or any promise to pay the same, shall have been made, an action may be brought in such case witliin tlie period prescribed for the same after such payment, acknowledgment, or promise ; b.ut such acknowledgment or promise must be in writing, signed by the party to be charged thereby.”
+The court, by its ruling on the demurrer to the evidence, in effect found that no part of the principal or interest had been paid within five years prior to the commencement of this action. The evidence upon this point consisted wholly of oral testimony, and was conflicting, and the finding of the court settled that question in favor of the defendant. The court found, as a matter of law, that the statements set out in the correspondence referred to in the petition constituted neither “an acknowledgment of an existing liability, debt, or claim,” or a “promise to pay the same,” and in this we see no error. That portion of the correspondence relating to the matter in controversy which has any bearing on the question at issue consists of a letter written by plaintiff’s attorney to the defendant, as follows : “I have in my hand a note for |687.44, given by you to Shannon, Piatt & Co. This note has been due for some time, and we would like to have it settled up. What can you do for us on it? Please drop me a line very soon, and oblige,” etc.; and the following extracts from letters written by the defendant to plaintiff’s attorney : “I can never do anything for the note you hold, nor for Shannon nor Piatt, but when I get able I will do something for Dezell, and I think Jim will let me get able. That note you hold has been partly paid, which I can prove. I will help Dezell as soon as I feel able.” “I will see my boys in regard to what has been paid on the note, and for an account outside of the note I know nothing about. About setting any time for paying anything on the note, it would be impossible.” “Now in regard to meaning business concerning that note of Mr. Dezell’s, as I said before, I will when I get able ; if I ever do, I will do something for Dezell that he will be satisfied with. But I cannot do anything for him at present, and I don’t know when I can. ... 1 have not seen my boys in regard to the note.” These statements cannot be construed into an absolute promise to pay the note. They are at most conditional promises depending on defendant’s ability to pay at some time in the future, and no attempt was made to show upon the trial that the defendant has at any time been able to pay the note or any part of it since these letters were written. The defendant first claims that the note had been partly paid; that he would see his boys and ascertain the amount of such payment, and in his last letter he says, “I have not seen my boys in regard to the note.” We do not think these several statements can be construed into such an acknowledgment of an existing liability as is contemplated by the statute. They are more in the nature of an admission by the defendant of a former indebtedness with an assertion that at least a portion thereof had been paid, the amount of which he was unable to determine without first consulting his boys. In this state statutes of limitation are held to be statutes of repose, and a written acknowledgment of an existing liability, in order to remove the bar of the statute, must be an unqualified and direct admission of a present subsisting debt on which the party is liable. (Hanson v Towle, 19 Kan. 273; Gragg v. Barnes, 32 id. 301, 310.) See, also, Wilcox v. Williams, 5 Nev. 206, and chses there cited; McClellan’s Executors v. West, 59 Pa. St. 487; Barlow v. Barner, 1 Dill. 418.
+No error appearing in the record, the judgment will be affirmed.
+All the Judges concurring.
