@@ -1,0 +1,28 @@
+---
+court: "Kansas Court of Appeals"
+docket: "213"
+decided: "1900-10-10"
+citations: ["10 Kan. App. 321", "62 P. 536"]
+reporter: "kan-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Emma L. Tinsley v. Thomas V. Pitts and Elizabeth Pitts."]
+source_url: "https://static.case.law/kan-app/10/cases/0321-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 379555
+cites_cases: ["22 Kan. 20", "32 Kan. 376", "4 Pac. 618", "45 Pac. 587", "57 Kan. 188", "69 Ga. 599"]
+---
+
+# Tinsley v. Pitts
+
+## Majority (McElroy, J.:)
+
+The opinion of the court was delivered by
+McElroy, J.:
+This action was commenced by Emma L. Tinsley in the district court of Rawlins county, on February 9, 1900, against the defendants, Pitts and Pitts, for the recovery of the amount alleged to be due upon a promissory note in the sum of $600, with interest, and for the foreclosure of a real-estate mortgage. The original petition was unsatisfactory to the defendants. Thereafter, the plaintiff filed an amended petition, to which the defendants demurred, alleging that the amended petition did not state facts sufficient to constitute a cause of action against the defendants or either of them. The court sustained the demurrer, and rendered judgment against the plaintiff for costs-of suit. To all of which the plaintiff excepted, and, as plaintiff in error, presents the record to this court and complains that the trial court erred in sustaining the defendants’ demurrer.
+The only question presented by the demurrer, according to the argument of counsel, is the statute of limitations. The note and mortgage were dated June 1, 1889, due five years after date — June 1, 1894. The interest was due and payable according to ten interest coupons. The first eight of the interest notes were paid as they became due. The defendants defaulted in the payment of the interest note due December 1, 1893. Under the provisions of the principal note and mortgage, the holder might at that date, at his option, declare the entire sum due. There is no allegation in the petition that plaintiff availed herself of this option; therefore, the principal sum was not due until it matured under the terms of the note. The note would therefore be barred in five years from June 1,1894, except for the intervention of some cause to prevent the statute of limitations from applying.
+The action was instituted February 9, 1900, five years, eight months and five days after the maturity of the note according to its terms. The plaintiff, for the purpose of showing that the action was not barred by the statute of limitations, averred that before maturity the note and mortgage were assigned to William T. Tinsley, her father; that he was at all times the legal owner of the note and mortgage up to the time of his death, which occurred on March 28, 1893 ; that William T. Tinsley, by his last will and testament, bequeathed to the plaintiff the note and mortgage in question ; that thereby the same passed to the plaintiff before maturity; that at the time the note and mortgage became due and a cause of action accrued thereon plaintiff was an infant, under disability, and remained an infant under disability until within less than one year prior to the date of the commencement of her action; and that the action was brought within one year from the removal of such disability of infancy.
+Section 18, chapter 95, General Statutes of 1897 (Gen. Stat. 1899, § 4263), reads:
+“If a person entitled to bring an action other than for the recovery of real property, except for a penalty or forfeiture, be at the time the cause of action accrued under any legal disability, every such person shall be entitled to bring such action within one year after such disability shall be removed.”
+The plaintiff was the owner of the note and mortgage, according to the allegations of the amended petition, prior to and at the time of their maturity. The cause of action accrued at the time of the maturity of the note, and the plaintiff was at that time an infant; her cause of action was preserved to her by this statute for one year after the removal of the disability of infancy. The allegations of the petition bring her within the saving clause of the statute. (Ravenscraft v. Pratt, 22 Kan. 20; Scantlin v. Allison, 32 Kan. 376, 4 Pac. 618; Railway Co. v. Cooper, 57 Kan. 188, 45 Pac. 587.)
+The defendants in error contend, however, that where a minor claims through an estate, so that his. rights are derivatory, and not original, he is barred when the estate is barred, and cite Morgan v. Woods, 69 Ga. 599; 13 American and English Encyclopedia of Law, 740. Doubtless this contention is correct where the cause of action is derivatory and not original. In the case at bar, however, the minor did not derive her cause of action from the estate, but she inherited the evidence of the indebtedness. The cause of action had not yet arisen; it did not accrue until the maturity of the note, which, according to the allegations of the petition, was long after she became the owner thereof. Of course, if the statute of limitations once starts to run, it is not interrupted by disability. In this case, however, the statute of limitations could not begin to run until the maturity of the note. The court erred in sustaining the demurrer. The amended petition states a cause of action. The judgment of the trial court is reversed, and the cause remanded with direction to the trial court to overrule the demurrer, and for further proceedings in accordance with the opinion herein expressed.
