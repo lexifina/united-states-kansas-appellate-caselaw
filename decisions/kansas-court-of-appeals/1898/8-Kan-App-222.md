@@ -1,0 +1,29 @@
+---
+court: "Kansas Court of Appeals"
+docket: "473"
+decided: "1898-12-15"
+citations: ["8 Kan. App. 222"]
+reporter: "kan-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["G. W. Schuster v. D. M. Gray."]
+source_url: "https://static.case.law/kan-app/8/cases/0222-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 376377
+cites_cases: ["28 Pac. 989", "47 Kan. 750"]
+---
+
+# Schuster v. Gray
+
+## Majority (McElroy, J.:)
+
+The opinion of the court was delivered by
+McElroy, J.:
+This was an action of forcible entry and detainer brought by G. W. Schuster against D. M. Gray, before a justice of the peace of Jefferson county. The action was instituted by the filing of a verified complaint and the issuance and service of a summons. The defendant made a special appearance, and moved the court to quash and set aside the complaint for the reason that the same did not state a causé of action. The motion was heard and overruled by the justice. A trial was had and the findings and judgment of the justice were for the defendant. The plaintiff took an appeal to the district court. When the case was called for trial the defendant renewed his motion to quash the complaint, which motion was sustained. The plaintiff thereupon asked leave to amend his complaint, which was denied, and to which ruling he excepted. The plaintiff presents the case to this court for review and alleges error in the proceedings of the trial court. We will examine the errors assigned in the order in which they are presented.
+It is first contended that the court erred in sustaining the motion of the defendant to quash the complaint. The plaintiff alleged in his complaint, in substance that he is the owner and in possession of the northwest quarter of section 12, township 10, range 17, in Jefferson county ; that on the 16th day of April, 1896, the defendant Gray forcibly entered upon a portion of said premises, being thirty acres of and in the southwestern portion of said quarter-section, and is unlawfully and forcibly detaining the same from plaintiff; that plaintiff caused a written notice to be served on the defendant notifying him to leave and quit the premises, or action would be brought against him for the possession of the same that the defendant unlawfully and forcibly withholds and detains the premises from plaintiff; and that the plaintiff is and has been at all times entitled to the possession of said premises. The complaint' is insufficient and fails to state a cause of action for at least two reasons. If the plaintiff is the owner and in possession of the premises he has no cause for complaint. A plaintiff is always bound by his allegations deliberately made ; he cannot obtain benefit from contradictory allegations. A party should state in his pleading the real facts of his case, and not fictions. If the plaintiff is the owner and in possession of the premises, he has no cause of action against the defendant for an entry and detention thereof. Again, there is no sufficient particular description of the premises so entered upon or detained, as contemplated by section 102, chapter 103, General Statutes of 1897 (Gen. Stat. 1889, ¶ 5018). The court properly sustained the motion to quash the complaint.
+The second assignment of error is that the court erred in refusing to permit the plaintiff to amend his complaint. The defendant in error insists that the complaint cannot be amended, for the reason that the filing of a perfect complaint is a condition precedent to the issuance of a summons, and that the summons could not issue until the plaintiff filed his complaint in writing under oath with the justice. This is true. The complaint must be filed before the summons can issue ; yet we are of the opinion that the complaint was sufficient to authorize the issuance of summons. Our statute is very liberal on the subject of amendments. The provisions of the code on the question of amendment, so far as applicable, are:
+“. . . The justice shall immediately make out a certified transcript of his proceedings in the cause. . No notice of appeal shall be required to be filed or served, and the cause shall be tried de novo in the district court upon' the original papers on which the cause was tried before the justice, unless the appellate court; in furtherance of justice, allow amended pleadings to be made or new pleadings to be filed.” "'(Gen. Stat. 1889, ¶4974; Gen. Stat. 1897, ch. 103, §189.)
+“ The court may, before or after judgment, in furtherance of justice and on such terms as may be proper, amend any pleading, process or proceeding by adding or striking out the name of any party, or correcting a mistake in the name of a party, or a mistake in any other respect, or by inserting other allegations material to the case, or conform the pleading or proceeding to the facts proved, when such amendment does not change substantially the claim or defense; and when any proceeding fails to conform in any respect to the provisions of this code, the court may permit the same to be made conformable thereto by amendment.” (Gen. Stat. 1889; ¶ 4222; Gen. Stat. 1897, ch. 95, § 139.)
+In the case of Culp v. Steere, 47 Kan. 750, 28 Pac. 989, the court, on the question of amendments, say :
+“ The provisions of our statute authorizing amendments are very broad, liberal, and comprehensive. (Civil Code, § 139.) About the only limitations upon making amendments are, that they shall be made only ‘ in furtherance of justice, and on such terms as may be proper’ ; and if of pleadings, that the amendments shall ‘ not change substantially the claim or defense.’ ”
+The plaintiff below should have been permitted to amend his complaint on such terms as the court deemed proper. The trial court erred in refusing to permit him to amend his complaint. The judgment is reversed and the cause remanded for a new trial.
