@@ -1,0 +1,54 @@
+---
+court: "Kansas Court of Appeals"
+docket: "88,418"
+decided: "2003-04-04"
+citations: ["31 Kan. App. 2d 410", "65 P.3d 1055"]
+reporter: "kan-app-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Rulon, C.J., Pierron and Marquardt, JJ."]
+parties: ["Gary R. Comstock, a/k/a Charles Comstock, Appellant, v. Kevin A. Joplin, Appellee, and State Farm Automobile Insurance Company, Intervenor."]
+source_url: "https://static.case.law/kan-app-2d/31/cases/0410-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1363803
+cites_cases: ["245 Kan. 290", "266 Kan. 847", "270 Kan. 56", "271 Kan. 355", "273 Kan. 937", "405 F.2d 234"]
+---
+
+# Comstock v. Joplin
+
+## Majority (Marquardt, J.:)
+
+Marquardt, J.:
+Charles Comstock appeals the trial court’s grant of Kevin Joplin’s motion for summary judgment. We affirm.
+Charles was involved in an automobile accident with Joplin on November 29, 1995. The driver’s license Charles gave to the investigating officer had Charles’ picture on it but bore the name of Gary R. Comstock, who is Charles’ older brother. Gary’s address and date of birth were also on tire license. The police report lists the person in tire accident as Gary R. Comstock of Medford, Oregon, with a birth date of March 21, 1960. Charles’ birth date is July 13, 1962.
+The emergency room medical record lists the patient as Gary R. Comstock of 246 North 32nd, Kansas City, Kansas. The record also lists Gary’s social security number and his birth date as March 21, 1960.
+Charles testified that he began using his brother’s identity in 1977 or 1978 because he was too young to get into bars. Charles testified that his brother Gary has “gone by my [Charles’] name.” Charles also testified that people have confused him with Gary.
+Gary is an incarcerated murderer. Charles testified that the only reason he used Gary’s name “was because he was in [sic] incarcerated as a young kid anyway. That was why I used his name because he wasn’t using it anyway.”
+Charles has a social security card in his own name and uses his own social security number to receive disability checks. Charles had homeowner’s insurance in his own name. He also had a bank account in his own name while he lived in Kansas City. Charles claims that he has two birth dates; Gary’s of March 21, 1960, and his own of July 13, 1962. Charles testified that he could not explain why he continued to use his brother’s date of birth as his own. He claims that he likes the name Gary better than his own. Charles never legally changed his name to Gary.
+Charles filed a petition on August 8, 1997, for injuries he sustained in the accident, listing Gary R. Comstock as the plaintiff. During the pendency of this lawsuit, Charles’ attorney learned that Charles uses Gary’s name instead of his own. On November 2, 1998, Charles dismissed the lawsuit without prejudice. Interestingly, the dismissal named Charles as the plaintiff in the caption.
+A second lawsuit was filed on November 26, 1997. It named Charles as the plaintiff. Joplin was never served in this case, and it was dismissed for lack of prosecution on April 29, 1998.
+A third lawsuit was filed on April 27, 1999, and named “Gary R. Comstock AKA Charles Comstock” as the plaintiff. Joplin filed a motion for summary judgment, claiming that any action filed on behalf of Charles was barred by the statute of limitations since the only action properly initiated was on behalf of Gary. The trial court granted Joplin’s motion for summary judgment. Charles appeals.
+Charles argues that K.S.A. 60-518 tolls the statute of limitations and allows him to refile his lawsuit. Charles asserts that it is clear he was the individual involved in the automobile accident, and he should not be penalized for filing suit under his assumed name. Charles contends that there is no law which requires him to file suit under his legal name.
+Summary judgment is appropriate when the pleadings, depositions, answers to interrogatories, and admissions on file, together with the affidavits, show that there is no genuine issue as to any material fact and that the moving party is entitled to judgment as a matter of law. The trial court is required to resolve all facts and inferences which may reasonably be drawn from the evidence in favor of the party against whom the ruling is sought. When opposing a motion for summary judgment, an adverse party must come forward with evidence to establish a dispute as to a material fact. In order to preclude summary judgment, the facts subject to the dispute must be material to the conclusive issues in the case. On appeal, we apply the same rules and where we find reasonable minds could differ as to the conclusions drawn from the evidence, summary judgment must be denied. Mitchell v. City of Wichita, 270 Kan. 56, 59, 12 P.3d 402 (2000).
+The statute of limitations governing Charles’ claim expired on November 29, 1997. See K.S.A. 2002 Supp. 60-513.
+K.S.A. 60-518 reads:
+“If any action be commenced within due time, and the plaintiff fail in such action otherwise than upon the merits, and the time limited for the same shall have expired, the plaintiff, or, if the plaintiff die, and the cause of action survive, his or her representatives may commence a new action within six (6) months after such failure.”
+The initial petition filed in August 1997 was timely. Joplin was served within days of the filing. See K.S.A. 60-203(a).
+K.S.A. 60-518 requires that the new lawsuit must be commenced within 6 months of the prior suit’s failure. When a statute is plain and unambiguous, the court must give effect to the intention of the legislature as expressed, rather than determine what the law should or should not be. State ex rel. Stovall v. Meneley, 271 Kan. 355, 378, 22 P.3d 124 (2001). The first lawsuit was dismissed without prejudice on November 2, 1998. The third lawsuit was filed on April 27, 1999, which was within 6 months of the dismissal of the first lawsuit, but after the statute of limitations had run.
+In his brief, Joplin provides several references to Unwitting Victim v. C.S., 273 Kan. 937, 47 P.3d 392 (2002), where an anonymous pseudonym was used. In the instant case, another person’s identity was not used as an anonymous pseudonym. We do not believe that Unwitting Victim is instructive in this case.
+In Rogers v. Williams, Larson, Voss, Strobel & Estes, 245 Kan. 290, Syl. ¶ 3, 777 P.2d 836 (1989), the court held that to come within the provisions of K.S.A. 60-518, the action must be refiled by the same plaintiff or plaintiffs who failed in the first action “otherwise than upon the merits.” K.S.A. 60-518 was not applicable where the plaintiffs sued as individuals in the first action and as representatives of decedent’s estate in the attempted refiling. 245 Kan. 290, Syl. ¶ 3.
+In Charles’ first lawsuit, Gary was the named plaintiff. Charles was not using an alias; he was using his brother’s name. This is a case of an individual using another person’s identity. Charles claims that his last lawsuit, which names “Gary R. Comstock AKA Charles Comstock” as the plaintiff, falls under the 6-month period for refiling. The plaintiff here is not both Charles and Gary.
+K.S.A. 60-518 cannot be applied when an individual files a lawsuit using another person’s name, dismisses the lawsuit, and within 6 months after the dismissal, and after the statute of limitations has run, files a second lawsuit on the same issues but adds his or her own name as the plaintiff, claiming to be the same person.
+At the hearing on Joplin’s motion for summary judgment, Charles argued that his case was not any different from someone who socially goes by their middle name or a nickname. We disagree. Charles’ middle name is Dwayne. Charles claims that he did not know the first lawsuit was filed under Gary’s name; however, that is clearly the information he submitted to his attorney. Charles’ identity was known before the dismissal of the first lawsuit, and it was dismissed without requesting an amendment to correct the identity of the plaintiff.
+Joplin forcefully argues that Charles has committed fraud and identity theft. We are not prepared to make a finding on that issue.
+We realize that the rationale for the trial court’s decision was somewhat different from what we have concluded here. Any such difference is immaterial. If a trial court reaches the right result, its decision will be upheld even though the trial court relied upon the wrong ground or assigned erroneous reasons for its decision. Bergs trom v. Noah, 266 Kan. 847, 875-76, 974 P.2d 531 (1999). The decision of the trial court was correct.
+Affirmed.
+
+## Dissent (PlERRON, J.,)
+
+PlERRON, J.,
+dissenting: I respectfully dissent. The issue in this matter is not whether the appellant Comstock was sneaky in using his older brother’s first name and date of birth to get into bars when the appellant was underage, 18 or so years ago. Neither is it whether his actual name is Gary or Charles. The issue is whether the appellant was sufficiently identified as the real party in interest to allow the appellees to defend themselves against him in this lawsuit.
+There is nothing in the record to indicate there is a question as to which actual, corporeal, individual human being is bringing the law suit, regardless of which first name appellant has used. He may well have been in violation of state and federal laws to use his brother’s first name, age, and social security number in certain circumstances. But there is no indication that there has been a defrauding of anyone by the use of his brother’s first name in this lawsuit. The appellee, tire trial court, and the majority appear to take the position that since he initially used his brother’s first name, any lawsuit brought under that name was fraudulent and void. None of the cases cited to us stand for that proposition.
+Surprisingly, there appears to be little case law on this precise issue that the parties or we have been able to find. I believe Williams v. United States, 405 F.2d 234, 237-39 (5th Cir. 1968), is of some assistance in that it allows for the relation back of a “new” plaintiff if the defendant had fair notice of that person’s claim being involved.
+The appellees had no problem identifying who was suing them. In the briefs and at oral argument, no prejudice could be shown by the appellee that was caused by the use of Gaiy’s first name by Charles. For the purposes of this litigation, there is nothing more significant about Charles’ use of Gaiy’s name in bringing the action than if he had brought it under a nickname.
+I believe this ruling elevates form over substance and would reverse. If his brother, the state, or federal officials believe action should be taken against the appellant for the use of Gary’s first name in the past, that would be up to them.
