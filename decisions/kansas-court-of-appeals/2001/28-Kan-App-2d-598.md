@@ -1,0 +1,41 @@
+---
+court: "Kansas Court of Appeals"
+docket: "84,691"
+decided: "2001-02-16"
+citations: ["28 Kan. App. 2d 598", "18 P.3d 308"]
+reporter: "kan-app-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Marquardt, P.J., Green, J., and Rogg, S.J."]
+parties: ["In the Matter of the Application of Fire Baptized Holiness Church For Exemption From Ad Valorem Taxation, Appellant, v. William Hendrix, Montgomery County, Kansas, Tax Appraiser, Appellee."]
+source_url: "https://static.case.law/kan-app-2d/28/cases/0598-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 688420
+cites_cases: ["120 Kan. 496", "174 Kan. 40", "205 Kan. 847", "207 Kan. 514", "211 Kan. 683", "236 Kan. 394", "243 Pac. 1055", "253 Kan. 175", "266 Kan. 737", "267 Kan. 570", "268 Kan. 488"]
+---
+
+# Fire Baptized Holiness Church for Exemption from Ad Valorem Taxation v. Hendrix
+
+## Majority (Marquardt, J.:)
+
+Marquardt, J.:
+Fire Baptized Holiness Church (Church) appeals the decision of the Board of Tax Appeals of the State of Kansas (BOTA) denying its application for exemption from ad valorem taxation.
+The Church, a nonprofit entity, owns Independence Bible School (School), which is funded through student tuition and charitable contributions. The dormitory that is located on the School’s property had been tax-exempt until 1997 or 1998. The dormitory does not operate for profit.
+In 1998, the Church submitted a new application for ad valorem tax exemption for the new grade school, dormitories, shop building, high school, residence, and storage building based on K.S.A. 79-201a Second. The Montgomery County Appraiser recommended that BOTA grant the exemption and noted that the school building was added to property that was already exempt. Neither party requested a hearing.
+The dormitory building housed high school students, “dorm parents,” and a cafeteria for elementary and high school students. BOTA found that the dormitory was not used exclusively for religious purposes and denied the exemption. The Church filed a petition for reconsideration, which BOTA granted.
+The County Treasurer and County Appraiser did not attend the hearing on the Church’s petition for reconsideration. The School’s superintendent testified that in addition to housing students and dorm parents, the dormitory’s cafeteria also served as an indoor gymnasium for physical education classes in inclement weather and an auditorium for the School’s Christmas program. The dormitory was not used for any purpose unrelated to the School.
+BOTA again denied the exemption and found that the use of the property did not satisfy the requirements of K.S.A. 79-201 Second because the property’s predominant use was as a dormitory, a “non-educational use.” The Church timely appeals.
+Under the Kansas Constitution and Kansas statutes, taxation is the rule, and exemption is the exception. One claiming exemption from taxation has the burden of showing that the use of the property comes clearly within the exemption claimed. Defenders of the Christian Faith, Inc. v. Horn, 174 Kan. 40, 44, 254 P.2d 830 (1953). Tax exemption statutes are to be construed strictly in favor of imposing the tax and against allowing the exemption for one who does not clearly qualify. Presbyterian Manors, Inc. v. Douglas County, 268 Kan. 488, 492, 998 P.2d 88 (2000).
+According to K.S.A. 77-621(c)(4) and 77-621(c)(8), this court shall grant relief from a BOTA order only if it determines that BOTA erroneously interpreted or applied the law or BOTA’s action is “otherwise unreasonable, arbitrary or capricious.”
+BOTA is a specialized agency that exists to decide taxation issues. Accordingly, decisions made within its area of expertise should be given great weight and deference. However, if this court finds that BOTA’s interpretation is erroneous as a matter of law, we will take corrective steps. In re Tax Appeal of Univ. of Kan. School of Medicine, 266 Kan. 737, 749, 973 P.2d 176 (1999). Interpretation of a statute is a question of law over which an appellate court’s review is unlimited. In re Appeal of United Teleservices, Inc., 267 Kan. 570, 572, 983 P.2d 250 (1999).
+On appeal, the Church argues that the dormitory building is used exclusively for religious and educational purposes and should be exempt from taxation. K.S.A. 1999 Supp. 79-201 Second provides for an ad valorem tax exemption, in pertinent part, for “[a]ll real property, and all tangible personal property, actually and regularly used exclusively for literary, educational, scientific, religious, benevolent or charitable purposes, including property used exclusively for such purposes by more than one agency or organization for one or more of such exempt purposes.”
+The Church maintains that BOTA placed an unreasonably strict construction on the statute and the term “exclusively.” Under constitutional and statutory provisions, property must be “used exclusively” for exempt purposes. The phrase “used exclusively” in .the constitution and statute means that the use made of the property sought to be exempted from taxation must be only, solely, and purely for the purposes stated and without participation in any other use. Womans Club of Topeka v. Shawnee County, 253 Kan. 175, 186, 853 P.2d 1157 (1993).
+Kansas courts have endorsed a broad definition of “education”:
+“ ‘It is not limited to classroom attendance but includes innumerable separate components, such as participation in athletic activity and membership in school clubs and social groups, which combine to provide an atmosphere of intellectual and moral advancement.’ ” National Collegiate Realty Corp. v. Board of Johnson County Comm’rs, 236 Kan. 394, 400, 690 P.2d 1366 (1984).
+The breadth of this definition is evident from its application in a variety of cases. For instance, in National Collegiate Realty Corp., the court concluded that the national headquarters of the NCAA, where activities occur such as rule-making, publication and dissemination of information, and investigation and discipline for recruiting violations, was property used exclusively for educational purposes and granted the exemption under K.S.A. 1983 Supp. 79-201 Second. 236 Kan. at 404-05; see Trustees of The United Methodist Church v. Cogswell, 205 Kan. 847, 859, 473 P.2d 1 (1970).
+The Church argues that dormitories could be viewed as automatically exempt because they are an essential component of education. In Seventh Day Adventist v. Board of County Commissioners, 211 Kan. 683, 685, 508 P.2d 911 (1973), the student dormitories were tax exempt based on their exclusive use for educational purposes. The residential properties occupied by teachers, staff, and their families were not tax exempt. 211 Kan. at 694.
+The dormitory building in the present case provides a sharp contrast to the teachers’ residences in Seventh Day Adventist. The dormitory houses only students who attend the school and dorm parents whose duty it is to monitor the students. Students use the building every day for lunch, and although classes are not regularly scheduled there, the building is used for physical education and music classes when needed.
+The occupancy of a residence does not, by itself, constitute an educational or religious use. Seventh Day Adventist, 211 Kan. at 694. Rather, an examination of the underlying purposes for such occupancy is necessary. In Sigma Alpha Epsilon Fraternal Ass’n v. Board of County Comm’rs, 207 Kan. 514, 519, 485 P.2d 1297 (1971), the court held that a college fraternity was not used exclusively for educational purposes because the property was used for many fraternal purposes, which included initiations, parties, and other social activities.
+In Kansas Wesleyan Univ. v. Saline County Comm’rs, 120 Kan. 496, 497, 243 Pac. 1055 (1926), the court granted an exemption for a university president’s residence because official meetings and school gatherings held at the president’s residence were part of the machinery by which the affairs of the institution are administered.
+Given the uses of the dormitory building, it is clear that this property is used exclusively for educational purposes in light of our courts’ adherence to a broad definition of “education.”
+Reversed and remanded with directions to grant the exemption.
