@@ -1,0 +1,27 @@
+---
+court: "Kansas Court of Appeals"
+docket: "485"
+decided: "1898-12-15"
+citations: ["8 Kan. App. 238"]
+reporter: "kan-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["The Board of County Commissioners of the County of Doniphan v. J. M. Albright."]
+source_url: "https://static.case.law/kan-app/8/cases/0238-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 376333
+cites_cases: ["2 Kan. 115", "44 Pac. 17", "56 Kan. 577"]
+---
+
+# Board of County Commissioners v. Albright
+
+## Majority (Wells, J.:)
+
+The opinion of the court was delivered by
+Wells, J.:
+On the 4th day of September, 1895, the defendant in error caused a writ of mandamus to be issued against the plaintiff in error, the board of county commissioners of Doniphan county, reciting in substance the recovery by said Albright of a judgment •of award against said commissioners ; that no appeal or proceedings in error had been taken from said judgment ; that it was now in full force and effect; and that demand had been made for payment thereof and refused, although the necessary funds are on hand ; and said commissioners were commanded to pay said award or show cause why they should not. To this writ the commissioners made return and answer, that said award was obtained on an appeal for damages allowed for the laying out and opening of a private road under chapter 112, Laws of 1874; that after a demand was made on them for said award they rescinded the order to open the road, and notified the applicant therefor that said action had been taken and that the road would not be declared open until the damages and costs were paid ; and that the same had not been done. To this return and answer the plaintiff demurred on the ground that it did not state facts sufficient to constitute a reason why a peremptory writ should not issue. This demurrer was sustained and a peremptory writ issued. To reverse this the case is brought to this court.
+The law under which the road was located provides that no portion, of the expense shall be chargeable to the state or county, but shall be paid by the person for whose benefit the road is located, and the road shall be declared open when the damages are paid. In Commissioners of Shawnee County v. Carter, 2 Kan. 115, the court said :
+“The county is a political subdivision of the stace or territory acting as a corporation with specific powers, through its officers as agents, whose duties are not only pointed out -by law, but the mode of performing them is laid down with accuracy and precision. When laid down there is no discretion in the officers as to the manner in which they are to act. In that respect they are ministerial officers, and bound to observe the limitations imposed upon them by law. . . . When the statutes confer special ministerial authority, the exercise of which may affect the rights of property, or incur a municipal liability, it shall be strictly observed, and a material departure will vitiate the proceedings. . . . If an affirmative statute directs anything to be done in a certain manner, that thing shall not, even though there are no negative words, be done in any other manner.”
+On this subject, see also Hovey v. Comm’rs of Wyandotte Co., 56 Kan. 577, 44 Pac. 17. Under these authorities, the county commissioners had no right to open the road until the party applying therefor had paid the expenses thereof, and no right to pay any part of the costs out of the county funds.
+It is claimed by the defendant in error that the judgment of the court making the award is not appealed from and cannot be collaterally attacked. If the court had jurisdiction to make this award, this is true so far as the judgment actually goes ; but there is nothing in the record to negative the presumption that the court in making said award made such an one as it ought under the law to have made. This road was located as a private road for the benefit of one individual under a general law. The law provides for the appointment of viewers who shall locate said road and assess the damages, and the road shall be declared open when the damages are paid, and no portion of the expenses shall be chargeable to the state or county. No provision is made for the commissioners to review the award of damages, or for an appeal either from the award of the jurors or the action of the commissioners, and it may be seriously doubted if such right exists. But waiving these questions, which are not necessarily at issue in this case, and assuming for the purposes of this case that the commissioners had jurisdiction to review the action of the viewers, and that an appeal was properly taken from their decision to the district court, and that the district court, upon trial, rightfully increased the award of damages in favor of the defendants in error from $50 to $131.25, this amounts simply to a final adjudication of the damages that the applicant for the road must pay before it can be opened for his use. This is all that the record before us justifies us in assuming, and this is not sufficient to fix a liability on the county to pay that for which the law expressly declares it shall not be liable.
+The judgment of the district court granting the peremptory writ of mandamus is reversed, and said court is directed to overrule the demurrer of the plaintiff to the return to the alternative writ and proceed with the trial of the case.
