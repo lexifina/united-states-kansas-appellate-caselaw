@@ -1,0 +1,56 @@
+---
+court: "Kansas Court of Appeals"
+docket: "48,423"
+decided: "1977-05-06"
+citations: ["1 Kan. App. 2d 310", "564 P.2d 559"]
+reporter: "kan-app-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Harman, C J., Rees and Swinehart, JJ."]
+parties: ["Richard E. Stremel, Appellant, v. Horace J. Sterling, Appellee."]
+source_url: "https://static.case.law/kan-app-2d/1/cases/0310-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 412030
+cites_cases: ["1 Kan. 303", "100 Ill. App. 2d 428", "181 Kan. 66", "182 Kan. 33", "190 Kan. 747", "203 Kan. 397", "205 S.W. 208", "212 Kan. 772", "217 Kan. 661", "219 Kan. 165", "219 Kan. 408", "241 N.E.2d 191", "275 Mo. 607"]
+---
+
+# Stremel v. Sterling
+
+## Majority (Swinehart, J.:)
+
+Swinehart, J.:
+This is an action for personal injuries arising out of an automobile accident. The jury returned a verdict in favor of appellee and the court thereafter denied appellant’s motion for a new trial. Appellant alleges on appeal that the court erred (1) in admitting the deposition testimony of a Dr. Lauren Welch; (2) in failing to grant a new trial on grounds that the verdict was contrary to the evidence; and (3) in failing to state the legal principles upon which said motion for new trial was denied.
+The accident occurred at approximately noon, January 27, 1973, near the intersection of Hendricks Street and Highway K-96 in Hutchinson, Kansas. It was a windy, snowy day and visibility was considerably reduced. The appellant was traveling southeasterly on Highway K-96, and appellee was traveling south on Hendricks Street toward the intersection of K-96 at a speed of twenty to twenty-five miles per hour. There was a stop sign for southbound traffic on Hendricks Street at K-96. Appellee did not see the stop sign because of the weather conditions, but did first see appellant when said appellee was about forty feet from the intersection. As appellant was in the process of turning left (north) onto Hendricks, the collision occurred. The point of impact was in appellee’s southbound lane, near the center line of Hendricks and slightly north of the intersection.
+We first consider appellant’s contention that the admission of Dr. Welch’s deposition into evidence was an erroneous ruling which required a new trial. As this is a procedural problem, we feel it unnecessary to discuss the ramifications of Dr. Welch’s testimony and its effect on appellant’s case. We do note, however, that said testimony was more favorable to appellant than appellee.
+The record indicates that neither the appellant nor his attorney was present at the taking of said deposition. Appellant’s attorney received written and oral notice of the deposition, but failed to appear because he was a “solo practitioner” and, consequently, “had no opportunity to get to that deposition.”
+The Kansas Code of Civil Procedure does not require that adverse parties be present at depositions. What is required is that the adverse parties have reasonable notice of the deposition so they can be present if they so desire. This is shown by K.S.A. 60-232 (a), which provides in part:
+“(a) Use of deposition. At the trial . . any part or all of a deposition, so far as admissible under the rules of evidence applied as though the witness were then present and testifying, may be used against any party who was present or represented at the taking of the deposition or who had reasonable notice thereof . . .” (Emphasis supplied.)
+Thus, the true question presented is whether reasonable notice of the doctor’s deposition was given to appellant’s attorney.
+Proper, adequate and reasonable notice is required so that the adverse party will have a right of cross-examination. The general rule is that a deposition should not be read into evidence where proper notice has not been given and the adverse party has thereby been deprived of his right of cross-examination. (26A C.J.S., Depositions, Sec. 93, p. 446; Savings Bank v. Denker, 275 Mo. 607, 205 S.W. 208; Bruske v. Arnold, 100 Ill. App. 2d 428, 241 N.E.2d 191.) In Savings Bank, the court stated:
+“The general rule is that where a party is deprived of the benefit of cross-examining a witness, by the act or neglect of the opposite party [ i.e., failing to give notice], . . . the testimony of such witness cannot be read in evidence.” (p. 616.)
+And in Bruske, the court affirmed the lower court’s refusal to admit into evidence a question and answer statement, taken by an investigator for plaintiff’s counsel, and recorded by a court reporter, because it was taken without prior notice to anyone.
+However, a deposition is not inadmissible as evidence on the ground of lack of opportunity to cross-examine, when the adverse party has reasonable notice of the taking of the deposition.
+An examination of the record indicates that notice of Dr. Welch’s deposition was mailed to appellant’s attorney January 15, 1975. The deposition was scheduled for January 17,1975, at 4:30 p.m. (two days after the notice was mailed). The January 17th setting was orally verified between counsel. Counsel for appellee told the trial judge:
+“. . . We served and we talked to Mr. Rome [counsel for appellant]. First, served notice on him, Second, reverified that he would be there, Third, waited for him an hour and I tried every way to call him, his office, even at the time of the taking of the deposition. If he had so much as got one word about being unable to appear for the taking of that deposition we would have taken it on Saturday morning [January 18, 1975] or some other time, or if he had made any objection to its use at any time . . . we would have re-taken it and permitted him an opportunity to appear. . . .”
+Under these circumstances, we have no trouble in concluding that the trial court was justified in finding the notice to be reasonable.
+In addition to reasonable notice, it is necessary that K.S.A. 60-232 (a) (3) be satisfied before the deposition is admitted into evidence. If the conditions of 60-232 (a) (3) are satisfied, evidence by deposition is freely admissible. The existence of at least one of the conditions set out in 60-232 (a) (3) is to be determined by the trial court at the time the deposition is offered into evidence. (See, generally, 8 Wright & Miller, Federal Practice and Procedure, Civil, Sec. 2146.)
+Although the trial judge did not specifically state which element of K.S.A. 60-232 (a) (3) existed, we feel the record shows that ground “E” of that statute existed. That ground provides:
+“. . . that such exceptional circumstances exist as to make it desirable, in the interest of justice and with due regard to the importance of presenting the testimony of witnesses orally in open court, to allow the deposition to be used.”
+The witness, Dr. Welch, was in Wichita, Kansas; trial was being held in Hutchinson, Kansas. Further, though Dr. Welch had been subpoenaed by appellant, he was not present. Faced with these circumstances, together with K.S.A. 60-102 which provides for a liberal construction of the code of civil procedure to secure speedy and inexpensive determination of every action, the trial court concluded that the deposition should be read into the evidence. Such a conclusion could easily have been based on K.S.A. 60-232 (a) (3) (E), and thus justified.
+We further feel that inasmuch as the contents of said deposition were favorable to appellant in many aspects, the admission thereof was harmless error (K.S.A. 60-261).
+We find no reversible error in the admission into evidence of Dr. Welch’s deposition.
+We now turn to appellant’s contention that a. new trial should have been awarded because the verdict was contrary to the evidence.
+Whether a jury verdict is against the weight of the evidence is a question for the trial court. The trial court found the jury’s verdict to be supported by the evidence. Our only concern is whether the trial court abused its discretion in reaching that determination. In Timmerman v. Schroeder, 203 Kan. 397, 454 P.2d 522, it was said:
+“The granting of a motion for new trial on the grounds set out in K.S.A. 60-259 rests in the judicial discretion of the trial court. [Citations omitted.] The order granting or refusing a new trial will not be reversed unless a clear abuse of discretion is shown. (Slocum v. Kansas Power & Light Co., 190 Kan. 747, 378 P.2d 51.)” (p. 400.)
+In Grace v. Martin, 182 Kan. 33, 318 P.2d 1007, the court, quoting from Gould v. Robinson, 181 Kan. 66,309 P.2d 405, said:
+“ ‘. . . (3) that the granting of the motion for a new trial rests so much in the trial court’s sound discretion that its action will not be held to be reversible error on appellate review unless it can be said the party complaining thereof has clearly established error with respect to some pure, simple and unmixed question of law [citations omitted]; and cannot be upheld.’ ” (p. 38.)
+The circumstances surrounding this accident were difficult to reconstruct, and the testimony was contradictory in many respects. Without doubt, hard questions of fact as to how the accident actually happened existed. The trial court properly submitted those questions to the jury. The jury having reached its result, the trial court had no authority to change the jury’s mind. As far back as Backus v. Clark, 1 Kan. 303, 311, the Kansas Court was saying:
+. . ‘As the jury are the judges of the facts’, ... ‘if there be any evidence to sustain a verdict, it ought not to be disturbed. . . .’ ”
+These sentiments were reaffirmed as recently as Mettee v. Urban Renewal Agency, 219 Kan. 165, 547 P.2d 356.
+We think the trial court acted properly in recognizing its bounds and refusing to invade the province of the jury. This case was custom-made for a jury, and the jury reached its conclusion.
+Finally, appellant attacks the trial court’s conduct in not stating, for the record, the legal principles upon which it based the denial of a new trial. Appellant asserts that this was a violation of Supreme Court Rule No. 116, 214 Kan. xxxvii (now Rule No. 165, 220 Kan. LXVI). Rule No. 116 provided:
+“In all contested matters submitted to a judge without a jury, the judge shall, in addition to stating the controlling facts . . . briefly state the legal principles controlling the decision. . . .”
+Kansas case law indicates that this rule applies to motions to dismiss, motions for summary judgment and trials to the court without jury. (Duffin v. Patrick, 212 Kan. 772, 512 P.2d 442; Brown v. Wichita State University, P.E.C., Inc., 217 Kan. 661, 538 P.2d 713; Griffith v. Stout Remodeling, Inc., 219 Kan. 408, 548 P.2d 1238.)
+We find that a motion for new trial does not fall within the purview of Rule No. 116 (now Rule No. 165).
+This was a trial to a jury of a contested matter and all questions of facts had been resolved by the jury. Further, the court had set forth the law by instructions to the jury. Those grounds raised by the appellant’s motion for new trial had been previously argued and decided during trial. That being so, the trial court was not required to provide a detailed account of its findings of fact and conclusions of law upon which it based its order on a motion for a new trial.
+Judgment is affirmed.
