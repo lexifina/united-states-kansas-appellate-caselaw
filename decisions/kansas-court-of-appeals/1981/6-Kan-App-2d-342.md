@@ -1,0 +1,36 @@
+---
+court: "Kansas Court of Appeals"
+docket: "52,210"
+decided: "1981-05-22"
+citations: ["6 Kan. App. 2d 342", "628 P.2d 257"]
+reporter: "kan-app-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Justice Fromme, presiding, Parks, J., and Tyler C. Lockett, District Judge, assigned."]
+parties: ["William J. and Vanda G. Nohinek, Plaintiffs-Appellants, v. John D. Logsdon, Defendant-Appellee."]
+source_url: "https://static.case.law/kan-app-2d/6/cases/0342-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 391203
+cites_cases: ["146 Pac. 355", "18 Kan. 340", "185 Kan. 623", "213 Kan. 346", "275 Cal. App. 2d 84", "79 Cal. Rptr. 868", "81 R.I. 69", "94 Kan. 284", "98 A.2d 840"]
+---
+
+# Nohinek v. Logsdon
+
+## Majority (Lockett, J.:)
+
+Lockett, J.:
+Plaintiffs William J. and Vanda Nohinek appeal from the grant of defendant John D. Logsdon’s motion to dissolve a writ of attachment pursuant to K.S.A. 1980 Supp. 60-712.
+On December 21, 1978, the Nohineks filed an action in the district court alleging fraud by Logsdon and obtained a judgment for $29,480.54 actual and $5,000 punitive damages. A sheriff’s return was filed attaching household furnishings at the defendant’s home and certain other personal property at his office. The attached household goods were left at the residence with the defendant and his wife as garnishees.
+On April 9, 1979, pursuant to K.S.A. 1980 Supp. 60-712, appellee filed a motion to dissolve the attachment of household furnishings, alleging that all property listed on the sheriff’s attachment was exempt under K.S.A. 60-2304(1). After oral argument, the trial court ruled that K.S.A. 60-2304(1) exempts all household furnishings regardless of their value or necessity. A journal entry was filed April 14, 1980, and plaintiffs perfected this appeal.
+The only question raised by the appeal is whether K.S.A. 60-2304(1) exempts all household furnishings of the defendant as head of a family or only those household furnishings which are reasonable and necessary.
+An exemption is a right granted by law to a debtor to retain a portion of his property free from judicial seizure and sale by his creditors. It is a privilege granted by the State to secure to an unfortunate debtor and his family the means to avoid destitution. This right to hold one’s property, or any part of it, free and clear from the claims of creditors is not a common law right, but a creation of constitutions and statutes. Therefore, a state has the power, within constitutional limits, to declare what property shall be exempt from the claims of creditors.
+Unlike the homestead exemption contained in K.S.A. 1980 Supp. 60-2301 which provides an unlimited exemption for the homestead and improvements therein, the legislature imposed limitations on the personal property exempted under both K.S.A. 60-2304(1) and its predecessor, G. S. 1935, 60-3504. The reason for the exemption was stated in Harrison v. Foster, 94 Kan. 284, 146 Pac. 355 (1915) as follows:
+“The most casual consideration of the statute discloses that it was intended first of all to supplement the homestead exemption. A home which creditors could strip of the things essential to home maintenance would be a poor privilege, and consequently a minimum amount of property essential to family existence was exempted from seizure and sale for the payment of debts.” p. 286.
+The original exemption for personal property enacted in 1868 (G. S. 1868, ch. 38) included specifically enumerated items of personalty including the family Bible, musical instruments and burial plots. In addition, the fourth paragraph of this statute exempted household items including bedding and cooking utensils as well as other unspecified household furniture not exceeding $500. This statute was construed to exempt all household goods of the debtor which did not exceed the dollar value limitation regardless of whether the goods were “necessary” for the personal use of the debtor or his family. Rasure v. Hart, 18 Kan. 340, 344 (1877).
+The form of the personal property exemption statute in effect when this judgment was entered was initially adopted in 1965. This statute stated in part as follows:
+“Every person residing in this state, and being the head of a family, shall have exempt from seizure and sale upon any attachment, execution or other process issued from any court in this state, the following articles of personal property:
+“(1) The furnishings, equipment and supplies, including food, fuel and clothing, for the family for a period of one (1) year on hand and reasonably necessary at the principal residence of the family.” K.S.A. 60-2304(1).
+In removing the dollar limitation for exempted household goods, the legislature intended for the trial court, guided by the words “necessary and reasonable,” to examine the nature and use of the property and make a factual determination of which items are exempt without regard to dollar value. We note that on April 26, 1980, the Kansas Legislature amended K.S.A. 60-2304 to its present form. L. 1980, ch. 176, § 4. This amendment eliminated the restriction of the exemption to property of a family, but the legislative intent concerning the scope of the protection remains the same and property which is reasonably necessary is exempt.
+No Kansas case has determined what is meant by “reasonably necessary,” but we are governed by established rules of statutory construction. A statute is not to be given an arbitrary construction, according to the strict letter, but instead should be construed to advance the sense and meaning fairly deducible from the context. Mahone v. Mahone, 213 Kan. 346, 350, 517 P.2d 131 (1973). Moreover, a general rule regarding exemption laws is that they are to be liberally construed in favor of those intended by the legislature to be benefited and favorable to the purposes of the enactment. Miller v. Keeling, 185 Kan. 623, 627-28, 347 P.2d 424 (1959).
+Two rules have been developed to determine when household goods should be exempted as reasonable and necessary. Under the narrow rule, any items found to be luxuries may not be exempt as necessary. See, e.g., Arch Lumber Co., Inc. v. Dohm, 81 R.I. 69, 98 A.2d 840 (1953). The more liberal rule exempts household goods which are necessary based on the debtor’s customary standard of living even though the items are not indispensable. Independence Bank v. Heller, 275 Cal. App. 2d 84, 79 Cal. Rptr. 868 (1969). Owing to the fact that the exemption statute is remedial and enacted for the public good, we adopt the liberal rule as the more appropriate holding. This liberal construction does not mean that the courts may enlarge the exemption or read into the exemption law provisions which are not found there. However, the trial court should make a factual determination that the exempt property is reasonable and necessary to the debtor’s customary standard of living.
+From the record on appeal, the trial court did not make a finding that the property was reasonable and necessary for the maintenance of the family residence. The case is reversed and remanded to the trial court for a factual determination as to what items are reasonably necessary and thus exempt.
