@@ -1,0 +1,40 @@
+---
+court: "Kansas Court of Appeals"
+docket: "82,665"
+decided: "2000-03-10"
+citations: ["27 Kan. App. 2d 185", "1 P.3d 922"]
+reporter: "kan-app-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Brazil, P.J., Pierron, J., and Wahl, S.J."]
+parties: ["Sharon Tang, d/b/a Sunrise Village, L.L.C., Appellee, v. Lisa Loveland, Dora Naughton, Courtney Sweeney and Michael Wood, Appellants."]
+source_url: "https://static.case.law/kan-app-2d/27/cases/0185-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 96503
+cites_cases: ["109 Kan. 488", "114 Kan. 46", "176 Kan. 416", "200 Pac. 272", "217 Pac. 331", "259 Kan. 107", "30 A.L.R.2d 972", "6 A.L.R.2d 1053"]
+---
+
+# Tang v. Loveland
+
+## Majority (Pierron, J.:)
+
+Pierron, J.:
+Sharon Tang d/b/a Sunrise Village, L.L.C. (landlord) sued Lisa Loveland, Dora Naughton, Courtney Sweeney, and Michael Wood (tenants) to collect damages for the alleged breach of a renewal of an apartment rental agreement. Tenants counterclaimed for the return of their original security deposit plus one and one-half times that amount as damages pursuant to K.S.A. 58-2551(c).
+Landlord is in the business of renting apartments. Tenants are current and former students at the University of Kansas. Landlord and tenants Loveland, Sweeney, and Wood (along with Jennifer Smith who is not a party to this action) entered into a written 12-month lease for an apartment beginning August 1, 1996. Tenants paid a $780 security deposit to landlord. During this lease, tenant Naughton replaced Smith as a tenant at the property and assumed her rights and responsibilities under the lease, including assignment of Smith’s security deposit.
+As the end of the lease approached, tenants notified landlord that they wished to enter into a second 12-monfh lease for the same property commencing August 1, 1997. Landlord apparently agreed to perform some maintenance and presented tenants with a written lease form. Tenants Sweeney, Wood, and Naughton signed the lease and returned it to landlord. Loveland did not sign the lease. The lease provided for rent in the amount of $800 per month.
+On July 22, 1997, tenants delivered written notice to landlord that they would vacate the apartment on July 31, 1997, which they did. Tenants never paid any rent on the second lease. Landlord retained tenants’ $780 security deposit.
+The district court held that the parties had a valid contract to lease the property for a second 12-month term based on K.S.A. 33-105, which allows oral contracts for lease terms of 12 months or less.
+The tenants argue that if there was any oral agreement, it is not enforceable without a writing since the agreement falls within the ambit of K.S.A. 33-106:
+“No action shall be brought whereby to charge a party upon any special promise to answer for the debt, default or miscarriage of another person; or to charge any executor or administrator upon any special promise to answer damages out of his own estate; or to charge any person upon any agreement made upon consideration of marriage; or upon any contract for the sale of lands, tenements, or hereditaments, or any interest in or concerning them; or upon any agreement that is not to be performed within the space of one year from the making thereof, unless the agreement upon which such action shall be brought, or some memorandum or note thereof, shall be in writing and signed by the party to be charged therewith, or some other person thereunto by him or her lawfully authorized in writing.”
+Statutory interpretation involves questions of law over which an appellate court’s standard of review is unlimited. State v. Roderick, 259 Kan. 107, 110, 911 P.2d 159 (1996).
+The district court’s apparent reliance upon K.S.A. 33-105 was error. Although the court’s statement that “[o]ral contracts for the lease of property for a term of 12 months or less are enforceable” is accurate, it is not applicable to the facts of this case. The lease at issue was indeed for a period of 12 months, but the 12 months was not to commence until August 1, 1997, which was after the alleged agreement to lease was formed. As such, it was an agreement that was “not to be performed within the space of one year from the making thereof.” See K.S.A. 33-106.
+In this case, the contract could not be performed within the space of 1 year since the alleged agreement itself was formed before the commencement of the 1-year lease term. The Kansas Supreme Court in Lane v. Ozias, 114 Kan. 46, 217 Pac. 331 (1923), held that a contract for lease of farming land which had been made in June 1919 for a term ending August 31, 1920, some 14 months in the future, was within the statute of frauds. The same result was reached in Tredick v. Birrer, 109 Kan. 488, 489, 200 Pac. 272 (1921). The court held: “Of course, under well-considered precedents, the contract founded on the oral promise of Reynolds made in June to rent these lands to defendant for another year which was to commence, not at that time, but at a future date, September 1, was void under . . . the statute of frauds.” 109 Kan. at 489. See also 6 A.L.R.2d 1053, 1100-07; 72 Am. Jur. 2d, Statute of Frauds § 95-96 (discussing the issue of 1-year leases to commence in the future).
+Was there a written agreement?
+The instant agreement was subject to K.S.A. 33-106, which requires that the writing be signed by the “party to be charged.” See Demaras v. Smith, 176 Kan. 416, 421, 271 P.2d 764 (1954); 30 A.L.R.2d 972, 974-982. Tenants were the parties to be charged, as they were the parties against whom landlord desired to enforce the agreement. The signed memorandum requirement of K.S.A. 33-106 was, therefore, satisfied as to Naughton, Sweeney, and Wood. The issue before us is whether the agreement was lawfully canceled by the tenants.
+• Tenants also argue that another statute, K.S.A. 58-2546(a), requires both the landlord and tenant to sign a lease for it to be valid and enforceable. K.S.A. 58-2546(a) provides:
+“If the landlord does not sign and deliver a written rental agreement which has been signed and delivered to such landlord by the tenant, die knowing acceptance of rent without reservation by the landlord gives die rental agreement the same effect as if it had been signed and delivered by die landlord.” (Emphasis added.)
+Tenants read something into the statute which is not readily found therein. They assert that the converse reading of K.S.A. 58-2546 is that a valid, enforceable agreement does not exist when only the tenant signs the lease. The effect of this interpretation of K.S.A. 58-2546 would be to supplant the authorization provided in K.S.A. 33-106 to maintain an action when the lease is only signed by the “party to be charged.” Tenants’ interpretation of the statute is inaccurate.
+The legislature’s intent was clearly to give the same effect to “knowingly accepting rent without reservation” as is given to. “signing and delivery of the lease by the landlord.” The converse reading of the statute is simply that nonacceptance of rent has the same effect as nonsigning and nondelivery.
+It is thus useful to ascertain what effect signing and delivery by the landlord had on the lease. The effect is that the lease also became actionable by tenant pursuant to K.S.A. 33-106, since landlord, as the party to be charged, signed the memorandum of the agreement. The lease agreement without the signature and delivery by landlord remained valid and enforceable only by landlord against tenants (who signed).
+The important facts here are that the tenants moved to cancel the agreement before it took effect and before it was accepted by the landlord. They never paid any rent for the second year. Therefore, there was no contract once it was canceled by the tenants before any action was taken on the lease.
+We therefore reverse the district court’s decision based on K.S.A. 33-105 and remand for further proceedings consistent with this opinion.
