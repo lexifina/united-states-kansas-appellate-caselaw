@@ -1,0 +1,45 @@
+---
+court: "Kansas Court of Appeals"
+docket: "53,837"
+decided: "1983-01-20"
+citations: ["8 Kan. App. 2d 317", "656 P.2d 783"]
+reporter: "kan-app-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Spencer, P.J., Parks, J., and Harry G. Miller, District Judge Retired, assigned."]
+parties: ["Donald R. Hiestand, Appellee, v. Amalgamated Meatcutters And Butcher Workmen of North America, AFL-CIO, et al., Appellants."]
+source_url: "https://static.case.law/kan-app-2d/8/cases/0317-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 386435
+cites_cases: ["2 Kan. App. 2d 683", "215 Kan. 724", "225 Kan. 844", "29 U.S.C. § 106", "330 U.S. 395", "383 U.S. 715", "401 U.S. 302", "587 P.2d 911", "6 Kan. App. 2d 196"]
+---
+
+# Hiestand v. Amalgamated Meatcutters & Butcher Workmen
+
+## Majority (Spencer, J.:)
+
+Spencer, J.:
+This is an appeal by defendant labor union from judgment rendered against it for damages for personal injuries sustained by plaintiff as the result of an assault and battery upon plaintiff by defendant Herschel Masterson, a union steward who had been assigned to picket duty, and by others who were members of the union. The altercation occurred during a lawful labor strike.
+Defendants’ motion for a directed verdict was denied and the case was submitted to the jury, which returned a verdict in favor of plaintiff and against the union for $95,583 and against defendant Masterson for the sum of $80.98.
+Of initial concern is whether the trial court properly instructed the jury as to the liability of the union for the tortious acts of its members committed during a lawful labor strike. Defendants requested an instruction which conformed in substance to the provisions of § 6 of the Norris-LaGuardia Act, 29 U.S.C. § 106, which provides:
+“No officer or member of any association or organization, and no association or organization participating or interested in a labor dispute, shall be held responsible or liable in any court of the United States for the unlawful acts of individual officers, members, or agents, except upon clear proof of actual participation in, or actual authorization of, such acts, or of ratification of such acts after actual knowledge thereof.” Emphasis added.
+Notwithstanding, the trial court gave its instruction No. 10, which provides:
+“You are instructed that no officer, member of any organization, or organization, and no association or organization participating or interested in a labor-dispute shall be held responsible or liable in any court of the United States for any acts of individual officers, members or agents except upon proof of actual participation in or actual authorization of any such acts or of ratification of such acts after actual knowledge thereof. The term ‘ratification’ means to approve and sanction.”
+Defendant asserts error by the trial court in deleting the word “clear” from its instruction No. 10, which in effect reduced the standard of proof of the union’s liability from a clear and convincing standard to one sustained by a preponderance of the evidence.
+Despite assertions to the contrary, the record before us does not reveal an objection made to instruction No. 10 as it was given. K.S.A. 60-251(h) provides:
+“No party may assign as error the giving or failure to give an instruction unless he or she objects thereto before the jury retires to consider its verdict stating distinctly the matter to which he or she objects and the grounds of his or her objection unless the instruction is clearly erroneous.”
+Although an alternative instruction to instruction No. 10 was provided and requested, a proper and timely objection under 60-251(1?) was required. Apperson v. Security State Bank, 215 Kan. 724, 731, 528 P.2d 1211 (1974); Kiser v. Gilmore, 2 Kan. App. 2d 683, Syl. ¶ 5, 587 P.2d 911 (1978), rev. denied 225 Kan. 844 (1979). Accordingly, appellate review is limited to a determination of whether the instruction as given was clearly erroneous.
+“An instruction is clearly erroneous when the reviewing court reaches a firm conviction that if the trial error had not occurred there is a real possibility the jury would have returned a different verdict.” Musil v. Hendrich, 6 Kan. App. 2d 196, Syl. ¶ 3, 627 P.2d 367 (1981).
+It is argued that, by reason of § 6 of the Norris-LaGuardia Act, plaintiff cannot prevail as against the union by meeting only the ordinary burden of persuasion and to have given instruction No. 10, without the requirement of clear proof of actual participation, authorization or ratification of the tortious acts of the union members, was clearly erroneous.
+In Mine Workers v. Gibbs, 383 U.S. 715, 16 L.Ed.2d 218, 86 S.Ct. 1130 (1966), the United States Supreme Court stated:
+“This Court has consistently recognized the right of States to deal with violence and threats of violence appearing in labor disputes, sustaining a variety of remedial measures against the contention that state law was pre-empted by the passage of federal labor legislation.” 383 U.S. at 729.
+“We held in Brotherhood of Carpenters v. United States, 330 U.S. 395, 403, that
+‘whether § 6 should be called a rule of evidence or one that changes the substantive law of agency ... its purpose and effect was to relieve organizations . . . and members of those organizations from liability for damages or imputation of guilt for lawless acts done in labor disputes by some individual officers or members of the organization, without clear proof that the organization or member charged with responsibility for the offense actually participated, gave prior authorization, or ratified such acts after actual knowledge of their perpetration.”’ 383 U.S. at 736; emphasis added.
+“Although the statute does not define ‘clear proof,’ its history and rationale suggest that Congress meant at least to signify a meaning like that commonly accorded such similar phrases as ‘clear, unequivocal, and convincing proof.’ Under this standard, the plaintiff in a civil case is not required to satisfy the criminal standard of reasonable doubt on the issue of participation, authorization or ratification; neither may he prevail by meeting the ordinary civil burden of persuasion. He is required to persuade by a substantial margin, to come forward with ‘more than a bare preponderance of the evidence to prevail.’” 383 U.S. at 737.
+In Brotherhood of Carpenters v. U.S., 330 U.S. 395, 403, 91 L.Ed. 973, 67 S.Ct. 775 (1947), it was held in reference to § 6 of the Norris-LaGuardia Act:
+“[I]ts purpose and effect was to relieve organizations, whether of labor or capital, and members of those organizations from liability for damages or imputation of guilt for lawless acts done in labor disputes by some individual officers or members of the organization, without clear proof that the organization or member charged with responsibility for the offense actually participated, gave prior authorization, or ratified such acts after actual knowledge of their perpetration.”
+In Ramsey v. Mine Workers, 401 U.S. 302, 28 L.Ed.2d 64, 91 S.Ct. 658 (1971), the court stated:
+“The legislative history of § 6 was reviewed at length in United Brotherhood of Carpenters v. United States .... We have reviewed it again and find nothing to suggest the section means something different from what its language seems to say. Without laboring the matter . . . the simple concern of Congress was that unions had been found liable for violence and other illegal acts occurring in labor disputes which they had never authorized or ratified and for which they should not be held responsible. Congress discerned a tendency in courts to blame unions for everything occurring during a strike. Nor was the problem necessarily limited to labor unions. The straightforward answer was § 6, with its requirement that when illegal acts of any individual are charged against one of the major antagonists in a labor dispute — whether employer or union — the evidence must clearly prove that the individual’s acts were authorized or ratified.” 401 U.S. at 309-10.
+“In our view, § 6 requires clear and convincing evidence only as to the Union’s authorization, participation in, or ratification of the acts allegedly performed on its behalf.” 401 U.S. at 311.
+Although we recognize that a labor union or its membership may be held liable under general principles of agency law for the tortious acts of its officers or its members during the course of a lawful strike, we conclude that, by reason of the foregoing and the express terms of § 6 of the Norris-LaGuardia Act, the union may not properly be held liable except upon clear proof of actual participation in or authorization of such acts, or of ratification of such acts after actual knowledge thereof. Failure of the trial court to so instruct the jury in this case was clear error, which requires remand of this cause for a new trial.
+Having so decided, other issues on appeal need not be addressed. Accordingly, the judgment as entered by the trial court is reversed and this cause is remanded for a new trial on all issues.
