@@ -1,0 +1,37 @@
+---
+court: "Kansas Court of Appeals"
+docket: "82,967"
+decided: "2000-04-14"
+citations: ["27 Kan. App. 2d 372", "4 P.3d 639"]
+reporter: "kan-app-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Knudson, P.J., Green, J., and Buchele, S.J."]
+parties: ["State of Kansas, Appellee, v. Jarvis T. Collins, Appellant."]
+source_url: "https://static.case.law/kan-app-2d/27/cases/0372-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 96429
+cites_cases: ["13 Kan. App. 2d 723", "216 Kan. 390", "22 Kan. App. 2d 605", "254 Kan. 62", "255 Kan. 899", "259 Kan. 346", "266 Kan. 322", "487 U.S. 1211", "838 F.2d 105"]
+---
+
+# State v. Collins
+
+## Majority (Knudson, J.:)
+
+Knudson, J.:
+Jarvis T. Collins appeals his jury trial convictions for rape and robbery after being sentenced to 342 months of imprisonment. On appeal, Collins contends the trial court erred in denying his pretrial motion for substitute counsel and that the robbery conviction is not supported by substantial competent evidence.
+We affirm.
+The sordid details of the events leading up to Collins’ convictions need not be reiterated. The victim is a 58-year-old widow, B.F., who was raped and robbed in her apartment by Collins.
+Collins’ first contention is that the trial court erred in not appointing substitute counsel when Collins filed a pro se motion 7 days prior to trial. In his motion, Collins complained his attorney did not respond to Collins’ attempts to contact him, had a lack of interest in his case, and waived a preliminary hearing in a different case. Collins alleged he would feel threatened and intimidated if the court allowed current counsel to continue assisting in his case.
+“ ‘As a general rule, whether the dissatisfaction of an indigent accused with court-appointed counsel warrants discharge of that counsel and appointment of new counsel is for the trial court, in its discretion, to decide.’ ” State v. Collier, 259 Kan. 346, 358, 913 P.2d 597 (1996) (quoting State v. Ferguson, 254 Kan. 62, Syl. ¶ 1, 864 P.2d 693 [1993]). “ ‘ “As long as the trial court has a reasonable basis for believing the attorney-client relation has not deteriorated to a point where appointed counsel can no longer give effective aid in the fair presentation of a defense, the court is justified in refusing to appoint new counsel [citation omitted].” ’ ” Collier, 259 Kan. at 358 (quoting Ferguson, 254 Kan. at 70).
+On February 5,1999, a hearing was held. At the hearing, Collins reiterated the same issues set out in his motion and added that in October he had been sentenced to 13 months in the penitentiary. Collins was represented by the same counsel as in the present case in that proceeding. Collins stated he believed that if his attorney had handled things “accordingly and properly,” he would not be spending time in the penitentiary. In closing, Collins stated he has “much more interest in this case,” because it could cost him the rest of his life in prison. The judge found the reasons stated by Collins were legally insufficient and denied the motion.
+In U.S. v. Gallop, 838 F.2d 105, 108 (4th Cir.), cert. denied 487 U.S. 1211 (1988), three factors were set out to be used when determining whether there was an abuse of discretion in denying a motion to discharge a court-appointed attorney. These factors are: (1) timeliness of the motion; (2) adequacy of the trial court’s inquiry into the defendant’s complaint; and (3) whether the conflict was so great that it resulted in total lack of communication and prevented an adequate defense. State v. Saeger, 13 Kan. App. 2d 723, 724, 779 P.2d 37 (1989).
+First, we consider whether Collins’ motion filed 7 days before the trial date was timely. Apparently, the trial court believed the motion to be timely as its decision was on the merits with no reference to this question. We will not substitute our judgment for that of the trial court.
+A proper inquiry was made into Collins’ dissatisfaction. Collins was given an opportunity to explain why he felt it necessary to have substitute counsel. Inquiry does not necessarily mean that the judge must engage in a question and answer period.
+Finally, the conflict was not so great that it resulted in a total lack of communication and prevented an adequate defense. Collins’ main complaint is that in an earlier case, he was sentenced to 13 months in the penitentiary. He offers no specific examples of why he believes his attorney did not handle the prior case correctly or how that case impacts the present case. Collins also claims he was intimidated, but again, he does not offer support for this assertion. “ ‘An indigent criminal defendant may not demand a different appointed lawyer except for good cause.’ ” State v. Cuddy, 22 Kan. App. 2d 605, 607, 921 P.2d 219 (1996) (quoting State v. Banks, 216 Kan. 390, Syl. ¶ 1, 532 P.2d 1058 [1975]).
+Accordingly, after applying the Gallop factors and noting a total absence of specificity that would suggest prejudice to Collins’ fundamental rights at trial, we conclude the trial court did not abuse its discretion in denying Collins’ motion for substitute counsel. However, we acknowledge this is a close question primarily because of the trial court’s failure to make a detailed inquiry into the defendant’s complaints and grievances. Although we have concluded the trial court’s inquiry was adequate, we would urge the trial bench to go beyond mere adequacy when considering a defendant’s dissatisfaction with or distrust of his or her attorney. For example, the better practice would be for the trial court to always identify and specifically address the Gallop factors. We believe a more searching inquiry would greatly assist a reviewing court and would also go a long way toward persuading a reasonable pro se defendant that his or her legitimate concerns are not being given short shrift by the trial court.
+Next, Collins argues there was insufficient evidence to support a conviction for robbery.
+The standard of review is whether, after review of all the evidence, viewed in the light most favorable to the prosecution, this court is convinced that a rational factfinder could have found the defendant guilty beyond a reasonable doubt. State v. Johnson, 266 Kan. 322, 326, 970 P.2d 990 (1998).
+To establish that the crime of robbery occurred, the State must prove Collins took property from the person or presence of B.F. by force or threat of bodily harm. See K.S.A. 21-3426. The jury heard testimony from B.F. that Collins had choked her almost into unconsciousness when he was seeking possession of her checks and credit cards. The jury heard B.F. testify she had her PIN number written down on apiece of paper which she surrendered to Collins. Collins needed the PIN number in order to use B.F.’s credit cards. Clearly, there was evidence presented that Collins took B.F.’s PIN number from her person by force or threat of bodily harm.
+The jury’s function is to weigh the evidence and determine credibility, and its decision will not be disturbed on review if supported by substantial competent evidence. See State v. Borthwick, 255 Kan. 899, 904-05, 880 P.2d 1261 (1994). The juiy received instructions on both robbery and theft. The jury determined the correct conviction was robbery. This determination was supported by substantial competent evidence.
+Affirmed.
