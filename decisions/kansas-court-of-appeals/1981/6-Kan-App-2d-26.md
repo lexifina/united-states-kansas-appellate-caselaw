@@ -1,0 +1,46 @@
+---
+court: "Kansas Court of Appeals"
+docket: "51,555"
+decided: "1981-04-17"
+citations: ["6 Kan. App. 2d 26", "626 P.2d 802"]
+reporter: "kan-app-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Justice Holmes, presiding; Meyer, J.; and Harry G. Miller, District Judge Retired, assigned."]
+parties: ["Frank Pecenka and Newton T. Stewart, Appellants, v. John W. Alquest, Lowell Long, W. Van Alexander and Robert C. Harder, in their individual capacities as employees of the State of Kansas, The State of Kansas and the Kansas State Department of Social and Rehabilitation Services, Appellees."]
+source_url: "https://static.case.law/kan-app-2d/6/cases/0026-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 391039
+cites_cases: ["106 Pac. 279", "115 Kan. 92", "209 Kan. 127", "220 Kan. 394", "220 Kan. 631", "221 Kan. 540", "222 Pac. 136", "227 Kan. 45", "227 Kan. 533", "81 Kan. 207"]
+---
+
+# Pecenka v. Alquest
+
+## Majority (Meyer, J.:)
+
+Meyer, J.:
+This appeal is from the trial court’s order which dismissed appellants’ case based on the two-year statute of limitations set out in K.S.A. 60-513. Appellants had alleged violations of the veteran’s preference law, K.S.A. 73-201 et seq. [Kansas Statutes Annotated citations in this opinion pertaining to the veteran’s preference law refer to Volume 5A (Ensley 1980).]
+Appellants were originally employed by the Department of Social and Rehabilitation Services (SRS), but were discharged on June 17, 1975, when their jobs were eliminated. Both appellants are veterans of military service. They first filed an action in federal district court on grounds that they were terminated without a hearing and thus were denied due process of law. The federal district court dismissed the case on the merits, ruling that due process did not require a termination hearing where the termination was based solely on budgetary considerations.
+Thereafter, appellants filed their action in state court basing same on a claimed violation of K.S.A. 73-201 et seq., the veteran’s preference law. In this case appellants sued the State, SRS, and several SRS employees in their individual capacities. Appellants sought declaratory relief, reinstatement, and back pay.
+Appellees joined in a motion to dismiss which alleged that the action was barred by the two-year statute of limitations set out in K.S.A. 60-513. Appellants argued in their brief to the court that the filing of the claim was delayed by an assistant attorney general who was in correspondence with appellants’ attorney.
+The trial court granted the motion to dismiss, holding that the two-year statute of limitations was applicable. The court also ruled, as a matter of law, that there was no agreement in evidence between the assistant attorney general and counsel for appellants to waive service of process before June 17, 1977 (the day the two-year statute of limitations ran).
+Appellants contend the court erred in ruling that the two-year statute of limitations applied.
+We must decide which of the following two statutes apply.
+K.S.A. 60-512(2) is a three-year statute of limitations upon “[a]n action upon a liability created by a statute other than a penalty or forfeiture.”
+K.S.A. 60-513(a)(4) is a two-year statute of limitations covering “[a]n action for injury to the rights of another, not arising on contract, and not herein enumerated.”
+At the heart of this matter is whether the veteran’s preference law, K.S.A. 73-201 et seq., creates a liability other than a penalty or forfeiture. That is, we must determine whether K.S.A. 73-201 et seq. confers upon these veteran appellants the right to sue for damages or other relief thereunder. If the veteran’s law does confer such a right, then the three-year statute of limitations applies and the appellants are correct in their claim that the trial court erred in dismissing their case.
+Where a statute is merely remedial in nature, in that it does not give any new rights, it does not create a statutory liability. See Kirtland v. Tri-State Insurance Co., 220 Kan. 631, 556 P.2d 199 (1976); and Farmers Ins. Co. v. Farm Bureau Mut. Ins. Co., 227 Kan. 533, 538-9, 608 P.2d 923 (1980).
+Actions which have been held to be founded on a liability created by statute include State, ex. rel., v. Masterson, 221 Kan. 540, 561 P.2d 796 (1977) [an action against a county treasurer and the surety on the treasurer’s bond]; and Hollinger v. Dickinson County, 115 Kan. 92, 222 Pac. 136 (1924) [an action against the county based on injuries due to a defective bridge].
+We note that in Hollinger v. Dickinson County, 115 Kan. at 93-4, the court, in holding the three-year statute of limitations applied, stated:
+“If all actions which are brought ‘for injury to the rights of another, not arising on contract’ are withdrawn from the class described as based upon a ‘liability created by statute, other than a forfeiture or penalty,’ it would seem that there would be nothing left, and this portion of the three-year provision would have no field of operation; for every cause of action involves a right of the plaintiff, a duty of the defendant, and a ‘delict or wrong done by the defendant which consisted in a breach of such primary right and duty.’ (Pomeroy on Remedies and Remedial Rights, 2d ed., § 453.)”
+It is not enough to simply state that there is an injury to the rights of another to remove the cause of action from the operation of the three-year statute of limitations. Rather, the inquiry must be whether the statute created the cause of action. Thus, at 51 Am. Jur. 2d, Limitation of Actions § 82, p. 659, it is stated:
+“A statute ‘creates’ no liability, as regards the applicability of a statute of limitations with respect to an action to recover upon a liability created by statute, unless it discloses an intention, express or implied, that from disregard of the statutory command a liability for resultant damages shall arise which would not exist except for the statute. Clearly, an action is not based upon a liability created by statute if the right is one which would exist at common law in the absence of statute.”
+The duty to retain veterans, as in the instant case, is shown in K.S.A. 73-203, which states:
+“In making any reduction of force in any of the departments, cities or towns of this state, the officers of such department, city or town shall retain those persons who may be equally qualified who have been honorably discharged from the military or naval service of the United States, and the widows and orphans of deceased soldiers and sailors.”
+The veteran’s preference law, specifically K.S.A. 73-201, was enforced by a private citizen through an action in mandamus, in the case of Jury v. Adams, 81 Kan. 207, 106 Pac. 279 (1909), and the same remedy sections apply to K.S.A. 73-203. While no Kansas case has recognized a private action for damages under K.S.A. 73-203, we conclude that where the supreme court has held that mandamus will lie under the veteran’s statute, that an action for damages would also lie. Furthermore, we conclude that such an action is implied by the veteran’s statute. The implied cause of action doctrine allows the enforcement of civil remedies without express legislative permission. See Temmen v. Kent-Brown Chev. Co., 227 Kan. 45, 605 P.2d 95 (1980).
+Because the statute created the liability, we conclude that the applicable statute of limitations in the instant case is K.S.A. 60-512(2), the three-year statute, and that the trial court erred in holding that the two-year statute of limitations applied.
+Our holding as to the foregoing issue makes it unnecessary for us to address the second issue of appellants which was that appellees were estopped to assert the statute of limitations.
+The final issue involves appellees’ argument that because the case was litigated in federal district court, the doctrines of res judicata and collateral estoppel require dismissal herein.
+We conclude that there is no merit to appellees’ argument. Res judicata applies only to actions involving the same claim for relief. Hutchinson Nat’l Bank & Trust Co. v. English, 209 Kan. 127, 495 P.2d 1011 (1972). The primary right involved in the federal claim was for procedural due process. The right involved in the instant case was the right to be retained because of the status of the employees as veterans. Since the cases involve different rights or claims for relief, res judicata does not apply. It is noted that appellants raised the possibility of the federal district court retaining jurisdiction for the purposes of deciding their preference claim. However, the federal court stated that such claim was a state cause of action and should be decided by a state court. Thus, it was a separate claim for relief which was not decided by the federal court. As to collateral estoppel, the doctrine only applies if it is shown that the issue was actually decided in the prior action. Williams v. Evans, 220 Kan. 394, 552 P.2d 876 (1976). In the federal case, the issue of whether there was a right under the veteran’s preference law was not decided.
+The judgment of the trial court is reversed with instructions to reinstate appellants’ cause of action in that court.
+Reversed.
