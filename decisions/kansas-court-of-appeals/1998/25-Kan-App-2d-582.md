@@ -1,0 +1,38 @@
+---
+court: "Kansas Court of Appeals"
+docket: "80,569"
+decided: "1998-10-16"
+citations: ["25 Kan. App. 2d 582", "966 P.2d 1117"]
+reporter: "kan-app-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Royse, P.J., Marquardt, J„ and Dan D. Boyer, District Judge, assigned."]
+parties: ["Jeffrey S. Collier, Appellant, v. Michael A. Nelson, Warden, Appellee."]
+source_url: "https://static.case.law/kan-app-2d/25/cases/0582-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1109835
+cites_cases: ["11 Kan. App. 2d 178", "12 Kan. App. 2d 183", "20 Kan. App. 2d 710", "209 Kan. 442", "23 Kan. App. 2d 445", "242 Kan. 905", "252 Kan. 98", "257 Kan. 1093", "262 Kan. 962", "263 Kan. 582", "416 U.S. 396", "482 U.S. 78", "490 U.S. 401", "74 F.3d 191", "899 F. Supp. 892"]
+---
+
+# Collier v. Nelson
+
+## Majority (Marquardt, J.:)
+
+Marquardt, J.:
+Jeffrey S. Collier appeals the denial of his K.S.A. 60-1501 petition.
+On July 22, 1997, Collier, an inmate at the El Dorado Correctional Facility (EDCF), filed a K.S.A. 60-1501 petition alleging that Internal Management Policy and Procedure (IMPP) 12-120 of the Kansas Department of Corrections (DOC) violates his rights to freedom of speech and association under the First Amendment to the United States Constitution.
+IMPP 12-120, which became effective April 21, 1997, states: “Postage stamps shall only be permitted as a canteen purchase item, and any allowable personal property which is categorized as an 'appliance’ in Attachment B shall be either stocked in the canteen or made available for purchase by special order through the canteen.” Attachment B provides that an inmate may possess no more than 25 postage stamps of ''[a]ny denomination up to and including that which is required to mail a one (1) ounce First Class letter.”
+The district court appointed counsel for Collier and held a hearing on his petition. Collier argued that IMPP 12-120 denies him access to the mails.
+The State responded that IMPP 12-120 does not violate Collier’s First Amendment rights and that inmates may receive funds from persons outside of the prison to purchase postage; however, in the event the inmate owes any fines or restitution, then the outside funds will be used to satisfy the outstanding debt first. The State argued that Collier was afforded due process prior to the imposition of any fines or restitution.
+Collier is unable to purchase stamps from the canteen with his own funds because he owes fines and restitution that were assessed against him during his incarceration. The district court found that the fine and restitution orders assessed against Collier were “the product of his own activity.”
+The district court also found that “[e]ach week the inmate receives two envelopes and adequate postage to mail these envelopes. Additionally, legal mail is sent out of the facility at the expense of the State.” The district court concluded that Collier’s First Amendment rights were not violated and denied his petition. Collier timely appeals.
+K.S.A. 75-5251 authorizes the adoption of rules and regulations by the Secretary of Corrections. A challenge to an alleged First Amendment violation by a penal institution is appropriate under K.S.A. 60-1501. See Mahan v. Maschner, 11 Kan. App. 2d 178, 179, 717 P.2d 1059 (1986). An inmate’s claim brought pursuant to K.S.A. 60-1501 et seq. must be based upon deprivation of a constitutional right or be subject to summary dismissal. Ramirez v. State, 23 Kan. App. 2d 445, Syl. ¶ 3, 931 P.2d 1265, rev. denied 262 Kan. 962 (1997).
+In Swisher v. Hamilton, 12 Kan. App. 2d 183, 184-85, 740 P.2d 95, rev. denied 242 Kan. 905 (1987), the court stated:
+“[T]he maintenance and administration of penal institutions are executive functions and, before courts will interfere, the institutional treatment must be of such a nature as to clearly infringe upon constitutional rights, be of such character or consequence as to shock the general conscience, or be intolerable to fundamental fairness. Levier v. State, 209 Kan. 442, 451, 497 P.2d 265 (1972). Therefore, to avoid summary dismissal of a K.S.A. 60-1501 petition, allegations must be made of shocking and intolerable conduct or continuing mistreatment of a constitutional stature.”
+K.S.A. 60-1501(a) states:
+“Subject to the provisions ofKS.A. 60-1507, and amendments thereto, anyperson in this state who is detained, confined, or restrained of liberty on any pretense whatsoever . . . may prosecute a writ of habeas corpus in the supreme court, court of appeals or the district court of the county in which such restraint is taking place.” (Emphasis added.)
+The standard of review for a K.S.A. 60-1507 appeal is whether the factual findings of the district court are supported by substantial competent evidence and whether those findings are sufficient to support its conclusions of law. Taylor v. State, 252 Kan. 98, 103, 843 P.2d 682 (1992). This same standard of review applies to petitions filed pursuant to K.S.A. 60-1501. Substantial evidence is such legal and relevant evidence as a reasonable person might accept as being sufficient to support a conclusion. State v. Wonders, 263 Kan. 582, 589, 952 P.2d 1351 (1998). Conclusions of law are reviewed de novo. Rice v. State, 20 Kan. App. 2d 710, 711, 893 P.2d 252, rev. denied 257 Kan. 1093 (1995).
+Correspondence between an inmate and an outsider implicates the First Amendment right to freedom of speech and a qualified liberty interest under the Fourteenth Amendment; as such, it is protected from arbitrary governmental suppression. See Procunier v. Martinez, 416 U.S. 396, 408-09, 418, 40 L. Ed. 2d 224, 94 S. Ct. 1800 (1974), overruled in part Thornburgh v. Abbott, 490 U.S. 401, 413-14, 104 L. Ed. 2d 459, 109 S. Ct. 1874 (1989). Any regulation or practice that restricts outgoing inmate correspondence must promote a legitimate governmental interest, such as security, order, or rehabilitation. Moreover, limitations on outgoing prisoner mail must be reasonably related to legitimate penological interests. See Thornburgh, 490 U.S. at 413; Turner v. Safley, 482 U.S. 78, 89, 96 L. Ed. 2d 64, 107 S. Ct. 2254 (1987); see also Treff v. Galetka, 74 F.3d 191, 194-95 (10£h Cir. 1996) (noting limitation of Martinez only to outgoing mail by Thornburgh); Dawes v. Carpenter, 899 F. Supp. 892, 895 (N.D.N.Y. 1995) (ehmination of postage subsidy for nonprivileged mail not constitutional violation where prisoners could receive both incoming mail and visitors, make collect phone calls, and purchase stamps); cf. Maschner, 11 Kan. App. 2d at 180, 184 (applying Martinez pre-Thornburgh and holding inmate could receive incoming subscription to magazine with some content censorship if necessary).
+In this case, the State explained that IMPP 12-120 changed EDCF’s stamp policy because postage stamps were fungible and easily bartered inside prison. EDCF feared an unregulated black market inside the prison, with stamps being used as a form of currency. IMPP 12-120 allows prisoners to possess a total of 25 first-class stamps at any given time, which must be purchased with cash at the prison canteen. This policy promotes two legitimate governmental interests — prison security and order.
+There is substantial competent evidence to support the district court’s decision that the policy of the DOC and EDCF to provide inmates with two envelopes and postage per week for personal mail,, to pay for and allow the mailing of all legal mail, and to allow the inmates to receive funds from persons outside of the prison to purchase stamps does not violate an inmate’s First Amendment rights.
+Affirmed.
