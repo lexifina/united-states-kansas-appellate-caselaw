@@ -1,0 +1,39 @@
+---
+court: "Kansas Court of Appeals"
+docket: "89,860"
+decided: "2003-12-19"
+citations: ["32 Kan. App. 2d 178", "81 P.3d 444"]
+reporter: "kan-app-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Pierron, P.J., Greene, J., and Jones, S.J."]
+parties: ["Robert S. Bradley, Appellant, v. State of Kansas, Appellee."]
+source_url: "https://static.case.law/kan-app-2d/32/cases/0178-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 624092
+cites_cases: ["221 Kan. 412", "233 Kan. 920", "234 Kan. 594", "257 Kan. 1043", "26 Kan. App. 2d 826", "263 Kan. 118", "263 Kan. 340", "266 Kan. 690", "269 Kan. 934", "270 Kan. 163", "420 U.S. 103"]
+---
+
+# Bradley v. State
+
+## Majority (Pierron, J.:)
+
+Pierron, J.:
+Robert S. Bradley appeals the district court’s summary dismissal of his K.S.A. 60-1507 motion. We affirm.
+Bradley was convicted by a jury of one count of rape, two counts of aggravated criminal sodomy, one count of aggravated indecent liberties with a child, and one count of aggravated solicitation of a child. He was sentenced to 224 months. An appeal followed and Bradley’s convictions were affirmed.
+Bradley filed a K.S.A. 60-1507 motion asserting that K.S.A. 2002 Supp. 22-2902 had been violated at his preliminary hearing. Furthermore, he asserts counsel was ineffective for not objecting at his preliminary hearing to the State’s violations of the Kansas statutes and rules of evidence. This argument was premised upon the fact the 8-year-old victim did not testify at his preliminary hearing. Bradley argued evidentiary rales were violated when the victim’s mother and the officer who interviewed the victim testified at his preliminary hearing. He contends his counsel should have objected to the admission of hearsay evidence.
+The district court judge who had presided over the jury trial denied Bradley’s 60-1507 motion. The court concluded that Bradley’s arguments were without merit because “there is no federal or state constitutional right which precludes the admission of hearsay evidence at a preliminary examination as there is no constitutional right to confront witnesses at this stage of the proceedings.” Furthermore, the court stated: “files and records . . . including the transcript of the preliminary examination of the trial show that movant’s two attorneys acted competently.”
+On appeal, Bradley argues counsel was ineffective for allowing the victim’s mother and Deputy Newquist to testify at his preliminary hearing. He asserts his counsel did not object to tire testimony or challenge the constitutionality of K.S.A. 2002 Supp. 22-2902(3). He contends that without their testimony there would not have been sufficient evidence to establish the probable cause needed to bind him over for trial. These arguments fail and the district court did not abuse its discretion in summarily denying his 60-1507 motion.
+The current standard of review when the district court fails to appoint counsel and summarily denies petitioner’s motion is abuse of discretion. See Lujan v. State, 270 Kan. 163, 169, 14 P.3d 424 (2000); Estes v. State, 221 Kan. 412, 414, 559 P.2d 392 (1977); Supreme Court Rule 183(h) (2003 Kan. Ct. R. Annot. 213) (district court has discretion to ascertain whether claim is substantial before granting full evidentiary hearing).
+Bradley must show that his counsel’s performance was deficient and that the deficient performance prejudiced him, depriving him of a fair trial. See Sanders v. State, 26 Kan. App. 2d 826, 828, 995 P.2d 397 (1999), rev. denied 269 Kan. 934 (2000).
+Bradley argues counsel should have objected to hearsay evidence at his preliminary hearing. He also argues K.S.A. 2002 Supp. 22-2902(3), allowing the admission of hearsay evidence given the facts of this case, is unconstitutional. They are, essentially, the same argument.
+In State v. Cremer, 234 Kan. 594, 598-99, 676 P.2d 59 (1984), the Kansas Supreme Court held that the rules of evidence, including K.S.A. 60-460, are to be applied in a prehminaiy hearing except where relaxed hy other rules or statutes. In State v. Sherry, 233 Kan. 920, 931, 667 P.2d 367 (1983), (citing Gerstein v. Pugh, 420 U.S. 103, 120, 43 L. Ed. 2d 54, 95 S. Ct. 854 [1975]), the court discussed this premise in more detail: “The requirement that the rules of evidence apply at the preliminary examination was incorporated by our legislature, and not mandated by the Constitution of the United States. The Constitution does not forbid the states from authorizing the use of hearsay evidence in determining probable cause at the preliminary examination.”
+Hence, hearsay is allowed in preliminaiy hearings when a statute authorizes it. State legislation relaxing the rules of evidence is not unconstitutional. See also State v. Crow, 266 Kan. 690, 703-07, 974 P.2d 100 (1999) (hearsay evidence admitted by authority of K.S.A. 1999 Supp. 22-3437 held not violative of United States Constitution or Kansas Constitution).
+K.S.A. 2002 Supp. 22-2902(3) provides in pertinent part:
+“The defendant shall be personally present and except for witnesses who are children less than 13 years of age, the witnesses shall be examined in the defendant’s presence. . . . Except for witnesses who are children less than 13 years of age, the defendant shall have the right to cross-examine witnesses against the defendant and introduce evidence in the defendant’s own behalf. . . . When the victim of the felony is a child less than 13 years of age, the finding of probable cause as provided in this subsection may be based upon hearsay evidence in whole or in part presented at the preliminary examination by means of statements made by a child less than 13 years of age on a videotape recording or by other means.” (Emphasis added.)
+Therefore, Bradley s counsel would have had no grounds to object to the admission of the hearsay testimony at the preliminary hearing. Additionally, Bradley ignores the general standard for reviewing alleged errors at a preliminary hearing after a defendant has stood trial and been convicted. “ ‘[Wjhere an accused has gone to trial and been found guilty beyond a reasonable doubt, any error at the preliminary hearing is harmless unless the error caused prejudice at trial.’ ” State v. Henry, 263 Kan. 118, 129, 947 P.2d 1020 (1997) (quoting State v. Butler, 257 Kan. 1043, 1062, 897 P.2d 1007 [1995]).
+The victim testified at trial. Her brother, who was present at the time of the crimes, testified at trial. Bradley was found guilty beyond a reasonable doubt. Therefore, Bradley’s argument related to the preliminary hearing fails and the district court did not abuse its discretion by not holding an evidentiary hearing or denying the 60-1507 motion.
+Next, Bradley attempts to cloak the same argument as a violation of his Sixth Amendment right to confrontation. This also fails.
+The Kansas Supreme Court has held that “the Sixth Amendment right of confrontation is satisfied if the accused was once confronted by the witness at any stage of the proceedings in the same case and has had an opportunity of cross-examination.” State v. Zamora, 263 Kan. 340, 342, 949 P.2d 621 (1997). Bradley cross-examined the victim at trial. Moreover, in Crow, the court discussed the public policy involved in cases without any face-to-face confrontation. The public policy is an attempt to limit additional psychological harm to a child victim. 266 Kan. at 703.
+In this case, however, Bradley did have a face-to-face confrontation with the victim at some time during the proceedings. His Sixth Amendment rights were not violated. Furthermore, because the statute Bradley had hoped his attorney would challenge is not unconstitutional, the arguments set forth in his 60-1507 motion did not require an evidentiary hearing. The district court did not err in summarily dismissing Bradley s 60-1507 motion.
+Affirmed.
