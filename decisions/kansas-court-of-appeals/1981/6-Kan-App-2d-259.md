@@ -1,0 +1,35 @@
+---
+court: "Kansas Court of Appeals"
+docket: "51,783"
+decided: "1981-05-08"
+citations: ["6 Kan. App. 2d 259", "627 P.2d 1159"]
+reporter: "kan-app-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Justice Prager, presiding, Abbott, J., and J. Patrick Brazil, District Judge, assigned."]
+parties: ["New Hampshire Insurance Company, a corporation authorized to do business in the State of Kansas, Appellee, v. Jeffrey L. Hewins and Marybeth Hewins, Husband and Wife, Appellants."]
+source_url: "https://static.case.law/kan-app-2d/6/cases/0259-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 390935
+cites_cases: ["171 Kan. 688", "192 Kan. 566", "192 Kan. 691", "225 Kan. 359"]
+---
+
+# New Hampshire Insurance v. Hewins
+
+## Majority (Abbott, J.:)
+
+Abbott, J.:
+This is a subrogation action brought by the plaintiff, New Hampshire Insurance Company, to recover money paid to an insured landlord for a fire loss that occurred in a duplex occupied by the defendants, Jeffrey L. Hewins and Marybeth Hewins.
+The trial court granted plaintiff’s motion for summary judgment and entered judgment against the defendants in the amount of $1,400. The parties had previously stipulated to the amount of damages. Defendants appeal, contending that the defendant Jeffrey L. Hewins should have had judgment entered in his favor and that the alleged negligence of Marybeth Hewins was a question of fact that should have been submitted to the jury.
+The facts that gave rise to this lawsuit are simple and basically undisputed. The defendants were tenants of insured landlord by virtue of an oral, month-to-month lease. On the date the fire occurred, Marybeth Hewins and the two minor Hewins children were at the duplex. Marybeth placed a can of Crisco on an electric burner and turned the burner to a medium-high setting. The can contained about two and a half inches of Crisco that had been used to french fry potatoes on ten or twelve previous occasions. Marybeth left the duplex to check on one of the children, and was about thirty feet from the front door talking to a neighbor when her husband, Jeffrey L. Hewins, arrived home. As she went to greet him, both she and her husband noticed there was a fire in the kitchen. This was about two minutes after she had left the duplex. Jeffrey removed the second child from the duplex, then hooked up a garden hose and extinguished the fire.
+The issues in this case involve K.S.A. 58-2555(f), which provides:
+“The tenant shall ... be responsible for any destruction, defacement, damage, impairment or removal of any, part of the premises caused by an act or omission of the tenant or by any person or animal or pet on the premises at any time with the express or implied permission or consent of the tenant.”
+It was the opinion of the trial court that the above quoted portion of the landlord-tenant act became a part of the oral rental contract between the defendants and their landlord, that Marybeth Hewins was negligent as a matter of law, and that Jeffrey Hewins was liable for her negligence as a tenant by virtue of the above quoted statute.
+Independent of the statute in issue, and independent of an express covenant, Kansas law imposes an obligation on a tenant to return the premises to the landlord at the end of a rental term unimpaired by the negligence of the tenant. Salina Coca-Cola Bottling Corp. v. Rogers, 171 Kan. 688, 691-92, 237 P.2d 218 (1951); In re Estate of Morse, 192 Kan. 691, 695, 391 P.2d 117 (1964).
+Marybeth Hewins argues that her negligence was a question of fact for the jury. As we view her argument, she does not dispute the basic fact that she placed a can of Crisco on an electric stove burner, turned the burner to medium-high and then left the can unattended; but she argues that she was not aware the “flashpoint” of the hot oil was much lower as a result of its previous use in cooking food than she had realized. We are satisfied the trial judge correctly found Marybeth Hewins negligent as a matter of law.
+The Uniform Residential Landlord and Tenant Act (1972) was considered and its legislative history and intent discussed in Clark v. Walker, 225 Kan. 359, 590 P.2d 1043 (1979). The Supreme Court pointed out that the legislature intended to enact a comprehensive landlord-tenant code that would establish a single standard of reference for both landlords and tenants. The Kansas act is based largely on the uniform act, but with some modification; and K.S.A. 58-2555(f) is one section at variance with the uniform act. The uniform act provides that “[a] tenant shall . . . not deliberately or negligently destroy, deface, damage, impair, or remove any part of the premises or knowingly permit any person to do so.” Art. III, § 3.101(6). The authors of the uniform act commented that the intent was to establish minimum duties of tenants consistent with public standard's of health and safety.
+We are unaware of any reason why Kansas cannot impose a greater liability on a tenant than that contemplated by the uniform act, and defendants do not argue otherwise. The legislature obviously intended to do so. The Special Committee on Consumer Protection, in its report to the 1974 Kansas legislature (Proposal No. 17—Landlord-Tenant Relations) concerning Senate Bill No. 233, noted the change under consideration was worded differently from the uniform act and imposed a greater responsibility on the tenant insofar as persons on the premises with his consent are concerned.
+In the absence of a valid rental agreement to the contrary, the Kansas act provides the basic terms of the landlord-tenant relationship (K.S.A. 58-2545). As emphasized in Clark v. Walker, 225 Kan. at 364, the act provides both landlords and tenants with advantages and disadvantages.
+Prior to adoption of the landlord-tenant act, Kansas permitted a tenant to contract to return property at the end of a lease in as good condition as when possession was given to the tenant and held a tenant liable for damages to the leased premises that occurred without negligence on the part of the tenant. Mayall Hotel Co. v. Atchison Hotel Co., 192 Kan. 566, 389 P.2d 843 (1964). The landlord-tenant act by analogy establishes a contract between landlords and tenants who have not provided to the contrary that the tenant will be responsible for the negligent acts or omissions of a person on the premises with the express or implied consent of the tenant. Parties to a residential lease are presumed to contract with reference to presently existing statutes, and the provisions of the statute will be read into and become a part of the contract by implication except when a contrary intention has been manifested and is permitted by the act.
+In the case before us, the negligent act or omission was committed by a cotenant; and no reason exists to exclude Jeffrey L. Hewins from liability for the negligent act of a cotenant on the premises with his express or implied consent when he would have been liable for a guest’s conduct under the same circumstances.
+Affirmed.
