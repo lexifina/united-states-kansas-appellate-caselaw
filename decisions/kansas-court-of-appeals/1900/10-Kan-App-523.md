@@ -1,0 +1,32 @@
+---
+court: "Kansas Court of Appeals"
+docket: "758"
+decided: "1900-12-15"
+citations: ["10 Kan. App. 523", "63 P. 19"]
+reporter: "kan-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["J. A. Smith v. S. L. Brooking, Missouri, Kansas & Texas Live Stock Commission Company, and Edwin Tucker."]
+source_url: "https://static.case.law/kan-app/10/cases/0523-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 379510
+cites_cases: ["41 N. Y. 464", "61 Kan. 727"]
+---
+
+# Smith v. S. L. Brooking, Missouri, Kansas & Texas Live Stock Commission Co.
+
+## Majority (Milton, J.:)
+
+The opinion of the court was delivered by
+Milton, J.:
+This action was brought by the plaintiff in error to recover upon an indemnifying bond given by the defendants in error to the plaintiff in error in an attachment action brought in the district court of Greenwood county, by the Missouri, Kansas & Texas Live Stock Commission Company against William Freeman, M. J. Herrick, and D. H. Herrick. The defendant Tucker filed a demurrer, alleging failure of the petition to state a cause of action, and the demurrer was sustained and a judgment for costs was entered in favor of Tucker. The petition alleged that the sheriff required an indemnifying bond for the reason that the property about to be levied upon was claimed by one W. H. Freeman and by the firm of Willis & Errickson, and that the levy was made upon the promise of the attaching creditor to execute and deliver the required bond; that the levy was made on July 11, 1895, and that on October 2 or 3 thereafter the plaintiff in error herein demanded the bond of indemnity which the commission company had theretofore agreed to deliver to him, and thereupon the bond sued on was given; that a few days before the execution and delivery of the bond the defendant S. L. Brooking, as president of the commission company, without the knowledge or consent of plaintiff, disposed of the attached property, to wit, 288 head of cattle, and appropriated the same to the use of that company, and that Brooking in fact sold the cattle, making it impossible for the plaintiff to repossess himself thereof, which he sought to do by demanding the same from Brooking.
+It was also alleged that after the bond was given the commission company dismissed the attachment suit. The petition further alleged that on the 20th day of February, 1896, William Freeman, the principal defendant in the attachment action, sued this plaintiff in the district court of Greenwood county to recover the value of 188 head of the attached cattle, and thereafter obtained a judgment against this plaintiff, which, with costs, amounted to $778.62, and which judgment this plaintiff was compelled to pay. It was also alleged that the plaintiff notified the defendants herein of th'e pendency of the said action against him and that they employed counsel to defend therein for him. The petition contains an allegation to the effect that it was the understanding and intention of the obligors on the bond to secure the plaintiff “against any loss or damage that he might sustain or suffer in case the attachment should be discharged, or become void for any reason, and he be unable to return said attached property to the persons lawfully entitled to the same, on account of the acts or proceedings concerning said property by the plaintiff in the action in which said order of attachment issued, to wit, the Missouri, Kansas & Texas Live Stock Commission Company, or any other persons.”
+The bond, with the caption omitted, reads:
+“We, the undersigned principal and sureties, bind ourselves hereby to pay to J. A. Smith, as sheriff, all damages and costs that he may sustain as such sheriff by reason of the detention or sale of the property levied on in this suit, by virtue of a certain writ of attachment herein and now claimed as the property of W. H. Freeman, in an action against said sheriff by said W. H. Freeman in said court for conversion, and indemnifying said sheriff for release of said levy against all persons whomsoever.
+S. L. Brooking, President.
+M. K. & T. L. S. Com. Co.
+S. L. Brooking.
+Edwin Tucker.”
+It is contended by counsel for plaintiff in error that the bond must be interpreted in the light of the surrounding facts existing at the time of its execution and delivery, and the following cases are cited in support of the contention: Griffith v. Hardenbergh, 41 N. Y. 464; Bank v. Brigham, 61 Kan. 727, 60 Pac. 754. In the latter case the first paragraph of the syllabus reads:
+“The real nature and object of an instrument of writing, which, on its face, appears doubtful or ambiguous in meaning, may be shown by evidence of the inducing causes to the making of it, and of the facts and circumstances surrounding the transaction and involving the parties in their execution of the paper.”
+Under the allegations of the petition, the only language of the bond requiring consideration reads r “and indemnifying said sheriff for release of said levy against all persons whomsoever.” It is, in effect, alleged that the bond was given at a time when the parties to it. were well aware that by the act of Brooking the attached property had passed entirely from the control of the sheriff, and the language of the bond respecting the release of the levy might have been employed in contemplation of the early dismissal of the action by the plaintiff therein on account of such fact. In the state of facts set forth in the petition, the defendant William Freeman had a right to demand from the sheriff a return of the attached property upon the dismissal of the action, and a right to recover damages if the same should not be delivered. The fact that the defendants employed counsel to defend for the plaintiff herein when he was sued by William Freeman for the recovery of the value of part of the attached cattle indicates a recognition, at that time, of their responsibility under the bond. Whether or not the light of all “the facts and circumstances surrounding the transaction and involving the parties in their execution of the paper ’ ’ would disclose a right of recovery on the part of the plaintiff, is a question which ought to be determined by a trial of the action. We think the demurrer to the petition should'have been overruled. The judgment of the district court will be reversed, and the cause remanded with instructions to overrule the demurrer to the petition.
