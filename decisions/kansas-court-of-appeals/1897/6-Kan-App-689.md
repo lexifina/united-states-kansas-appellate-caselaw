@@ -1,0 +1,35 @@
+---
+court: "Kansas Court of Appeals"
+docket: "194"
+decided: "1897-10-16"
+citations: ["6 Kan. App. 689"]
+reporter: "kan-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["The Alliance Trust Company v. August H. Barrett and Beulah Barrett."]
+source_url: "https://static.case.law/kan-app/6/cases/0689-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 348431
+cites_cases: ["30 Kan. 377"]
+---
+
+# Alliance Trust Co. v. Barrett
+
+## Majority (Schoonover, J.)
+
+Schoonover, J.
+The plaintiff in error commenced an action in the District Court of Harper County, against the defendants • in error, to foreclose a mortgage on certain real estate in Harper County, executed by the defendant in error to the Lombard Investment Company to secure a note for fifteen hundred dollars, which note and mortgage were, before maturity, for value, indorsed and assigned to plaintiff in error. Summons was duly issued and personal service made upon the defendants in error on the seventh day of October, 1889 ; judgment was rendered in favor of the plaintiff below, plaintiff in error, and against the defendants below, defendants in error, for the sum of $1,905. The judgment was decreed to be a first lien on the real estate described in the petition. It was further decreed that if said judgment was not paid an order of sale issue to the sheriff of Harper County, after six months, to sell said real estate to satisfy said judgment. The order of sale was duly issued, the real estate sold, and on the eleventh day* of June, 1890, on motion of plaintiff, the sale was confirmed by the court and the sheriff ordered to execute a deed to the purchaser.
+Oh the second day of May, 1891, about eleven months after the sale had been confirmed, August H. Barrett filed a motion in the action to set aside the order confirming the sale, alleging :
+“First, that the note and mortgage sued on in said action were never assigned to the plaintiff; second, that at the commencement of said action the plaintiff was not the owner of said note and mortgage ; third, that said August H. Barrett had never been served with a summons in said action.”
+Plaintiff in error contends that no notice of this motion was served on it. It does not appear from the record that notice was served, or that the motion was supported by affidavit or oral testimony. On the fourth day of May, 1891, the motion was sustained by the court, and the order confirming the sale set aside.
+On the fifteenth day of June, 1891, more than a year after the sale had been confirmed, the defendants in error filed a motion to set aside said sale upon the following grounds :
+“ First, that the plaintiff was not the legal owner of the note and mortgage sued on in said action; second, that said note and mortgage had never been assigned by the Lombard Investment Company to the plaintiff; third, that the Lombard Investment Company is owner of said note • and mortgage ; fourth, that the property was sold as the property of August H. Barrett and not that of Augustus H. Barrett, as alleged in plaintiff’s petition ; fifth, that August H. Barrett was never properly served with a summons in said action ; sixth, that the property was sold without notice to said August H. Barrett, as required by law.”
+This motion was supported by the following affidavit :
+“A. H. Barrett, being first duly sworn, deposes and says: That he is the party served as defendant in the above-entitled action; that he has heard read and fully understands the foregoing motion ; that the facts set forth therein under clauses four, five and six are known to this affiant to be true and correct; and that all other allegations in said motion are, this affiant is informed and believes, true and correct.'
+August H. Barrett.”
+Notice of this motion was duly served on plaintiff below. On the sixteenth day of June, 1891, the plaintiff below filed in said cause a motion to vacate and set aside the order .of the court made on the fourth day of May, 1891, setting aside the confirmation of the sale, alleging as the grounds for said motion:
+“First, that the plaintiff had no notice of the pending and hearing of said motion as required by law and the rules of said court; second, that the court was not fully informed as to the facts in the matter of said sale and confirmation; third, that said motion was filed more than a year after the confirmation of said sale and after several terms of said court had intervened.”
+On the seventeenth day of June, 1891, the motion, of the defendant below, Barrett, to vacate said sale, and the motion of the plaintiff below to set aside the order setting aside the confirmation of said sale, were heard. The court sustained the motion of the defendants below to set aside said sale, and overruled the motion of the plaintiff below to vacate the order setting aside the confirmation of said sale. To reverse .these orders and rulings of the court below, plaintiff brings the case here for review.
+A careful examination of the record fails to show any error in the proceedings in the court below from the time of the commencement of the action up to and including the confirmation of the sale. It does, however, appear that the summons was issued against August H. Barrett while the sheriff’s return shows service on Augustus Barrett. But in an affidavit made and filed in said action, August H. Barrett says that he is the party served as defendant in the action. The summons was to August H. Barrett, and service was made by delivering a true copy of the same. August swears that “he was the party served,” and he must have had full notice that the action was commenced.
+The trial court’ erred in setting aside the order confirming the sale and in overruling the motion of the plaintiff to set aside the order setting aside the confirmation of sale. About eleven months had passed since the sale had been confirmed. The term of court at which the sale was confirmed had expired and three regular terms had intervened. No notice of the motion was served on plaintiff and no opportunity was given plaintiff to appear and resist the motion. “A trial court has a very wide and extended discretion in setting aside and modifying proceedings had in its own court if it does so at the same term at which the proceedings are had.” Hemme v. School District, 30 Kan. 377. But after final judgment has been rendered and the term expires, there must be a substantial compliance with the statute to give the court further jurisdiction, which was not done in this case.
+For the errors enumerated, it follows that the order setting aside the sheriff’s sale should also be reversed. The order of the trial court setting aside the confirmation of the sale, the order setting aside the sheriff’s sale, and the order overruling the motion of the plaintiff below to set aside the order setting aside the confirmation of the sale, will be reversed, and the case remanded for further proceedings.
