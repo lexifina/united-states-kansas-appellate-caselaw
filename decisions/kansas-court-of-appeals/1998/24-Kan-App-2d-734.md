@@ -1,0 +1,53 @@
+---
+court: "Kansas Court of Appeals"
+docket: "76,695"
+decided: "1998-01-30"
+citations: ["24 Kan. App. 2d 734", "953 P.2d 1043"]
+reporter: "kan-app-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Brazil, C.J., Gernon and Knudson, JJ."]
+parties: ["State of Kansas, Appellee, v. Albert Thomas, Appellant."]
+source_url: "https://static.case.law/kan-app-2d/24/cases/0734-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 907840
+cites_cases: ["22 Kan. App. 2d 732", "234 Kan. 708", "236 Kan. 274", "248 Kan. 273", "250 Kan. 123", "250 Kan. 320", "255 Kan. 118", "258 Kan. 596", "259 Kan. 774", "260 Kan. 47", "260 Kan. 996", "261 Kan. 460", "37 A.L.R. 3d 1407", "37 A.L.R.3d 1407", "4 Kan. App. 2d 130", "931 P.2d 664"]
+---
+
+# State v. Thomas
+
+## Majority (Gernon, J.:)
+
+Gernon, J.:
+Albert Thomas appeals his convictions of three counts of residential burglary and four counts of felony theft, contending that two of the theft counts are multiplicitous and that there is not sufficient evidence on one of the burglary convictions. He also raises issues concerning jury instructions, both in failing to instruct and in giving an improper instruction. Finally, he alleges error in calculating the amount of “good time” credit he was entitled to receive.
+At the outset, the State concedes that the sentencing court erred in calculating the good time credit. The court mistakenly used the 1995 amendment to K.S.A. 21-4706 instead of the 1994 version which was in effect when the present offenses were committed. See State v. Riley, 259 Kan. 774, 776, 915 P.2d 774 (1996). Consequently, the district court is directed to file an amended journal entry correcting the error in the amount of good time credit available to Thomas.
+Thomas asserts it was reversible error for the trial court to instruct the jury the way it did on the burden of proof. Thomas made no contemporaneous objection, so we must examine the instruction to determine whether, as worded, it was clearly erroneous.
+“ ‘An instruction is clearly erroneous only if the reviewing court reaches a firm conviction that if the trial error had not occurred there is a real possibility the jury would have returned a different verdict. [Citation omitted.]’ ” State v. DePriest, 258 Kan. 596, 605, 907 P.2d 868 (1995) (quoting State v. Whitaker, 255 Kan. 118, 125, 872 P.2d 278 [1994]).
+The instruction given to the jury is a direct quote from PIK Crim. 3d 52.02 and provided in part as follows:
+“The State has the burden to prove the defendant is guilty. The defendant is not required to prove he is not guilty. You must presume that he is not guilty until you are convinced from the evidence that he is guilty.”
+Thomas faults the use of the words “not guilty” rather than a statement that the defendant is “presumed innocent,” arguing that the wording diminishes the presumption of innocence. The Kansas Supreme Court recently rejected an identical argument in State v. Clark, 261 Kan. 460, 474-75, 931 P.2d 664 (1997).
+Thomas next contends that the court should have instructed on the lesser included offense of misdemeanor theft.
+The threshold for felony theft is $500 under the law in effect at the time of the crimes involved here.
+The value of stolen property is determined at its fair market value at the time of the theft. State v. Owens, 248 Kan. 273, 285, 807 P.2d 101 (1991); State v. Bryant, 22 Kan. App. 2d 732, 738, 922 P.2d 1118, rev. denied 260 Kan. 996 (1996). An owner is qualified to render an opinion on the value of the items stolen. 22 Kan. App. 2d at 738.
+In Bryant, this court held that while “misdemeanor theft is clearly a lesser included offense of felony theft, it is not necessary to give the instruction where the value of the stolen goods is established to be over the felony limit and where there is no evidence of a value of less than the felony limit.” 22 Kan. App. 2d at 738.
+The testimony by every witness indicated values above $500. No testimony concerning the values was presented by Thomas. Thomas also had the opportunity to cross-examine those who testified as to values.
+A trial court has a duty to instruct on all lesser included offenses supported by the evidence admitted in a case. Here, there was simply no disputed evidence concerning the values.
+Thomas also challenges the sufficiency of the evidence on one of the burglaries — that of the Leelawath apartment.
+Our standard of review requires us to look at the evidence and determine whether that evidence, when viewed in the light most favorable to the prosecution, convinces the court that a rational factfinder could have found the defendant guilty beyond a reasonable doubt. State v. Knighten, 260 Kan. 47, 52, 917 P.2d 1324 (1996).
+Here, Watcharas Leelawath testified that his apartment was broken into and several items were stolen, including a necklace with a distinguishable medallion. As part of his investigation into the burglary, Detective Pattrick questioned two individuals, Holly Bennett and Thomas King, who implicated Thomas in the burglary. Bennett stated that Thomas had committed several burglaries in Lawrence and that they had sold some of the property acquired from the burglaries at a pawn shop and to King. The detective testified that King said he had purchased a necklace from Thomas which, after being seized, was found to match Leelawath’s stolen necklace. At trial, Leelawath also identified several items seized from the pawn shop as being his stolen property.
+We conclude there was sufficient evidence, when applying the standard of review, to convict Thomas of this offense.
+The next issue raised by Thomas concerns the multiplicity of charges, in that he was convicted of two counts of theft from one burglary. Thomas contends he only had one general intent to steal the properly in a single apartment and was not aware the property was owned by two different people.
+We accept consideration of this issue, though raised for the first time on appeal, to prevent a denial of fundamental rights. See State v. Dubish, 234 Kan. 708, 718, 675 P.2d 877 (1984).
+Whether charges are multiplicitous is a question of law, over which this court’s scope of review is unlimited. Gillespie v. Seymour, 250 Kan. 123, 129, 823 P.2d 782 (1991). Multiplicity involves “the charging of a single offense in several counts of a complaint or information.” State v. Freeman, 236 Kan. 274, 280, 689 P.2d 885 (1984).
+“The concern with multiplicity is that it creates the potential for multiple punishments for the same offense, which is prohibited by the double jeopardy clause of the Fifth Amendment of the United States Constitution and section 10 of the Kansas Bill of Rights.” State v. Edwards, 250 Kan. 320, 329, 826 P.2d 1355 (1992).
+Thomas relies primarily on State v. Stoops, 4 Kan. App. 2d 130, 603 P.2d 221 (1979). Stoops challenged two of his theft convictions as being multiplicitous because they violated the single larceny doctrine. The theft charges in question arose from a burglary of a machine shop where various tools belonging to the shop owner and an employee were stolen.
+This court noted that while the single larceny doctrine had been applied to other contexts in Kansas, the appellate courts had never addressed whether the doctrine applies when a defendant is charged with two separate thefts for taking property owned by two different people from the same place and at the same time. 4 Kan. App. 2d at 136. The court recognized:
+“Out of the thirty-five states that have considered the question, thirty-four appear to have adopted the single larceny theoiy. In summarizing the annotation, the author of Annot., 37 A.L.R. 3d 1407, states at 1409-10:
+‘The overwhelming majority of jurisdictions follow generally the so-called “single larceny doctrine”; that is, that the taking of property belonging to different owners at the same time and place constitutes but one larceny. Various rationales have been propounded in support of this position, perhaps the most common one being that such taking is one offense because the act of taking is one continuous act or transaction, and since the gist of the offense is the felonious taking of property, the legal quality of the act is not affected by the fact that the property stolen belonged to different persons.
+‘Other rationales supporting the rule are concerned with the harshness of the punishment which might result from a contrary holding, or with the unconstitutionality of the double jeopardy to which a defendant would be subjected under a contrary decision.’ ” 4 Kan. App. 2d at 136-37.
+The court further noted:
+“If we were to adopt the single larceny doctrine, it seems to us the test to be applied to determine if there are separate offenses or only a single offense should be based on whether the evidence discloses one general intent to steal or distinct and separate intents. Each case necessarily would have to be decided on its own facts, and a defendant could be convicted of separate thefts only if the evidence showed the offenses to be separate and distinct and not committed pursuant to one intention, one impulse, or one plan.
+“As set forth earlier in this opinion, the Supreme Court has allowed a series of misdemeanor thefts to support a grand larceny conviction under the ‘single larceny doctrine’ where the thefts were part of a single plan or scheme, or a single larcenous impulse. [Citation omitted.] It seems highly inconsistent to allow multiple misdemeanor thefts to be combined to reach a level of felony theft on one hand and on the other to convict a person of multiple thefts when that person intended only a single theft and had no reason to know the property belonged to more than one person.” 4 Kan. App. 2d at 139-40.
+We find that given the record here, Thomas is correct that the single larceny doctrine should be applied. We conclude that when an individual commits a theft and takes property belonging to more than one individual, without a reasonable notice that the property belongs to separate individuals, as part of a single plan or scheme, then that taking constitutes a single theft. See Annot, 37 A.L.R.3d 1407.
+Accordingly, Thomas’ conviction on one count of theft from the Davis apartment is reversed, and the sentence associated with it is vacated. Further, for the purposes of his criminal history, the district court is directed to notify the Department of Corrections as to our rulings concerning this conviction and the good time credit issue.
+Affirmed in part, reversed in part, and remanded with directions.
