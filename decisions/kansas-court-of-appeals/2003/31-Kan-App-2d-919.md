@@ -1,0 +1,43 @@
+---
+court: "Kansas Court of Appeals"
+docket: "89,864"
+decided: "2003-09-05"
+citations: ["31 Kan. App. 2d 919", "75 P.3d 763"]
+reporter: "kan-app-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Knudson, P.J., Beier and Malone, JJ."]
+parties: ["Jacalyn Patterson, Appellant, v. Allstate Insurance Company, Appellee."]
+source_url: "https://static.case.law/kan-app-2d/31/cases/0919-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1363856
+cites_cases: ["17 Kan. App. 2d 598", "219 Kan. 595", "227 Kan. 914", "251 Kan. 419", "252 Kan. 1092", "274 Kan. 1016", "30 Kan. App. 2d 1276"]
+---
+
+# Patterson v. Allstate Insurance
+
+## Majority (Beier, J.:)
+
+Beier, J.:
+Jacalyn Patterson appeals the statute of limitations dismissal of her lawsuit for personal injury protection benefits.
+Patterson was injured in a car accident on August 15, 1996, and she notified her insurer, defendant-appellee Allstate Insurance Company (Allstate). In a letter dated October 25, 1996, Patterson was assigned a claim number and was informed that Allstate had paid a portion of her medical bills. Allstate also paid her some work disability benefits before denying subsequent claims for personal injury protection benefits (PIP). Patterson filed a pro se suit to recover further PIP benefits on August 13, 2001.
+Allstate moved to dismiss the case, arguing Patterson failed to meet the 2-year deadline set forth in K.S.A. 40-3110(a). The district court agreed. The district court dismissed Patterson’s suit for failure to state a claim for which relief could be granted.
+Patterson’s district court motion seeking reconsideration of the dismissal argued that her case was filed within the 5-year statute of limitations for breaches of written contracts under K.S.A. 60-511 and that she had complied with K.S.A. 40-3110(a) by filing a “claim” with the insurance company shortly after the accident in 1996. Still seeing K.S.A. 40-3110(a) as a statute of limitations governing the timing of the lawsuit, tire district court denied the motion.
+The interpretation and application of a statute of limitations raises a question of law over which an appellate court exercises unlimited review. Waterview Resolution Corp. v. Allen, 274 Kan. 1016, 1027, 58 P.3d 1284 (2003).
+The fundamental rule of statutory construction is that the intent of the legislature governs. A court should give words in common usage their natural and ordinary meaning when those words appear in a statute. House v. American Fam. Mut. Ins. Co., 251 Kan. 419, 423, 837 P.2d 391 (1992).
+K.S.A. 40-3110(a) provides:
+“Except for benefits payable under any workmen’s compensation law, which shall be credited against the personal injury protection benefits provided by subsection (f) of K.S.A. 40-3107, personal injury protection benefits due from an insurer or self-insurer under this act shall be primary and shall be due and payable as loss accrues, upon receipt of reasonable proof of such loss and the amount of expenses and loss incurred which are covered by the policy issued in compliance with this act. An insurer or self-insurer may require written notice to be given as soon as practicable after an accident involving a motor vehicle with respect to which the insurer’s policy of motor vehicle liability insurance affords the coverage required by this act. No claim for personal injury protection benefits may be made after two (2) years from the date of the injury.” (Emphasis added.)
+The key issue in this case is what is meant by the term “claim” in K.S.A. 40-3110(a). Although we find no case authority directly on point, Miner v. Farm Bur. Mut. Ins. Co., Inc., 17 Kan. App. 2d 598, 841 P.2d 1093, rev. denied 252 Kan. 1092 (1993). provides some guidance.
+In Miner, one month after being injured in a car accident, the plaintiff sent an application to her insurance company for loss of wages and medical benefits under the PIP provision of her policy. Within 2 years of the date of the accident, the plaintiff filed suit, claiming the insurance company had failed to pay PIP benefits for medical expenses, wage loss, substitution services, and rehabilitation services. The insurance company appealed an award of benefits, arguing in part that the plaintiff had failed to give proper written notice of her claims under K.S.A. 40-3110(a).
+On appeal, a panel of this court framed the issue as: “[W]hether the filing of a lawsuit may be considered to be the giving of notice of a claim for PIP benefits under the statute.” 17 Kan. App. 2d at 604. The panel held:
+“The language of K.S.A. 40-3110(a) and (b) states the legislative intent that an insured must not only notify the insurer of the existence of the injury and possible claim, but also must notify the insurer of each benefit loss sustained and provide reasonable proof of the accrual of that loss, before any liability attaches on the part of the insurer.”
+“The purpose of requiring an insured to notify the insurer of the claimed benefits is to insure prompt payment for loss and avoid the necessity and delay of litigation.”
+“The filing of a petition for recovery of benefits claimed under a policy of insurance does not satisfy the statutory and policy requirements of notice of loss which the insured must give to the insurer.”
+“An insured must provide the statutorily required notice of the benefits claimed and provide supporting documentation evidencing the losses incurred before he or she can bring action against the insurer on those claims.”
+“If the insured has not given the insurer written notice of the benefit claimed, along with reasonable proof of the loss, the amount of the loss, ánd the expenses incurred which are covered by the terms of the policy issued, no cause of action has arisen and suit may not be brought regarding that particular benefit loss.”
+“The filing of a petition would be the last step taken by an insured after the statutory notice has been given and the insurer has refused to make payment on the loss benefit submitted in compliance with K.S.A. 40-3110.”
+“An insured who has not made claim against the insurer for substitution and rehabilitation benefits under the personal injury protection provisions of the insurance policy prior to the filing of an action to collect those benefits is not entitled to collect the claimed benefits.” 17 Kan. App. 2d 598, Syl. ¶ ¶ 5, 6, 7, 8, 9, 10, 12.
+Although the Miner opinion also makes an isolated reference to a 2-year “statute of limitations” under K.S.A. 40-3110, it is evident from the ultimate holding and rationale of the panel that the judges understood the “claim” mentioned in subsection (a) of the statute to mean an insured’s notice to his or her insurance company, not the filing of a lawsuit. The 2-year deadline is concerned with prompt submission of this notice rather than a prompt court filing.
+In this case, Patterson notified Allstate of her claim well before the 2-year deadline of K.S.A. 40-3110(a). She was assigned a claim number and was paid some of her PIP benefits. Under these circumstances, the district court erred in applying K.S.A. 40-3110(a) as a statute of limitations governing the filing time for her later lawsuit over additional PIP benefits. That ruling must be reversed. Patterson was correct that the applicable limitations period was 5 years under K.S.A. 60-511(1) governing written contracts. Her suit for additional PIP benefits was timely. See Van Hoozer v. Farmers Insurance Exchange, 219 Kan. 595, 549 P.2d 1354 (1976) (60-511’s 5-year statute of limitations on written contracts applicable to plaintiff s action against uninsured motorist insurance carrier). On remand, Patterson will be entitled to pursue any PIP claim about which Allstate received notice within 2 years of the accident.
+On appeal, Patterson also argues that Spencer v. Aetna Life & Casualty Ins. Co., 227 Kan. 914, 611 P.2d 149 (1980), is unconstitutional and that Allstate failed to act in good faith. In Spencer, the Kansas Supreme Court held that Kansas would not recognize the tort of bad faith against an insurance company by an aggrieved insured in a first-party relationship. The court reasoned that sufficient statutoiy remedies existed to protect the insured, including K.S.A. 40-3111’s provision for attorney fees if an insurer unreasonably refuses or unreasonably delays payment. Absent some indication that the Supreme Court is departing from this precedent, we are duty bound to follow it. Ely v. Hitchcock, 30 Kan. App. 2d 1276, 58 P.3d 116 (2002). We therefore affirm the district court’s dismissal of Patterson’s remaining claims.
+Affirmed in part and reversed in part.
