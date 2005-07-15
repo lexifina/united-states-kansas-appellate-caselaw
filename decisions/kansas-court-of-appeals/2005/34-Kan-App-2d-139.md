@@ -1,0 +1,47 @@
+---
+court: "Kansas Court of Appeals"
+docket: "92,342; No. 92,343"
+decided: "2005-07-15"
+citations: ["34 Kan. App. 2d 139", "115 P.3d 782"]
+reporter: "kan-app-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Johnson, P.J., Elliott and Malone, JJ."]
+parties: ["State of Kansas, Appellee, v. Steven D. Hemphill, Appellant."]
+source_url: "https://static.case.law/kan-app-2d/34/cases/0139-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4057204
+cites_cases: ["275 Kan. 328", "275 Kan. 393", "275 Kan. 841", "277 Kan. 224", "33 Kan. App. 2d 773"]
+---
+
+# State v. Hemphill
+
+## Majority (Elliott, J.:)
+
+Elliott, J.:
+Steven D. Hemphill appeals the trial court’s assessment of attorney fees, claiming the trial court erred in failing to consider his financial resources or the nature of the burden of imposing the fees. We reverse and remand.
+Hemphill pled no contest to various crimes. He was sentenced to serve 12 months in county jail in each case with the sentences to run consecutively. In addition, Hemphill was ordered to pay a $2,500 fine for each of the two driving while under the influence convictions, plus $415 for attorney fees in each case and the $50 Board of Indigents’ Defense Services (BIDS) application fee in each case.
+Hemphill claims the trial court erred when it ordered him to reimburse BIDS for attorney fees without considering his financial resources.
+K.S.A. 2004 Supp. 22-4513 provides:
+“(a) If the defendant is convicted, all expenditures made by the state board of indigents’ defense services to provide counsel and other defense services to such defendant or the amount allowed by the board of indigents’ defense reimbursement tables as provided in K.S.A. 22-4522, and amendments thereto, whichever is less, shall be taxed against the defendant and shall be enforced as judgments for payment of money in civil cases.
+“(b) In determining the amount and method of payment of such sum, the court shall take account of die financial resources of the defendant and the nature of the burden that payment of such sum will impose. A defendant who has been required to pay such sum and who is not willfully in default in die payment thereof may at any time petition the court which sentenced the defendant to waive payment of such sum or any unpaid portion thereof. If it appears to die satisfaction of the court tiiat payment of the amount due will impose manifest hardship on the defendant or the defendant’s immediate family, the court may waive payment of all or part of the amount due or modify the method of payment.”
+The State argues the trial court considered evidence of Hemphill’s financial resources before assessing the fees; tire record does not support this claim. The transcript of die sentencing hearing does not show the court considered his financial resources, and the presentence investigation report does not contain any information on Hemphill’s resources. Likewise, the statement by Hemphill’s attorney that he wanted to resolve matters quickly so he could help support Iris family does not show the trial court considered Hemphill’s financial resources.
+The question on appeal, therefore, becomes whether the trial court was required to consider Hemphill’s financial resources before assessing the attorney fees. Our court is divided on this issue.
+In State v. Robinson, 33 Kan. App. 2d 773, 109 P.3d 185 (2005) (petition for review pending) , a panel ruled the trial court did not err by failing to consider defendant’s financial resources before assessing attorney fees. The Robinson dissent argued the language of the statute required the court to consider defendant’s financial resources at the time it assessed the fees. Robinson, 33 Kan. App. 2d at 784-86 (Greene, J., concurring in part and dissenting in part).
+Another panel of this court in State v. Ellis, No. 91,037, unpublished opinion filed June 4, 2004, found the trial court erred in failing to consider defendant’s financial resources before assessing attorney fees, ruling K.S.A. 2004 Supp. 22-4513 and K.S.A. 2004 Supp. 21-4603d(i) required the trial court to malee a record of its considerations of defendant’s resources before assessing fees.
+On appeal, we presume the legislature expressed its intent through the language of the statutory scheme. If tire language is plain and unambiguous, we must give effect to the language as written without stating what the law should or should not be. See State v. Gordon, 275 Kan. 393, 397, 66 P.3d 903 (2003). In this regard, ordinary words are to be given their ordinary meanings without adding something that is not readily found in the statutes nor ehminating that which is readily found in the statute. State v. Manbeck, 277 Kan. 224, Syl. ¶ 3, 83 P.3d 190 (2004).
+We choose to follow Ellis.
+K.S.A. 2004 Supp. 22-4513(a) states all BIDS expenses shall be taxed against defendant. K.S.A. 2004 Supp. 22-4513(b) states the trial court shall take into account defendant’s financial resources and further provides a defendant may petition the court at any time to waive the imposition of fees.
+K.S.A. 2004 Supp. 21-4603d(i) provides the trial court shall order defendant to reimburse the State for its expenses in providing services for defendant and that the trial court shall consider the financial resources of defendant in determining the amount and method of payment of that sum.
+Both statutes expressly state the trial court shall consider defendant’s financial resources when assessing attorney fees. These explicit words should not be written out of existence. The clear language should be enforced as written.
+Simply put, requiring the trial court to state on the record it has considered defendant’s financial resources before it assesses the fees does not, in our opinion, impose a substantial burden on the trial courts. Requiring a trial court to hold a second hearing would, we feel, impose a greater burden.
+If tire court states on the record it has considered defendant’s financial resources at the time it assesses fees, a second hearing would be required only if defendant were to petition the court for a waiver. If the trial court does not consider defendant’s financial resources at the time of the initial assessment, under K.S.A. 2004 Supp. 22-4513(b) and K.S.A. 2004 Supp. 21-4603d(i), it would be required to hold a second hearing to determine defendant’s financial resources before attempting to collect any fees assessed.
+Reversed and remanded for further proceedings in accordance with this opinion.
+
+## Dissent (Malone, J.,)
+
+Malone, J.,
+dissenting: First and foremost, I submit this court should refuse to consider Stephen D. Hemphill’s appeal because he did not raise the issue of imposition of attorney fees before the trial court. Ordinarily, issues raised for the first time on appeal will not be considered. State v. Maass, 275 Kan. 328, 331, 64 P.3d 382 (2003). Exceptions to this general rule are made where: (1) the newly asserted theory involves only a question of law arising on proved or admitted facts and which is finally determinative of the case; (2) consideration of the theory is necessary to serve the ends of justice or to prevent denial of fundamental rights; and (3) the judgment of the trial court may be upheld on appeal although that court may have relied on the wrong ground or assigned a wrong reason for its decision. State v. Wiegand, 275 Kan. 841, 844-45, 69 P.3d 627 (2003). Hemphill’s claim does not fit squarely within any of these recognized exceptions.
+Consideration of Plemphill’s claim on appeal is not necessary to serve the ends of justice or to prevent denial of fundamental rights because the statutes allow Hemphill to petition the trial court “at any time” for waiver of all or part of the attorney fees if payment presents a hardship. In, fact, it is curious why Hemphill, or any other defendant similarly situated, would ever file an appeal seeking a new hearing on this issue when the defendant can accomplish the same result by simply filing a motion in district court. In a case where the trial court fails to properly consider a placement at Labette Correctional Conservation Camp pursuant to K.S.A. 2004 Supp. 21-4603d(g), the defendant’s only recourse is to file an appeal seeking a new sentence. That is not the situation here.
+Hemphill was present at sentencing when the trial court imposed attorney fees in the amount allowed by the Board of Indigents’ Defense Services reimbursement tables. He neither objected nor raised any concern to the trial court about his ability to pay the fees. He has never filed a motion in district court seeking relief from the fees although he is permitted to do so. In essence, this appeal is premature. Hemphill can ask the trial court for relief from the fees at any time. If he was to do so, and the request was denied, then this court could review the trial court’s decision based upon a proper record. However, this court should not consider Hemphill’s appeal of the imposition of attorney fees until he has first raised the issue and been denied relief by the trial court.
+As to the merits of the appeal, I would adopt the reasoning of the majority opinion in State v. Robinson, 33 Kan. App. 2d 773, 109 P.3d 185 (2005) (petition for review pending), and hold the trial court did not err by failing to consider Hemphill’s financial resources before imposing attorney fees as court costs.
