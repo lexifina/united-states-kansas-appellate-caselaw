@@ -1,0 +1,34 @@
+---
+court: "Kansas Court of Appeals"
+docket: "93,089"
+decided: "2005-10-28"
+citations: ["34 Kan. App. 2d 599", "121 P.3d 100"]
+reporter: "kan-app-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Pierron, P.J., Caplinger, J., and Bukaty, S.J."]
+parties: ["State of Kansas, Appellee, v. Lorenzo Gary, Appellant."]
+source_url: "https://static.case.law/kan-app-2d/34/cases/0599-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4056879
+cites_cases: ["275 Kan. 300", "275 Kan. 393", "30 Kan. App. 2d 817", "30 Kan. App. 2d 852", "31 Kan. App. 2d 338", "850 A.2d 696"]
+---
+
+# State v. Gary
+
+## Majority (Bukaty, J.:)
+
+Bukaty, J.:
+Lorenzo Gary appeals the trial court’s revocation of his probation. The court based the revocation on another crime committed days before Gary was placed on probation but which did not come to light until after probation was granted. We reverse.
+The State charged Gary with two counts of forgery. After striking a plea agreement, Gary entered a plea to the charges on April 21, 2004. On May 25, 2004, the trial court sentenced him pursuant to the agreement to an underlying sentence of 11 months and granted probation for 18 months.
+Several weeks later, June 30th to be exact, the court issued an arrest warrant based upon the fact that on June 15, 2004, Gary had been charged with attempted robbery that allegedly occurred on May 22, 2004. Gary filed a motion to dismiss the warrant, and the court set a hearing.
+At the hearing, Gary essentially admitted for purposes of argument that he committed the attempted robbery. He nevertheless argued that he did not violate any terms of his probation and should not be revoked for acts committed prior to the grant of probation. The trial court disagreed and revoked the probation.
+K.S.A. 2004 Supp. 22-3716(a) provides the statutory justification for probation revocation. It reads, in relevant part: “At any time during probation . . . the court may issue a warrant for the arrest of a defendant for violation of any of the conditions of release or assignment, a notice to appear to answer to a charge of violation or a violation of the defendant’s nonprison sanction.”
+Implicit in our statutory provisions for probation is the understanding that if the trial court grants probation, the probationer is entitled to retain his or her liberty interest as long as he or she abides by the conditions on which probation is granted. A probation may not be revoked unless the probationer has failed to comply with the terms and conditions of his or her probation. State v. Garcia, 31 Kan. App. 2d 338, 342, 64 P.3d 465 (2003). At that point, the standard of review of a probation revocation is an abuse of discretion. State v. Rocha, 30 Kan. App. 2d 817, 819, 48 P.3d 683 (2002).
+Here, Gary admitted to the trial court that it was more probable than not that the State could prove that he committed the crime of attempted robbery. That would unquestionably be a violation of the terms of Gary’s probation had it occurred during the probation period since he was ordered to obey all state laws during his term of probation. The question here is whether Gary’s probation may be revoked for an act which occurred prior to commencement of the probation period.
+We find no Kansas cases exactly on point. We do note, however, that the Pennsylvania Superior Court recently answered the question in the negative. In Com. v. Infante, 850 A.2d 696, 700 (Pa. Super. 2004), that court ruled that “revoking probation for conduct committed prior to being sentenced to probation fails to serve its rehabilitative purpose.” The court elaborated that a sentence of probation allows an individual time to change their ways, while being warned that future bad conduct will result in revocation. It concluded that because “probation is intended to serve as a deterrent to future antisocial conduct, [and] an individual’s conduct is viewed prospectively,” it did not serve any purpose to give weight to conduct which occurred prior to sentencing. 850 A.2d at 701.
+When the foregoing policy is considered along with the statutory language of K.S.A. 2004 Supp. 22-3716(a), we are compelled to the same result in this case. Kansas courts have consistently refused to depart from the plain language of that statute when addressing other issues presented under it. For example, in order for a trial court to retain jurisdiction to revoke probation, the revocation proceedings must be initiated within the probationary period. It is well established in Kansas that a trial court has jurisdiction to revoke probation as long as the proceedings are started before expiration of the probation term. State v. Gordon, 30 Kan. App. 2d 852, 855, 50 P.3d 100 (2002), revd on other grounds 275 Kan. 393, 66 P.3d 903 (2003). The Kansas Supreme Court’s decision reversing Gordon clarifies that pursuant to K.S.A. 2004 Supp. 22-3716(d), the ability to revoke probation extends for 30 days past the date the probationary term expires. 275 Kan. at 400-01.
+As applied to the issues in this case, the language of K.S.A. 2004 Supp. 22-3716(a) could not be more clear. Although warrants may be issued “at any time during” probation, there is nothing in the statutory scheme which allows a warrant to be issued for conduct prior to probation. It is also clear in the language that revocation can only occur if there is a violation of terms of probation. Here, there were simply no terms in place when Gary allegedly committed the attempted robbery.
+The fundamental rule of statutory construction to which all other rules are subordinate is that the intent of the legislature governs if that intent can be ascertained. The legislature is presumed to have expressed its intent through the language of the statutory scheme it enacted. When a statute is plain and unambiguous, the court must give effect to the intention of the legislature as expressed, rather than determine what the law should or should not be. Williamson v. City of Hays, 275 Kan. 300, 305, 64 P.3d 364 (2003).
+We understand the less than desirable result that occurs, in one sense, in rewarding Gary for having the foresight to commit a crime prior to his sentencing date. On the other hand, the timing of the attempted robbeiy still retains consequences for Gary that are related to his forgery crimes. For example, any sentence for the attempted robbery will carry a mandatory prison sanction since it was a felony committed while on bond from the forgery charges. See K.S.A. 2004 Supp. 21-4603d(f). In any event, the undesirabiliiy of a result does not allow us to craft language onto a statute that is not already there. If the result requires a remedy, the legislature and not the courts must provide it.
+Reversed.
