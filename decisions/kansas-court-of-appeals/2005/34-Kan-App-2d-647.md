@@ -1,0 +1,40 @@
+---
+court: "Kansas Court of Appeals"
+docket: "94,092"
+decided: "2005-11-10"
+citations: ["34 Kan. App. 2d 647", "122 P.3d 405"]
+reporter: "kan-app-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Rulon, C.J., Pierron and Hill, JJ."]
+parties: ["Lucy Cutler, Appellant, v. Richard Sosinski, M.D., Appellee."]
+source_url: "https://static.case.law/kan-app-2d/34/cases/0647-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4056508
+cites_cases: ["13 Kan. App. 2d 467", "252 Kan. 1064", "264 Kan. 247", "277 Kan. 898"]
+---
+
+# Cutler v. Sosinski
+
+## Majority (PlERRON, J.:)
+
+PlERRON, J.:
+Lucy Cutler appeals the district court’s order accepting the report of the medical malpractice screening panel (panel).
+On June 18, 2003, Cutler filed a petition requesting a medical malpractice screening panel, pursuant to K.S.A. 65-4901. She named Richard Sosinski, M.D., as respondent.
+On July 3, 2003, the district court gave notice of the convening of the panel to both parties and the court-appointed attorney who would serve as the nonvoting chairperson of the panel. See K.S.A. 65-4901; K.S.A. 65-4902. This order gave rise to a motion to dismiss from Dr. Sosinsld; however, it was denied. Pursuant to K.S.A. 65-4901, panel members were chosen. The members of the panel, besides the nonvoting chairperson, consisted of three medical doctors: one chosen by Cutler, one chosen by Dr. Sosinsld, and one designated by the district court.
+On October 21, 2004, tire panel met “to review the records and documents submitted by the Claimant and Respondent . . . .” The panel then issued its report which, in relevant part, stated:
+“The unanimous opinion of the panel is as follows:
+1. The standard of care applicable to the Respondent, Richard Sosinsld, M.D., at the time when he provided medical care to Claimant, Lucy Cutler, was based upon the prevailing practice as supported and indicated by general medical texts and literature on the subjects in question to April, 2001; and further, the standard of care is based upon the collective opinions recognized by the cumulative and extensive medical experience of the panel members. Due to the extensive number of medical issues, the panel is not able to reference specific literature or other documents to identify the standard of care.”
+The panel concluded that Dr. Sosinsld did not depart from the “standard of care and practice applicable at the time in question.” Additionally, the panel reported that even if Dr. Sosinsld failed to diagnose or failed to treat, it was “reasonably probable that no harm or injury resulted to [Cutler.]” The report was filed November 9, 2004, and mailed to Cutler that day.
+In a letter dated November 26, 2004, Cutler expressed her concern to the district court that the screening panel did not fulfill its requirements to cite “corroborating references.” See K.S.A. 65-4904(a). She requested a new panel be convened. On December 14, 2004, the court entered its order, which accepted the panel’s report and recognized its compliance with the pertinent statutes.
+Cutler filed an untimely motion to reconsider in a letter to the district court dated December 31, 2004, file-stamped January 6, 2005. The court, in a letter dated January 14, 2005, stated: “There is no procedure in the statutes to review or modify the report[,]” and that Cutler s remedy, given her dissatisfaction with the screening panel’s report, was to file suit pursuant to K.S.A. 65-4905. Cutler did not file suit against Dr. Sosinsld. Her notice of appeal was filed on Februaiy 10, 2005.
+Motions to reconsider are generally treated as motions to alter or amend under K.S.A. 60-259(f). Exploration Place, Inc. v. Midwest Drywall Co., 277 Kan. 898, 900, 89 P.3d 536 (2004). K.S.A. 60-259(f) states such motions are to be filed no later than 10 days after entry of judgment. “The standard of review of the denial of a motion to alter or amend the judgment is an abuse of discretion standard. [Citation omitted.]” Exploration, 277 Kan. at 900.
+In this case, Cutler did not file her motion to reconsider until 23 calendar days after the district court’s order. She ultimately appealed the district court’s response letter, stating that if she disagreed with the panel’s report, K.S.A. 65-4905 provided her a remedy, specifically, to file suit in the district court. The court wrote: “There is no procedure in the statutes for the court to review or modify the report.” This court could dispose of Cutler’s appeal on the basis of an untimely motion to reconsider, hence, creating an untimely appeal. However, Cutler’s position on the merits also fails.
+Cutler’s argument is based upon the language of K.S.A. 65-4904(a), which provides:
+“Within 90 days after the screening panel is commenced, such panel shall make written recommendations on the issue of whether the health care provider departed from the standard of care in a way which caused the plaintiff or claimant damage. A concurring or dissenting member of the screening panel may file a written concurring or dissenting opinion. All written opinions shall be supported by corroborating references to published literature and other relevant documents.”
+However, this court held in White v. VinZant, 13 Kan. App. 2d 467, 473-74, 773 P.2d 1169 (1989), that the use of the word “shall” in this statute can be “directory rather than mandatory when it is (1) not accompanied by negative words indicating the specific acts can be done in no other manner; or (2) no consequences of noncompliance are included.” The White court analyzed the part of the statute regarding the panel submitting the report within 90 days and concluded the statute was directory, not mandatory. See Marais des Cygnes Valley Teachers’ Ass’n v. U.S.D. No. 456, 264 Kan. 247, 251, 954 P.2d 1096 (1998) (provides the criteria for determining whether a statute should be deemed mandatory or directory). Likewise, the written corroboration “requirement” at issue in this case appears to be directory.
+“The Medical Malpractice Screening Panels Act, K.S.A. 65-4901 et seq., was enacted by the legislature to provide for the early resolution of many medical malpractice claims without the expense, and often inordinate delay, of actual litigation. Strict adherence to the rules of procedure and evidence applicable to a civil trial are not followed. K.S.A. 65-4903.” Lawless v. Cedar Vale Regional Hosp., 252 Kan. 1064, 1070, 850 P.2d 795 (1993).
+The panel’s report is not binding on the parties. If one or more parties reject the final determination of the panel, they may proceed with the action in the district court, pursuant to K.S.A. 65-4905. Lawless, 252 Kan. at 1071.
+In Lawless, the court concluded the district court had erred in finding the panel had acted properly when only two of the three selected medical members participated. 252 Kan. at 1072-73. However, it should be noted that the claimant/plaintiff s selected medical doctor was the one left out of the process by the chairperson’s dilatory behavior surrounding the panel’s business. This, on its face, would be prejudicial to the claimant. Additionally, the Lawless decision was ultimately affirmed based on the district court’s conclusion that the malpractice suit was barred by the statute of hmitations. 252 Kan. at 1073. “ “Whether language in a statute is mandatory or directory is to be determined on a case-by-case basis and the criterion as to whether a requirement is mandatory or directory is whether compliance with such requirement is essential to preserve the rights of the parties.’ [Citation omitted.]” Marais, 264 Kan. at 251.
+Corroborating citations in the panel’s report were not essential to preserve Cutler’s rights to file suit against Dr. Sosinski. Furthermore, the specific language of the statute indicates that, notwithstanding the use of the word “shall” and Supreme Court Rule 142 (2004 Kan. Ct. R. Annot. 203), the statute is directory, not mandatory. The district court did not abuse its discretion in its decision denying Cutler s motion to reconsider.
+Affirmed.
