@@ -1,0 +1,39 @@
+---
+court: "Kansas Court of Appeals"
+docket: "96,809"
+decided: "2007-03-16"
+citations: ["37 Kan. App. 2d 430", "154 P.3d 39"]
+reporter: "kan-app-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Marquardt, P.J., Pierron, J., and Knudson, S.J."]
+parties: ["Nathaniel W. Ellibee, Appellant, v. Aramark Correctional Services, Inc., Appellee."]
+source_url: "https://static.case.law/kan-app-2d/37/cases/0430-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 3677387
+cites_cases: ["272 Kan. 1423", "275 Kan. 169", "281 Kan. 268", "281 Kan. 368", "29 Kan. App. 2d 676", "32 Kan. App. 2d 98", "75 S.W.3d 473"]
+---
+
+# Ellibee v. Aramark Correctional Services, Inc.
+
+## Majority (Marquardt, J.:)
+
+Marquardt, J.:
+Nathaniel W. Ellibee appeals the denial of his complaint against Aramark Correctional Services, Inc. (Aramark). We affirm.
+Ellibee, an inmate at the El Dorado Correctional Facility, claims that he follows the Jewish faith and was denied kosher meals. The Kansas Department of Corrections (DOC) contracts with Aramark to provide meals to inmates.
+In August 2005, Ellibee filed a complaint with the DOC alleging that the meals provided by Aramark were not kosher and, because of that, Aramark was violating the Kansas Consumer Protection Act (KCPA), K.S.A. 50-623 et seq. In its response, the DOC assured Ellibee that Aramark was following the guidelines set by a rabbi and Aramark was in compliance with its state contract.
+Ellibee filed an appeal, complaining that there was no investigation of his complaint and that the DOC’s responses to his concerns were inadequate. The DOC responded that Aramark was following the recommendations made by the rabbi, which included new cooking equipment and special menus. The DOC concluded that Ellibee was provided an adequate kosher diet.
+After exhausting his administrative appeals, Ellibee filed a pro se petition claiming that he is a “consumer” and Aramark is a “supplier” as those terms are used in the KCPA, which means that the two are engaged in a “consumer transaction.” Ellibee alleged that Aramark committed deceptive acts or practices in connection with that consumer transaction. Ellibee requested a restraining order and $5,000 for each day that he was denied a proper kosher meal.
+Aramark filed a motion to dismiss for failure to state a claim, arguing that Ellibee was not involved in any consumer transactions with Aramark. Ellibee responded by arguing that he was a third-party beneficiaxy to the contract between the DOC and Aramark. Ellibee also stated that portions of the inmate benefit fund, into which he paid, were used to pay for Aramark’s services.
+The trial court granted Aramark’s motion to dismiss, finding that there was no support for a KCPA claim by an alleged third-party beneficiary. Ellibee filed a motion for reconsideration in which he urged the trial court to consider alternate theories of relief such as fraud and negligence. The trial court denied the motion for reconsideration and refused to consider other grounds for relief. Ellibee appeals that decision to this court.
+In his appellate brief, Ellibee again argues that he is a consumer under the KCPA because there is no statutory requirement that there be a “direct value exchange” between the consumer and supplier.
+The trial court’s decision was based on its interpretation of the KCPA. The interpretation of a statute is a question of law over which this court has unlimited review. Foster v. Kansas Dept. of Revenue, 281 Kan. 368, 374, 130 P.3d 560 (2006).
+The KCPA defines “consumer” as “an individual, husband and wife, sole proprietor, or family partnership who seeks or acquires property or services for personal, family, household, business or agricultural purposes.” K.S.A. 50-624(b). “Supplier” is defined as a “manufacturer, distributor, dealer, seller, lessor, assignor, or other person who, in the ordinary course of business, solicits, engages in or enforces consumer transactions, whether or not dealing directly with the consumer.” K.S.A. 50-624(j). “Consumer transaction” is defined as “a sale, lease, assignment or other disposition for value of property or services within this state.” K.S.A. 50-624(c).
+In making its decision, the trial court relied, in part, on this court’s decision in The CIT Group v. E-Z Pay Used Cars, Inc., 29 Kan. App. 2d 676, 685, 32 P.3d 1197, rev. denied 272 Kan. 1423 (2001). In that case, this court held that the KCPA’s protection is limited to individuals who directly contract with suppliers for goods or services. Kansas has no case law which specifically addresses a third-party beneficiary’s standing to bring an action under the KCPA.
+In Bohls v. Oakes, 75 S.W.3d 473, 479 (Tex. App. 2002), the Texas Court of Appeals clarified that a third-party beneficiary may qualify as a consumer of goods or services “as long as the transaction was specifically required by or intended to benefit the third party and the good or service was rendered to benefit the third party.” There are three relevant inquiries to be made in determining consumer status: (1) to whom were the representations made; (2) who suffered damages; and (3) who was affected by the defendant’s alleged misconduct. 75 S.W.3d at 479.
+In this case, there is no evidence in the record on appeal that Aramark ever made any representation directly to Ellibee. Aramark negotiated its contract with the DOC. Further, the KCPA requires that any consumer transaction consist of a “disposition for value.” K.S.A. 50-624(c). There is no evidence of any sale or trade, as the DOC is legally required to provide sustenance for all inmates.
+Ellibee provided nothing of valúe to Aramark. What was provided to Ellibee was simply a by-product of Aramark’s contract with the DOC. The facts are that Ellibee received the meals he requested. Aramark made no representations to Ellibee or engaged in any negotiations with him. Under this set of facts, a third-party beneficiaiy is not a party to a KCPA consumer transaction. The trial court properly granted Aramark’s motion to dismiss.
+Ellibee believes the trial court failed to properly address his alternate theories of relief which were presented in his amended complaint. He contends that the money he paid into the inmate benefit fund is enough to establish an exchange for value that would bring him under the KCPA. Ellibee also faults the trial court for rejecting his claims based on negligence and fraud.
+In his response to Aramark’s motion to dismiss, Ellibee included a page of a document entitled “Highlights of the Governor’s Budget Recommendations,” which stated that $2.5 million and $2.7 million from the DOC inmate benefit fund should finance the Aramark contract cost in FY 2004 and FY 2005, respectively. However, this was simply a proposal and there is no proof in the record on appeal to suggest those monies were so designated. In addition, Ellibee failed to prove that he paid into the inmate benefit fund. An appellant has the duty to designate a record sufficient to establish the claimed error. Without an adequate record, the claim of alleged error fails. State ex rel. Stovall v. Alivio, 275 Kan. 169, 172, 61 P.3d 687 (2003). We find Ellibee’s claims here to be meritless.
+Similarly, we are not persuaded by Ellibee’s arguments concerning negligence and fraud. Ellibee could not prove negligence by Aramark because Aramark owes Ellibee no duty. See Fieser v. Kansas Bd. of Healing Arts, 281 Kan. 268, 271, 130 P.3d 555 (2006). Ellibee did not explicitly plead a cause of action for fraud. See Vondracek v. Mid-State Co-Op, Inc., 32 Kan. App. 2d 98, 101, 79 P.3d 197 (2003). Therefore, the trial court did not err by refusing to consider Ellibee’s alternate grounds for relief.
+Affirmed.
