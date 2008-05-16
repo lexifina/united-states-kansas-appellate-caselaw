@@ -1,0 +1,30 @@
+---
+court: "Kansas Court of Appeals"
+docket: "98,574"
+decided: "2008-05-16"
+citations: ["39 Kan. App. 2d 700", "183 P.3d 12"]
+reporter: "kan-app-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Rulon, C.J., Elliott and Greene, JJ."]
+parties: ["State of Kansas, Appellee, v. Wayne E. Perry, Appellant."]
+source_url: "https://static.case.law/kan-app-2d/39/cases/0700-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 3680891
+cites_cases: ["176 P.3d 174", "244 Kan. 62", "253 Kan. 394", "273 Kan. 44", "275 Kan. 328", "281 Kan. 538", "283 Kan. 331", "285 Kan. 842", "30 Kan. App. 2d 288", "523 U.S. 224", "530 U.S. 466"]
+---
+
+# State v. Perry
+
+## Majority (Greene, J.:)
+
+Greene, J.:
+Wayne E. Perry appeals the sentence imposed for his conviction of one count of nonresidential burglary, arguing that it was enhanced based upon his criminal history score in violation of his right to a jury trial. He also challenges the district court’s order to reimburse the application fee for and the attorney fees of the Board of Indigents’ Defense Services (BIDS), arguing the order was entered absent the required inquiry and findings as to his financial ability to pay. We affirm his sentence and the order to reimburse the BIDS application fee based on controlling precedent from our Supreme Court, and we affirm the order to reimburse attorney fees because Perry agreed to the reimbursement as a part of his plea agreement.
+Periy pled to nonresidential burglary and was sentenced to 27 months’ imprisonment based on his crime severity level and his criminal history score of C. His plea agreement contained a statement that he would pay “the costs of this action, and pay appointed counsel fees in the amount of $150.” (Emphasis added.) There was no discussion of fees or costs at the sentencing hearing, but the journal entry ordered Perry to pay a $100 BIDS application fee and attorney fees of $150. He appeals.
+Perry’s appeal frames issues of law over which we have de novo review. See State v. Maass, 275 Kan. 328, 330, 64 P.3d 382 (2003).
+First, Perry challenges his sentence because it was determined in part based on his criminal history. He argues that this sentence enhancement violated his right to a trial by jury, citing Apprendi v. New Jersey, 530 U.S. 466, 490, 147 L. Ed. 2d 435, 120 S. Ct. 2348 (2000). He acknowledges that his argument has been rejected by our Supreme Court in State v. Ivory, 273 Kan. 44, 41 P.3d 781 (2001), but he argues that our court’s reliance on AlmendarezTorres v. United States, 523 U.S. 224, 140 L. Ed. 2d 350, 118 S. Ct. 1219 (1998), has been called into question by Justice Thomas in a more recent concurring opinion. Frankly, this is of no moment to this court, for we are duty bound to follow our Supreme Court precedent unless there is some indication that our court is departing from its previous position. State v. Jackson, 30 Kan. App. 2d 288, 299, 41 P.3d 871 (2002). Perry adduces no such indication, and we know of none. His sentencing challenge is rejected and his sentence is affirmed.
+With regard to the district court’s assessment of the BIDS application fee, our Supreme Court has recently clarified that this assessment may be made in the sentencing order without further findings. In State v. Hawkins, 285 Kan. 842, 853, 176 P.3d 174 (2008), the court stated, “[I]f any [such application] fee ordered by the court remains unpaid at sentencing, the district court may include the unpaid fee in its sentencing order without additional findings.” Relying on Hawkins, we must affirm the district court’s assessment of the BIDS application fee to Periy.
+With regard to the district court’s assessment of BIDS attorney fees, we recognize that our Supreme Court in Robinson required that when assessing such fees, it “must consider the financial resources of the defendant and the nature of the burden that payment will impose explicitly, stating on the record how those factors have been weighed in the court’s decision.” (Emphasis added.) State v. Robinson, 281 Kan. 538, 546, 132 P.3d 934 (2006); see K.S.A. 22-4513(b). We also acknowledge that the State suggests in its appellate brief that vacatur and remand are in order pursuant to Robinson. We disagree.
+A plea agreement is akin to a contract. See State v. Wills, 244 Kan. 62, 68-69, 765 P.2d 1114 (1988). Both parties to such an agreement are bound by its terms, and our appellate courts have consistently forced the parties to abide by their agreement. See, e.g., State v. Ratley, 253 Kan. 394, Syl. ¶ 5, 855 P.2d 943 (1993). The very nature of such an agreement is that the defendant waives statutory rights or constitutional rights in exchange for dismissal of other criminal charges or prosecutorial recommendations at sentencing. So long as the agreement is entered into voluntarily, knowingly, and intelligently, the terms of such an agreement are clearly enforceable as a matter of law. See State v. Shopteese, 283 Kan. 331, 340-41, 153 P.3d 1208 (2007).
+Although our Supreme Court in Robinson recognized that a criminal defendant has a statutory right to have the sentencing judge, in determining the amount and method of reimbursement, take account of the financial resources of the defendant and the nature of the burden that payment of such sum will impose, we perceive no reason that a statutory right of this nature cannot be bargained away in connection with a plea agreement. Far more basic constitutional rights are validly bargained away in such agreements.
+Accordingly, we hold that where the defendant has agreed, as a part of an otherwise valid plea agreement, to pay a specific portion of BIDS attorney fees, the sentencing judge may forego the statutory procedure normally required by Robinson and order such reimbursement in the journal entry of sentencing. This is precisely the situation before us, and Perry’s agreement to pay his attorney fees is adequate to support the district court’s reimbursement order.
