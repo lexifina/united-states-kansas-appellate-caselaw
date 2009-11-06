@@ -2,7 +2,7 @@
 court: "Kansas Court of Appeals"
 docket: "100,167"
 decided: "2009-11-06"
-citations: ["44 Kan. App. 2d 666", "241 P.3d 120", "42 Kan. App. 2d 893", "218 P.3d 1177"]
+citations: ["44 Kan. App. 2d 666", "241 P.3d 120"]
 reporter: "kan-app-2d"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -11,7 +11,7 @@ parties: ["State of Kansas, Appellee, v. Michael Lorenzo Knight, Jr., Appellant.
 source_url: "https://static.case.law/kan-app-2d/44/cases/0666-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 4333214
-cites_cases: ["116 U.S. 252", "149 P.2d 876", "153 U.S. 535", "176 P.3d 174", "211 U.S. 78", "232 Kan. 876", "252 Kan. 657", "254 Kan. 287", "260 Kan. 66", "267 Kan. 412", "274 Kan. 459", "281 Kan. 538", "282 Kan. 530", "284 Kan. 59", "284 Kan. 950", "285 Kan. 625", "285 Kan. 672", "285 Kan. 842", "286 Kan. 1124", "286 Kan. 927", "287 Kan. 28", "288 Kan. 252", "288 Kan. 268", "288 Kan. 76", "289 Kan. 657", "289 Kan. 674", "37 Kan. App. 2d 126", "37 Kan. App. 2d 195", "378 U.S. 1", "39 Kan. App. 2d 364", "392 U.S. 1", "408 N.J. Super. 25", "42 Kan. App. 2d 592", "42 Kan. App. 2d 893", "521 U.S. 702", "554 F.3d 56", "554 U.S. 570", "561 U.S. 742", "563 F.3d 439", "567 F.3d 856", "575 F.3d 890", "611 F.3d 1015", "7 Kan. App. 2d 722", "72 Kan. 230", "766 N.W.2d 78", "77 U.S.L.W. 3691", "83 Pac. 619", "92 U.S. 542"]
+cites_cases: ["116 U.S. 252", "149 P.2d 876", "153 U.S. 535", "176 P.3d 174", "211 U.S. 78", "232 Kan. 876", "252 Kan. 657", "254 Kan. 287", "260 Kan. 66", "267 Kan. 412", "274 Kan. 459", "281 Kan. 538", "282 Kan. 530", "284 Kan. 59", "284 Kan. 950", "285 Kan. 625", "285 Kan. 672", "285 Kan. 842", "286 Kan. 1124", "286 Kan. 927", "287 Kan. 28", "288 Kan. 252", "288 Kan. 268", "288 Kan. 76", "289 Kan. 657", "37 Kan. App. 2d 126", "37 Kan. App. 2d 195", "378 U.S. 1", "39 Kan. App. 2d 364", "392 U.S. 1", "408 N.J. Super. 25", "42 Kan. App. 2d 592", "42 Kan. App. 2d 893", "521 U.S. 702", "554 F.3d 56", "554 U.S. 570", "561 U.S. 742", "563 F.3d 439", "567 F.3d 856", "611 F.3d 1015", "7 Kan. App. 2d 722", "72 Kan. 230", "766 N.W.2d 78", "83 Pac. 619", "92 U.S. 542"]
 ---
 
 # State v. Knight
