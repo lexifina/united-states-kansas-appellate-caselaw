@@ -1,0 +1,38 @@
+---
+court: "Kansas Court of Appeals"
+docket: "103,059"
+decided: "2010-11-12"
+citations: ["44 Kan. App. 2d 945", "242 P.3d 220"]
+reporter: "kan-app-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Pierron, P.J., Green and Marquardt, JJ."]
+parties: ["State of Kansas, Appellee, v. Delarick Evans, Appellant."]
+source_url: "https://static.case.law/kan-app-2d/44/cases/0945-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4333873
+cites_cases: ["260 Kan. 669", "261 Kan. 970", "284 Kan. 741", "285 Kan. 994", "289 Kan. 793", "289 Kan. 870", "290 Kan. 41", "521 U.S. 1118", "555 U.S. 880"]
+---
+
+# State v. Evans
+
+## Majority (Marquardt, J.:)
+
+Marquardt, J.:
+Delarick Evans appeals the district court’s denial of his 2008 pro se motion for relief from his requirement to register as a sex offender. We affirm.
+On May 9,1997, Evans was charged with lewd fondling or touching a child under 14 years of age with intent to arouse or satisfy his sexual desires. On November 23, 1998, Evans pled guilty to two counts of aggravated indecent liberties with a child, which were severity level 3 person felonies. See K.S.A. 21-3504(a)(3)(A) (Furse), The district court sentenced Evans on January 7,1999, to 49 months in prison with 36 months’ postrelease supervision. At sentencing, Evans was granted 261 days’ jail time credit; however, he was required to register as a sex offender for a period of 10 years after parole, discharge, or release. See K.S.A. 22-4906(a)(l) (Furse).
+On December 16, 2008, Evans filed a pro se motion for relief from his requirement to register as a sex offender, claiming he fulfilled his obligation under K.S.A. 22-4912(a).
+On February 20, 2009, the district court summarily denied Evans’ motion finding that under the version of the Kansas Offender Registration Act (KORA), in effect at the time of his crimes, K.S.A. 22-4901 et seq. (Furse), Evans was required to register as a sex offender for a period of 10 years after parole, discharge, or release. However, under the 2007 version of the KORA, Evans was required to register throughout his lifetime. See K.S.A. 22-4906(d)(3) and K.S.A. 1999 Supp. 22-4902(b) and (c)(3). After quoting K.S.A. 22-4912(a), the district court denied Evans’ motion, stating that the statute “provides relief from registration only if the offender would not have been required to register after the 1999 amendment” to the KORA. Evans timely appeals.
+On appeal, Evans contends the district court failed to consider K.S.A. 22-4912(a) when it denied his motion for relief from registering as a sex offender without a hearing. Resolution of this issue requires interpretation of K.S.A. 22-4912(a). Interpretation of a statute raises a question of law over which this court has unlimited review. State v. Arnett, 290 Kan. 41, 47, 223 P.3d 780 (2010).
+An appellate court must attempt to ascertain the legislature’s intent by giving ordinary words their ordinary meaning. State v. Stallings, 284 Kan. 741, 742, 163 P.3d 1232, Syl. ¶ 2 (2007). When a statute is plain and unambiguous, an appellate court does not speculate about the legislature’s intent and will not read into the statute something not readily found in it. The court will resort to statutory construction, legislative history, or other considerations only if the language of the statute is unclear or ambiguous. State v. Trautloff, 289 Kan. 793, 796, 217 P.3d 15 (2009).
+“ ‘It is also well established that the doctrine of liberal construction does not allow this court to delete vital provisions or supply vital omissions in a statute. No matter what the legislature may have really intended to do, if it did not in fact do it, under any reasonable interpretation of the language used, the defect is one which the legislature alone can correct.’ ” State v. Johnson, 289 Kan. 870, 879, 218 P.3d 46 (2009) (quoting Eveleigh v. Conness, 261 Kan. 970, 978, 933 P.2d 675 [1997]).
+Evans claims the district court failed to comply with K.S.A. 22-4912(a) when it did not hold an evidentiary hearing so that he could present evidence verifying that he no longer satisfied the definition of “sex offender.” Research has revealed no Kansas case that has interpreted K.S.A. 22-4912.
+The relevant portion of K.S.A. 22-4912(a) provides:
+“Any offender who was required to be registered pursuant to the [KORA], prior to July 1,1999, and who would not have been required to be registered pursuant to the [KORA] on and after July 1,1999, as a result of enactment of this act, shall be entitled to be relieved of the requirement to be registered. Such offender may apply to the sentencing court for an order relieving the offender of the duty of registration. The court shall hold a hearing on the application at which the applicant shall present evidence verifying that such applicant no longer satisfies the definition of offender pursuant to K.S.A. 22-4902 and amendments thereto.” (Emphasis added.)
+Evans claims that under K.S.A. 22-4912(a), he was entitled to a hearing on his motion. Evans, however, ignores the first two sentences of the statute. The plain and unambiguous language of the statute allows an offender who was required to register under the pre-July 1999 version of the KORA, but was not required to register under the July 1, 1999, version of the KORA, to apply for an order relieving that offender from the requirement of registering as a sex offender. See K.S.A. 22-4912(a).
+Here, bodi the pre-July 1999 version and the July 1, 1999, version of K.S.A. 22-4912(a) required Evans to register as a sex offender. Because both versions of the KORA required Evans to register as a sex offender, Evans is not “[s]uch offender” that can apply to the sentencing court for an order relieving him of his duty to register under K.S.A. 22-4912(a). The district court did not err in refusing to grant Evans a hearing on his motion for relief from registering as a sex offender.
+At oral argument, Evans’ counsel claimed for the first time that he believed Evans meant to argue his motion under K.S.A. 22-4906. This is not only a new issue on appeal, it was not briefed. Ordinarily this court will not entertain such an issue. State v. Martin, 285 Kan. 994, 998, 179 P.3d 457, cert. denied 555 U.S. 880 (2008).
+Under the facts available in the record on appeal, Evans could have been released from prison at the earliest in 2002. The 10-year registration requirement would not expire until 2012. However, we note that Evans is serving a prison sentence currently for another conviction. It is unclear from the scant record on appeal when, or if, he would be released. At any rate, the law has changed since his conviction, and now the registration requirement for Evans is for his lifetime. See K.S.A. 22-4906(a), (d)(3).
+In State v. Myers, 260 Kan. 669, 696, 923 P.2d 1024 (1996), cert. denied 521 U.S. 1118 (1997), our Supreme Court held the KORA “registration requirement does not impose punishment; thus, our ex post facto inquiry as to registration ends.” This language suggests that the KORA’s 2007 amendments are retroactive. Because the registration requirement is not punishment and does not violate the Ex Post Facto Clause of the Constitution, any person who has been convicted of any of the offenses listed in K.S.A. 22-4906(d) is now required to register for that person’s lifetime regardless of whether the crime occurred before the legislature amended the KORA. It follows then that any amendments not imposing punishment are also retroactive.
+Under the current law, Evans will never be relieved from the requirement to register as a sex offender.
+Affirmed.
